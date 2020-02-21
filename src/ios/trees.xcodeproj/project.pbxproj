@@ -8,14 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		1DBB51D538AC7778C0C38266 /* Pods_trees.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 890569A3BA8EBE72094D23B3 /* Pods_trees.framework */; };
-		AA04BCF921EF6D9C008EDF53 /* sm in Resources */ = {isa = PBXBuildFile; fileRef = AA04BCF821EF6D9C008EDF53 /* sm */; };
-		AA04BCFB21EF6DA8008EDF53 /* la in Resources */ = {isa = PBXBuildFile; fileRef = AA04BCFA21EF6DA8008EDF53 /* la */; };
+		AA04BCF921EF6D9C008EDF53 /* santamonica in Resources */ = {isa = PBXBuildFile; fileRef = AA04BCF821EF6D9C008EDF53 /* santamonica */; };
+		AA04BCFB21EF6DA8008EDF53 /* losangeles in Resources */ = {isa = PBXBuildFile; fileRef = AA04BCFA21EF6DA8008EDF53 /* losangeles */; };
 		AA04BCFD21EF725E008EDF53 /* datasets.json in Resources */ = {isa = PBXBuildFile; fileRef = AA04BCFC21EF725D008EDF53 /* datasets.json */; };
 		AA04BCFF21EF746C008EDF53 /* Dataset.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA04BCFE21EF746C008EDF53 /* Dataset.swift */; };
-		AA04BD0121EF8AE4008EDF53 /* weho in Resources */ = {isa = PBXBuildFile; fileRef = AA04BD0021EF8AE4008EDF53 /* weho */; };
+		AA04BD0121EF8AE4008EDF53 /* westhollywood in Resources */ = {isa = PBXBuildFile; fileRef = AA04BD0021EF8AE4008EDF53 /* westhollywood */; };
 		AA06889A22EE890300131773 /* london in Resources */ = {isa = PBXBuildFile; fileRef = AA06889922EE890300131773 /* london */; };
-		AA156E2C21FE73A500C58926 /* nyc in Resources */ = {isa = PBXBuildFile; fileRef = AA156E2B21FE73A500C58926 /* nyc */; };
-		AA156E3021FEAC3700C58926 /* sf in Resources */ = {isa = PBXBuildFile; fileRef = AA156E2F21FEAC3600C58926 /* sf */; };
+		AA156E2C21FE73A500C58926 /* newyorkcity in Resources */ = {isa = PBXBuildFile; fileRef = AA156E2B21FE73A500C58926 /* newyorkcity */; };
+		AA156E3021FEAC3700C58926 /* sanfrancisco in Resources */ = {isa = PBXBuildFile; fileRef = AA156E2F21FEAC3600C58926 /* sanfrancisco */; };
 		AA1B77122221C82A00229550 /* TaxonomicRank.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1B77112221C82A00229550 /* TaxonomicRank.swift */; };
 		AA1B77142221DDB900229550 /* TreeInfoView.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA1B77132221DDB900229550 /* TreeInfoView.xib */; };
 		AA1B77162221DF8300229550 /* TreeInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1B77152221DF8300229550 /* TreeInfoView.swift */; };
@@ -68,19 +68,19 @@
 		AA7FAC4421B26A6100332463 /* QtSpan.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7FAC4121B2690400332463 /* QtSpan.swift */; };
 		AA7FAC4621B26B8D00332463 /* QtNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7FAC4521B26B8D00332463 /* QtNode.swift */; };
 		AA7FAC4821B26BC300332463 /* QtElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7FAC4721B26BC300332463 /* QtElement.swift */; };
-		AAA0356E22A2CB0400D63A59 /* phi in Resources */ = {isa = PBXBuildFile; fileRef = AAA0356D22A2CB0400D63A59 /* phi */; };
+		AAA0356E22A2CB0400D63A59 /* philadelphia in Resources */ = {isa = PBXBuildFile; fileRef = AAA0356D22A2CB0400D63A59 /* philadelphia */; };
 		AAA08187221317C300A56F9B /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA08186221317C300A56F9B /* TabBarController.swift */; };
 		AAA0818922146BBF00A56F9B /* QtDistanceScale.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA0818822146BBF00A56F9B /* QtDistanceScale.swift */; };
 		AAA858A0221F366D00673B49 /* TreesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA8589D221F366D00673B49 /* TreesViewController.swift */; };
 		AAA858A1221F366D00673B49 /* TreeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA8589E221F366D00673B49 /* TreeTableViewCell.swift */; };
 		AAA858A2221F366D00673B49 /* TreeMarkerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA8589F221F366D00673B49 /* TreeMarkerView.swift */; };
 		AAA858A6221F3EB300673B49 /* tree@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AAA858A5221F3EB300673B49 /* tree@2x.png */; };
-		AABAE1EF21F6A86D0014C618 /* pas in Resources */ = {isa = PBXBuildFile; fileRef = AABAE1EE21F6A86D0014C618 /* pas */; };
+		AABAE1EF21F6A86D0014C618 /* pasadena in Resources */ = {isa = PBXBuildFile; fileRef = AABAE1EE21F6A86D0014C618 /* pasadena */; };
 		AAC1EA1F2210E59800F46ECE /* seattle in Resources */ = {isa = PBXBuildFile; fileRef = AAC1EA1E2210E59700F46ECE /* seattle */; };
-		AAC1EA24221138DA00F46ECE /* oak in Resources */ = {isa = PBXBuildFile; fileRef = AAC1EA20221138DA00F46ECE /* oak */; };
+		AAC1EA24221138DA00F46ECE /* oakland in Resources */ = {isa = PBXBuildFile; fileRef = AAC1EA20221138DA00F46ECE /* oakland */; };
 		AAC1EA25221138DA00F46ECE /* austin in Resources */ = {isa = PBXBuildFile; fileRef = AAC1EA21221138DA00F46ECE /* austin */; };
 		AAC1EA26221138DA00F46ECE /* berkeley in Resources */ = {isa = PBXBuildFile; fileRef = AAC1EA22221138DA00F46ECE /* berkeley */; };
-		AAC1EA27221138DA00F46ECE /* dc in Resources */ = {isa = PBXBuildFile; fileRef = AAC1EA23221138DA00F46ECE /* dc */; };
+		AAC1EA27221138DA00F46ECE /* washingtondc in Resources */ = {isa = PBXBuildFile; fileRef = AAC1EA23221138DA00F46ECE /* washingtondc */; };
 		AAC34687222D6BDF00F53B38 /* check@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AAC34686222D6BDF00F53B38 /* check@2x.png */; };
 		AAC833F7224128560021859B /* about.html in Resources */ = {isa = PBXBuildFile; fileRef = AAC833F6224128560021859B /* about.html */; };
 		AAC833F922412C380021859B /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = AAC833F822412C370021859B /* styles.css */; };
@@ -88,7 +88,7 @@
 		AAED9FA821C6D6E800DF18E0 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAED9FA721C6D6E800DF18E0 /* InfoViewController.swift */; };
 		AAED9FAA21C6DA0D00DF18E0 /* UINavigationController+setFadeTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAED9FA921C6DA0D00DF18E0 /* UINavigationController+setFadeTransition.swift */; };
 		AAFB55D123FB5286007A9944 /* sacramento in Resources */ = {isa = PBXBuildFile; fileRef = AAFB55D023FB5286007A9944 /* sacramento */; };
-		AAFB55D523FBC18D007A9944 /* sjo in Resources */ = {isa = PBXBuildFile; fileRef = AAFB55D423FBC18C007A9944 /* sjo */; };
+		AAFB55D523FBC18D007A9944 /* sanjose in Resources */ = {isa = PBXBuildFile; fileRef = AAFB55D423FBC18C007A9944 /* sanjose */; };
 		AAFDEB3D233814CD001BEB33 /* montreal in Resources */ = {isa = PBXBuildFile; fileRef = AAFDEB3C233814CD001BEB33 /* montreal */; };
 /* End PBXBuildFile section */
 
@@ -96,14 +96,14 @@
 		1E082029BDD0E1EF2C741BFB /* Pods-trees.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-trees.debug.xcconfig"; path = "Target Support Files/Pods-trees/Pods-trees.debug.xcconfig"; sourceTree = "<group>"; };
 		7F67BA80703FC3CC4C2CBAA4 /* Pods-trees.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-trees.release.xcconfig"; path = "Target Support Files/Pods-trees/Pods-trees.release.xcconfig"; sourceTree = "<group>"; };
 		890569A3BA8EBE72094D23B3 /* Pods_trees.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_trees.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AA04BCF821EF6D9C008EDF53 /* sm */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sm; path = ../../../data/sm; sourceTree = "<group>"; };
-		AA04BCFA21EF6DA8008EDF53 /* la */ = {isa = PBXFileReference; lastKnownFileType = folder; name = la; path = ../../../data/la; sourceTree = "<group>"; };
+		AA04BCF821EF6D9C008EDF53 /* santamonica */ = {isa = PBXFileReference; lastKnownFileType = folder; name = santamonica; path = ../../../data/santamonica; sourceTree = "<group>"; };
+		AA04BCFA21EF6DA8008EDF53 /* losangeles */ = {isa = PBXFileReference; lastKnownFileType = folder; name = losangeles; path = ../../../data/losangeles; sourceTree = "<group>"; };
 		AA04BCFC21EF725D008EDF53 /* datasets.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = datasets.json; path = ../../../data/datasets.json; sourceTree = "<group>"; };
 		AA04BCFE21EF746C008EDF53 /* Dataset.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dataset.swift; sourceTree = "<group>"; };
-		AA04BD0021EF8AE4008EDF53 /* weho */ = {isa = PBXFileReference; lastKnownFileType = folder; name = weho; path = ../../../data/weho; sourceTree = "<group>"; };
+		AA04BD0021EF8AE4008EDF53 /* westhollywood */ = {isa = PBXFileReference; lastKnownFileType = folder; name = westhollywood; path = ../../../data/westhollywood; sourceTree = "<group>"; };
 		AA06889922EE890300131773 /* london */ = {isa = PBXFileReference; lastKnownFileType = folder; name = london; path = ../../../data/london; sourceTree = "<group>"; };
-		AA156E2B21FE73A500C58926 /* nyc */ = {isa = PBXFileReference; lastKnownFileType = folder; name = nyc; path = ../../../data/nyc; sourceTree = "<group>"; };
-		AA156E2F21FEAC3600C58926 /* sf */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sf; path = ../../../data/sf; sourceTree = "<group>"; };
+		AA156E2B21FE73A500C58926 /* newyorkcity */ = {isa = PBXFileReference; lastKnownFileType = folder; name = newyorkcity; path = ../../../data/newyorkcity; sourceTree = "<group>"; };
+		AA156E2F21FEAC3600C58926 /* sanfrancisco */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sanfrancisco; path = ../../../data/sanfrancisco; sourceTree = "<group>"; };
 		AA1B77112221C82A00229550 /* TaxonomicRank.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaxonomicRank.swift; sourceTree = "<group>"; };
 		AA1B77132221DDB900229550 /* TreeInfoView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TreeInfoView.xib; sourceTree = "<group>"; };
 		AA1B77152221DF8300229550 /* TreeInfoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeInfoView.swift; sourceTree = "<group>"; };
@@ -158,19 +158,19 @@
 		AA7FAC4121B2690400332463 /* QtSpan.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QtSpan.swift; sourceTree = "<group>"; };
 		AA7FAC4521B26B8D00332463 /* QtNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QtNode.swift; sourceTree = "<group>"; };
 		AA7FAC4721B26BC300332463 /* QtElement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QtElement.swift; sourceTree = "<group>"; };
-		AAA0356D22A2CB0400D63A59 /* phi */ = {isa = PBXFileReference; lastKnownFileType = folder; name = phi; path = ../../../data/phi; sourceTree = "<group>"; };
+		AAA0356D22A2CB0400D63A59 /* philadelphia */ = {isa = PBXFileReference; lastKnownFileType = folder; name = philadelphia; path = ../../../data/philadelphia; sourceTree = "<group>"; };
 		AAA08186221317C300A56F9B /* TabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		AAA0818822146BBF00A56F9B /* QtDistanceScale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QtDistanceScale.swift; sourceTree = "<group>"; };
 		AAA8589D221F366D00673B49 /* TreesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreesViewController.swift; sourceTree = "<group>"; };
 		AAA8589E221F366D00673B49 /* TreeTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeTableViewCell.swift; sourceTree = "<group>"; };
 		AAA8589F221F366D00673B49 /* TreeMarkerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeMarkerView.swift; sourceTree = "<group>"; };
 		AAA858A5221F3EB300673B49 /* tree@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "tree@2x.png"; path = "../../../assets/tree@2x.png"; sourceTree = "<group>"; };
-		AABAE1EE21F6A86D0014C618 /* pas */ = {isa = PBXFileReference; lastKnownFileType = folder; name = pas; path = ../../../data/pas; sourceTree = "<group>"; };
+		AABAE1EE21F6A86D0014C618 /* pasadena */ = {isa = PBXFileReference; lastKnownFileType = folder; name = pasadena; path = ../../../data/pasadena; sourceTree = "<group>"; };
 		AAC1EA1E2210E59700F46ECE /* seattle */ = {isa = PBXFileReference; lastKnownFileType = folder; name = seattle; path = ../../../data/seattle; sourceTree = "<group>"; };
-		AAC1EA20221138DA00F46ECE /* oak */ = {isa = PBXFileReference; lastKnownFileType = folder; name = oak; path = ../../../data/oak; sourceTree = "<group>"; };
+		AAC1EA20221138DA00F46ECE /* oakland */ = {isa = PBXFileReference; lastKnownFileType = folder; name = oakland; path = ../../../data/oakland; sourceTree = "<group>"; };
 		AAC1EA21221138DA00F46ECE /* austin */ = {isa = PBXFileReference; lastKnownFileType = folder; name = austin; path = ../../../data/austin; sourceTree = "<group>"; };
 		AAC1EA22221138DA00F46ECE /* berkeley */ = {isa = PBXFileReference; lastKnownFileType = folder; name = berkeley; path = ../../../data/berkeley; sourceTree = "<group>"; };
-		AAC1EA23221138DA00F46ECE /* dc */ = {isa = PBXFileReference; lastKnownFileType = folder; name = dc; path = ../../../data/dc; sourceTree = "<group>"; };
+		AAC1EA23221138DA00F46ECE /* washingtondc */ = {isa = PBXFileReference; lastKnownFileType = folder; name = washingtondc; path = ../../../data/washingtondc; sourceTree = "<group>"; };
 		AAC34686222D6BDF00F53B38 /* check@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "check@2x.png"; path = "../../../assets/check@2x.png"; sourceTree = "<group>"; };
 		AAC833F6224128560021859B /* about.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = about.html; path = ../../../assets/about.html; sourceTree = "<group>"; };
 		AAC833F822412C370021859B /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = styles.css; path = ../../../assets/styles.css; sourceTree = "<group>"; };
@@ -179,7 +179,7 @@
 		AAED9FA721C6D6E800DF18E0 /* InfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 		AAED9FA921C6DA0D00DF18E0 /* UINavigationController+setFadeTransition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UINavigationController+setFadeTransition.swift"; sourceTree = "<group>"; };
 		AAFB55D023FB5286007A9944 /* sacramento */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sacramento; path = ../../../data/sacramento; sourceTree = "<group>"; };
-		AAFB55D423FBC18C007A9944 /* sjo */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sjo; path = ../../../data/sjo; sourceTree = "<group>"; };
+		AAFB55D423FBC18C007A9944 /* sanjose */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sanjose; path = ../../../data/sanjose; sourceTree = "<group>"; };
 		AAFDEB3C233814CD001BEB33 /* montreal */ = {isa = PBXFileReference; lastKnownFileType = folder; name = montreal; path = ../../../data/montreal; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -325,21 +325,21 @@
 			children = (
 				AAC1EA21221138DA00F46ECE /* austin */,
 				AAC1EA22221138DA00F46ECE /* berkeley */,
-				AAC1EA23221138DA00F46ECE /* dc */,
+				AAC1EA23221138DA00F46ECE /* washingtondc */,
 				AA5FBA3F23FF7AEB00586732 /* denver */,
-				AA04BCFA21EF6DA8008EDF53 /* la */,
+				AA04BCFA21EF6DA8008EDF53 /* losangeles */,
 				AA06889922EE890300131773 /* london */,
 				AAFDEB3C233814CD001BEB33 /* montreal */,
-				AA156E2B21FE73A500C58926 /* nyc */,
-				AAC1EA20221138DA00F46ECE /* oak */,
-				AABAE1EE21F6A86D0014C618 /* pas */,
-				AAA0356D22A2CB0400D63A59 /* phi */,
+				AA156E2B21FE73A500C58926 /* newyorkcity */,
+				AAC1EA20221138DA00F46ECE /* oakland */,
+				AABAE1EE21F6A86D0014C618 /* pasadena */,
+				AAA0356D22A2CB0400D63A59 /* philadelphia */,
 				AAFB55D023FB5286007A9944 /* sacramento */,
 				AAC1EA1E2210E59700F46ECE /* seattle */,
-				AA156E2F21FEAC3600C58926 /* sf */,
-				AAFB55D423FBC18C007A9944 /* sjo */,
-				AA04BCF821EF6D9C008EDF53 /* sm */,
-				AA04BD0021EF8AE4008EDF53 /* weho */,
+				AA156E2F21FEAC3600C58926 /* sanfrancisco */,
+				AAFB55D423FBC18C007A9944 /* sanjose */,
+				AA04BCF821EF6D9C008EDF53 /* santamonica */,
+				AA04BD0021EF8AE4008EDF53 /* westhollywood */,
 			);
 			name = data;
 			sourceTree = "<group>";
@@ -422,34 +422,34 @@
 			files = (
 				AAFDEB3D233814CD001BEB33 /* montreal in Resources */,
 				AA6C60B82241499600C2E398 /* launch_leaf.png in Resources */,
-				AA04BD0121EF8AE4008EDF53 /* weho in Resources */,
-				AAFB55D523FBC18D007A9944 /* sjo in Resources */,
+				AA04BD0121EF8AE4008EDF53 /* westhollywood in Resources */,
+				AAFB55D523FBC18D007A9944 /* sanjose in Resources */,
 				AA6C60B72241499600C2E398 /* launch_street.png in Resources */,
 				AA1B771A222357B300229550 /* arrow_up@2x.png in Resources */,
-				AA04BCFB21EF6DA8008EDF53 /* la in Resources */,
-				AAC1EA24221138DA00F46ECE /* oak in Resources */,
-				AA156E3021FEAC3700C58926 /* sf in Resources */,
+				AA04BCFB21EF6DA8008EDF53 /* losangeles in Resources */,
+				AAC1EA24221138DA00F46ECE /* oakland in Resources */,
+				AA156E3021FEAC3700C58926 /* sanfrancisco in Resources */,
 				AA3B670B21DAA37800971485 /* track_on2@2x.png in Resources */,
 				AA6C401821D6B20800373FD2 /* info@2x.png in Resources */,
-				AA04BCF921EF6D9C008EDF53 /* sm in Resources */,
+				AA04BCF921EF6D9C008EDF53 /* santamonica in Resources */,
 				AA6C3FFD21D6B01E00373FD2 /* map_style.json in Resources */,
 				AAA858A6221F3EB300673B49 /* tree@2x.png in Resources */,
 				AA7FAC1921A891D200332463 /* LaunchScreen.storyboard in Resources */,
-				AAC1EA27221138DA00F46ECE /* dc in Resources */,
+				AAC1EA27221138DA00F46ECE /* washingtondc in Resources */,
 				AAC34687222D6BDF00F53B38 /* check@2x.png in Resources */,
 				AAFB55D123FB5286007A9944 /* sacramento in Resources */,
 				AA3B670921D93EA400971485 /* wikipedia@2x.png in Resources */,
 				AA6C60B62241499600C2E398 /* launch_sky.png in Resources */,
-				AABAE1EF21F6A86D0014C618 /* pas in Resources */,
+				AABAE1EF21F6A86D0014C618 /* pasadena in Resources */,
 				AA1B77142221DDB900229550 /* TreeInfoView.xib in Resources */,
 				AA6C60BA22414B9D00C2E398 /* launch_buildings.png in Resources */,
-				AAA0356E22A2CB0400D63A59 /* phi in Resources */,
+				AAA0356E22A2CB0400D63A59 /* philadelphia in Resources */,
 				AA6C401521D6B20800373FD2 /* track_on@2x.png in Resources */,
 				AAC833F7224128560021859B /* about.html in Resources */,
 				AA1B7719222357B300229550 /* arrow_down@2x.png in Resources */,
 				AA7FAC2121A897E700332463 /* GoogleService-Info.plist in Resources */,
 				AA24D5F52211E18C004448AD /* map_pin@2x.png in Resources */,
-				AA156E2C21FE73A500C58926 /* nyc in Resources */,
+				AA156E2C21FE73A500C58926 /* newyorkcity in Resources */,
 				AA6C401721D6B20800373FD2 /* track_off@2x.png in Resources */,
 				AAC1EA1F2210E59800F46ECE /* seattle in Resources */,
 				AA6C401A21D6B69A00373FD2 /* close@2x.png in Resources */,

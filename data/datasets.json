@@ -1,6 +1,6 @@
 [
   {
-    "code": "sm",
+    "code": "santamonica",
     "name": "Santa Monica",
     "administrativeArea": "California",
     "country": "United States",
@@ -12,7 +12,7 @@
     }
   },
   {
-    "code": "la",
+    "code": "losangeles",
     "name": "Los Angeles",
     "administrativeArea": "California",
     "country": "United States",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "code": "weho",
+    "code": "westhollywood",
     "name": "West Hollywood",
     "administrativeArea": "California",
     "country": "United States",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "code": "pas",
+    "code": "pasadena",
     "name": "Pasadena",
     "administrativeArea": "California",
     "country": "United States",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "code": "nyc",
+    "code": "newyorkcity",
     "name": "New York City",
     "administrativeArea": "New York",
     "country": "United States",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "code": "sf",
+    "code": "sanfrancisco",
     "name": "San Francisco",
     "administrativeArea": "California",
     "country": "United States",
@@ -96,7 +96,7 @@
     }
   },
   {
-    "code": "oak",
+    "code": "oakland",
     "name": "Oakland",
     "administrativeArea": "California",
     "country": "United States",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "code": "phi",
+    "code": "philadelphia",
     "name": "Philadelphia",
     "administrativeArea": "Pennsylvania",
     "country": "United States",
@@ -132,7 +132,7 @@
     "numberOfSites": 50558
   },
   {
-    "code": "dc",
+    "code": "washingtondc",
     "name": "Washington",
     "administrativeArea": "District of Columbia",
     "country": "United States",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "code": "sjo",
+    "code": "sanjose",
     "name": "San Jose",
     "administrativeArea": "California",
     "country": "United States",
