@@ -903,9 +903,9 @@
     "name_botanical": "Yucca gloriosa",
     "wp_link": "Yucca_gloriosa",
     "color": [
-      0.5166223404255319,
-      0.525,
-      0.13125
+      0.5576241134751773,
+      0.5666666666666667,
+      0.14166666666666666
     ]
   },
   {
@@ -917,7 +917,8 @@
       "order": "Asparagales",
       "family": "Asparagaceae",
       "genus": "Yucca",
-      "species": "Yucca gloriosa var. recurvifolia",
+      "species": "Yucca gloriosa",
+      "variety": "recurvifolia",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -933,9 +934,9 @@
     "name_botanical": "Yucca gloriosa var. recurvifolia",
     "wp_link": "Yucca_gloriosa_var._tristis",
     "color": [
-      0.6396276595744681,
-      0.65,
-      0.1625
+      0.5576241134751773,
+      0.5666666666666667,
+      0.14166666666666666
     ]
   },
   {
@@ -947,7 +948,8 @@
       "order": "Dipsacales",
       "family": "Adoxaceae",
       "genus": "Sambucus",
-      "species": "Sambucus nigra subsp. cerulea",
+      "species": "Sambucus nigra",
+      "subspecies": "cerulea",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -1329,9 +1331,9 @@
     "name_botanical": "Bauhinia variegata",
     "wp_link": "Bauhinia_variegata",
     "color": [
-      0.22500000000000003,
-      0.525,
-      0.3143617021276597
+      0.24285714285714288,
+      0.5666666666666667,
+      0.3393110435663628
     ]
   },
   {
@@ -1343,7 +1345,8 @@
       "order": "Fabales",
       "family": "Fabaceae",
       "genus": "Bauhinia",
-      "species": "Bauhinia variegata var. candida",
+      "species": "Bauhinia variegata",
+      "variety": "candida",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -1359,9 +1362,9 @@
     "name_botanical": "Bauhinia variegata var. candida",
     "wp_link": "Bauhinia_×_blakeana",
     "color": [
-      0.2785714285714286,
-      0.65,
-      0.3892097264437691
+      0.24285714285714288,
+      0.5666666666666667,
+      0.3393110435663628
     ]
   },
   {
@@ -2507,7 +2510,8 @@
       "order": "Lamiales",
       "family": "Lamiaceae",
       "genus": "Rotheca",
-      "species": "Rotheca myricoides subsp. myricoides",
+      "species": "Rotheca myricoides",
+      "subspecies": "myricoides",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -3087,7 +3091,8 @@
       "order": "Magnoliales",
       "family": "Magnoliaceae",
       "genus": "Magnolia",
-      "species": "Magnolia sieboldii subsp. sinensis",
+      "species": "Magnolia sieboldii",
+      "subspecies": "sinensis",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",

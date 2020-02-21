@@ -86,13 +86,17 @@ class DatasetsViewController: UIViewController, UITableViewDataSource, UITableVi
     {
         Dataset.all[indexPath.row].load()
 
-        let cell = self.tableView.cellForRow(at:indexPath) as! DatasetTableViewCell
-        cell.checkView.isHidden = false
+        if let cell = self.tableView.cellForRow(at:indexPath) as? DatasetTableViewCell
+        {
+            cell.checkView.isHidden = false
+        }
     }
 
     func tableView(_ tableView: UITableView, didDeselectRowAt indexPath: IndexPath) 
     {
-        let cell = self.tableView.cellForRow(at:indexPath) as! DatasetTableViewCell
-        cell.checkView.isHidden = true
+        if let cell = self.tableView.cellForRow(at:indexPath) as? DatasetTableViewCell
+        {
+            cell.checkView.isHidden = true
+        }
     }
 }

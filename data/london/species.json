@@ -15761,7 +15761,9 @@
       "species_wp": "Cotoneaster_×_watereri"
     },
     "count": 104,
-    "name_common": [],
+    "name_common": [
+      "Waterer's Cotoneaster"
+    ],
     "name_botanical": "Cotoneaster × watereri",
     "wp_link": "Cotoneaster_×_watereri",
     "color": [
@@ -15911,7 +15913,7 @@
     },
     "count": 20,
     "name_common": [
-      "Hawthorn"
+      "Grignon Hawthorn"
     ],
     "name_botanical": "Crataegus × grignonensis",
     "wp_link": "Crataegus_×_grignonensis",
@@ -16063,7 +16065,7 @@
     },
     "count": 43,
     "name_common": [
-      "Hawthorn"
+      "Morden Hawthorn"
     ],
     "name_botanical": "Crataegus × mordenensis 'Toba'",
     "wp_link": "Crataegus_×_mordenensis",

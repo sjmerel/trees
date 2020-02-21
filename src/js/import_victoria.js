@@ -21,8 +21,8 @@ let skipped = {};
 for (let o of data) {
 
   let species = o['Species'];
-  let latitude = o['X'];
-  let longitude = o['Y'];
+  let latitude = o['Y'];
+  let longitude = o['X'];
 
   // remove uninteresting sites
   if (species == 'Wildlife snag'

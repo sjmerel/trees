@@ -986,7 +986,8 @@
       "order": "Fabales",
       "family": "Fabaceae",
       "genus": "Inga",
-      "species": "Inga vera subsp. vera",
+      "species": "Inga vera",
+      "subspecies": "vera",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -2172,7 +2173,9 @@
       "species_wp": "Magnolia"
     },
     "count": 8,
-    "name_common": [],
+    "name_common": [
+      "Magnolia"
+    ],
     "name_botanical": "Magnolia",
     "wp_link": "Magnolia",
     "color": [
@@ -3725,7 +3728,8 @@
       "order": "Rosales",
       "family": "Rosaceae",
       "genus": "Lyonothamnus",
-      "species": "Lyonothamnus floribundus subsp. asplenifolius",
+      "species": "Lyonothamnus floribundus",
+      "subspecies": "asplenifolius",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",

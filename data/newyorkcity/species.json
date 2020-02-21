@@ -353,7 +353,8 @@
       "order": "Fabales",
       "family": "Fabaceae",
       "genus": "Cercis",
-      "species": "Cercis canadensis var. texensis",
+      "species": "Cercis canadensis",
+      "variety": "texensis",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -369,9 +370,9 @@
     "name_botanical": "Cercis canadensis var. texensis",
     "wp_link": "Cercis canadensis",
     "color": [
-      0.2912037037037037,
-      0.5666666666666667,
-      0.2518518518518518
+      0.20555555555555555,
+      0.4,
+      0.17777777777777778
     ]
   },
   {
@@ -2006,7 +2007,7 @@
     },
     "count": 7995,
     "name_common": [
-      "Silber-linde"
+      "Silver Linden"
     ],
     "name_botanical": "Tilia tomentosa",
     "wp_link": "Tilia_tomentosa",
@@ -2241,7 +2242,8 @@
       "order": "Rosales",
       "family": "Rosaceae",
       "genus": "Crataegus",
-      "species": "Crataegus crus-galli var. inermis",
+      "species": "Crataegus crus-galli",
+      "variety": "inermis",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -3534,7 +3536,8 @@
       "order": "Pinales",
       "family": "Cupressaceae",
       "genus": "Taxodium",
-      "species": "Taxodium distichum var. imbricarium",
+      "species": "Taxodium distichum",
+      "variety": "imbricarium",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",
@@ -3550,9 +3553,9 @@
     "name_botanical": "Taxodium distichum var. imbricarium",
     "wp_link": "Taxodium_ascendens",
     "color": [
-      0.35416666666666663,
-      0.5666666666666667,
-      0.14166666666666666
+      0.25,
+      0.4,
+      0.1
     ]
   },
   {

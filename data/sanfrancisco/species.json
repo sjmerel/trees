@@ -2037,7 +2037,8 @@
       "order": "Dipsacales",
       "family": "Adoxaceae",
       "genus": "Sambucus",
-      "species": "Sambucus nigra subsp. canadensis",
+      "species": "Sambucus nigra",
+      "subspecies": "canadensis",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -2072,7 +2073,8 @@
       "order": "Dipsacales",
       "family": "Adoxaceae",
       "genus": "Viburnum",
-      "species": "Viburnum odoratissimum var. awabuki",
+      "species": "Viburnum odoratissimum",
+      "variety": "awabuki",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -4775,9 +4777,9 @@
     "name_botanical": "Fraxinus americana",
     "wp_link": "Fraxinus_americana",
     "color": [
-      0.20616809116809112,
-      0.18981481481481483,
-      0.4555555555555556
+      0.20931089743589737,
+      0.19270833333333331,
+      0.4625
     ]
   },
   {
@@ -4805,9 +4807,9 @@
     "name_botanical": "Fraxinus americana 'Autumn Purple'",
     "wp_link": "Fraxinus_americana",
     "color": [
-      0.20616809116809112,
-      0.18981481481481483,
-      0.4555555555555556
+      0.20931089743589737,
+      0.19270833333333331,
+      0.4625
     ]
   },
   {
@@ -4835,9 +4837,9 @@
     "name_botanical": "Fraxinus angustifolia",
     "wp_link": "Fraxinus_angustifolia",
     "color": [
-      0.2313105413105412,
-      0.21296296296296294,
-      0.5111111111111111
+      0.23759615384615376,
+      0.21875,
+      0.525
     ]
   },
   {
@@ -4849,7 +4851,8 @@
       "order": "Lamiales",
       "family": "Oleaceae",
       "genus": "Fraxinus",
-      "species": "Fraxinus angustifolia subsp. oxycarpa",
+      "species": "Fraxinus angustifolia",
+      "subspecies": "oxycarpa",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -4865,9 +4868,9 @@
     "name_botanical": "Fraxinus angustifolia subsp. oxycarpa",
     "wp_link": "Fraxinus_angustifolia",
     "color": [
-      0.25645299145299133,
-      0.23611111111111108,
-      0.5666666666666667
+      0.23759615384615376,
+      0.21875,
+      0.525
     ]
   },
   {
@@ -4879,7 +4882,8 @@
       "order": "Lamiales",
       "family": "Oleaceae",
       "genus": "Fraxinus",
-      "species": "Fraxinus angustifolia subsp. oxycarpa",
+      "species": "Fraxinus angustifolia",
+      "subspecies": "oxycarpa",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -4895,9 +4899,9 @@
     "name_botanical": "Fraxinus angustifolia subsp. oxycarpa 'Raywood'",
     "wp_link": "Fraxinus_angustifolia",
     "color": [
-      0.25645299145299133,
-      0.23611111111111108,
-      0.5666666666666667
+      0.23759615384615376,
+      0.21875,
+      0.525
     ]
   },
   {
@@ -4925,9 +4929,9 @@
     "name_botanical": "Fraxinus ornus",
     "wp_link": "Fraxinus_ornus",
     "color": [
-      0.2815954415954415,
-      0.25925925925925924,
-      0.6222222222222222
+      0.26588141025641016,
+      0.24479166666666666,
+      0.5875
     ]
   },
   {
@@ -4955,9 +4959,9 @@
     "name_botanical": "Fraxinus pallisiae",
     "wp_link": "Fraxinus",
     "color": [
-      0.3067378917378916,
-      0.2824074074074074,
-      0.6777777777777778
+      0.2941666666666666,
+      0.2708333333333333,
+      0.65
     ]
   },
   {
@@ -4985,9 +4989,9 @@
     "name_botanical": "Fraxinus pallisiae 'Moraine'",
     "wp_link": "Fraxinus",
     "color": [
-      0.3067378917378916,
-      0.2824074074074074,
-      0.6777777777777778
+      0.2941666666666666,
+      0.2708333333333333,
+      0.65
     ]
   },
   {
@@ -5015,9 +5019,9 @@
     "name_botanical": "Fraxinus uhdei",
     "wp_link": "Fraxinus",
     "color": [
-      0.33188034188034177,
-      0.3055555555555556,
-      0.7333333333333334
+      0.322451923076923,
+      0.296875,
+      0.7125
     ]
   },
   {
@@ -5045,9 +5049,9 @@
     "name_botanical": "Fraxinus velutina",
     "wp_link": "Fraxinus_velutina",
     "color": [
-      0.3570227920227919,
-      0.3287037037037037,
-      0.788888888888889
+      0.35073717948717936,
+      0.32291666666666663,
+      0.775
     ]
   },
   {
@@ -5075,9 +5079,9 @@
     "name_botanical": "Fraxinus velutina 'Modesto'",
     "wp_link": "Fraxinus_velutina",
     "color": [
-      0.3570227920227919,
-      0.3287037037037037,
-      0.788888888888889
+      0.35073717948717936,
+      0.32291666666666663,
+      0.775
     ]
   },
   {
@@ -5830,7 +5834,7 @@
     },
     "count": 3,
     "name_common": [
-      "Jack Fogg Michelia"
+      "Magnolia"
     ],
     "name_botanical": "Magnolia × foggii 'Jack Fogg'",
     "wp_link": "Magnolia",
@@ -6417,8 +6421,7 @@
     },
     "count": 4,
     "name_common": [
-      "Carolina Poplar",
-      "Kanadische Hybridpappel"
+      "Carolina Poplar"
     ],
     "name_botanical": "Populus canadensis",
     "wp_link": "Populus_×_canadensis",
@@ -10269,8 +10272,7 @@
     },
     "count": 3,
     "name_common": [
-      "Common Jujube",
-      "Indische Dattel"
+      "Common Jujube"
     ],
     "name_botanical": "Ziziphus jujuba",
     "wp_link": "Jujube",
@@ -10595,7 +10597,8 @@
       "order": "Rosales",
       "family": "Rosaceae",
       "genus": "Lyonothamnus",
-      "species": "Lyonothamnus floribundus subsp. asplenifolius",
+      "species": "Lyonothamnus floribundus",
+      "subspecies": "asplenifolius",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -10915,9 +10918,9 @@
     "name_botanical": "Prunus × blireana",
     "wp_link": "Prunus_×_blireana",
     "color": [
-      0.8111278195488723,
-      0.17593984962406017,
-      0.8210526315789474
+      0.8067948717948719,
+      0.17500000000000002,
+      0.8166666666666667
     ]
   },
   {
@@ -10945,9 +10948,9 @@
     "name_botanical": "Prunus × yedoensis",
     "wp_link": "Prunus_×_yedoensis",
     "color": [
-      0.8371255060728745,
-      0.18157894736842106,
-      0.8473684210526315
+      0.8342368742368743,
+      0.18095238095238098,
+      0.8444444444444444
     ]
   },
   {
@@ -10975,9 +10978,9 @@
     "name_botanical": "Prunus × yedoensis 'Akebono'",
     "wp_link": "Prunus_×_yedoensis",
     "color": [
-      0.8371255060728745,
-      0.18157894736842106,
-      0.8473684210526315
+      0.8342368742368743,
+      0.18095238095238098,
+      0.8444444444444444
     ]
   },
   {
@@ -11008,9 +11011,9 @@
     "name_botanical": "Prunus armeniaca",
     "wp_link": "Prunus_armeniaca",
     "color": [
-      0.4211625216888375,
-      0.09135338345864662,
-      0.4263157894736842
+      0.42260683760683765,
+      0.09166666666666667,
+      0.4277777777777778
     ]
   },
   {
@@ -11038,9 +11041,9 @@
     "name_botanical": "Prunus campanulata",
     "wp_link": "Prunus_campanulata",
     "color": [
-      0.4471602082128398,
-      0.09699248120300753,
-      0.45263157894736844
+      0.4500488400488401,
+      0.09761904761904763,
+      0.4555555555555556
     ]
   },
   {
@@ -11068,9 +11071,9 @@
     "name_botanical": "Prunus caroliniana",
     "wp_link": "Prunus_caroliniana",
     "color": [
-      0.47315789473684217,
-      0.10263157894736843,
-      0.4789473684210527
+      0.4774908424908425,
+      0.10357142857142858,
+      0.48333333333333334
     ]
   },
   {
@@ -11100,9 +11103,9 @@
     "name_botanical": "Prunus cerasifera",
     "wp_link": "Cherry_plum",
     "color": [
-      0.49915558126084447,
-      0.10827067669172934,
-      0.5052631578947369
+      0.504932844932845,
+      0.10952380952380952,
+      0.5111111111111111
     ]
   },
   {
@@ -11132,9 +11135,9 @@
     "name_botanical": "Prunus cerasifera 'Atropurpurea'",
     "wp_link": "Cherry_plum",
     "color": [
-      0.49915558126084447,
-      0.10827067669172934,
-      0.5052631578947369
+      0.504932844932845,
+      0.10952380952380952,
+      0.5111111111111111
     ]
   },
   {
@@ -11164,9 +11167,9 @@
     "name_botanical": "Prunus cerasifera 'Krauter Vesuvius'",
     "wp_link": "Cherry_plum",
     "color": [
-      0.49915558126084447,
-      0.10827067669172934,
-      0.5052631578947369
+      0.504932844932845,
+      0.10952380952380952,
+      0.5111111111111111
     ]
   },
   {
@@ -11196,9 +11199,9 @@
     "name_botanical": "Prunus cerasifera 'Thundercloud'",
     "wp_link": "Cherry_plum",
     "color": [
-      0.49915558126084447,
-      0.10827067669172934,
-      0.5052631578947369
+      0.504932844932845,
+      0.10952380952380952,
+      0.5111111111111111
     ]
   },
   {
@@ -11226,9 +11229,9 @@
     "name_botanical": "Prunus domestica 'Green Gage'",
     "wp_link": "Prunus_domestica",
     "color": [
-      0.5251532677848467,
-      0.11390977443609022,
-      0.531578947368421
+      0.5323748473748475,
+      0.1154761904761905,
+      0.538888888888889
     ]
   },
   {
@@ -11256,9 +11259,9 @@
     "name_botanical": "Prunus domestica 'Mariposa'",
     "wp_link": "Prunus_domestica",
     "color": [
-      0.5251532677848467,
-      0.11390977443609022,
-      0.531578947368421
+      0.5323748473748475,
+      0.1154761904761905,
+      0.538888888888889
     ]
   },
   {
@@ -11286,9 +11289,9 @@
     "name_botanical": "Prunus domestica 'Santa Rosa'",
     "wp_link": "Prunus_domestica",
     "color": [
-      0.5251532677848467,
-      0.11390977443609022,
-      0.531578947368421
+      0.5323748473748475,
+      0.1154761904761905,
+      0.538888888888889
     ]
   },
   {
@@ -11318,9 +11321,9 @@
     "name_botanical": "Prunus dulcis",
     "wp_link": "Almond",
     "color": [
-      0.551150954308849,
-      0.11954887218045113,
-      0.5578947368421052
+      0.5598168498168499,
+      0.12142857142857144,
+      0.5666666666666667
     ]
   },
   {
@@ -11348,9 +11351,9 @@
     "name_botanical": "Prunus ilicifolia",
     "wp_link": "Prunus_ilicifolia",
     "color": [
-      0.5771486408328514,
-      0.12518796992481204,
-      0.5842105263157895
+      0.5872588522588523,
+      0.1273809523809524,
+      0.5944444444444444
     ]
   },
   {
@@ -11362,7 +11365,8 @@
       "order": "Rosales",
       "family": "Rosaceae",
       "genus": "Prunus",
-      "species": "Prunus ilicifolia var. integrifolia",
+      "species": "Prunus ilicifolia",
+      "variety": "integrifolia",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -11378,9 +11382,9 @@
     "name_botanical": "Prunus ilicifolia var. integrifolia",
     "wp_link": "Prunus",
     "color": [
-      0.6031463273568537,
-      0.13082706766917293,
-      0.6105263157894737
+      0.5872588522588523,
+      0.1273809523809524,
+      0.5944444444444444
     ]
   },
   {
@@ -11408,9 +11412,9 @@
     "name_botanical": "Prunus laurocerasus",
     "wp_link": "Prunus_laurocerasus",
     "color": [
-      0.629144013880856,
-      0.13646616541353385,
-      0.6368421052631579
+      0.6147008547008548,
+      0.13333333333333333,
+      0.6222222222222222
     ]
   },
   {
@@ -11440,9 +11444,9 @@
     "name_botanical": "Prunus lusitanica",
     "wp_link": "Prunus_lusitanica",
     "color": [
-      0.6551417004048584,
-      0.14210526315789476,
-      0.6631578947368422
+      0.6421428571428572,
+      0.1392857142857143,
+      0.65
     ]
   },
   {
@@ -11470,9 +11474,9 @@
     "name_botanical": "Prunus persica",
     "wp_link": "Peach",
     "color": [
-      0.6811393869288607,
-      0.14774436090225565,
-      0.6894736842105263
+      0.6695848595848597,
+      0.14523809523809525,
+      0.6777777777777778
     ]
   },
   {
@@ -11500,9 +11504,9 @@
     "name_botanical": "Prunus sargentii",
     "wp_link": "Prunus_sargentii",
     "color": [
-      0.7071370734528629,
-      0.15338345864661657,
-      0.7157894736842105
+      0.6970268620268621,
+      0.1511904761904762,
+      0.7055555555555556
     ]
   },
   {
@@ -11530,9 +11534,9 @@
     "name_botanical": "Prunus sargentii 'Columnaris'",
     "wp_link": "Prunus_sargentii",
     "color": [
-      0.7071370734528629,
-      0.15338345864661657,
-      0.7157894736842105
+      0.6970268620268621,
+      0.1511904761904762,
+      0.7055555555555556
     ]
   },
   {
@@ -11560,9 +11564,9 @@
     "name_botanical": "Prunus serrula",
     "wp_link": "Prunus_serrula",
     "color": [
-      0.7331347599768654,
-      0.15902255639097748,
-      0.7421052631578948
+      0.7244688644688646,
+      0.15714285714285717,
+      0.7333333333333334
     ]
   },
   {
@@ -11590,9 +11594,9 @@
     "name_botanical": "Prunus serrulata",
     "wp_link": "Prunus_serrulata",
     "color": [
-      0.7591324465008675,
-      0.16466165413533834,
-      0.7684210526315789
+      0.751910866910867,
+      0.1630952380952381,
+      0.7611111111111111
     ]
   },
   {
@@ -11620,9 +11624,9 @@
     "name_botanical": "Prunus serrulata 'Akebono'",
     "wp_link": "Prunus_serrulata",
     "color": [
-      0.7591324465008675,
-      0.16466165413533834,
-      0.7684210526315789
+      0.751910866910867,
+      0.1630952380952381,
+      0.7611111111111111
     ]
   },
   {
@@ -11650,9 +11654,9 @@
     "name_botanical": "Prunus serrulata 'Amanagawa'",
     "wp_link": "Prunus_serrulata",
     "color": [
-      0.7591324465008675,
-      0.16466165413533834,
-      0.7684210526315789
+      0.751910866910867,
+      0.1630952380952381,
+      0.7611111111111111
     ]
   },
   {
@@ -11680,9 +11684,9 @@
     "name_botanical": "Prunus serrulata 'Amanogawa'",
     "wp_link": "Prunus_serrulata",
     "color": [
-      0.7591324465008675,
-      0.16466165413533834,
-      0.7684210526315789
+      0.751910866910867,
+      0.1630952380952381,
+      0.7611111111111111
     ]
   },
   {
@@ -11710,9 +11714,9 @@
     "name_botanical": "Prunus serrulata 'Double Pink Weeping'",
     "wp_link": "Prunus_serrulata",
     "color": [
-      0.7591324465008675,
-      0.16466165413533834,
-      0.7684210526315789
+      0.751910866910867,
+      0.1630952380952381,
+      0.7611111111111111
     ]
   },
   {
@@ -11740,9 +11744,9 @@
     "name_botanical": "Prunus serrulata 'Kwanzan'",
     "wp_link": "Prunus_serrulata",
     "color": [
-      0.7591324465008675,
-      0.16466165413533834,
-      0.7684210526315789
+      0.751910866910867,
+      0.1630952380952381,
+      0.7611111111111111
     ]
   },
   {
@@ -11770,9 +11774,9 @@
     "name_botanical": "Prunus serrulata 'Mt. Fuji'",
     "wp_link": "Prunus_serrulata",
     "color": [
-      0.7591324465008675,
-      0.16466165413533834,
-      0.7684210526315789
+      0.751910866910867,
+      0.1630952380952381,
+      0.7611111111111111
     ]
   },
   {
@@ -11800,9 +11804,9 @@
     "name_botanical": "Prunus serrulata 'Royal Burgundy'",
     "wp_link": "Prunus_serrulata",
     "color": [
-      0.7591324465008675,
-      0.16466165413533834,
-      0.7684210526315789
+      0.751910866910867,
+      0.1630952380952381,
+      0.7611111111111111
     ]
   },
   {
@@ -11830,9 +11834,9 @@
     "name_botanical": "Prunus subhirtella 'Pendula'",
     "wp_link": "Prunus_subhirtella",
     "color": [
-      0.7851301330248699,
-      0.17030075187969926,
-      0.7947368421052632
+      0.7793528693528695,
+      0.16904761904761909,
+      0.788888888888889
     ]
   },
   {
@@ -15136,7 +15140,8 @@
       "order": "Pinales",
       "family": "Cupressaceae",
       "genus": "Juniperus",
-      "species": "Juniperus virginiana var. silicicola",
+      "species": "Juniperus virginiana",
+      "variety": "silicicola",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",

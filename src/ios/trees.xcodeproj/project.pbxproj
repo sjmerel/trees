@@ -33,6 +33,7 @@
 		AA3B670F21DBCBE000971485 /* SiteTileLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3B670E21DBCBE000971485 /* SiteTileLayer.swift */; };
 		AA59C19321BAD19300BF2796 /* ShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA59C19221BAD19200BF2796 /* ShadowView.swift */; };
 		AA5FBA4023FF7AEC00586732 /* denver in Resources */ = {isa = PBXBuildFile; fileRef = AA5FBA3F23FF7AEB00586732 /* denver */; };
+		AA5FBA4224002A7900586732 /* victoria in Resources */ = {isa = PBXBuildFile; fileRef = AA5FBA4124002A7900586732 /* victoria */; };
 		AA6C3FE821D6AB4E00373FD2 /* TrackControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6C3FE721D6AB4E00373FD2 /* TrackControl.swift */; };
 		AA6C3FFD21D6B01E00373FD2 /* map_style.json in Resources */ = {isa = PBXBuildFile; fileRef = AA6C3FFA21D6B01E00373FD2 /* map_style.json */; };
 		AA6C401521D6B20800373FD2 /* track_on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6C401021D6B20800373FD2 /* track_on@2x.png */; };
@@ -121,6 +122,7 @@
 		AA3B670E21DBCBE000971485 /* SiteTileLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SiteTileLayer.swift; sourceTree = "<group>"; };
 		AA59C19221BAD19200BF2796 /* ShadowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShadowView.swift; sourceTree = "<group>"; };
 		AA5FBA3F23FF7AEB00586732 /* denver */ = {isa = PBXFileReference; lastKnownFileType = folder; name = denver; path = ../../../data/denver; sourceTree = "<group>"; };
+		AA5FBA4124002A7900586732 /* victoria */ = {isa = PBXFileReference; lastKnownFileType = folder; name = victoria; path = ../../../data/victoria; sourceTree = "<group>"; };
 		AA6C3FE721D6AB4E00373FD2 /* TrackControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackControl.swift; sourceTree = "<group>"; };
 		AA6C3FFA21D6B01E00373FD2 /* map_style.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = map_style.json; path = trees/map_style.json; sourceTree = SOURCE_ROOT; };
 		AA6C401021D6B20800373FD2 /* track_on@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "track_on@2x.png"; path = "../../../assets/track_on@2x.png"; sourceTree = "<group>"; };
@@ -323,6 +325,7 @@
 		AAA858A4221F3E8400673B49 /* data */ = {
 			isa = PBXGroup;
 			children = (
+				AA5FBA4124002A7900586732 /* victoria */,
 				AAC1EA21221138DA00F46ECE /* austin */,
 				AAC1EA22221138DA00F46ECE /* berkeley */,
 				AAC1EA23221138DA00F46ECE /* washingtondc */,
@@ -427,6 +430,7 @@
 				AA6C60B72241499600C2E398 /* launch_street.png in Resources */,
 				AA1B771A222357B300229550 /* arrow_up@2x.png in Resources */,
 				AA04BCFB21EF6DA8008EDF53 /* losangeles in Resources */,
+				AA5FBA4224002A7900586732 /* victoria in Resources */,
 				AAC1EA24221138DA00F46ECE /* oakland in Resources */,
 				AA156E3021FEAC3700C58926 /* sanfrancisco in Resources */,
 				AA3B670B21DAA37800971485 /* track_on2@2x.png in Resources */,

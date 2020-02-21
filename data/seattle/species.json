@@ -636,9 +636,9 @@
     "name_botanical": "Cornus × 'Rutban'",
     "wp_link": "Cornus",
     "color": [
-      0.5614955357142857,
-      0.80625,
-      0.403125
+      0.5464285714285715,
+      0.7846153846153847,
+      0.39230769230769236
     ]
   },
   {
@@ -661,14 +661,14 @@
     },
     "count": 1,
     "name_common": [
-      "Aurora Dogwood"
+      "Dogwood"
     ],
     "name_botanical": "Cornus × rutgersensis 'Aurora'",
     "wp_link": "Cornus",
     "color": [
-      0.5832589285714286,
-      0.8375,
-      0.41875
+      0.5732142857142857,
+      0.823076923076923,
+      0.4115384615384615
     ]
   },
   {
@@ -691,14 +691,14 @@
     },
     "count": 4,
     "name_common": [
-      "Stellar Pink Dogwood"
+      "Dogwood"
     ],
     "name_botanical": "Cornus × rutgersensis 'Stellar Pink'",
     "wp_link": "Cornus",
     "color": [
-      0.5832589285714286,
-      0.8375,
-      0.41875
+      0.5732142857142857,
+      0.823076923076923,
+      0.4115384615384615
     ]
   },
   {
@@ -727,9 +727,9 @@
     "name_botanical": "Cornus alternifolia",
     "wp_link": "Cornus_alternifolia",
     "color": [
-      0.30033482142857143,
-      0.43125,
-      0.215625
+      0.3053571428571428,
+      0.43846153846153846,
+      0.21923076923076923
     ]
   },
   {
@@ -757,9 +757,9 @@
     "name_botanical": "Cornus controversa 'June Snow'",
     "wp_link": "Cornus_controversa",
     "color": [
-      0.3220982142857143,
-      0.4625,
-      0.23125
+      0.33214285714285713,
+      0.47692307692307695,
+      0.23846153846153847
     ]
   },
   {
@@ -787,9 +787,9 @@
     "name_botanical": "Cornus controversa 'Variegata'",
     "wp_link": "Cornus_controversa",
     "color": [
-      0.3220982142857143,
-      0.4625,
-      0.23125
+      0.33214285714285713,
+      0.47692307692307695,
+      0.23846153846153847
     ]
   },
   {
@@ -817,9 +817,9 @@
     "name_botanical": "Cornus florida",
     "wp_link": "Cornus_florida",
     "color": [
-      0.34386160714285713,
-      0.49375,
-      0.246875
+      0.35892857142857143,
+      0.5153846153846154,
+      0.2576923076923077
     ]
   },
   {
@@ -831,7 +831,8 @@
       "order": "Cornales",
       "family": "Cornaceae",
       "genus": "Cornus",
-      "species": "Cornus florida var. florida",
+      "species": "Cornus florida",
+      "variety": "florida",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -847,9 +848,9 @@
     "name_botanical": "Cornus florida var. florida",
     "wp_link": "Cornus",
     "color": [
-      0.365625,
-      0.525,
-      0.2625
+      0.35892857142857143,
+      0.5153846153846154,
+      0.2576923076923077
     ]
   },
   {
@@ -879,9 +880,9 @@
     "name_botanical": "Cornus kousa",
     "wp_link": "Cornus_kousa",
     "color": [
-      0.3873883928571429,
-      0.55625,
-      0.278125
+      0.38571428571428573,
+      0.5538461538461539,
+      0.27692307692307694
     ]
   },
   {
@@ -911,9 +912,9 @@
     "name_botanical": "Cornus kousa 'Beni Fuji'",
     "wp_link": "Cornus_kousa",
     "color": [
-      0.3873883928571429,
-      0.55625,
-      0.278125
+      0.38571428571428573,
+      0.5538461538461539,
+      0.27692307692307694
     ]
   },
   {
@@ -943,9 +944,9 @@
     "name_botanical": "Cornus kousa 'Big Apple'",
     "wp_link": "Cornus_kousa",
     "color": [
-      0.3873883928571429,
-      0.55625,
-      0.278125
+      0.38571428571428573,
+      0.5538461538461539,
+      0.27692307692307694
     ]
   },
   {
@@ -975,9 +976,9 @@
     "name_botanical": "Cornus kousa 'Champion's Gold'",
     "wp_link": "Cornus_kousa",
     "color": [
-      0.3873883928571429,
-      0.55625,
-      0.278125
+      0.38571428571428573,
+      0.5538461538461539,
+      0.27692307692307694
     ]
   },
   {
@@ -1007,9 +1008,9 @@
     "name_botanical": "Cornus kousa 'Milky Way'",
     "wp_link": "Cornus_kousa",
     "color": [
-      0.3873883928571429,
-      0.55625,
-      0.278125
+      0.38571428571428573,
+      0.5538461538461539,
+      0.27692307692307694
     ]
   },
   {
@@ -1039,9 +1040,9 @@
     "name_botanical": "Cornus kousa 'Satomi'",
     "wp_link": "Cornus_kousa",
     "color": [
-      0.3873883928571429,
-      0.55625,
-      0.278125
+      0.38571428571428573,
+      0.5538461538461539,
+      0.27692307692307694
     ]
   },
   {
@@ -1064,14 +1065,14 @@
     },
     "count": 42,
     "name_common": [
-      "Venus Dogwood"
+      "Dogwood"
     ],
     "name_botanical": "Cornus kousa × nuttallii 'Kn 30-8'",
     "wp_link": "Cornus",
     "color": [
-      0.4309151785714286,
-      0.61875,
-      0.309375
+      0.4125,
+      0.5923076923076923,
+      0.29615384615384616
     ]
   },
   {
@@ -1094,14 +1095,14 @@
     },
     "count": 238,
     "name_common": [
-      "Starlight Dogwood"
+      "Dogwood"
     ],
     "name_botanical": "Cornus kousa × nuttallii 'Starlight'",
     "wp_link": "Cornus",
     "color": [
-      0.4309151785714286,
-      0.61875,
-      0.309375
+      0.4125,
+      0.5923076923076923,
+      0.29615384615384616
     ]
   },
   {
@@ -1113,7 +1114,8 @@
       "order": "Cornales",
       "family": "Cornaceae",
       "genus": "Cornus",
-      "species": "Cornus kousa subsp. chinensis",
+      "species": "Cornus kousa",
+      "subspecies": "chinensis",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -1129,9 +1131,9 @@
     "name_botanical": "Cornus kousa subsp. chinensis",
     "wp_link": "Cornus_kousa",
     "color": [
-      0.40915178571428573,
-      0.5875,
-      0.29375
+      0.38571428571428573,
+      0.5538461538461539,
+      0.27692307692307694
     ]
   },
   {
@@ -1161,9 +1163,9 @@
     "name_botanical": "Cornus mas",
     "wp_link": "Cornus_mas",
     "color": [
-      0.45267857142857143,
-      0.65,
-      0.325
+      0.4392857142857142,
+      0.6307692307692307,
+      0.3153846153846154
     ]
   },
   {
@@ -1191,9 +1193,9 @@
     "name_botanical": "Cornus nuttallii",
     "wp_link": "Cornus_nuttallii",
     "color": [
-      0.4744419642857143,
-      0.68125,
-      0.340625
+      0.4660714285714286,
+      0.6692307692307693,
+      0.33461538461538465
     ]
   },
   {
@@ -1221,9 +1223,9 @@
     "name_botanical": "Cornus nuttallii × florida",
     "wp_link": "Cornus",
     "color": [
-      0.49620535714285713,
-      0.7125,
-      0.35625
+      0.4928571428571429,
+      0.7076923076923077,
+      0.35384615384615387
     ]
   },
   {
@@ -1252,9 +1254,9 @@
     "name_botanical": "Cornus sericea",
     "wp_link": "Cornus_sericea",
     "color": [
-      0.51796875,
-      0.74375,
-      0.371875
+      0.5196428571428572,
+      0.7461538461538462,
+      0.3730769230769231
     ]
   },
   {
@@ -1266,7 +1268,8 @@
       "order": "Cornales",
       "family": "Cornaceae",
       "genus": "Cornus",
-      "species": "Cornus sericea subsp. sericea",
+      "species": "Cornus sericea",
+      "subspecies": "sericea",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -1284,9 +1287,9 @@
     "name_botanical": "Cornus sericea subsp. sericea",
     "wp_link": "Cornus_sericea",
     "color": [
-      0.5397321428571429,
-      0.775,
-      0.3875
+      0.5196428571428572,
+      0.7461538461538462,
+      0.3730769230769231
     ]
   },
   {
@@ -2871,21 +2874,21 @@
       "order": "Fabales",
       "family": "Fabaceae",
       "genus": "Laburnocytisus",
-      "species": "+ Laburnocytisus adamii",
+      "species": "+ Laburnocytisus",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
       "order_wp": "Fabales",
       "family_wp": "Fabaceae",
       "genus_wp": "+_Laburnocytisus_'Adamii'",
-      "species_wp": "+Laburnocytisus_adamii"
+      "species_wp": "+_Laburnocytisus_'Adamii'"
     },
     "count": 3,
     "name_common": [
       "Chimaeric Goldenchain"
     ],
-    "name_botanical": "+ Laburnocytisus adamii",
-    "wp_link": "+Laburnocytisus_adamii",
+    "name_botanical": "+ Laburnocytisus",
+    "wp_link": "+_Laburnocytisus_'Adamii'",
     "color": [
       0.10909090909090909,
       0.4,
@@ -3599,7 +3602,8 @@
       "order": "Fagales",
       "family": "Betulaceae",
       "genus": "Betula",
-      "species": "Betula utilis subsp. jacquemontii",
+      "species": "Betula utilis",
+      "subspecies": "jacquemontii",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -4049,7 +4053,8 @@
       "order": "Fagales",
       "family": "Betulaceae",
       "genus": "Corylus",
-      "species": "Corylus cornuta subsp. californica",
+      "species": "Corylus cornuta",
+      "subspecies": "californica",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -4571,14 +4576,14 @@
     },
     "count": 1,
     "name_common": [
-      "Bartram Oak"
+      "Oak"
     ],
     "name_botanical": "Quercus × heterophylla",
     "wp_link": "Quercus_cerris",
     "color": [
-      0.17354838709677414,
-      0.8677419354838709,
-      0.4214746543778802
+      0.1733333333333333,
+      0.8666666666666667,
+      0.420952380952381
     ]
   },
   {
@@ -4606,9 +4611,9 @@
     "name_botanical": "Quercus acutissima",
     "wp_link": "Quercus_acutissima",
     "color": [
-      0.08322580645161289,
-      0.4161290322580645,
-      0.20211981566820278
+      0.08333333333333331,
+      0.4166666666666667,
+      0.2023809523809524
     ]
   },
   {
@@ -4637,9 +4642,9 @@
     "name_botanical": "Quercus agrifolia",
     "wp_link": "Quercus_agrifolia",
     "color": [
-      0.08645161290322578,
-      0.432258064516129,
-      0.20995391705069127
+      0.08666666666666666,
+      0.43333333333333335,
+      0.2104761904761905
     ]
   },
   {
@@ -4667,9 +4672,9 @@
     "name_botanical": "Quercus alba",
     "wp_link": "Quercus_alba",
     "color": [
-      0.0896774193548387,
-      0.4483870967741936,
-      0.21778801843317977
+      0.08999999999999998,
+      0.45,
+      0.2185714285714286
     ]
   },
   {
@@ -4697,9 +4702,9 @@
     "name_botanical": "Quercus bicolor",
     "wp_link": "Quercus_bicolor",
     "color": [
-      0.09290322580645159,
-      0.4645161290322581,
-      0.22562211981566824
+      0.09333333333333331,
+      0.4666666666666667,
+      0.22666666666666668
     ]
   },
   {
@@ -4727,9 +4732,9 @@
     "name_botanical": "Quercus bicolor 'American Dream'",
     "wp_link": "Quercus_bicolor",
     "color": [
-      0.09290322580645159,
-      0.4645161290322581,
-      0.22562211981566824
+      0.09333333333333331,
+      0.4666666666666667,
+      0.22666666666666668
     ]
   },
   {
@@ -4757,9 +4762,9 @@
     "name_botanical": "Quercus cerris",
     "wp_link": "Quercus_cerris",
     "color": [
-      0.09612903225806449,
-      0.4806451612903226,
-      0.2334562211981567
+      0.09666666666666665,
+      0.48333333333333334,
+      0.23476190476190478
     ]
   },
   {
@@ -4787,9 +4792,9 @@
     "name_botanical": "Quercus chrysolepis",
     "wp_link": "Quercus_chrysolepis",
     "color": [
-      0.0993548387096774,
-      0.49677419354838714,
-      0.2412903225806452
+      0.09999999999999998,
+      0.5,
+      0.24285714285714288
     ]
   },
   {
@@ -4817,9 +4822,9 @@
     "name_botanical": "Quercus coccinea",
     "wp_link": "Quercus_coccinea",
     "color": [
-      0.10258064516129031,
-      0.5129032258064516,
-      0.2491244239631337
+      0.10333333333333332,
+      0.5166666666666667,
+      0.250952380952381
     ]
   },
   {
@@ -4847,9 +4852,9 @@
     "name_botanical": "Quercus frainetto 'Schmidt'",
     "wp_link": "Quercus_frainetto",
     "color": [
-      0.10580645161290321,
-      0.5290322580645161,
-      0.25695852534562214
+      0.10666666666666665,
+      0.5333333333333333,
+      0.2590476190476191
     ]
   },
   {
@@ -4877,9 +4882,9 @@
     "name_botanical": "Quercus frainetto 'Trump'",
     "wp_link": "Quercus_frainetto",
     "color": [
-      0.10580645161290321,
-      0.5290322580645161,
-      0.25695852534562214
+      0.10666666666666665,
+      0.5333333333333333,
+      0.2590476190476191
     ]
   },
   {
@@ -4907,9 +4912,9 @@
     "name_botanical": "Quercus garryana",
     "wp_link": "Quercus_garryana",
     "color": [
-      0.10903225806451611,
-      0.5451612903225806,
-      0.2647926267281106
+      0.10999999999999999,
+      0.55,
+      0.2671428571428572
     ]
   },
   {
@@ -4937,9 +4942,9 @@
     "name_botanical": "Quercus glauca",
     "wp_link": "Quercus_glauca",
     "color": [
-      0.112258064516129,
-      0.5612903225806452,
-      0.2726267281105991
+      0.1133333333333333,
+      0.5666666666666667,
+      0.2752380952380953
     ]
   },
   {
@@ -4967,9 +4972,9 @@
     "name_botanical": "Quercus hypoleucoides",
     "wp_link": "Quercus_hypoleucoides",
     "color": [
-      0.1154838709677419,
-      0.5774193548387097,
-      0.2804608294930876
+      0.11666666666666665,
+      0.5833333333333334,
+      0.2833333333333334
     ]
   },
   {
@@ -4997,9 +5002,9 @@
     "name_botanical": "Quercus ilex",
     "wp_link": "Quercus_ilex",
     "color": [
-      0.1187096774193548,
-      0.5935483870967742,
-      0.28829493087557606
+      0.12,
+      0.6000000000000001,
+      0.2914285714285715
     ]
   },
   {
@@ -5027,9 +5032,9 @@
     "name_botanical": "Quercus imbricaria",
     "wp_link": "Quercus_imbricaria",
     "color": [
-      0.12193548387096773,
-      0.6096774193548388,
-      0.2961290322580646
+      0.12333333333333331,
+      0.6166666666666667,
+      0.2995238095238096
     ]
   },
   {
@@ -5058,9 +5063,9 @@
     "name_botanical": "Quercus lobata",
     "wp_link": "Quercus_lobata",
     "color": [
-      0.12516129032258064,
-      0.6258064516129033,
-      0.30396313364055305
+      0.12666666666666662,
+      0.6333333333333333,
+      0.3076190476190476
     ]
   },
   {
@@ -5088,9 +5093,9 @@
     "name_botanical": "Quercus macrocarpa 'Urban Pin'",
     "wp_link": "Quercus_macrocarpa",
     "color": [
-      0.12838709677419352,
-      0.6419354838709678,
-      0.3117972350230415
+      0.12999999999999998,
+      0.65,
+      0.3157142857142858
     ]
   },
   {
@@ -5118,9 +5123,9 @@
     "name_botanical": "Quercus michauxii",
     "wp_link": "Quercus_michauxii",
     "color": [
-      0.13161290322580643,
-      0.6580645161290323,
-      0.31963133640553
+      0.13333333333333333,
+      0.6666666666666667,
+      0.3238095238095239
     ]
   },
   {
@@ -5148,9 +5153,9 @@
     "name_botanical": "Quercus palustris",
     "wp_link": "Quercus_palustris",
     "color": [
-      0.13483870967741932,
-      0.6741935483870968,
-      0.32746543778801845
+      0.13666666666666663,
+      0.6833333333333333,
+      0.3319047619047619
     ]
   },
   {
@@ -5178,9 +5183,9 @@
     "name_botanical": "Quercus palustris 'Pringreen'",
     "wp_link": "Quercus_palustris",
     "color": [
-      0.13483870967741932,
-      0.6741935483870968,
-      0.32746543778801845
+      0.13666666666666663,
+      0.6833333333333333,
+      0.3319047619047619
     ]
   },
   {
@@ -5208,9 +5213,9 @@
     "name_botanical": "Quercus palustris 'Sovereign'",
     "wp_link": "Quercus_palustris",
     "color": [
-      0.13483870967741932,
-      0.6741935483870968,
-      0.32746543778801845
+      0.13666666666666663,
+      0.6833333333333333,
+      0.3319047619047619
     ]
   },
   {
@@ -5238,9 +5243,9 @@
     "name_botanical": "Quercus petraea",
     "wp_link": "Quercus_petraea",
     "color": [
-      0.13806451612903226,
-      0.6903225806451614,
-      0.335299539170507
+      0.13999999999999996,
+      0.7,
+      0.34
     ]
   },
   {
@@ -5268,9 +5273,9 @@
     "name_botanical": "Quercus phellos",
     "wp_link": "Quercus_phellos",
     "color": [
-      0.14129032258064514,
-      0.7064516129032259,
-      0.34313364055299544
+      0.1433333333333333,
+      0.7166666666666667,
+      0.3480952380952381
     ]
   },
   {
@@ -5298,9 +5303,9 @@
     "name_botanical": "Quercus robur",
     "wp_link": "Quercus_robur",
     "color": [
-      0.14451612903225805,
-      0.7225806451612904,
-      0.35096774193548397
+      0.14666666666666664,
+      0.7333333333333334,
+      0.3561904761904763
     ]
   },
   {
@@ -5328,9 +5333,9 @@
     "name_botanical": "Quercus robur 'Skyrocket'",
     "wp_link": "Quercus_robur",
     "color": [
-      0.14451612903225805,
-      0.7225806451612904,
-      0.35096774193548397
+      0.14666666666666664,
+      0.7333333333333334,
+      0.3561904761904763
     ]
   },
   {
@@ -5358,9 +5363,9 @@
     "name_botanical": "Quercus robur 'Westminster Globe'",
     "wp_link": "Quercus_robur",
     "color": [
-      0.14451612903225805,
-      0.7225806451612904,
-      0.35096774193548397
+      0.14666666666666664,
+      0.7333333333333334,
+      0.3561904761904763
     ]
   },
   {
@@ -5383,14 +5388,14 @@
     },
     "count": 11,
     "name_common": [
-      "Crimson Spire Oak"
+      "Oak"
     ],
     "name_botanical": "Quercus robur × alba 'Crimschmidt'",
     "wp_link": "Quercus_robur",
     "color": [
-      0.15096774193548385,
-      0.7548387096774194,
-      0.3666359447004609
+      0.14999999999999997,
+      0.75,
+      0.3642857142857143
     ]
   },
   {
@@ -5418,9 +5423,9 @@
     "name_botanical": "Quercus robur × bicolor 'Long'",
     "wp_link": "Quercus_bicolor",
     "color": [
-      0.15419354838709676,
-      0.7709677419354839,
-      0.37447004608294937
+      0.1533333333333333,
+      0.7666666666666666,
+      0.37238095238095237
     ]
   },
   {
@@ -5432,7 +5437,8 @@
       "order": "Fagales",
       "family": "Fagaceae",
       "genus": "Quercus",
-      "species": "Quercus robur subsp. robur",
+      "species": "Quercus robur",
+      "subspecies": "robur",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -5448,9 +5454,9 @@
     "name_botanical": "Quercus robur subsp. robur",
     "wp_link": "Quercus_robur",
     "color": [
-      0.14774193548387093,
-      0.7387096774193549,
-      0.35880184331797244
+      0.14666666666666664,
+      0.7333333333333334,
+      0.3561904761904763
     ]
   },
   {
@@ -5478,9 +5484,9 @@
     "name_botanical": "Quercus rubra",
     "wp_link": "Quercus_rubra",
     "color": [
-      0.15741935483870964,
-      0.7870967741935484,
-      0.38230414746543784
+      0.15666666666666665,
+      0.7833333333333334,
+      0.3804761904761906
     ]
   },
   {
@@ -5508,9 +5514,9 @@
     "name_botanical": "Quercus rugosa",
     "wp_link": "Quercus_rugosa",
     "color": [
-      0.16064516129032255,
-      0.8032258064516129,
-      0.3901382488479263
+      0.15999999999999998,
+      0.8,
+      0.3885714285714286
     ]
   },
   {
@@ -5538,9 +5544,9 @@
     "name_botanical": "Quercus shumardii",
     "wp_link": "Quercus_shumardii",
     "color": [
-      0.16387096774193544,
-      0.8193548387096774,
-      0.3979723502304148
+      0.1633333333333333,
+      0.8166666666666667,
+      0.3966666666666667
     ]
   },
   {
@@ -5568,9 +5574,9 @@
     "name_botanical": "Quercus suber",
     "wp_link": "Quercus_suber",
     "color": [
-      0.16709677419354835,
-      0.8354838709677419,
-      0.40580645161290324
+      0.16666666666666663,
+      0.8333333333333334,
+      0.4047619047619048
     ]
   },
   {
@@ -5598,9 +5604,9 @@
     "name_botanical": "Quercus virginiana",
     "wp_link": "Quercus_virginiana",
     "color": [
-      0.17032258064516123,
-      0.8516129032258064,
-      0.4136405529953917
+      0.16999999999999998,
+      0.8500000000000001,
+      0.4128571428571429
     ]
   },
   {
@@ -6204,9 +6210,9 @@
     "name_botanical": "Fraxinus americana",
     "wp_link": "Fraxinus_americana",
     "color": [
-      0.23437500000000008,
-      0.1875,
-      0.45
+      0.2372685185185186,
+      0.18981481481481483,
+      0.4555555555555556
     ]
   },
   {
@@ -6234,9 +6240,9 @@
     "name_botanical": "Fraxinus americana 'Autumn Applause'",
     "wp_link": "Fraxinus_americana",
     "color": [
-      0.23437500000000008,
-      0.1875,
-      0.45
+      0.2372685185185186,
+      0.18981481481481483,
+      0.4555555555555556
     ]
   },
   {
@@ -6264,9 +6270,9 @@
     "name_botanical": "Fraxinus americana 'Autumn Purple'",
     "wp_link": "Fraxinus_americana",
     "color": [
-      0.23437500000000008,
-      0.1875,
-      0.45
+      0.2372685185185186,
+      0.18981481481481483,
+      0.4555555555555556
     ]
   },
   {
@@ -6294,9 +6300,9 @@
     "name_botanical": "Fraxinus americana 'Empire'",
     "wp_link": "Fraxinus_americana",
     "color": [
-      0.23437500000000008,
-      0.1875,
-      0.45
+      0.2372685185185186,
+      0.18981481481481483,
+      0.4555555555555556
     ]
   },
   {
@@ -6324,9 +6330,9 @@
     "name_botanical": "Fraxinus americana 'Rosehill'",
     "wp_link": "Fraxinus_americana",
     "color": [
-      0.23437500000000008,
-      0.1875,
-      0.45
+      0.2372685185185186,
+      0.18981481481481483,
+      0.4555555555555556
     ]
   },
   {
@@ -6354,9 +6360,9 @@
     "name_botanical": "Fraxinus angustifolia",
     "wp_link": "Fraxinus_angustifolia",
     "color": [
-      0.26041666666666674,
-      0.20833333333333331,
-      0.5
+      0.2662037037037038,
+      0.21296296296296294,
+      0.5111111111111111
     ]
   },
   {
@@ -6384,9 +6390,9 @@
     "name_botanical": "Fraxinus angustifolia 'Dr. Pirone'",
     "wp_link": "Fraxinus_angustifolia",
     "color": [
-      0.26041666666666674,
-      0.20833333333333331,
-      0.5
+      0.2662037037037038,
+      0.21296296296296294,
+      0.5111111111111111
     ]
   },
   {
@@ -6414,9 +6420,9 @@
     "name_botanical": "Fraxinus angustifolia 'Flame'",
     "wp_link": "Fraxinus_angustifolia",
     "color": [
-      0.26041666666666674,
-      0.20833333333333331,
-      0.5
+      0.2662037037037038,
+      0.21296296296296294,
+      0.5111111111111111
     ]
   },
   {
@@ -6444,9 +6450,9 @@
     "name_botanical": "Fraxinus angustifolia 'Raywood'",
     "wp_link": "Fraxinus_angustifolia",
     "color": [
-      0.26041666666666674,
-      0.20833333333333331,
-      0.5
+      0.2662037037037038,
+      0.21296296296296294,
+      0.5111111111111111
     ]
   },
   {
@@ -6458,7 +6464,8 @@
       "order": "Lamiales",
       "family": "Oleaceae",
       "genus": "Fraxinus",
-      "species": "Fraxinus angustifolia subsp. oxycarpa",
+      "species": "Fraxinus angustifolia",
+      "subspecies": "oxycarpa",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -6474,9 +6481,9 @@
     "name_botanical": "Fraxinus angustifolia subsp. oxycarpa",
     "wp_link": "Fraxinus_angustifolia",
     "color": [
-      0.2864583333333334,
-      0.22916666666666666,
-      0.55
+      0.2662037037037038,
+      0.21296296296296294,
+      0.5111111111111111
     ]
   },
   {
@@ -6504,9 +6511,9 @@
     "name_botanical": "Fraxinus excelsior",
     "wp_link": "Fraxinus_excelsior",
     "color": [
-      0.3125000000000001,
-      0.25,
-      0.6000000000000001
+      0.29513888888888895,
+      0.23611111111111108,
+      0.5666666666666667
     ]
   },
   {
@@ -6534,9 +6541,9 @@
     "name_botanical": "Fraxinus excelsior 'Kimberly'",
     "wp_link": "Fraxinus_excelsior",
     "color": [
-      0.3125000000000001,
-      0.25,
-      0.6000000000000001
+      0.29513888888888895,
+      0.23611111111111108,
+      0.5666666666666667
     ]
   },
   {
@@ -6564,9 +6571,9 @@
     "name_botanical": "Fraxinus latifolia",
     "wp_link": "Fraxinus_latifolia",
     "color": [
-      0.3385416666666668,
-      0.2708333333333333,
-      0.65
+      0.3240740740740742,
+      0.25925925925925924,
+      0.6222222222222222
     ]
   },
   {
@@ -6594,9 +6601,9 @@
     "name_botanical": "Fraxinus ornus",
     "wp_link": "Fraxinus_ornus",
     "color": [
-      0.3645833333333334,
-      0.29166666666666663,
-      0.7
+      0.35300925925925936,
+      0.2824074074074074,
+      0.6777777777777778
     ]
   },
   {
@@ -6624,9 +6631,9 @@
     "name_botanical": "Fraxinus pennsylvanica",
     "wp_link": "Fraxinus_pennsylvanica",
     "color": [
-      0.3906250000000001,
-      0.3125,
-      0.75
+      0.3819444444444446,
+      0.3055555555555556,
+      0.7333333333333334
     ]
   },
   {
@@ -6654,9 +6661,9 @@
     "name_botanical": "Fraxinus pennsylvanica 'Cimmzam'",
     "wp_link": "Fraxinus_pennsylvanica",
     "color": [
-      0.3906250000000001,
-      0.3125,
-      0.75
+      0.3819444444444446,
+      0.3055555555555556,
+      0.7333333333333334
     ]
   },
   {
@@ -6684,9 +6691,9 @@
     "name_botanical": "Fraxinus pennsylvanica 'Johnson'",
     "wp_link": "Fraxinus_pennsylvanica",
     "color": [
-      0.3906250000000001,
-      0.3125,
-      0.75
+      0.3819444444444446,
+      0.3055555555555556,
+      0.7333333333333334
     ]
   },
   {
@@ -6714,9 +6721,9 @@
     "name_botanical": "Fraxinus pennsylvanica 'Marshall'",
     "wp_link": "Fraxinus_pennsylvanica",
     "color": [
-      0.3906250000000001,
-      0.3125,
-      0.75
+      0.3819444444444446,
+      0.3055555555555556,
+      0.7333333333333334
     ]
   },
   {
@@ -6744,9 +6751,9 @@
     "name_botanical": "Fraxinus pennsylvanica 'Patmore'",
     "wp_link": "Fraxinus_pennsylvanica",
     "color": [
-      0.3906250000000001,
-      0.3125,
-      0.75
+      0.3819444444444446,
+      0.3055555555555556,
+      0.7333333333333334
     ]
   },
   {
@@ -6774,9 +6781,9 @@
     "name_botanical": "Fraxinus pennsylvanica 'Summit'",
     "wp_link": "Fraxinus_pennsylvanica",
     "color": [
-      0.3906250000000001,
-      0.3125,
-      0.75
+      0.3819444444444446,
+      0.3055555555555556,
+      0.7333333333333334
     ]
   },
   {
@@ -6804,9 +6811,9 @@
     "name_botanical": "Fraxinus pennsylvanica 'Urbanite'",
     "wp_link": "Fraxinus_pennsylvanica",
     "color": [
-      0.3906250000000001,
-      0.3125,
-      0.75
+      0.3819444444444446,
+      0.3055555555555556,
+      0.7333333333333334
     ]
   },
   {
@@ -6834,9 +6841,9 @@
     "name_botanical": "Fraxinus velutina",
     "wp_link": "Fraxinus_velutina",
     "color": [
-      0.4166666666666668,
-      0.3333333333333333,
-      0.8
+      0.4108796296296298,
+      0.3287037037037037,
+      0.788888888888889
     ]
   },
   {
@@ -6864,9 +6871,9 @@
     "name_botanical": "Fraxinus velutina 'Modesto'",
     "wp_link": "Fraxinus_velutina",
     "color": [
-      0.4166666666666668,
-      0.3333333333333333,
-      0.8
+      0.4108796296296298,
+      0.3287037037037037,
+      0.788888888888889
     ]
   },
   {
@@ -7446,7 +7453,7 @@
     },
     "count": 22,
     "name_common": [
-      "Butterfly Magnolia"
+      "Magnolia"
     ],
     "name_botanical": "Magnolia 'Butterflies'",
     "wp_link": "Magnolia",
@@ -7476,7 +7483,7 @@
     },
     "count": 9,
     "name_common": [
-      "Elizabeth Magnolia"
+      "Magnolia"
     ],
     "name_botanical": "Magnolia 'Elizabeth'",
     "wp_link": "Magnolia",
@@ -7506,7 +7513,7 @@
     },
     "count": 282,
     "name_common": [
-      "Galaxy Magnolia"
+      "Magnolia"
     ],
     "name_botanical": "Magnolia 'Galaxy'",
     "wp_link": "Magnolia",
@@ -7596,7 +7603,7 @@
     },
     "count": 1,
     "name_common": [
-      "Veitch Magnolia"
+      "Magnolia"
     ],
     "name_botanical": "Magnolia × veitchii",
     "wp_link": "Magnolia",
@@ -7848,7 +7855,7 @@
     },
     "count": 18,
     "name_common": [
-      "Lolanthe Magnolia"
+      "Magnolia"
     ],
     "name_botanical": "Magnolia iolanthe",
     "wp_link": "Magnolia",
@@ -8201,7 +8208,8 @@
       "order": "Malpighiales",
       "family": "Salicaceae",
       "genus": "Populus",
-      "species": "Populus balsamifera subsp. trichocarpa",
+      "species": "Populus balsamifera",
+      "subspecies": "trichocarpa",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -8567,7 +8575,8 @@
       "order": "Malpighiales",
       "family": "Salicaceae",
       "genus": "Salix",
-      "species": "Salix lucida subsp. lasiandra",
+      "species": "Salix lucida",
+      "subspecies": "lasiandra",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -8891,9 +8900,9 @@
     "name_botanical": "Tilia × flavescens 'Glenleven'",
     "wp_link": "Tilia",
     "color": [
-      0.20227272727272727,
-      0.4840097402597403,
-      0.8090909090909091
+      0.2,
+      0.47857142857142865,
+      0.8
     ]
   },
   {
@@ -8921,9 +8930,9 @@
     "name_botanical": "Tilia americana",
     "wp_link": "Tilia_americana",
     "color": [
-      0.11136363636363637,
-      0.2664772727272728,
-      0.4454545454545455
+      0.1125,
+      0.2691964285714286,
+      0.45
     ]
   },
   {
@@ -8935,7 +8944,8 @@
       "order": "Malvales",
       "family": "Malvaceae",
       "genus": "Tilia",
-      "species": "Tilia americana var. heterophylla",
+      "species": "Tilia americana",
+      "variety": "heterophylla",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -8951,9 +8961,9 @@
     "name_botanical": "Tilia americana var. heterophylla",
     "wp_link": "Tilia",
     "color": [
-      0.12272727272727274,
-      0.29366883116883125,
-      0.49090909090909096
+      0.1125,
+      0.2691964285714286,
+      0.45
     ]
   },
   {
@@ -8981,9 +8991,9 @@
     "name_botanical": "Tilia cordata",
     "wp_link": "Tilia_cordata",
     "color": [
-      0.1340909090909091,
-      0.32086038961038965,
-      0.5363636363636364
+      0.125,
+      0.2991071428571429,
+      0.5
     ]
   },
   {
@@ -9011,9 +9021,9 @@
     "name_botanical": "Tilia cordata 'Chancellor'",
     "wp_link": "Tilia_cordata",
     "color": [
-      0.1340909090909091,
-      0.32086038961038965,
-      0.5363636363636364
+      0.125,
+      0.2991071428571429,
+      0.5
     ]
   },
   {
@@ -9041,9 +9051,9 @@
     "name_botanical": "Tilia cordata 'De Groot'",
     "wp_link": "Tilia_cordata",
     "color": [
-      0.1340909090909091,
-      0.32086038961038965,
-      0.5363636363636364
+      0.125,
+      0.2991071428571429,
+      0.5
     ]
   },
   {
@@ -9071,9 +9081,9 @@
     "name_botanical": "Tilia cordata 'Greenspire'",
     "wp_link": "Tilia_cordata",
     "color": [
-      0.1340909090909091,
-      0.32086038961038965,
-      0.5363636363636364
+      0.125,
+      0.2991071428571429,
+      0.5
     ]
   },
   {
@@ -9101,9 +9111,9 @@
     "name_botanical": "Tilia cordata 'Halka'",
     "wp_link": "Tilia_cordata",
     "color": [
-      0.1340909090909091,
-      0.32086038961038965,
-      0.5363636363636364
+      0.125,
+      0.2991071428571429,
+      0.5
     ]
   },
   {
@@ -9131,9 +9141,9 @@
     "name_botanical": "Tilia cordata × mongolica 'Harvest Gold'",
     "wp_link": "Tilia_cordata",
     "color": [
-      0.14545454545454545,
-      0.3480519480519481,
-      0.5818181818181818
+      0.1375,
+      0.3290178571428572,
+      0.55
     ]
   },
   {
@@ -9161,9 +9171,9 @@
     "name_botanical": "Tilia euchlora 'Euchlora'",
     "wp_link": "Tilia",
     "color": [
-      0.15681818181818183,
-      0.3752435064935066,
-      0.6272727272727273
+      0.15000000000000002,
+      0.35892857142857154,
+      0.6000000000000001
     ]
   },
   {
@@ -9191,9 +9201,9 @@
     "name_botanical": "Tilia mongolica",
     "wp_link": "Tilia_mongolica",
     "color": [
-      0.16818181818181818,
-      0.402435064935065,
-      0.6727272727272727
+      0.1625,
+      0.3888392857142858,
+      0.65
     ]
   },
   {
@@ -9221,9 +9231,9 @@
     "name_botanical": "Tilia platyphyllos",
     "wp_link": "Tilia_platyphyllos",
     "color": [
-      0.17954545454545456,
-      0.4296266233766235,
-      0.7181818181818183
+      0.175,
+      0.41875000000000007,
+      0.7
     ]
   },
   {
@@ -9246,14 +9256,14 @@
     },
     "count": 129,
     "name_common": [
-      "Silber-linde"
+      "Sterling Linden"
     ],
     "name_botanical": "Tilia tomentosa 'Sterling'",
     "wp_link": "Tilia_tomentosa",
     "color": [
-      0.19090909090909092,
-      0.4568181818181819,
-      0.7636363636363637
+      0.1875,
+      0.44866071428571436,
+      0.75
     ]
   },
   {
@@ -10512,9 +10522,9 @@
     "name_botanical": "Crataegus × lavalleei",
     "wp_link": "Crataegus_×_lavalleei",
     "color": [
-      0.6847446670976083,
-      0.33891402714932123,
-      0.823076923076923
+      0.673109243697479,
+      0.3331550802139037,
+      0.8090909090909091
     ]
   },
   {
@@ -10543,9 +10553,9 @@
     "name_botanical": "Crataegus crus-galli",
     "wp_link": "Crataegus_crus-galli",
     "color": [
-      0.36477052359405304,
-      0.18054298642533936,
-      0.43846153846153846
+      0.3705882352941177,
+      0.18342245989304815,
+      0.4454545454545455
     ]
   },
   {
@@ -10557,7 +10567,8 @@
       "order": "Rosales",
       "family": "Rosaceae",
       "genus": "Crataegus",
-      "species": "Crataegus crus-galli var. inermis",
+      "species": "Crataegus crus-galli",
+      "variety": "inermis",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -10574,9 +10585,9 @@
     "name_botanical": "Crataegus crus-galli var. inermis",
     "wp_link": "Crataegus_crus-galli",
     "color": [
-      0.39676793794440857,
-      0.19638009049773755,
-      0.47692307692307695
+      0.3705882352941177,
+      0.18342245989304815,
+      0.4454545454545455
     ]
   },
   {
@@ -10605,9 +10616,9 @@
     "name_botanical": "Crataegus douglasii",
     "wp_link": "Crataegus_douglasii",
     "color": [
-      0.42876535229476415,
-      0.21221719457013577,
-      0.5153846153846154
+      0.40840336134453786,
+      0.2021390374331551,
+      0.49090909090909096
     ]
   },
   {
@@ -10636,9 +10647,9 @@
     "name_botanical": "Crataegus germanica",
     "wp_link": "Mespilus_germanica",
     "color": [
-      0.4607627666451196,
-      0.22805429864253393,
-      0.5538461538461539
+      0.446218487394958,
+      0.22085561497326203,
+      0.5363636363636364
     ]
   },
   {
@@ -10669,9 +10680,9 @@
     "name_botanical": "Crataegus laevigata",
     "wp_link": "Crataegus_laevigata",
     "color": [
-      0.49276018099547514,
-      0.24389140271493212,
-      0.5923076923076923
+      0.48403361344537815,
+      0.23957219251336895,
+      0.5818181818181818
     ]
   },
   {
@@ -10702,9 +10713,9 @@
     "name_botanical": "Crataegus laevigata 'Crimson Cloud'",
     "wp_link": "Crataegus_laevigata",
     "color": [
-      0.49276018099547514,
-      0.24389140271493212,
-      0.5923076923076923
+      0.48403361344537815,
+      0.23957219251336895,
+      0.5818181818181818
     ]
   },
   {
@@ -10735,9 +10746,9 @@
     "name_botanical": "Crataegus laevigata 'Paul’s Scarlet'",
     "wp_link": "Crataegus_laevigata",
     "color": [
-      0.49276018099547514,
-      0.24389140271493212,
-      0.5923076923076923
+      0.48403361344537815,
+      0.23957219251336895,
+      0.5818181818181818
     ]
   },
   {
@@ -10767,9 +10778,9 @@
     "name_botanical": "Crataegus mollis",
     "wp_link": "Crataegus_mollis",
     "color": [
-      0.5247575953458307,
-      0.2597285067873303,
-      0.6307692307692307
+      0.5218487394957984,
+      0.25828877005347595,
+      0.6272727272727273
     ]
   },
   {
@@ -10798,9 +10809,9 @@
     "name_botanical": "Crataegus monogyna",
     "wp_link": "Crataegus_monogyna",
     "color": [
-      0.5567550096961863,
-      0.2755656108597285,
-      0.6692307692307693
+      0.5596638655462185,
+      0.27700534759358286,
+      0.6727272727272727
     ]
   },
   {
@@ -10812,7 +10823,8 @@
       "order": "Rosales",
       "family": "Rosaceae",
       "genus": "Crataegus",
-      "species": "Crataegus monogyna form. pendula",
+      "species": "Crataegus monogyna",
+      "form": "pendula",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -10830,9 +10842,9 @@
     "name_botanical": "Crataegus monogyna form. pendula",
     "wp_link": "Crataegus_monogyna",
     "color": [
-      0.5887524240465417,
-      0.2914027149321267,
-      0.7076923076923077
+      0.5596638655462185,
+      0.27700534759358286,
+      0.6727272727272727
     ]
   },
   {
@@ -10860,9 +10872,9 @@
     "name_botanical": "Crataegus phaenopyrum",
     "wp_link": "Crataegus_phaenopyrum",
     "color": [
-      0.6207498383968972,
-      0.3072398190045249,
-      0.7461538461538462
+      0.5974789915966388,
+      0.29572192513368983,
+      0.7181818181818183
     ]
   },
   {
@@ -10890,9 +10902,9 @@
     "name_botanical": "Crataegus viridis 'Winter King'",
     "wp_link": "Crataegus_viridis",
     "color": [
-      0.6527472527472529,
-      0.3230769230769231,
-      0.7846153846153847
+      0.6352941176470589,
+      0.3144385026737968,
+      0.7636363636363637
     ]
   },
   {
@@ -15036,7 +15048,8 @@
       "order": "Rosales",
       "family": "Ulmaceae",
       "genus": "Ulmus",
-      "species": "Ulmus davidiana var. japonica",
+      "species": "Ulmus davidiana",
+      "variety": "japonica",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -15066,7 +15079,8 @@
       "order": "Rosales",
       "family": "Ulmaceae",
       "genus": "Ulmus",
-      "species": "Ulmus davidiana var. japonica",
+      "species": "Ulmus davidiana",
+      "variety": "japonica",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -15167,7 +15181,7 @@
     },
     "count": 49,
     "name_common": [
-      "Accolade Elm"
+      "Elm"
     ],
     "name_botanical": "Ulmus japonica × wilsoniana 'Morton'",
     "wp_link": "Ulmus",
@@ -15896,9 +15910,9 @@
     "name_botanical": "Acer × freemanii",
     "wp_link": "Acer_saccharinum",
     "color": [
-      0.8696969696969697,
-      0.4348484848484849,
-      0.8541666666666667
+      0.8666666666666667,
+      0.43333333333333335,
+      0.8511904761904763
     ]
   },
   {
@@ -15926,9 +15940,9 @@
     "name_botanical": "Acer × freemanii 'Armstrong'",
     "wp_link": "Acer_saccharinum",
     "color": [
-      0.8696969696969697,
-      0.4348484848484849,
-      0.8541666666666667
+      0.8666666666666667,
+      0.43333333333333335,
+      0.8511904761904763
     ]
   },
   {
@@ -15956,9 +15970,9 @@
     "name_botanical": "Acer × freemanii 'Autumn Blaze'",
     "wp_link": "Acer_saccharinum",
     "color": [
-      0.8696969696969697,
-      0.4348484848484849,
-      0.8541666666666667
+      0.8666666666666667,
+      0.43333333333333335,
+      0.8511904761904763
     ]
   },
   {
@@ -15986,9 +16000,9 @@
     "name_botanical": "Acer × freemanii 'Celebration'",
     "wp_link": "Acer_saccharinum",
     "color": [
-      0.8696969696969697,
-      0.4348484848484849,
-      0.8541666666666667
+      0.8666666666666667,
+      0.43333333333333335,
+      0.8511904761904763
     ]
   },
   {
@@ -16016,9 +16030,9 @@
     "name_botanical": "Acer × freemanii 'Firefall'",
     "wp_link": "Acer_saccharinum",
     "color": [
-      0.8696969696969697,
-      0.4348484848484849,
-      0.8541666666666667
+      0.8666666666666667,
+      0.43333333333333335,
+      0.8511904761904763
     ]
   },
   {
@@ -16046,9 +16060,9 @@
     "name_botanical": "Acer × freemanii 'Morgan'",
     "wp_link": "Acer_saccharinum",
     "color": [
-      0.8696969696969697,
-      0.4348484848484849,
-      0.8541666666666667
+      0.8666666666666667,
+      0.43333333333333335,
+      0.8511904761904763
     ]
   },
   {
@@ -16076,9 +16090,9 @@
     "name_botanical": "Acer × freemanii 'Scarlet Sentinel'",
     "wp_link": "Acer_saccharinum",
     "color": [
-      0.8696969696969697,
-      0.4348484848484849,
-      0.8541666666666667
+      0.8666666666666667,
+      0.43333333333333335,
+      0.8511904761904763
     ]
   },
   {
@@ -16106,9 +16120,9 @@
     "name_botanical": "Acer buergerianum",
     "wp_link": "Acer_buergerianum",
     "color": [
-      0.41515151515151516,
-      0.20757575757575758,
-      0.4077380952380953
+      0.4166666666666667,
+      0.20833333333333334,
+      0.4092261904761905
     ]
   },
   {
@@ -16137,9 +16151,9 @@
     "name_botanical": "Acer campestre",
     "wp_link": "Acer_campestre",
     "color": [
-      0.4303030303030303,
-      0.21515151515151515,
-      0.4226190476190476
+      0.43333333333333335,
+      0.21666666666666667,
+      0.42559523809523814
     ]
   },
   {
@@ -16168,9 +16182,9 @@
     "name_botanical": "Acer campestre 'Panacek'",
     "wp_link": "Acer_campestre",
     "color": [
-      0.4303030303030303,
-      0.21515151515151515,
-      0.4226190476190476
+      0.43333333333333335,
+      0.21666666666666667,
+      0.42559523809523814
     ]
   },
   {
@@ -16199,9 +16213,9 @@
     "name_botanical": "Acer campestre 'Queen Elizabeth'",
     "wp_link": "Acer_campestre",
     "color": [
-      0.4303030303030303,
-      0.21515151515151515,
-      0.4226190476190476
+      0.43333333333333335,
+      0.21666666666666667,
+      0.42559523809523814
     ]
   },
   {
@@ -16229,9 +16243,9 @@
     "name_botanical": "Acer capillipes",
     "wp_link": "Acer_capillipes",
     "color": [
-      0.4454545454545455,
-      0.22272727272727275,
-      0.43750000000000006
+      0.45,
+      0.225,
+      0.44196428571428575
     ]
   },
   {
@@ -16259,9 +16273,9 @@
     "name_botanical": "Acer cappadocicum",
     "wp_link": "Acer_cappadocicum",
     "color": [
-      0.46060606060606063,
-      0.23030303030303031,
-      0.45238095238095244
+      0.4666666666666667,
+      0.23333333333333334,
+      0.45833333333333337
     ]
   },
   {
@@ -16289,9 +16303,9 @@
     "name_botanical": "Acer circinatum",
     "wp_link": "Acer_circinatum",
     "color": [
-      0.47575757575757577,
-      0.23787878787878788,
-      0.4672619047619048
+      0.48333333333333334,
+      0.24166666666666667,
+      0.474702380952381
     ]
   },
   {
@@ -16319,9 +16333,9 @@
     "name_botanical": "Acer davidii",
     "wp_link": "Acer_davidii",
     "color": [
-      0.49090909090909096,
-      0.24545454545454548,
-      0.4821428571428572
+      0.5,
+      0.25,
+      0.4910714285714286
     ]
   },
   {
@@ -16355,9 +16369,9 @@
     "name_botanical": "Acer glabrum",
     "wp_link": "Acer_glabrum",
     "color": [
-      0.5060606060606061,
-      0.25303030303030305,
-      0.4970238095238096
+      0.5166666666666667,
+      0.25833333333333336,
+      0.5074404761904763
     ]
   },
   {
@@ -16388,9 +16402,9 @@
     "name_botanical": "Acer grandidentatum",
     "wp_link": "Acer_grandidentatum",
     "color": [
-      0.5212121212121212,
-      0.2606060606060606,
-      0.511904761904762
+      0.5333333333333333,
+      0.26666666666666666,
+      0.5238095238095238
     ]
   },
   {
@@ -16418,9 +16432,9 @@
     "name_botanical": "Acer griseum",
     "wp_link": "Acer_griseum",
     "color": [
-      0.5363636363636364,
-      0.2681818181818182,
-      0.5267857142857143
+      0.55,
+      0.275,
+      0.5401785714285715
     ]
   },
   {
@@ -16448,9 +16462,9 @@
     "name_botanical": "Acer japonicum",
     "wp_link": "Acer_japonicum",
     "color": [
-      0.5515151515151515,
-      0.27575757575757576,
-      0.5416666666666667
+      0.5666666666666667,
+      0.2833333333333333,
+      0.5565476190476191
     ]
   },
   {
@@ -16478,9 +16492,9 @@
     "name_botanical": "Acer macrophyllum",
     "wp_link": "Acer_macrophyllum",
     "color": [
-      0.5666666666666667,
-      0.2833333333333333,
-      0.5565476190476191
+      0.5833333333333334,
+      0.2916666666666667,
+      0.5729166666666667
     ]
   },
   {
@@ -16508,9 +16522,9 @@
     "name_botanical": "Acer miyabei 'Jfs-kw3ami'",
     "wp_link": "Acer_miyabei",
     "color": [
-      0.5818181818181818,
-      0.2909090909090909,
-      0.5714285714285714
+      0.6000000000000001,
+      0.30000000000000004,
+      0.5892857142857144
     ]
   },
   {
@@ -16538,9 +16552,9 @@
     "name_botanical": "Acer miyabei 'Morton'",
     "wp_link": "Acer_miyabei",
     "color": [
-      0.5818181818181818,
-      0.2909090909090909,
-      0.5714285714285714
+      0.6000000000000001,
+      0.30000000000000004,
+      0.5892857142857144
     ]
   },
   {
@@ -16568,9 +16582,9 @@
     "name_botanical": "Acer monspessulanum",
     "wp_link": "Acer_monspessulanum",
     "color": [
-      0.5969696969696969,
-      0.29848484848484846,
-      0.5863095238095238
+      0.6166666666666667,
+      0.30833333333333335,
+      0.605654761904762
     ]
   },
   {
@@ -16606,9 +16620,9 @@
     "name_botanical": "Acer negundo",
     "wp_link": "Acer_negundo",
     "color": [
-      0.6121212121212122,
-      0.3060606060606061,
-      0.6011904761904763
+      0.6333333333333333,
+      0.31666666666666665,
+      0.6220238095238095
     ]
   },
   {
@@ -16640,9 +16654,9 @@
     "name_botanical": "Acer nigrum",
     "wp_link": "Acer_nigrum",
     "color": [
-      0.6272727272727273,
-      0.31363636363636366,
-      0.6160714285714286
+      0.65,
+      0.325,
+      0.6383928571428572
     ]
   },
   {
@@ -16674,9 +16688,9 @@
     "name_botanical": "Acer nigrum 'Greencolumn'",
     "wp_link": "Acer_nigrum",
     "color": [
-      0.6272727272727273,
-      0.31363636363636366,
-      0.6160714285714286
+      0.65,
+      0.325,
+      0.6383928571428572
     ]
   },
   {
@@ -16704,9 +16718,9 @@
     "name_botanical": "Acer palmatum",
     "wp_link": "Acer_palmatum",
     "color": [
-      0.6424242424242425,
-      0.3212121212121212,
-      0.630952380952381
+      0.6666666666666667,
+      0.33333333333333337,
+      0.6547619047619049
     ]
   },
   {
@@ -16734,9 +16748,9 @@
     "name_botanical": "Acer palmatum 'Bihou'",
     "wp_link": "Acer_palmatum",
     "color": [
-      0.6424242424242425,
-      0.3212121212121212,
-      0.630952380952381
+      0.6666666666666667,
+      0.33333333333333337,
+      0.6547619047619049
     ]
   },
   {
@@ -16764,9 +16778,9 @@
     "name_botanical": "Acer palmatum 'Osakazuki'",
     "wp_link": "Acer_palmatum",
     "color": [
-      0.6424242424242425,
-      0.3212121212121212,
-      0.630952380952381
+      0.6666666666666667,
+      0.33333333333333337,
+      0.6547619047619049
     ]
   },
   {
@@ -16794,9 +16808,9 @@
     "name_botanical": "Acer palmatum 'Sango Kaku'",
     "wp_link": "Acer_palmatum",
     "color": [
-      0.6424242424242425,
-      0.3212121212121212,
-      0.630952380952381
+      0.6666666666666667,
+      0.33333333333333337,
+      0.6547619047619049
     ]
   },
   {
@@ -16824,9 +16838,9 @@
     "name_botanical": "Acer palmatum 'Tobiosho'",
     "wp_link": "Acer_palmatum",
     "color": [
-      0.6424242424242425,
-      0.3212121212121212,
-      0.630952380952381
+      0.6666666666666667,
+      0.33333333333333337,
+      0.6547619047619049
     ]
   },
   {
@@ -16838,7 +16852,8 @@
       "order": "Sapindales",
       "family": "Sapindaceae",
       "genus": "Acer",
-      "species": "Acer palmatum var. dissectum",
+      "species": "Acer palmatum",
+      "variety": "dissectum",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -16854,9 +16869,9 @@
     "name_botanical": "Acer palmatum var. dissectum",
     "wp_link": "Acer_palmatum",
     "color": [
-      0.6575757575757576,
-      0.3287878787878788,
-      0.6458333333333334
+      0.6666666666666667,
+      0.33333333333333337,
+      0.6547619047619049
     ]
   },
   {
@@ -16885,9 +16900,9 @@
     "name_botanical": "Acer pensylvanicum",
     "wp_link": "Acer_pensylvanicum",
     "color": [
-      0.6727272727272727,
-      0.33636363636363636,
-      0.6607142857142858
+      0.6833333333333333,
+      0.3416666666666667,
+      0.6711309523809524
     ]
   },
   {
@@ -16915,9 +16930,9 @@
     "name_botanical": "Acer platanoides",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -16945,9 +16960,9 @@
     "name_botanical": "Acer platanoides 'Cavalier'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -16975,9 +16990,9 @@
     "name_botanical": "Acer platanoides 'Cleveland'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17005,9 +17020,9 @@
     "name_botanical": "Acer platanoides 'Col Compact'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17035,9 +17050,9 @@
     "name_botanical": "Acer platanoides 'Columnarbroad'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17065,9 +17080,9 @@
     "name_botanical": "Acer platanoides 'Columnare'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17095,9 +17110,9 @@
     "name_botanical": "Acer platanoides 'Crimson King'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17125,9 +17140,9 @@
     "name_botanical": "Acer platanoides 'Crimson Sentry'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17155,9 +17170,9 @@
     "name_botanical": "Acer platanoides 'Drummondii'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17185,9 +17200,9 @@
     "name_botanical": "Acer platanoides 'Emerald Queen'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17215,9 +17230,9 @@
     "name_botanical": "Acer platanoides 'Ezestre'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17245,9 +17260,9 @@
     "name_botanical": "Acer platanoides 'Globosum'",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.687878787878788,
-      0.343939393939394,
-      0.6755952380952382
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17259,7 +17274,8 @@
       "order": "Sapindales",
       "family": "Sapindaceae",
       "genus": "Acer",
-      "species": "Acer platanoides form. schwedler",
+      "species": "Acer platanoides",
+      "form": "schwedler",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -17275,9 +17291,9 @@
     "name_botanical": "Acer platanoides form. schwedler",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.7030303030303031,
-      0.35151515151515156,
-      0.6904761904761906
+      0.7,
+      0.35,
+      0.6875
     ]
   },
   {
@@ -17306,9 +17322,9 @@
     "name_botanical": "Acer pseudoplatanus",
     "wp_link": "Acer_pseudoplatanus",
     "color": [
-      0.7181818181818183,
-      0.3590909090909091,
-      0.705357142857143
+      0.7166666666666667,
+      0.35833333333333334,
+      0.7038690476190477
     ]
   },
   {
@@ -17337,9 +17353,9 @@
     "name_botanical": "Acer pseudoplatanus 'Atropurpureum'",
     "wp_link": "Acer_pseudoplatanus",
     "color": [
-      0.7181818181818183,
-      0.3590909090909091,
-      0.705357142857143
+      0.7166666666666667,
+      0.35833333333333334,
+      0.7038690476190477
     ]
   },
   {
@@ -17607,9 +17623,9 @@
     "name_botanical": "Acer rufinerve 'Winter Gold'",
     "wp_link": "Acer_rufinerve",
     "color": [
-      0.7484848484848485,
-      0.37424242424242427,
-      0.7351190476190477
+      0.75,
+      0.375,
+      0.7366071428571429
     ]
   },
   {
@@ -17637,9 +17653,9 @@
     "name_botanical": "Acer saccharinum",
     "wp_link": "Acer_saccharinum",
     "color": [
-      0.7636363636363637,
-      0.38181818181818183,
-      0.7500000000000001
+      0.7666666666666666,
+      0.3833333333333333,
+      0.7529761904761905
     ]
   },
   {
@@ -17667,9 +17683,9 @@
     "name_botanical": "Acer saccharum",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17697,9 +17713,9 @@
     "name_botanical": "Acer saccharum 'Bailsta'",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17727,9 +17743,9 @@
     "name_botanical": "Acer saccharum 'Belle Tower'",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17757,9 +17773,9 @@
     "name_botanical": "Acer saccharum 'Bonfire'",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17787,9 +17803,9 @@
     "name_botanical": "Acer saccharum 'Commemoration'",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17817,9 +17833,9 @@
     "name_botanical": "Acer saccharum 'Legacy'",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17847,9 +17863,9 @@
     "name_botanical": "Acer saccharum 'Newton Sentry'",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17877,9 +17893,9 @@
     "name_botanical": "Acer saccharum 'Sandersville'",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17907,9 +17923,9 @@
     "name_botanical": "Acer saccharum 'Sweet Shadow'",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17937,9 +17953,9 @@
     "name_botanical": "Acer saccharum 'Temple's Upright'",
     "wp_link": "Acer_saccharum",
     "color": [
-      0.7787878787878788,
-      0.3893939393939394,
-      0.7648809523809524
+      0.7833333333333334,
+      0.3916666666666667,
+      0.7693452380952382
     ]
   },
   {
@@ -17967,9 +17983,9 @@
     "name_botanical": "Acer tataricum",
     "wp_link": "Acer_tataricum",
     "color": [
-      0.793939393939394,
-      0.396969696969697,
-      0.7797619047619048
+      0.8,
+      0.4,
+      0.7857142857142858
     ]
   },
   {
@@ -17997,9 +18013,9 @@
     "name_botanical": "Acer tataricum 'Patdell'",
     "wp_link": "Acer_tataricum",
     "color": [
-      0.793939393939394,
-      0.396969696969697,
-      0.7797619047619048
+      0.8,
+      0.4,
+      0.7857142857142858
     ]
   },
   {
@@ -18011,7 +18027,8 @@
       "order": "Sapindales",
       "family": "Sapindaceae",
       "genus": "Acer",
-      "species": "Acer tataricum subsp. ginnala",
+      "species": "Acer tataricum",
+      "subspecies": "ginnala",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -18027,9 +18044,9 @@
     "name_botanical": "Acer tataricum subsp. ginnala",
     "wp_link": "Acer_ginnala",
     "color": [
-      0.8090909090909091,
-      0.40454545454545454,
-      0.7946428571428572
+      0.8,
+      0.4,
+      0.7857142857142858
     ]
   },
   {
@@ -18041,7 +18058,8 @@
       "order": "Sapindales",
       "family": "Sapindaceae",
       "genus": "Acer",
-      "species": "Acer tataricum subsp. ginnala",
+      "species": "Acer tataricum",
+      "subspecies": "ginnala",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -18057,9 +18075,9 @@
     "name_botanical": "Acer tataricum subsp. ginnala 'Flame'",
     "wp_link": "Acer_ginnala",
     "color": [
-      0.8090909090909091,
-      0.40454545454545454,
-      0.7946428571428572
+      0.8,
+      0.4,
+      0.7857142857142858
     ]
   },
   {
@@ -18087,9 +18105,9 @@
     "name_botanical": "Acer triflorum",
     "wp_link": "Acer_triflorum",
     "color": [
-      0.8242424242424242,
-      0.4121212121212121,
-      0.8095238095238095
+      0.8166666666666667,
+      0.4083333333333333,
+      0.8020833333333334
     ]
   },
   {
@@ -18117,9 +18135,9 @@
     "name_botanical": "Acer truncatum × platanoides",
     "wp_link": "Acer_platanoides",
     "color": [
-      0.8393939393939394,
-      0.4196969696969697,
-      0.824404761904762
+      0.8333333333333334,
+      0.4166666666666667,
+      0.818452380952381
     ]
   },
   {
@@ -18147,9 +18165,9 @@
     "name_botanical": "Acer tschonoskii",
     "wp_link": "Maple",
     "color": [
-      0.8545454545454545,
-      0.42727272727272725,
-      0.8392857142857143
+      0.8500000000000001,
+      0.42500000000000004,
+      0.8348214285714287
     ]
   },
   {
@@ -18938,9 +18956,9 @@
     "name_botanical": "Chamaecyparis lawsoniana",
     "wp_link": "Chamaecyparis_lawsoniana",
     "color": [
-      0.2711640211640212,
-      0.4555555555555556,
-      0.19740740740740745
+      0.29761904761904767,
+      0.5,
+      0.21666666666666667
     ]
   },
   {
@@ -18972,9 +18990,9 @@
     "name_botanical": "Chamaecyparis lawsoniana 'Alumii'",
     "wp_link": "Chamaecyparis_lawsoniana",
     "color": [
-      0.2711640211640212,
-      0.4555555555555556,
-      0.19740740740740745
+      0.29761904761904767,
+      0.5,
+      0.21666666666666667
     ]
   },
   {
@@ -19006,9 +19024,9 @@
     "name_botanical": "Chamaecyparis lawsoniana 'Stewartii'",
     "wp_link": "Chamaecyparis_lawsoniana",
     "color": [
-      0.2711640211640212,
-      0.4555555555555556,
-      0.19740740740740745
+      0.29761904761904767,
+      0.5,
+      0.21666666666666667
     ]
   },
   {
@@ -19020,7 +19038,8 @@
       "order": "Pinales",
       "family": "Cupressaceae",
       "genus": "Chamaecyparis",
-      "species": "Chamaecyparis lawsoniana form. glauca",
+      "species": "Chamaecyparis lawsoniana",
+      "form": "glauca",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",
@@ -19036,9 +19055,9 @@
     "name_botanical": "Chamaecyparis lawsoniana form. glauca",
     "wp_link": "Pinophyta",
     "color": [
-      0.30423280423280424,
-      0.5111111111111111,
-      0.22148148148148147
+      0.29761904761904767,
+      0.5,
+      0.21666666666666667
     ]
   },
   {
@@ -19066,9 +19085,9 @@
     "name_botanical": "Chamaecyparis obtusa",
     "wp_link": "Chamaecyparis_obtusa",
     "color": [
-      0.3373015873015874,
-      0.5666666666666667,
-      0.24555555555555555
+      0.35714285714285726,
+      0.6000000000000001,
+      0.26000000000000006
     ]
   },
   {
@@ -19096,9 +19115,9 @@
     "name_botanical": "Chamaecyparis pisifera",
     "wp_link": "Chamaecyparis_pisifera",
     "color": [
-      0.37037037037037046,
-      0.6222222222222222,
-      0.26962962962962966
+      0.41666666666666674,
+      0.7,
+      0.30333333333333334
     ]
   },
   {
@@ -19110,7 +19129,8 @@
       "order": "Pinales",
       "family": "Cupressaceae",
       "genus": "Chamaecyparis",
-      "species": "Chamaecyparis pisifera form. filifera",
+      "species": "Chamaecyparis pisifera",
+      "form": "filifera",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",
@@ -19126,9 +19146,9 @@
     "name_botanical": "Chamaecyparis pisifera form. filifera",
     "wp_link": "Chamaecyparis_pisifera",
     "color": [
-      0.40343915343915354,
-      0.6777777777777778,
-      0.29370370370370374
+      0.41666666666666674,
+      0.7,
+      0.30333333333333334
     ]
   },
   {
@@ -19140,7 +19160,8 @@
       "order": "Pinales",
       "family": "Cupressaceae",
       "genus": "Chamaecyparis",
-      "species": "Chamaecyparis pisifera form. plumosa",
+      "species": "Chamaecyparis pisifera",
+      "form": "plumosa",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",
@@ -19156,9 +19177,9 @@
     "name_botanical": "Chamaecyparis pisifera form. plumosa",
     "wp_link": "Chamaecyparis_pisifera",
     "color": [
-      0.4365079365079366,
-      0.7333333333333334,
-      0.3177777777777778
+      0.41666666666666674,
+      0.7,
+      0.30333333333333334
     ]
   },
   {
@@ -19170,7 +19191,8 @@
       "order": "Pinales",
       "family": "Cupressaceae",
       "genus": "Chamaecyparis",
-      "species": "Chamaecyparis pisifera form. squarrosa",
+      "species": "Chamaecyparis pisifera",
+      "form": "squarrosa",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",
@@ -19186,9 +19208,9 @@
     "name_botanical": "Chamaecyparis pisifera form. squarrosa",
     "wp_link": "Chamaecyparis_pisifera",
     "color": [
-      0.4695767195767197,
-      0.788888888888889,
-      0.3418518518518519
+      0.41666666666666674,
+      0.7,
+      0.30333333333333334
     ]
   },
   {
@@ -19398,9 +19420,9 @@
     "name_botanical": "Juniperus chinensis",
     "wp_link": "Juniperus_chinensis",
     "color": [
-      0.22448979591836732,
-      0.4714285714285714,
-      0.1257142857142857
+      0.23015873015873015,
+      0.48333333333333334,
+      0.12888888888888886
     ]
   },
   {
@@ -19412,7 +19434,8 @@
       "order": "Pinales",
       "family": "Cupressaceae",
       "genus": "Juniperus",
-      "species": "Juniperus chinensis var. torulosa",
+      "species": "Juniperus chinensis",
+      "variety": "torulosa",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",
@@ -19428,9 +19451,9 @@
     "name_botanical": "Juniperus chinensis var. torulosa",
     "wp_link": "Juniperus_occidentalis",
     "color": [
-      0.2585034013605442,
-      0.5428571428571429,
-      0.14476190476190476
+      0.23015873015873015,
+      0.48333333333333334,
+      0.12888888888888886
     ]
   },
   {
@@ -19459,9 +19482,9 @@
     "name_botanical": "Juniperus communis",
     "wp_link": "Juniperus_communis",
     "color": [
-      0.2925170068027211,
-      0.6142857142857143,
-      0.1638095238095238
+      0.2698412698412698,
+      0.5666666666666667,
+      0.15111111111111108
     ]
   },
   {
@@ -19489,9 +19512,9 @@
     "name_botanical": "Juniperus scopulorum",
     "wp_link": "Juniperus_scopulorum",
     "color": [
-      0.32653061224489793,
-      0.6857142857142857,
-      0.18285714285714283
+      0.30952380952380953,
+      0.65,
+      0.1733333333333333
     ]
   },
   {
@@ -19521,9 +19544,9 @@
     "name_botanical": "Juniperus virginiana",
     "wp_link": "Juniperus_virginiana",
     "color": [
-      0.3605442176870748,
-      0.7571428571428571,
-      0.20190476190476186
+      0.34920634920634924,
+      0.7333333333333334,
+      0.19555555555555554
     ]
   },
   {
@@ -20304,9 +20327,9 @@
     "name_botanical": "Picea abies",
     "wp_link": "Picea_abies",
     "color": [
-      0.2621651785714284,
-      0.140625,
-      0.45
+      0.2654017857142856,
+      0.14236111111111113,
+      0.4555555555555556
     ]
   },
   {
@@ -20339,9 +20362,9 @@
     "name_botanical": "Picea engelmannii",
     "wp_link": "Picea_engelmannii",
     "color": [
-      0.2912946428571427,
-      0.15625,
-      0.5
+      0.2977678571428569,
+      0.1597222222222222,
+      0.5111111111111111
     ]
   },
   {
@@ -20374,9 +20397,9 @@
     "name_botanical": "Picea glauca",
     "wp_link": "Picea_glauca",
     "color": [
-      0.32042410714285696,
-      0.171875,
-      0.55
+      0.33013392857142837,
+      0.17708333333333331,
+      0.5666666666666667
     ]
   },
   {
@@ -20404,9 +20427,9 @@
     "name_botanical": "Picea omorika",
     "wp_link": "Picea_omorika",
     "color": [
-      0.3495535714285713,
-      0.18750000000000003,
-      0.6000000000000001
+      0.36249999999999977,
+      0.19444444444444445,
+      0.6222222222222222
     ]
   },
   {
@@ -20434,9 +20457,9 @@
     "name_botanical": "Picea orientalis",
     "wp_link": "Picea_orientalis",
     "color": [
-      0.3786830357142855,
-      0.203125,
-      0.65
+      0.3948660714285712,
+      0.21180555555555558,
+      0.6777777777777778
     ]
   },
   {
@@ -20466,9 +20489,9 @@
     "name_botanical": "Picea pungens",
     "wp_link": "Blue_spruce",
     "color": [
-      0.40781249999999974,
-      0.21875,
-      0.7
+      0.4272321428571426,
+      0.22916666666666669,
+      0.7333333333333334
     ]
   },
   {
@@ -20480,7 +20503,8 @@
       "order": "Pinales",
       "family": "Pinaceae",
       "genus": "Picea",
-      "species": "Picea pungens form. glauca",
+      "species": "Picea pungens",
+      "form": "glauca",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",
@@ -20498,9 +20522,9 @@
     "name_botanical": "Picea pungens form. glauca",
     "wp_link": "Blue_spruce",
     "color": [
-      0.436941964285714,
-      0.234375,
-      0.75
+      0.4272321428571426,
+      0.22916666666666669,
+      0.7333333333333334
     ]
   },
   {
@@ -20531,9 +20555,9 @@
     "name_botanical": "Picea sitchensis",
     "wp_link": "Picea_sitchensis",
     "color": [
-      0.4660714285714283,
-      0.25,
-      0.8
+      0.45959821428571407,
+      0.2465277777777778,
+      0.788888888888889
     ]
   },
   {
@@ -20593,9 +20617,9 @@
     "name_botanical": "Pinus aristata",
     "wp_link": "Pinus_aristata",
     "color": [
-      0.22920386904761889,
-      0.10520833333333333,
-      0.42083333333333334
+      0.22969720496894394,
+      0.10543478260869565,
+      0.4217391304347826
     ]
   },
   {
@@ -20626,9 +20650,9 @@
     "name_botanical": "Pinus cembroides",
     "wp_link": "Pinus_cembroides",
     "color": [
-      0.2405505952380951,
-      0.11041666666666668,
-      0.4416666666666667
+      0.24153726708074516,
+      0.1108695652173913,
+      0.4434782608695652
     ]
   },
   {
@@ -20659,9 +20683,9 @@
     "name_botanical": "Pinus contorta",
     "wp_link": "Pinus_contorta",
     "color": [
-      0.25189732142857124,
-      0.115625,
-      0.4625
+      0.2533773291925464,
+      0.11630434782608697,
+      0.46521739130434786
     ]
   },
   {
@@ -20673,7 +20697,8 @@
       "order": "Pinales",
       "family": "Pinaceae",
       "genus": "Pinus",
-      "species": "Pinus contorta var. latifolia",
+      "species": "Pinus contorta",
+      "variety": "latifolia",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",
@@ -20691,9 +20716,9 @@
     "name_botanical": "Pinus contorta var. latifolia",
     "wp_link": "Pinus_contorta",
     "color": [
-      0.26324404761904746,
-      0.12083333333333333,
-      0.48333333333333334
+      0.2533773291925464,
+      0.11630434782608697,
+      0.46521739130434786
     ]
   },
   {
@@ -20723,9 +20748,9 @@
     "name_botanical": "Pinus coulteri",
     "wp_link": "Coulter_pine",
     "color": [
-      0.2745907738095236,
-      0.12604166666666666,
-      0.5041666666666667
+      0.2652173913043476,
+      0.12173913043478261,
+      0.48695652173913045
     ]
   },
   {
@@ -20755,9 +20780,9 @@
     "name_botanical": "Pinus densiflora",
     "wp_link": "Pinus_densiflora",
     "color": [
-      0.2859374999999998,
-      0.13125,
-      0.525
+      0.2770574534161489,
+      0.12717391304347828,
+      0.5086956521739131
     ]
   },
   {
@@ -20785,9 +20810,9 @@
     "name_botanical": "Pinus halepensis",
     "wp_link": "Pinus_halepensis",
     "color": [
-      0.297284226190476,
-      0.13645833333333335,
-      0.5458333333333334
+      0.2888975155279501,
+      0.13260869565217392,
+      0.5304347826086957
     ]
   },
   {
@@ -20815,9 +20840,9 @@
     "name_botanical": "Pinus heldreichii",
     "wp_link": "Pinus_heldreichii",
     "color": [
-      0.3086309523809522,
-      0.14166666666666666,
-      0.5666666666666667
+      0.30073757763975134,
+      0.13804347826086957,
+      0.5521739130434783
     ]
   },
   {
@@ -20845,9 +20870,9 @@
     "name_botanical": "Pinus montezumae",
     "wp_link": "Pinus_montezumae",
     "color": [
-      0.31997767857142834,
-      0.146875,
-      0.5875
+      0.31257763975155256,
+      0.14347826086956522,
+      0.5739130434782609
     ]
   },
   {
@@ -20878,9 +20903,9 @@
     "name_botanical": "Pinus monticola",
     "wp_link": "Western_white_pine",
     "color": [
-      0.33132440476190456,
-      0.15208333333333335,
-      0.6083333333333334
+      0.32441770186335384,
+      0.14891304347826087,
+      0.5956521739130435
     ]
   },
   {
@@ -20908,9 +20933,9 @@
     "name_botanical": "Pinus mugo",
     "wp_link": "Pinus_mugo",
     "color": [
-      0.3426711309523807,
-      0.15729166666666666,
-      0.6291666666666667
+      0.33625776397515506,
+      0.15434782608695652,
+      0.6173913043478261
     ]
   },
   {
@@ -20940,9 +20965,9 @@
     "name_botanical": "Pinus nigra",
     "wp_link": "Pinus_nigra",
     "color": [
-      0.3540178571428569,
-      0.1625,
-      0.65
+      0.34809782608695633,
+      0.1597826086956522,
+      0.6391304347826088
     ]
   },
   {
@@ -20971,9 +20996,9 @@
     "name_botanical": "Pinus pinaster",
     "wp_link": "Pinus_pinaster",
     "color": [
-      0.3653645833333331,
-      0.16770833333333335,
-      0.6708333333333334
+      0.3599378881987575,
+      0.16521739130434782,
+      0.6608695652173913
     ]
   },
   {
@@ -21001,9 +21026,9 @@
     "name_botanical": "Pinus pinea",
     "wp_link": "Stone_pine",
     "color": [
-      0.37671130952380927,
-      0.17291666666666666,
-      0.6916666666666667
+      0.37177795031055877,
+      0.1706521739130435,
+      0.682608695652174
     ]
   },
   {
@@ -21035,9 +21060,9 @@
     "name_botanical": "Pinus ponderosa",
     "wp_link": "Pinus_ponderosa",
     "color": [
-      0.38805803571428543,
-      0.178125,
-      0.7125
+      0.38361801242236,
+      0.17608695652173914,
+      0.7043478260869566
     ]
   },
   {
@@ -21067,9 +21092,9 @@
     "name_botanical": "Pinus pungens",
     "wp_link": "Table_mountain_pine",
     "color": [
-      0.39940476190476165,
-      0.18333333333333335,
-      0.7333333333333334
+      0.3954580745341612,
+      0.1815217391304348,
+      0.7260869565217392
     ]
   },
   {
@@ -21098,9 +21123,9 @@
     "name_botanical": "Pinus radiata",
     "wp_link": "Pinus_radiata",
     "color": [
-      0.4107514880952378,
-      0.18854166666666666,
-      0.7541666666666667
+      0.4072981366459624,
+      0.18695652173913044,
+      0.7478260869565218
     ]
   },
   {
@@ -21132,9 +21157,9 @@
     "name_botanical": "Pinus strobus",
     "wp_link": "Pinus_strobus",
     "color": [
-      0.422098214285714,
-      0.19375,
-      0.775
+      0.4191381987577637,
+      0.1923913043478261,
+      0.7695652173913043
     ]
   },
   {
@@ -21162,9 +21187,9 @@
     "name_botanical": "Pinus sylvestris",
     "wp_link": "Scots_pine",
     "color": [
-      0.4334449404761902,
-      0.19895833333333335,
-      0.7958333333333334
+      0.430978260869565,
+      0.19782608695652176,
+      0.791304347826087
     ]
   },
   {
@@ -21192,9 +21217,9 @@
     "name_botanical": "Pinus thunbergii",
     "wp_link": "Pinus_thunbergii",
     "color": [
-      0.44479166666666636,
-      0.20416666666666666,
-      0.8166666666666667
+      0.44281832298136614,
+      0.20326086956521738,
+      0.8130434782608695
     ]
   },
   {
@@ -21222,9 +21247,9 @@
     "name_botanical": "Pinus uncinata",
     "wp_link": "Pinus_mugo",
     "color": [
-      0.4561383928571425,
-      0.209375,
-      0.8375
+      0.4546583850931674,
+      0.20869565217391306,
+      0.8347826086956522
     ]
   },
   {
@@ -21255,9 +21280,9 @@
     "name_botanical": "Pinus wallichiana",
     "wp_link": "Pinus_wallichiana",
     "color": [
-      0.46748511904761875,
-      0.21458333333333335,
-      0.8583333333333334
+      0.4664984472049686,
+      0.21413043478260868,
+      0.8565217391304347
     ]
   },
   {

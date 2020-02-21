@@ -27,6 +27,12 @@ for (let o of data) {
   let latitude = o['Y_LAT'];
   let longitude = o['X_LONG'];
 
+  if (!Number(latitude) || !Number(longitude)) 
+  { 
+    console.log(`skipping: ${latitude} ${longitude}`);
+    continue; 
+  }
+
   // remove uninteresting sites
   if (
     !species ||

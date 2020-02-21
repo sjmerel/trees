@@ -1721,7 +1721,8 @@
       "order": "Fagales",
       "family": "Betulaceae",
       "genus": "Betula",
-      "species": "Betula utilis subsp. albosinensis",
+      "species": "Betula utilis",
+      "subspecies": "albosinensis",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -3377,7 +3378,7 @@
     },
     "count": 2,
     "name_common": [
-      "Silber-linde"
+      "Littleleaf Linden"
     ],
     "name_botanical": "Tilia tomentosa",
     "wp_link": "Tilia_tomentosa",

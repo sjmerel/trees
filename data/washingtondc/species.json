@@ -147,9 +147,9 @@
     "name_botanical": "Cornus alternifolia",
     "wp_link": "Cornus_alternifolia",
     "color": [
-      0.4264705882352941,
-      0.48333333333333334,
-      0.24166666666666667
+      0.4411764705882353,
+      0.5,
+      0.25
     ]
   },
   {
@@ -177,9 +177,9 @@
     "name_botanical": "Cornus florida",
     "wp_link": "Cornus_florida",
     "color": [
-      0.49999999999999994,
-      0.5666666666666667,
-      0.2833333333333333
+      0.5294117647058825,
+      0.6000000000000001,
+      0.30000000000000004
     ]
   },
   {
@@ -191,7 +191,8 @@
       "order": "Cornales",
       "family": "Cornaceae",
       "genus": "Cornus",
-      "species": "Cornus florida var. florida",
+      "species": "Cornus florida",
+      "variety": "florida",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -207,9 +208,9 @@
     "name_botanical": "Cornus florida var. florida",
     "wp_link": "Cornus",
     "color": [
-      0.5735294117647058,
-      0.65,
-      0.325
+      0.5294117647058825,
+      0.6000000000000001,
+      0.30000000000000004
     ]
   },
   {
@@ -239,9 +240,9 @@
     "name_botanical": "Cornus kousa",
     "wp_link": "Cornus_kousa",
     "color": [
-      0.6470588235294118,
-      0.7333333333333334,
-      0.3666666666666667
+      0.6176470588235293,
+      0.7,
+      0.35
     ]
   },
   {
@@ -2738,8 +2739,7 @@
     },
     "count": 1,
     "name_common": [
-      "Carolina Poplar",
-      "Kanadische Hybridpappel"
+      "Carolina Poplar"
     ],
     "name_botanical": "Populus canadensis",
     "wp_link": "Populus_×_canadensis",
@@ -3039,7 +3039,7 @@
     },
     "count": 1042,
     "name_common": [
-      "Silber-linde"
+      "Silver Linden"
     ],
     "name_botanical": "Tilia tomentosa",
     "wp_link": "Tilia_tomentosa",
@@ -5830,7 +5830,8 @@
       "order": "Pinales",
       "family": "Cupressaceae",
       "genus": "Taxodium",
-      "species": "Taxodium distichum var. imbricarium",
+      "species": "Taxodium distichum",
+      "variety": "imbricarium",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Pinophyta",
@@ -5846,9 +5847,9 @@
     "name_botanical": "Taxodium distichum var. imbricarium",
     "wp_link": "Taxodium_ascendens",
     "color": [
-      0.3916666666666667,
-      0.5666666666666667,
-      0.14166666666666666
+      0.2764705882352942,
+      0.4,
+      0.1
     ]
   },
   {
