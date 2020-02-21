@@ -4,7 +4,7 @@
 const Fs = require('fs');
 const CsvParse = require('csv-parse/lib/sync')
 
-const srcDataDir='../../data/src/dc/';
+const srcDataDir='../../data/src/washingtondc/';
 
 console.log('reading data');
 let csvData = Fs.readFileSync(srcDataDir + 'Urban_Forestry_Street_Trees.csv');

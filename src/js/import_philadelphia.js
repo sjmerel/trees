@@ -4,28 +4,13 @@
 const Fs = require('fs');
 const CsvParse = require('csv-parse/lib/sync')
 
-const srcDataDir='../../data/src/nyc/';
+const srcDataDir='../../data/src/philadelphia/';
 
 console.log('reading data');
-let csvData = Fs.readFileSync(srcDataDir + '2015StreetTreesCensus_TREES.csv');
+let csvData = Fs.readFileSync(srcDataDir + 'tree_export_6z9Kpu2.csv');
 
 // remove BOM
 csvData = csvData.slice(3); 
-
-/*
-let line = 1;
-const lines_per = 100000;
-for (;;) {
-  console.log('parsing data');
-  let data = CsvParse(csvData, {
-    columns: true,
-    //skip_empty_lines: true,
-    from_line: line,
-    to_line: line + lines_per
-  });
-  line += lines_per;
-  }
-  */
 
 console.log('parsing data');
 let data = CsvParse(csvData, {
@@ -40,19 +25,31 @@ for (let o of data) {
 
   if (!o) { continue; }
 
-  let species = o['spc_latin'];
-  let commonName = o['spc_common'];
-  let latitude = o['Latitude'];
-  let longitude = o['longitude'];
+  let genus = o['Genus'];
+  let species = o['Species'];
+  let cultivar = o['Cultivar'];
+  let commonName = o['Common Name'];
+  let latitude = o['Point Y'];
+  let longitude = o['Point X'];
 
-  if (!species.length) {
+  if (!genus.length) {
+    continue;
+  }
+
+  let botanicalName = `${genus} ${species}`;
+  if (cultivar) {
+    botanicalName += ` '${cultivar}'`;
+  }
+
+  if (latitude < 39.5 || latitude > 40.34 || longitude < -75.55 || longitude > -74.8) {
+    console.log('skipping: ' + latitude + ',' + longitude + ' ' + botanicalName);
     continue;
   }
 
   sites.push({
     longitude: Number(longitude),
     latitude: Number(latitude),
-    name_botanical: species,
+    name_botanical: botanicalName,
     name_common: commonName
   });
 }

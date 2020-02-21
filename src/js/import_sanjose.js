@@ -4,10 +4,13 @@
 const Fs = require('fs');
 const CsvParse = require('csv-parse/lib/sync')
 
-const srcDataDir='../../data/src/sm/';
+const srcDataDir='../../data/src/sanjose/';
 
 console.log('reading data');
-let csvData = Fs.readFileSync(srcDataDir + 'Trees_Inventory.csv');
+let csvData = Fs.readFileSync(srcDataDir + 'Trees__Special_Districts.csv');
+
+// remove BOM
+csvData = csvData.slice(3); 
 
 console.log('parsing data');
 let data = CsvParse(csvData, {
@@ -20,18 +23,17 @@ let sites = [];
 let skipped = {};
 for (let o of data) {
 
-  let species = o['Name Botanical'];
-  let latitude = o['Latitude'];
-  let longitude = o['Longitude'];
+  let species = o['NAMESCIENTIFIC'];
+  let latitude = o['Y'];
+  let longitude = o['X'];
 
   // remove uninteresting sites
-  if (species.startsWith('Stump') 
-    || species == 'Other tree'
-    || species == 'No Replant'
-    || species == 'Asphalted well'
-    || species == 'Unidentified spp.'
-    || species == 'Vacant site'
-    || species == 'Unsuitable site') {
+  if (
+    species == 'Vacant site' ||
+    species == 'Stump' ||
+    species == 'Unknown' ||
+    species == 'Other' 
+  ){
     if (!skipped[species]) {
       console.log('skipping: ' + species);
       skipped[species] = true;
@@ -43,9 +45,12 @@ for (let o of data) {
     latitude: Number(latitude),
     longitude: Number(longitude),
     name_botanical: species,
-    name_common: o['Name Common']
+    name_common: ''
   });
 }
 
 console.log('writing data');
 Fs.writeFileSync(srcDataDir + 'data.json', JSON.stringify(sites, null, 2));
+
+
+

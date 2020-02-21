@@ -19,20 +19,21 @@ const dataDir='../../data/';
 const datasets=[
 'austin', 
 'berkeley', 
-'dc', 
-'la', 
+'washingtondc', 
+'denver',
+'losangeles', 
 'london', 
 'montreal',
-'nyc', 
-'oak', 
-'pas', 
-'phi', 
+'newyorkcity', 
+'oakland', 
+'pasadena', 
+'philadelphia', 
 'sacramento', 
 'seattle', 
-'sf', 
-'sjo', 
-'sm', 
-'weho'];
+'sanfrancisco', 
+'sanjose', 
+'santamonica', 
+'westhollywood'];
 
 // process:
 // - read data.json
