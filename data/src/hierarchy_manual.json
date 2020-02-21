@@ -1,0 +1,23 @@
+{
+  "Chitalpa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae"
+  },
+  "Palm": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Cuprocyparis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  }
+}

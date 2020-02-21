@@ -1,0 +1,7657 @@
+[
+  {
+    "id": 159,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Cycadopsida",
+      "order": "Cycadales",
+      "family": "Cycadaceae",
+      "genus": "Cycas",
+      "species": "Cycas revoluta",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Cycad",
+      "order_wp": "Cycadales",
+      "family_wp": "Cycas",
+      "genus_wp": "Cycas",
+      "species_wp": "Cycas_revoluta"
+    },
+    "count": 27,
+    "name_common": [
+      "Sago Palm"
+    ],
+    "name_botanical": "Cycas revoluta",
+    "wp_link": "Cycas_revoluta",
+    "color": [
+      0.24255319148936172,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "id": 81,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Ginkgoopsida",
+      "order": "Ginkgoales",
+      "family": "Ginkgoaceae",
+      "genus": "Ginkgo",
+      "species": "Ginkgo biloba",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Ginkgoales",
+      "order_wp": "Ginkgoales",
+      "family_wp": "Ginkgoaceae",
+      "genus_wp": "Ginkgo",
+      "species_wp": "Ginkgo_biloba"
+    },
+    "count": 267,
+    "name_common": [
+      "Maidenhair Tree",
+      "Common Ginkgo"
+    ],
+    "name_botanical": "Ginkgo biloba",
+    "wp_link": "Ginkgo_biloba",
+    "color": [
+      0.2,
+      0.4,
+      0.3106382978723405
+    ]
+  },
+  {
+    "id": 221,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Liliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Brahea",
+      "species": "Brahea armata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Liliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Brahea",
+      "species_wp": "Brahea_armata"
+    },
+    "count": 2,
+    "name_common": [
+      "Mexican Blue Palm"
+    ],
+    "name_botanical": "Brahea armata",
+    "wp_link": "Brahea_armata",
+    "color": [
+      0.4,
+      0.37678916827853004,
+      0.18181818181818185
+    ]
+  },
+  {
+    "id": 74,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Liliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Brahea",
+      "species": "Brahea edulis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Liliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Brahea",
+      "species_wp": "Brahea_edulis"
+    },
+    "count": 297,
+    "name_common": [
+      "Guadalupe Palm"
+    ],
+    "name_botanical": "Brahea edulis",
+    "wp_link": "Brahea_edulis",
+    "color": [
+      0.5666666666666667,
+      0.5337846550612508,
+      0.25757575757575757
+    ]
+  },
+  {
+    "id": 5,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Apiales",
+      "family": "Pittosporaceae",
+      "genus": "Auranticarpa",
+      "species": "Auranticarpa rhombifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Apiales",
+      "family_wp": "Pittosporaceae",
+      "genus_wp": "Auranticarpa",
+      "species_wp": "Auranticarpa_rhombifolia"
+    },
+    "count": 391,
+    "name_common": [
+      "Queensland Pittosporum"
+    ],
+    "name_botanical": "Auranticarpa rhombifolia",
+    "wp_link": "Auranticarpa_rhombifolia",
+    "color": [
+      0.26808510638297883,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "id": 154,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Apiales",
+      "family": "Pittosporaceae",
+      "genus": "Hymenosporum",
+      "species": "Hymenosporum flavum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Apiales",
+      "family_wp": "Pittosporaceae",
+      "genus_wp": "Hymenosporum",
+      "species_wp": "Hymenosporum"
+    },
+    "count": 36,
+    "name_common": [
+      "Sweetshade"
+    ],
+    "name_botanical": "Hymenosporum flavum",
+    "wp_link": "Hymenosporum",
+    "color": [
+      0.23510638297872355,
+      0.15000000000000002,
+      0.4
+    ]
+  },
+  {
+    "id": 186,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Apiales",
+      "family": "Pittosporaceae",
+      "genus": "Pittosporum",
+      "species": "Pittosporum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Apiales",
+      "family_wp": "Pittosporaceae",
+      "genus_wp": "Pittosporum",
+      "species_wp": "Pittosporum"
+    },
+    "count": 9,
+    "name_common": [
+      "Cheesewood"
+    ],
+    "name_botanical": "Pittosporum",
+    "wp_link": "Pittosporum",
+    "color": [
+      0.20212765957446824,
+      0.1,
+      0.4
+    ]
+  },
+  {
+    "id": 203,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Apiales",
+      "family": "Pittosporaceae",
+      "genus": "Pittosporum",
+      "species": "Pittosporum crassifolium",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Apiales",
+      "family_wp": "Pittosporaceae",
+      "genus_wp": "Pittosporum",
+      "species_wp": "Pittosporum_crassifolium"
+    },
+    "count": 21,
+    "name_common": [
+      "Stiffleaf Cheesewood"
+    ],
+    "name_botanical": "Pittosporum crassifolium",
+    "wp_link": "Pittosporum_crassifolium",
+    "color": [
+      0.2526595744680853,
+      0.125,
+      0.5
+    ]
+  },
+  {
+    "id": 66,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Apiales",
+      "family": "Pittosporaceae",
+      "genus": "Pittosporum",
+      "species": "Pittosporum tobira",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Apiales",
+      "family_wp": "Pittosporaceae",
+      "genus_wp": "Pittosporum",
+      "species_wp": "Pittosporum_tobira"
+    },
+    "count": 84,
+    "name_common": [
+      "Japanese Cheesewood"
+    ],
+    "name_botanical": "Pittosporum tobira",
+    "wp_link": "Pittosporum_tobira",
+    "color": [
+      0.30319148936170237,
+      0.15000000000000002,
+      0.6000000000000001
+    ]
+  },
+  {
+    "id": 77,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Apiales",
+      "family": "Pittosporaceae",
+      "genus": "Pittosporum",
+      "species": "Pittosporum undulatum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Apiales",
+      "family_wp": "Pittosporaceae",
+      "genus_wp": "Pittosporum",
+      "species_wp": "Pittosporum_undulatum"
+    },
+    "count": 251,
+    "name_common": [
+      "Mock Orange",
+      "Sweet Pittosporum",
+      "Victorian Box",
+      "Victorian Laurel",
+      "Australian Cheesewood"
+    ],
+    "name_botanical": "Pittosporum undulatum",
+    "wp_link": "Pittosporum_undulatum",
+    "color": [
+      0.3537234042553194,
+      0.175,
+      0.7
+    ]
+  },
+  {
+    "id": 158,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Aquifoliales",
+      "family": "Aquifoliaceae",
+      "genus": "Ilex",
+      "species": "Ilex × altaclerensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Aquifoliales",
+      "family_wp": "Holly",
+      "genus_wp": "Holly",
+      "species_wp": "Ilex_aquifolium"
+    },
+    "count": 9,
+    "name_common": [
+      "Holly"
+    ],
+    "name_botanical": "Ilex × altaclerensis",
+    "wp_link": "Ilex_aquifolium",
+    "color": [
+      0.5666666666666667,
+      0.46418439716312054,
+      0.2833333333333333
+    ]
+  },
+  {
+    "id": 222,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Aquifoliales",
+      "family": "Aquifoliaceae",
+      "genus": "Ilex",
+      "species": "Ilex cornuta",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Aquifoliales",
+      "family_wp": "Holly",
+      "genus_wp": "Holly",
+      "species_wp": "Ilex_cornuta"
+    },
+    "count": 3,
+    "name_common": [
+      "Chinese Holly",
+      "Horned Holly"
+    ],
+    "name_botanical": "Ilex cornuta",
+    "wp_link": "Ilex_cornuta",
+    "color": [
+      0.4,
+      0.32765957446808514,
+      0.2
+    ]
+  },
+  {
+    "id": 141,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Archontophoenix",
+      "species": "Archontophoenix cunninghamiana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Archontophoenix",
+      "species_wp": "Archontophoenix_cunninghamiana"
+    },
+    "count": 20,
+    "name_common": [
+      "King Palm"
+    ],
+    "name_botanical": "Archontophoenix cunninghamiana",
+    "wp_link": "Archontophoenix_cunninghamiana",
+    "color": [
+      0.4,
+      0.37872340425531914,
+      0.2
+    ]
+  },
+  {
+    "id": 58,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Butia",
+      "species": "Butia capitata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Butia",
+      "species_wp": "Butia_capitata"
+    },
+    "count": 97,
+    "name_common": [
+      "South American Jelly Palm"
+    ],
+    "name_botanical": "Butia capitata",
+    "wp_link": "Butia_capitata",
+    "color": [
+      0.4,
+      0.37485493230174083,
+      0.16363636363636364
+    ]
+  },
+  {
+    "id": 61,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Chamaerops",
+      "species": "Chamaerops humilis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Chamaerops",
+      "species_wp": "Chamaerops"
+    },
+    "count": 50,
+    "name_common": [
+      "European Fan Palm"
+    ],
+    "name_botanical": "Chamaerops humilis",
+    "wp_link": "Chamaerops",
+    "color": [
+      0.4,
+      0.3729206963249516,
+      0.14545454545454548
+    ]
+  },
+  {
+    "id": 196,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Livistona",
+      "species": "Livistona australis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Livistona",
+      "species_wp": "Livistona_australis"
+    },
+    "count": 5,
+    "name_common": [
+      "Livistonia Palm"
+    ],
+    "name_botanical": "Livistona australis",
+    "wp_link": "Livistona_australis",
+    "color": [
+      0.4,
+      0.3709864603481625,
+      0.12727272727272726
+    ]
+  },
+  {
+    "id": 69,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Livistona",
+      "species": "Livistona chinensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Livistona",
+      "species_wp": "Livistona_chinensis"
+    },
+    "count": 28,
+    "name_common": [
+      "Fountain Palm",
+      "Chinese Fan Palm"
+    ],
+    "name_botanical": "Livistona chinensis",
+    "wp_link": "Livistona_chinensis",
+    "color": [
+      0.5666666666666667,
+      0.5255641521598968,
+      0.18030303030303027
+    ]
+  },
+  {
+    "id": 7,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Palm",
+      "species": "Palm",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Arecaceae",
+      "species_wp": "Arecaceae"
+    },
+    "count": 35,
+    "name_common": [
+      "Palm"
+    ],
+    "name_botanical": "Palm",
+    "wp_link": "Arecaceae",
+    "color": [
+      0.4,
+      0.3690522243713733,
+      0.10909090909090909
+    ]
+  },
+  {
+    "id": 70,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Phoenix",
+      "species": "Phoenix",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Phoenix_(plant)",
+      "species_wp": "Phoenix_(plant)"
+    },
+    "count": 18,
+    "name_common": [
+      "Date Palm"
+    ],
+    "name_botanical": "Phoenix",
+    "wp_link": "Phoenix_(plant)",
+    "color": [
+      0.4,
+      0.36711798839458415,
+      0.09090909090909093
+    ]
+  },
+  {
+    "id": 72,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Phoenix",
+      "species": "Phoenix canariensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Phoenix_(plant)",
+      "species_wp": "Phoenix_canariensis"
+    },
+    "count": 924,
+    "name_common": [
+      "Canary Island Date Palm"
+    ],
+    "name_botanical": "Phoenix canariensis",
+    "wp_link": "Phoenix_canariensis",
+    "color": [
+      0.5,
+      0.4588974854932302,
+      0.11363636363636365
+    ]
+  },
+  {
+    "id": 2,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Phoenix",
+      "species": "Phoenix dactylifera",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Phoenix_(plant)",
+      "species_wp": "Date_palm"
+    },
+    "count": 221,
+    "name_common": [
+      "Date Palm"
+    ],
+    "name_botanical": "Phoenix dactylifera",
+    "wp_link": "Date_palm",
+    "color": [
+      0.6000000000000001,
+      0.5506769825918763,
+      0.1363636363636364
+    ]
+  },
+  {
+    "id": 162,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Phoenix",
+      "species": "Phoenix reclinata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Phoenix_(plant)",
+      "species_wp": "Phoenix_reclinata"
+    },
+    "count": 46,
+    "name_common": [
+      "Senegal Date Palm",
+      "Reclining Date Palm"
+    ],
+    "name_botanical": "Phoenix reclinata",
+    "wp_link": "Phoenix_reclinata",
+    "color": [
+      0.7,
+      0.6424564796905222,
+      0.1590909090909091
+    ]
+  },
+  {
+    "id": 51,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Syagrus",
+      "species": "Syagrus romanzoffiana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Syagrus_(plant)",
+      "species_wp": "Syagrus_romanzoffiana"
+    },
+    "count": 320,
+    "name_common": [
+      "Queen Palm"
+    ],
+    "name_botanical": "Syagrus romanzoffiana",
+    "wp_link": "Syagrus_romanzoffiana",
+    "color": [
+      0.4,
+      0.365183752417795,
+      0.07272727272727275
+    ]
+  },
+  {
+    "id": 64,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Trachycarpus",
+      "species": "Trachycarpus fortunei",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Trachycarpus",
+      "species_wp": "Trachycarpus_fortunei"
+    },
+    "count": 379,
+    "name_common": [
+      "Chinese Windmill Palm"
+    ],
+    "name_botanical": "Trachycarpus fortunei",
+    "wp_link": "Trachycarpus_fortunei",
+    "color": [
+      0.4,
+      0.36324951644100584,
+      0.05454545454545454
+    ]
+  },
+  {
+    "id": 38,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Washingtonia",
+      "species": "Washingtonia filifera",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Washingtonia",
+      "species_wp": "Washingtonia_filifera"
+    },
+    "count": 811,
+    "name_common": [
+      "California Fan Palm"
+    ],
+    "name_botanical": "Washingtonia filifera",
+    "wp_link": "Washingtonia_filifera",
+    "color": [
+      0.4,
+      0.3613152804642166,
+      0.036363636363636334
+    ]
+  },
+  {
+    "id": 19,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Arecales",
+      "family": "Arecaceae",
+      "genus": "Washingtonia",
+      "species": "Washingtonia robusta",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Arecales",
+      "family_wp": "Arecaceae",
+      "genus_wp": "Washingtonia",
+      "species_wp": "Washingtonia_robusta"
+    },
+    "count": 4871,
+    "name_common": [
+      "Washington Fan Palm",
+      "Mexican Fan Palm"
+    ],
+    "name_botanical": "Washingtonia robusta",
+    "wp_link": "Washingtonia_robusta",
+    "color": [
+      0.5666666666666667,
+      0.5118633139909735,
+      0.051515151515151465
+    ]
+  },
+  {
+    "id": 134,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Asparagales",
+      "family": "Asparagaceae",
+      "genus": "Cordyline",
+      "species": "Cordyline australis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Asparagales",
+      "family_wp": "Asparagaceae",
+      "genus_wp": "Cordyline",
+      "species_wp": "Cordyline_australis"
+    },
+    "count": 13,
+    "name_common": [
+      "Cabbage Tree"
+    ],
+    "name_botanical": "Cordyline australis",
+    "wp_link": "Cordyline_australis",
+    "color": [
+      0.39574468085106385,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "id": 124,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Asparagales",
+      "family": "Asparagaceae",
+      "genus": "Dracaena",
+      "species": "Dracaena draco",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Asparagales",
+      "family_wp": "Asparagaceae",
+      "genus_wp": "Dracaena_(plant)",
+      "species_wp": "Dracaena_draco"
+    },
+    "count": 1,
+    "name_common": [
+      "Dragontree"
+    ],
+    "name_botanical": "Dracaena draco",
+    "wp_link": "Dracaena_draco",
+    "color": [
+      0.39468085106382983,
+      0.4,
+      0.15000000000000002
+    ]
+  },
+  {
+    "id": 135,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Asparagales",
+      "family": "Asparagaceae",
+      "genus": "Yucca",
+      "species": "Yucca aloifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Asparagales",
+      "family_wp": "Asparagaceae",
+      "genus_wp": "Yucca",
+      "species_wp": "Yucca_aloifolia"
+    },
+    "count": 8,
+    "name_common": [
+      "Aloe Yucca"
+    ],
+    "name_botanical": "Yucca aloifolia",
+    "wp_link": "Yucca_aloifolia",
+    "color": [
+      0.39361702127659576,
+      0.4,
+      0.1
+    ]
+  },
+  {
+    "id": 113,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Asparagales",
+      "family": "Asparagaceae",
+      "genus": "Yucca",
+      "species": "Yucca gloriosa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Asparagales",
+      "family_wp": "Asparagaceae",
+      "genus_wp": "Yucca",
+      "species_wp": "Yucca_gloriosa"
+    },
+    "count": 114,
+    "name_common": [
+      "Moundlily Yucca"
+    ],
+    "name_botanical": "Yucca gloriosa",
+    "wp_link": "Yucca_gloriosa",
+    "color": [
+      0.5166223404255319,
+      0.525,
+      0.13125
+    ]
+  },
+  {
+    "id": 125,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Asparagales",
+      "family": "Asparagaceae",
+      "genus": "Yucca",
+      "species": "Yucca gloriosa var. recurvifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Asparagales",
+      "family_wp": "Asparagaceae",
+      "genus_wp": "Yucca",
+      "species_wp": "Yucca_gloriosa_var._tristis"
+    },
+    "count": 4,
+    "name_common": [
+      "Curve-leaf Yucca"
+    ],
+    "name_botanical": "Yucca gloriosa var. recurvifolia",
+    "wp_link": "Yucca_gloriosa_var._tristis",
+    "color": [
+      0.6396276595744681,
+      0.65,
+      0.1625
+    ]
+  },
+  {
+    "id": 112,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Dipsacales",
+      "family": "Adoxaceae",
+      "genus": "Sambucus",
+      "species": "Sambucus nigra subsp. cerulea",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Dipsacales",
+      "family_wp": "Adoxaceae",
+      "genus_wp": "Sambucus",
+      "species_wp": "Sambucus_cerulea"
+    },
+    "count": 8,
+    "name_common": [
+      "Blue Elder",
+      "Blue Elderberry",
+      "Elderberry"
+    ],
+    "name_botanical": "Sambucus nigra subsp. cerulea",
+    "wp_link": "Sambucus_cerulea",
+    "color": [
+      0.4,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "id": 195,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Dipsacales",
+      "family": "Adoxaceae",
+      "genus": "Viburnum",
+      "species": "Viburnum japonicum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Dipsacales",
+      "family_wp": "Adoxaceae",
+      "genus_wp": "Viburnum",
+      "species_wp": "Viburnum"
+    },
+    "count": 1,
+    "name_common": [
+      "Japanese Viburnum"
+    ],
+    "name_botanical": "Viburnum japonicum",
+    "wp_link": "Viburnum",
+    "color": [
+      0.4,
+      0.13333333333333336,
+      0.13333333333333336
+    ]
+  },
+  {
+    "id": 173,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Ericales",
+      "family": "Ebenaceae",
+      "genus": "Diospyros",
+      "species": "Diospyros kaki",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Ericales",
+      "family_wp": "Ebenaceae",
+      "genus_wp": "Diospyros",
+      "species_wp": "Diospyros_kaki"
+    },
+    "count": 1,
+    "name_common": [
+      "Japanese Persimmon"
+    ],
+    "name_botanical": "Diospyros kaki",
+    "wp_link": "Diospyros_kaki",
+    "color": [
+      0.21702127659574466,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "id": 219,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Ericales",
+      "family": "Ericaceae",
+      "genus": "Arbutus",
+      "species": "Arbutus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Ericales",
+      "family_wp": "Ericaceae",
+      "genus_wp": "Arbutus",
+      "species_wp": "Arbutus"
+    },
+    "count": 1,
+    "name_common": [
+      "Madrones"
+    ],
+    "name_botanical": "Arbutus",
+    "wp_link": "Arbutus",
+    "color": [
+      0.2,
+      0.4,
+      0.2085106382978723
+    ]
+  },
+  {
+    "id": 164,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Ericales",
+      "family": "Ericaceae",
+      "genus": "Arbutus",
+      "species": "Arbutus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Ericales",
+      "family_wp": "Ericaceae",
+      "genus_wp": "Arbutus",
+      "species_wp": "Arbutus"
+    },
+    "count": 37,
+    "name_common": [
+      "Madrones"
+    ],
+    "name_botanical": "Arbutus 'Marina'",
+    "wp_link": "Arbutus",
+    "color": [
+      0.2,
+      0.4,
+      0.2085106382978723
+    ]
+  },
+  {
+    "id": 155,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Ericales",
+      "family": "Ericaceae",
+      "genus": "Arbutus",
+      "species": "Arbutus unedo",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Ericales",
+      "family_wp": "Ericaceae",
+      "genus_wp": "Arbutus",
+      "species_wp": "Arbutus_unedo"
+    },
+    "count": 17,
+    "name_common": [
+      "Strawberry Tree"
+    ],
+    "name_botanical": "Arbutus unedo",
+    "wp_link": "Arbutus_unedo",
+    "color": [
+      0.2833333333333333,
+      0.5666666666666667,
+      0.29539007092198577
+    ]
+  },
+  {
+    "id": 34,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Acacia",
+      "species": "Acacia baileyana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Acacia",
+      "species_wp": "Acacia_baileyana"
+    },
+    "count": 13,
+    "name_common": [
+      "Cootamundra Wattle",
+      "Bailey's Acacia"
+    ],
+    "name_botanical": "Acacia baileyana",
+    "wp_link": "Acacia_baileyana",
+    "color": [
+      0.2,
+      0.4,
+      0.2595744680851064
+    ]
+  },
+  {
+    "id": 26,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Acacia",
+      "species": "Acacia decurrens",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Acacia",
+      "species_wp": "Acacia_decurrens"
+    },
+    "count": 3,
+    "name_common": [
+      "Green Wattle"
+    ],
+    "name_botanical": "Acacia decurrens",
+    "wp_link": "Acacia_decurrens",
+    "color": [
+      0.25,
+      0.5,
+      0.32446808510638303
+    ]
+  },
+  {
+    "id": 144,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Acacia",
+      "species": "Acacia longifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Acacia",
+      "species_wp": "Acacia_longifolia"
+    },
+    "count": 6,
+    "name_common": [
+      "Sydney Golden Wattle"
+    ],
+    "name_botanical": "Acacia longifolia",
+    "wp_link": "Acacia_longifolia",
+    "color": [
+      0.30000000000000004,
+      0.6000000000000001,
+      0.3893617021276597
+    ]
+  },
+  {
+    "id": 119,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Acacia",
+      "species": "Acacia melanoxylon",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Acacia",
+      "species_wp": "Acacia_melanoxylon"
+    },
+    "count": 146,
+    "name_common": [
+      "Blackwood"
+    ],
+    "name_botanical": "Acacia melanoxylon",
+    "wp_link": "Acacia_melanoxylon",
+    "color": [
+      0.35,
+      0.7,
+      0.4542553191489362
+    ]
+  },
+  {
+    "id": 67,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Albizia",
+      "species": "Albizia julibrissin",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Albizia",
+      "species_wp": "Albizia_julibrissin"
+    },
+    "count": 14,
+    "name_common": [
+      "Silktree",
+      "Powderpuff Tree",
+      "Mimosa",
+      "Silk Tree"
+    ],
+    "name_botanical": "Albizia julibrissin",
+    "wp_link": "Albizia_julibrissin",
+    "color": [
+      0.18571428571428572,
+      0.4,
+      0.2495440729483283
+    ]
+  },
+  {
+    "id": 228,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Bauhinia",
+      "species": "Bauhinia blakeana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Bauhinia",
+      "species_wp": "Bauhinia_×_blakeana"
+    },
+    "count": 1,
+    "name_common": [
+      "Hong Kong Orchid Tree"
+    ],
+    "name_botanical": "Bauhinia blakeana",
+    "wp_link": "Bauhinia_×_blakeana",
+    "color": [
+      0.17142857142857146,
+      0.4,
+      0.23951367781155022
+    ]
+  },
+  {
+    "id": 149,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Bauhinia",
+      "species": "Bauhinia variegata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Bauhinia",
+      "species_wp": "Bauhinia_variegata"
+    },
+    "count": 42,
+    "name_common": [
+      "Mountain Ebony"
+    ],
+    "name_botanical": "Bauhinia variegata",
+    "wp_link": "Bauhinia_variegata",
+    "color": [
+      0.22500000000000003,
+      0.525,
+      0.3143617021276597
+    ]
+  },
+  {
+    "id": 143,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Bauhinia",
+      "species": "Bauhinia variegata var. candida",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Bauhinia",
+      "species_wp": "Bauhinia_×_blakeana"
+    },
+    "count": 9,
+    "name_common": [
+      "White Butterfly Tree"
+    ],
+    "name_botanical": "Bauhinia variegata var. candida",
+    "wp_link": "Bauhinia_×_blakeana",
+    "color": [
+      0.2785714285714286,
+      0.65,
+      0.3892097264437691
+    ]
+  },
+  {
+    "id": 166,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Cassia",
+      "species": "Cassia leptophylla",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Cassia_(genus)",
+      "species_wp": "Cassia_leptophylla"
+    },
+    "count": 35,
+    "name_common": [
+      "Gold Medallion Tree"
+    ],
+    "name_botanical": "Cassia leptophylla",
+    "wp_link": "Cassia_leptophylla",
+    "color": [
+      0.15714285714285717,
+      0.4,
+      0.2294832826747721
+    ]
+  },
+  {
+    "id": 42,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Ceratonia",
+      "species": "Ceratonia siliqua",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Ceratonia",
+      "species_wp": "Ceratonia_siliqua"
+    },
+    "count": 1080,
+    "name_common": [
+      "St. John's Bread",
+      "Carob"
+    ],
+    "name_botanical": "Ceratonia siliqua",
+    "wp_link": "Ceratonia_siliqua",
+    "color": [
+      0.14285714285714288,
+      0.4,
+      0.21945288753799402
+    ]
+  },
+  {
+    "id": 122,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Cercis",
+      "species": "Cercis occidentalis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Cercis",
+      "species_wp": "Cercis_occidentalis"
+    },
+    "count": 46,
+    "name_common": [
+      "California Redbud"
+    ],
+    "name_botanical": "Cercis occidentalis",
+    "wp_link": "Cercis_occidentalis",
+    "color": [
+      0.12857142857142856,
+      0.4,
+      0.20942249240121585
+    ]
+  },
+  {
+    "id": 139,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Erythrina",
+      "species": "Erythrina fusca",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Erythrina",
+      "species_wp": "Erythrina_fusca"
+    },
+    "count": 21,
+    "name_common": [
+      "Bucayo",
+      "Lucky Beantree",
+      "Cape Kaffirboom",
+      "Kaffirboom"
+    ],
+    "name_botanical": "Erythrina fusca",
+    "wp_link": "Erythrina_fusca",
+    "color": [
+      0.11428571428571428,
+      0.4,
+      0.19939209726443777
+    ]
+  },
+  {
+    "id": 176,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Gleditsia",
+      "species": "Gleditsia triacanthos",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Gleditsia",
+      "species_wp": "Honey_locust"
+    },
+    "count": 31,
+    "name_common": [
+      "Honeylocust",
+      "Honey-locust",
+      "Common Honeylocust",
+      "Honey Locust"
+    ],
+    "name_botanical": "Gleditsia triacanthos",
+    "wp_link": "Honey_locust",
+    "color": [
+      0.1,
+      0.4,
+      0.18936170212765965
+    ]
+  },
+  {
+    "id": 240,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Parkinsonia",
+      "species": "Parkinsonia ×",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Parkinsonia",
+      "species_wp": "Parkinsonia"
+    },
+    "count": 12,
+    "name_common": [
+      "Palo Verde",
+      "Paloverde"
+    ],
+    "name_botanical": "Parkinsonia ×",
+    "wp_link": "Parkinsonia",
+    "color": [
+      0.12142857142857144,
+      0.5666666666666667,
+      0.2540526849037488
+    ]
+  },
+  {
+    "id": 229,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Parkinsonia",
+      "species": "Parkinsonia aculeata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Parkinsonia",
+      "species_wp": "Parkinsonia_aculeata"
+    },
+    "count": 4,
+    "name_common": [
+      "Jerusalem Thorn"
+    ],
+    "name_botanical": "Parkinsonia aculeata",
+    "wp_link": "Parkinsonia_aculeata",
+    "color": [
+      0.08571428571428573,
+      0.4,
+      0.1793313069908815
+    ]
+  },
+  {
+    "id": 157,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Robinia",
+      "species": "Robinia pseudoacacia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Robinia",
+      "species_wp": "Robinia_pseudoacacia"
+    },
+    "count": 7,
+    "name_common": [
+      "Black Locust",
+      "False Acacia",
+      "Yellow Locust"
+    ],
+    "name_botanical": "Robinia pseudoacacia",
+    "wp_link": "Robinia_pseudoacacia",
+    "color": [
+      0.07142857142857144,
+      0.4,
+      0.16930091185410345
+    ]
+  },
+  {
+    "id": 208,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Senna",
+      "species": "Senna spectabilis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Senna_(plant)",
+      "species_wp": "Senna_spectabilis"
+    },
+    "count": 11,
+    "name_common": [
+      "Casia Amarilla"
+    ],
+    "name_botanical": "Senna spectabilis",
+    "wp_link": "Senna_spectabilis",
+    "color": [
+      0.05714285714285712,
+      0.4,
+      0.15927051671732528
+    ]
+  },
+  {
+    "id": 167,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Tipuana",
+      "species": "Tipuana tipu",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Tipuana",
+      "species_wp": "Tipuana"
+    },
+    "count": 7,
+    "name_common": [
+      "Tipa",
+      "Tipa Blanca",
+      "Tiputree"
+    ],
+    "name_botanical": "Tipuana tipu",
+    "wp_link": "Tipuana",
+    "color": [
+      0.042857142857142885,
+      0.4,
+      0.14924012158054722
+    ]
+  },
+  {
+    "id": 243,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fabales",
+      "family": "Fabaceae",
+      "genus": "Wisteria",
+      "species": "Wisteria sinensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fabales",
+      "family_wp": "Fabaceae",
+      "genus_wp": "Wisteria",
+      "species_wp": "Wisteria_sinensis"
+    },
+    "count": 1,
+    "name_common": [
+      "Chinese Wisteria"
+    ],
+    "name_botanical": "Wisteria sinensis",
+    "wp_link": "Wisteria_sinensis",
+    "color": [
+      0.02857142857142856,
+      0.4,
+      0.13920972644376906
+    ]
+  },
+  {
+    "id": 217,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Betulaceae",
+      "genus": "Alnus",
+      "species": "Alnus cordata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Betulaceae",
+      "genus_wp": "Alder",
+      "species_wp": "Alnus_cordata"
+    },
+    "count": 2,
+    "name_common": [
+      "Italian Alder"
+    ],
+    "name_botanical": "Alnus cordata",
+    "wp_link": "Alnus_cordata",
+    "color": [
+      0.3702127659574468,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "id": 37,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Betulaceae",
+      "genus": "Alnus",
+      "species": "Alnus rhombifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Betulaceae",
+      "genus_wp": "Alder",
+      "species_wp": "Alnus_rhombifolia"
+    },
+    "count": 12,
+    "name_common": [
+      "Rhombie Leaf Alder",
+      "White Alder"
+    ],
+    "name_botanical": "Alnus rhombifolia",
+    "wp_link": "Alnus_rhombifolia",
+    "color": [
+      0.524468085106383,
+      0.5666666666666667,
+      0.2833333333333333
+    ]
+  },
+  {
+    "id": 101,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Betulaceae",
+      "genus": "Betula",
+      "species": "Betula pendula",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Betulaceae",
+      "genus_wp": "Birch",
+      "species_wp": "Betula_pendula"
+    },
+    "count": 53,
+    "name_common": [
+      "European White Birch"
+    ],
+    "name_botanical": "Betula pendula",
+    "wp_link": "Betula_pendula",
+    "color": [
+      0.36028368794326243,
+      0.4,
+      0.13333333333333336
+    ]
+  },
+  {
+    "id": 96,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Casuarinaceae",
+      "genus": "Casuarina",
+      "species": "Casuarina equisetifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Casuarinaceae",
+      "genus_wp": "Casuarina",
+      "species_wp": "Casuarina_equisetifolia"
+    },
+    "count": 42,
+    "name_common": [
+      "Australian Pine",
+      "Common Ironwood",
+      "Horsetail Casuarina",
+      "Beach She-oak",
+      "Australian-pine",
+      "Coast She-oak"
+    ],
+    "name_botanical": "Casuarina equisetifolia",
+    "wp_link": "Casuarina_equisetifolia",
+    "color": [
+      0.2936170212765958,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "id": 90,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Lithocarpus",
+      "species": "Lithocarpus densiflorus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Lithocarpus",
+      "species_wp": "Notholithocarpus"
+    },
+    "count": 18,
+    "name_common": [
+      "Tanoak"
+    ],
+    "name_botanical": "Lithocarpus densiflorus",
+    "wp_link": "Notholithocarpus",
+    "color": [
+      0.2,
+      0.4,
+      0.28510638297872337
+    ]
+  },
+  {
+    "id": 108,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Oak"
+    },
+    "count": 17,
+    "name_common": [
+      "Oak"
+    ],
+    "name_botanical": "Quercus",
+    "wp_link": "Oak",
+    "color": [
+      0.13333333333333336,
+      0.4,
+      0.24680851063829784
+    ]
+  },
+  {
+    "id": 4,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus agrifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Quercus_agrifolia"
+    },
+    "count": 6480,
+    "name_common": [
+      "California Live Oak",
+      "Coast Live Oak"
+    ],
+    "name_botanical": "Quercus agrifolia",
+    "wp_link": "Quercus_agrifolia",
+    "color": [
+      0.14848484848484853,
+      0.4454545454545455,
+      0.2748549323017408
+    ]
+  },
+  {
+    "id": 65,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus chrysolepis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Quercus_chrysolepis"
+    },
+    "count": 57,
+    "name_common": [
+      "Canyon Live Oak"
+    ],
+    "name_botanical": "Quercus chrysolepis",
+    "wp_link": "Quercus_chrysolepis",
+    "color": [
+      0.16363636363636366,
+      0.49090909090909096,
+      0.30290135396518375
+    ]
+  },
+  {
+    "id": 29,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus engelmannii",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Quercus_engelmannii"
+    },
+    "count": 415,
+    "name_common": [
+      "Engelmann's Oak"
+    ],
+    "name_botanical": "Quercus engelmannii",
+    "wp_link": "Quercus_engelmannii",
+    "color": [
+      0.1787878787878788,
+      0.5363636363636364,
+      0.33094777562862665
+    ]
+  },
+  {
+    "id": 3,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus ilex",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Quercus_ilex"
+    },
+    "count": 4177,
+    "name_common": [
+      "Holly Oak"
+    ],
+    "name_botanical": "Quercus ilex",
+    "wp_link": "Quercus_ilex",
+    "color": [
+      0.19393939393939394,
+      0.5818181818181818,
+      0.35899419729206955
+    ]
+  },
+  {
+    "id": 198,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus kelloggii",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Quercus_kelloggii"
+    },
+    "count": 4,
+    "name_common": [
+      "California Black Oak"
+    ],
+    "name_botanical": "Quercus kelloggii",
+    "wp_link": "Quercus_kelloggii",
+    "color": [
+      0.20909090909090913,
+      0.6272727272727273,
+      0.3870406189555125
+    ]
+  },
+  {
+    "id": 175,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus lobata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Quercus_lobata"
+    },
+    "count": 34,
+    "name_common": [
+      "California White Oak",
+      "Valley Oak"
+    ],
+    "name_botanical": "Quercus lobata",
+    "wp_link": "Quercus_lobata",
+    "color": [
+      0.22424242424242427,
+      0.6727272727272727,
+      0.41508704061895546
+    ]
+  },
+  {
+    "id": 242,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus rubra",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Quercus_rubra"
+    },
+    "count": 2,
+    "name_common": [
+      "Northern Red Oak"
+    ],
+    "name_botanical": "Quercus rubra",
+    "wp_link": "Quercus_rubra",
+    "color": [
+      0.23939393939393944,
+      0.7181818181818183,
+      0.4431334622823984
+    ]
+  },
+  {
+    "id": 95,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus suber",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Quercus_suber"
+    },
+    "count": 509,
+    "name_common": [
+      "Cork Oak"
+    ],
+    "name_botanical": "Quercus suber",
+    "wp_link": "Quercus_suber",
+    "color": [
+      0.2545454545454546,
+      0.7636363636363637,
+      0.4711798839458413
+    ]
+  },
+  {
+    "id": 53,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Fagaceae",
+      "genus": "Quercus",
+      "species": "Quercus virginiana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Fagaceae",
+      "genus_wp": "Oak",
+      "species_wp": "Quercus_virginiana"
+    },
+    "count": 370,
+    "name_common": [
+      "Live Oak"
+    ],
+    "name_botanical": "Quercus virginiana",
+    "wp_link": "Quercus_virginiana",
+    "color": [
+      0.2696969696969697,
+      0.8090909090909091,
+      0.4992263056092842
+    ]
+  },
+  {
+    "id": 88,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Juglandaceae",
+      "genus": "Carya",
+      "species": "Carya illinoinensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Juglandaceae",
+      "genus_wp": "Hickory",
+      "species_wp": "Pecan"
+    },
+    "count": 48,
+    "name_common": [
+      "Nuez Encarcelada",
+      "Nogal Morado",
+      "Pecanier",
+      "Pecan"
+    ],
+    "name_botanical": "Carya illinoinensis",
+    "wp_link": "Pecan",
+    "color": [
+      0.2,
+      0.4,
+      0.3361702127659575
+    ]
+  },
+  {
+    "id": 212,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Juglandaceae",
+      "genus": "Juglans",
+      "species": "Juglans nigra",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Juglandaceae",
+      "genus_wp": "Juglans",
+      "species_wp": "Juglans_nigra"
+    },
+    "count": 6,
+    "name_common": [
+      "Black Walnut",
+      "Noyer Noir"
+    ],
+    "name_botanical": "Juglans nigra",
+    "wp_link": "Juglans_nigra",
+    "color": [
+      0.13333333333333336,
+      0.4,
+      0.31489361702127666
+    ]
+  },
+  {
+    "id": 131,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Fagales",
+      "family": "Juglandaceae",
+      "genus": "Juglans",
+      "species": "Juglans regia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Fagales",
+      "family_wp": "Juglandaceae",
+      "genus_wp": "Juglans",
+      "species_wp": "Juglans_regia"
+    },
+    "count": 3,
+    "name_common": [
+      "English Walnut"
+    ],
+    "name_botanical": "Juglans regia",
+    "wp_link": "Juglans_regia",
+    "color": [
+      0.1888888888888889,
+      0.5666666666666667,
+      0.44609929078014193
+    ]
+  },
+  {
+    "id": 71,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Gentianales",
+      "family": "Apocynaceae",
+      "genus": "Nerium",
+      "species": "Nerium oleander",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Gentianales",
+      "family_wp": "Apocynaceae",
+      "genus_wp": "Nerium",
+      "species_wp": "Nerium"
+    },
+    "count": 108,
+    "name_common": [
+      "Oleander"
+    ],
+    "name_botanical": "Nerium oleander",
+    "wp_link": "Nerium",
+    "color": [
+      0.4,
+      0.3021276595744681,
+      0.2
+    ]
+  },
+  {
+    "id": 179,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Gentianales",
+      "family": "Apocynaceae",
+      "genus": "Thevetia",
+      "species": "Thevetia peruviana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Gentianales",
+      "family_wp": "Apocynaceae",
+      "genus_wp": "Thevetia",
+      "species_wp": "Cascabela_thevetia"
+    },
+    "count": 5,
+    "name_common": [
+      "Luckynut"
+    ],
+    "name_botanical": "Thevetia peruviana",
+    "wp_link": "Cascabela_thevetia",
+    "color": [
+      0.4,
+      0.2695035460992908,
+      0.13333333333333336
+    ]
+  },
+  {
+    "id": 150,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Bignoniaceae",
+      "genus": "Catalpa",
+      "species": "Catalpa speciosa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Bignoniaceae",
+      "genus_wp": "Catalpa",
+      "species_wp": "Catalpa_speciosa"
+    },
+    "count": 6,
+    "name_common": [
+      "Northern Catalpa"
+    ],
+    "name_botanical": "Catalpa speciosa",
+    "wp_link": "Catalpa_speciosa",
+    "color": [
+      0.3446808510638298,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "id": 210,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Bignoniaceae",
+      "genus": "Chilopsis",
+      "species": "Chilopsis linearis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Bignoniaceae",
+      "genus_wp": "Chilopsis",
+      "species_wp": "Chilopsis"
+    },
+    "count": 48,
+    "name_common": [
+      "Desert Willow"
+    ],
+    "name_botanical": "Chilopsis linearis",
+    "wp_link": "Chilopsis",
+    "color": [
+      0.3354609929078014,
+      0.4,
+      0.16666666666666666
+    ]
+  },
+  {
+    "id": 104,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Bignoniaceae",
+      "genus": "Chitalpa",
+      "species": "× Chitalpa tashkentensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Bignoniaceae",
+      "genus_wp": "×_Chitalpa",
+      "species_wp": "×_Chitalpa"
+    },
+    "count": 171,
+    "name_common": [
+      "Chitalpa"
+    ],
+    "name_botanical": "× Chitalpa tashkentensis",
+    "wp_link": "×_Chitalpa",
+    "color": [
+      0.3262411347517731,
+      0.4,
+      0.13333333333333336
+    ]
+  },
+  {
+    "id": 48,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Bignoniaceae",
+      "genus": "Handroanthus",
+      "species": "Handroanthus chrysotrichus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Bignoniaceae",
+      "genus_wp": "Handroanthus",
+      "species_wp": "Handroanthus_chrysotrichus"
+    },
+    "count": 238,
+    "name_common": [
+      "Golden Trumpet Tree"
+    ],
+    "name_botanical": "Handroanthus chrysotrichus",
+    "wp_link": "Handroanthus_chrysotrichus",
+    "color": [
+      0.3170212765957447,
+      0.4,
+      0.1
+    ]
+  },
+  {
+    "id": 84,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Bignoniaceae",
+      "genus": "Handroanthus",
+      "species": "Handroanthus impetiginosum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Bignoniaceae",
+      "genus_wp": "Handroanthus",
+      "species_wp": "Handroanthus_impetiginosus"
+    },
+    "count": 592,
+    "name_common": [
+      "Pink Trumpet Tree"
+    ],
+    "name_botanical": "Handroanthus impetiginosum",
+    "wp_link": "Handroanthus_impetiginosus",
+    "color": [
+      0.44911347517730493,
+      0.5666666666666667,
+      0.14166666666666666
+    ]
+  },
+  {
+    "id": 52,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Bignoniaceae",
+      "genus": "Jacaranda",
+      "species": "Jacaranda mimosifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Bignoniaceae",
+      "genus_wp": "Jacaranda",
+      "species_wp": "Jacaranda_mimosifolia"
+    },
+    "count": 1680,
+    "name_common": [
+      "Black Poui"
+    ],
+    "name_botanical": "Jacaranda mimosifolia",
+    "wp_link": "Jacaranda_mimosifolia",
+    "color": [
+      0.3078014184397163,
+      0.4,
+      0.0666666666666667
+    ]
+  },
+  {
+    "id": 246,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Lamiaceae",
+      "genus": "Rotheca",
+      "species": "Rotheca myricoides subsp. myricoides",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Lamiaceae",
+      "genus_wp": "Rotheca",
+      "species_wp": "Rotheca_myricoides"
+    },
+    "count": 1,
+    "name_common": [
+      "Blue Butterfly Bush"
+    ],
+    "name_botanical": "Rotheca myricoides subsp. myricoides",
+    "wp_link": "Rotheca_myricoides",
+    "color": [
+      0.2,
+      0.4,
+      0.3617021276595745
+    ]
+  },
+  {
+    "id": 239,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Lamiaceae",
+      "genus": "Vitex",
+      "species": "Vitex agnus-castus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Lamiaceae",
+      "genus_wp": "Vitex",
+      "species_wp": "Vitex_agnus-castus"
+    },
+    "count": 2,
+    "name_common": [
+      "Lilac Chastetree"
+    ],
+    "name_botanical": "Vitex agnus-castus",
+    "wp_link": "Vitex_agnus-castus",
+    "color": [
+      0.13333333333333336,
+      0.4,
+      0.348936170212766
+    ]
+  },
+  {
+    "id": 23,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Oleaceae",
+      "genus": "Fraxinus",
+      "species": "Fraxinus uhdei",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Oleaceae",
+      "genus_wp": "Fraxinus",
+      "species_wp": "Fraxinus"
+    },
+    "count": 497,
+    "name_common": [
+      "Shamel Ash"
+    ],
+    "name_botanical": "Fraxinus uhdei",
+    "wp_link": "Fraxinus",
+    "color": [
+      0.2,
+      0.20851063829787242,
+      0.4
+    ]
+  },
+  {
+    "id": 174,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Oleaceae",
+      "genus": "Fraxinus",
+      "species": "Fraxinus velutina",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Oleaceae",
+      "genus_wp": "Fraxinus",
+      "species_wp": "Fraxinus_velutina"
+    },
+    "count": 38,
+    "name_common": [
+      "Velvet Ash"
+    ],
+    "name_botanical": "Fraxinus velutina",
+    "wp_link": "Fraxinus_velutina",
+    "color": [
+      0.2833333333333333,
+      0.2953900709219859,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 147,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Oleaceae",
+      "genus": "Fraxinus",
+      "species": "Fraxinus velutina",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Oleaceae",
+      "genus_wp": "Fraxinus",
+      "species_wp": "Fraxinus_velutina"
+    },
+    "count": 41,
+    "name_common": [
+      "Velvet Ash"
+    ],
+    "name_botanical": "Fraxinus velutina 'Modesto'",
+    "wp_link": "Fraxinus_velutina",
+    "color": [
+      0.2833333333333333,
+      0.2953900709219859,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 177,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Oleaceae",
+      "genus": "Ligustrum",
+      "species": "Ligustrum japonicum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Oleaceae",
+      "genus_wp": "Privet",
+      "species_wp": "Ligustrum_japonicum"
+    },
+    "count": 448,
+    "name_common": [
+      "Japanese Privet"
+    ],
+    "name_botanical": "Ligustrum japonicum",
+    "wp_link": "Ligustrum_japonicum",
+    "color": [
+      0.15000000000000002,
+      0.16063829787234052,
+      0.4
+    ]
+  },
+  {
+    "id": 24,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Oleaceae",
+      "genus": "Ligustrum",
+      "species": "Ligustrum lucidum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Oleaceae",
+      "genus_wp": "Privet",
+      "species_wp": "Ligustrum_lucidum"
+    },
+    "count": 913,
+    "name_common": [
+      "Glossy Privet"
+    ],
+    "name_botanical": "Ligustrum lucidum",
+    "wp_link": "Ligustrum_lucidum",
+    "color": [
+      0.19687500000000002,
+      0.2108377659574469,
+      0.525
+    ]
+  },
+  {
+    "id": 248,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Oleaceae",
+      "genus": "Ligustrum",
+      "species": "Ligustrum ovalifolium",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Oleaceae",
+      "genus_wp": "Privet",
+      "species_wp": "Ligustrum_ovalifolium"
+    },
+    "count": 1,
+    "name_common": [
+      "California Privet"
+    ],
+    "name_botanical": "Ligustrum ovalifolium",
+    "wp_link": "Ligustrum_ovalifolium",
+    "color": [
+      0.24375000000000002,
+      0.2610372340425533,
+      0.65
+    ]
+  },
+  {
+    "id": 25,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Oleaceae",
+      "genus": "Olea",
+      "species": "Olea europaea",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Oleaceae",
+      "genus_wp": "Olea",
+      "species_wp": "Olive"
+    },
+    "count": 140,
+    "name_common": [
+      "Olive"
+    ],
+    "name_botanical": "Olea europaea",
+    "wp_link": "Olive",
+    "color": [
+      0.1,
+      0.1127659574468086,
+      0.4
+    ]
+  },
+  {
+    "id": 247,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Paulowniaceae",
+      "genus": "Paulownia",
+      "species": "Paulownia tomentosa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Lamiales",
+      "family_wp": "Paulowniaceae",
+      "genus_wp": "Paulownia",
+      "species_wp": "Paulownia_tomentosa"
+    },
+    "count": 1,
+    "name_common": [
+      "Royal Paulownia",
+      "Princess Tree"
+    ],
+    "name_botanical": "Paulownia tomentosa",
+    "wp_link": "Paulownia_tomentosa",
+    "color": [
+      0.21702127659574463,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "id": 13,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Laurales",
+      "family": "Lauraceae",
+      "genus": "Cinnamomum",
+      "species": "Cinnamomum camphora",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Laurales",
+      "family_wp": "Lauraceae",
+      "genus_wp": "Cinnamomum",
+      "species_wp": "Cinnamomum_camphora"
+    },
+    "count": 5719,
+    "name_common": [
+      "Camphortree",
+      "Camphor Tree",
+      "Camphor Laurel"
+    ],
+    "name_botanical": "Cinnamomum camphora",
+    "wp_link": "Cinnamomum_camphora",
+    "color": [
+      0.2,
+      0.4,
+      0.3872340425531915
+    ]
+  },
+  {
+    "id": 55,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Laurales",
+      "family": "Lauraceae",
+      "genus": "Laurus",
+      "species": "Laurus nobilis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Laurales",
+      "family_wp": "Lauraceae",
+      "genus_wp": "Laurus",
+      "species_wp": "Laurus_nobilis"
+    },
+    "count": 9,
+    "name_common": [
+      "Sweet Bay"
+    ],
+    "name_botanical": "Laurus nobilis",
+    "wp_link": "Laurus_nobilis",
+    "color": [
+      0.16666666666666666,
+      0.4,
+      0.3851063829787234
+    ]
+  },
+  {
+    "id": 80,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Laurales",
+      "family": "Lauraceae",
+      "genus": "Persea",
+      "species": "Persea americana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Laurales",
+      "family_wp": "Lauraceae",
+      "genus_wp": "Persea",
+      "species_wp": "Avocado"
+    },
+    "count": 50,
+    "name_common": [
+      "Avocado"
+    ],
+    "name_botanical": "Persea americana",
+    "wp_link": "Avocado",
+    "color": [
+      0.13333333333333336,
+      0.4,
+      0.3829787234042554
+    ]
+  },
+  {
+    "id": 94,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Laurales",
+      "family": "Lauraceae",
+      "genus": "Phoebe",
+      "species": "Phoebe indica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Laurales",
+      "family_wp": "Lauraceae",
+      "genus_wp": "Phoebe_(plant)",
+      "species_wp": "Persea_indica"
+    },
+    "count": 1,
+    "name_common": [
+      "Vinatigo"
+    ],
+    "name_botanical": "Phoebe indica",
+    "wp_link": "Persea_indica",
+    "color": [
+      0.1,
+      0.4,
+      0.3808510638297873
+    ]
+  },
+  {
+    "id": 17,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Laurales",
+      "family": "Lauraceae",
+      "genus": "Umbellularia",
+      "species": "Umbellularia californica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Laurales",
+      "family_wp": "Lauraceae",
+      "genus_wp": "Umbellularia",
+      "species_wp": "Umbellularia"
+    },
+    "count": 86,
+    "name_common": [
+      "California Laurel"
+    ],
+    "name_botanical": "Umbellularia californica",
+    "wp_link": "Umbellularia",
+    "color": [
+      0.0666666666666667,
+      0.4,
+      0.37872340425531914
+    ]
+  },
+  {
+    "id": 172,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Magnoliales",
+      "family": "Annonaceae",
+      "genus": "Annona",
+      "species": "Annona cherimola",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Magnoliales",
+      "family_wp": "Annonaceae",
+      "genus_wp": "Annona",
+      "species_wp": "Cherimoya"
+    },
+    "count": 1,
+    "name_common": [
+      "Cherimoya"
+    ],
+    "name_botanical": "Annona cherimola",
+    "wp_link": "Cherimoya",
+    "color": [
+      0.4,
+      0.2765957446808511,
+      0.2
+    ]
+  },
+  {
+    "id": 32,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Magnoliales",
+      "family": "Magnoliaceae",
+      "genus": "Liriodendron",
+      "species": "Liriodendron tulipifera",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Magnoliales",
+      "family_wp": "Magnoliaceae",
+      "genus_wp": "Liriodendron",
+      "species_wp": "Liriodendron_tulipifera"
+    },
+    "count": 186,
+    "name_common": [
+      "Yellow Poplar",
+      "Tulip Poplar",
+      "Yellow-poplar",
+      "Tuliptree",
+      "Bois-jaune",
+      "Tulip-poplar"
+    ],
+    "name_botanical": "Liriodendron tulipifera",
+    "wp_link": "Liriodendron_tulipifera",
+    "color": [
+      0.2,
+      0.3617021276595745,
+      0.4
+    ]
+  },
+  {
+    "id": 105,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Magnoliales",
+      "family": "Magnoliaceae",
+      "genus": "Magnolia",
+      "species": "Magnolia × soulangeana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Magnoliales",
+      "family_wp": "Magnoliaceae",
+      "genus_wp": "Magnolia",
+      "species_wp": "Magnolia_×_soulangeana"
+    },
+    "count": 58,
+    "name_common": [
+      "Saucer Magnolia"
+    ],
+    "name_botanical": "Magnolia × soulangeana",
+    "wp_link": "Magnolia_×_soulangeana",
+    "color": [
+      0.23333333333333334,
+      0.6106382978723404,
+      0.7
+    ]
+  },
+  {
+    "id": 1,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Magnoliales",
+      "family": "Magnoliaceae",
+      "genus": "Magnolia",
+      "species": "Magnolia grandiflora",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Magnoliales",
+      "family_wp": "Magnoliaceae",
+      "genus_wp": "Magnolia",
+      "species_wp": "Magnolia_grandiflora"
+    },
+    "count": 5841,
+    "name_common": [
+      "Laurier Tulipier",
+      "Bull-bay",
+      "Southern Magnolia"
+    ],
+    "name_botanical": "Magnolia grandiflora",
+    "wp_link": "Magnolia_grandiflora",
+    "color": [
+      0.13333333333333336,
+      0.348936170212766,
+      0.4
+    ]
+  },
+  {
+    "id": 241,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Magnoliales",
+      "family": "Magnoliaceae",
+      "genus": "Magnolia",
+      "species": "Magnolia sieboldii subsp. sinensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Magnoliales",
+      "family_wp": "Magnoliaceae",
+      "genus_wp": "Magnolia",
+      "species_wp": "Magnolia_sieboldii"
+    },
+    "count": 2,
+    "name_common": [
+      "Chinese Magnolia"
+    ],
+    "name_botanical": "Magnolia sieboldii subsp. sinensis",
+    "wp_link": "Magnolia_sieboldii",
+    "color": [
+      0.16666666666666669,
+      0.43617021276595747,
+      0.5
+    ]
+  },
+  {
+    "id": 145,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Magnoliales",
+      "family": "Magnoliaceae",
+      "genus": "Magnolia",
+      "species": "Magnolia stellata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Magnoliales",
+      "family_wp": "Magnoliaceae",
+      "genus_wp": "Magnolia",
+      "species_wp": "Magnolia_stellata"
+    },
+    "count": 4,
+    "name_common": [
+      "Star Magnolia"
+    ],
+    "name_botanical": "Magnolia stellata",
+    "wp_link": "Magnolia_stellata",
+    "color": [
+      0.20000000000000004,
+      0.523404255319149,
+      0.6000000000000001
+    ]
+  },
+  {
+    "id": 106,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malpighiales",
+      "family": "Euphorbiaceae",
+      "genus": "Triadica",
+      "species": "Triadica sebifera",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malpighiales",
+      "family_wp": "Euphorbiaceae",
+      "genus_wp": "Triadica",
+      "species_wp": "Triadica_sebifera"
+    },
+    "count": 22,
+    "name_common": [
+      "Tallowtree",
+      "Chinese Tallow"
+    ],
+    "name_botanical": "Triadica sebifera",
+    "wp_link": "Triadica_sebifera",
+    "color": [
+      0.2,
+      0.4,
+      0.23404255319148942
+    ]
+  },
+  {
+    "id": 165,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malpighiales",
+      "family": "Salicaceae",
+      "genus": "Olmediella",
+      "species": "Olmediella betschlerana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malpighiales",
+      "family_wp": "Salicaceae",
+      "genus_wp": "Olmediella",
+      "species_wp": "Olmediella"
+    },
+    "count": 23,
+    "name_common": [
+      "Guatemalan Holly",
+      "Costa Rican Holly",
+      "Manzanote"
+    ],
+    "name_botanical": "Olmediella betschlerana",
+    "wp_link": "Olmediella",
+    "color": [
+      0.4,
+      0.2,
+      0.37872340425531914
+    ]
+  },
+  {
+    "id": 233,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malpighiales",
+      "family": "Salicaceae",
+      "genus": "Populus",
+      "species": "Populus nigra",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malpighiales",
+      "family_wp": "Salicaceae",
+      "genus_wp": "Populus",
+      "species_wp": "Populus_nigra"
+    },
+    "count": 8,
+    "name_common": [
+      "Black Cottonwood",
+      "Black Poplar",
+      "Lombardy's Poplar"
+    ],
+    "name_botanical": "Populus nigra",
+    "wp_link": "Populus_nigra",
+    "color": [
+      0.4,
+      0.16000000000000003,
+      0.3744680851063829
+    ]
+  },
+  {
+    "id": 234,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malpighiales",
+      "family": "Salicaceae",
+      "genus": "Salix",
+      "species": "Salix × sepulcralis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malpighiales",
+      "family_wp": "Salicaceae",
+      "genus_wp": "Willow",
+      "species_wp": "Salix_Sepulcralis_Group"
+    },
+    "count": 5,
+    "name_common": [
+      "Weeping Willow"
+    ],
+    "name_botanical": "Salix × sepulcralis",
+    "wp_link": "Salix_Sepulcralis_Group",
+    "color": [
+      0.4,
+      0.12000000000000002,
+      0.3702127659574468
+    ]
+  },
+  {
+    "id": 85,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malpighiales",
+      "family": "Salicaceae",
+      "genus": "Xylosma",
+      "species": "Xylosma racemosum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malpighiales",
+      "family_wp": "Salicaceae",
+      "genus_wp": "Xylosma",
+      "species_wp": "Xylosma"
+    },
+    "count": 87,
+    "name_common": [
+      "Xylosma"
+    ],
+    "name_botanical": "Xylosma racemosum",
+    "wp_link": "Xylosma",
+    "color": [
+      0.4,
+      0.07999999999999999,
+      0.36595744680851056
+    ]
+  },
+  {
+    "id": 109,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "genus": "Brachychiton",
+      "species": "Brachychiton acerifolius",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malvales",
+      "family_wp": "Malvaceae",
+      "genus_wp": "Brachychiton",
+      "species_wp": "Brachychiton_acerifolius"
+    },
+    "count": 75,
+    "name_common": [
+      "Flame Bottletree"
+    ],
+    "name_botanical": "Brachychiton acerifolius",
+    "wp_link": "Brachychiton_acerifolius",
+    "color": [
+      0.2,
+      0.3361702127659575,
+      0.4
+    ]
+  },
+  {
+    "id": 136,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "genus": "Brachychiton",
+      "species": "Brachychiton discolor",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malvales",
+      "family_wp": "Malvaceae",
+      "genus_wp": "Brachychiton",
+      "species_wp": "Brachychiton_discolor"
+    },
+    "count": 10,
+    "name_common": [
+      "Hat Tree"
+    ],
+    "name_botanical": "Brachychiton discolor",
+    "wp_link": "Brachychiton_discolor",
+    "color": [
+      0.2625,
+      0.4412234042553192,
+      0.525
+    ]
+  },
+  {
+    "id": 79,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "genus": "Brachychiton",
+      "species": "Brachychiton populneus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malvales",
+      "family_wp": "Malvaceae",
+      "genus_wp": "Brachychiton",
+      "species_wp": "Brachychiton_populneus"
+    },
+    "count": 1057,
+    "name_common": [
+      "Bottle Tree"
+    ],
+    "name_botanical": "Brachychiton populneus",
+    "wp_link": "Brachychiton_populneus",
+    "color": [
+      0.325,
+      0.5462765957446809,
+      0.65
+    ]
+  },
+  {
+    "id": 128,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "genus": "Ceiba",
+      "species": "Ceiba speciosa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malvales",
+      "family_wp": "Malvaceae",
+      "genus_wp": "Ceiba",
+      "species_wp": "Ceiba_speciosa"
+    },
+    "count": 73,
+    "name_common": [
+      "Silk-floss Tree"
+    ],
+    "name_botanical": "Ceiba speciosa",
+    "wp_link": "Ceiba_speciosa",
+    "color": [
+      0.16666666666666666,
+      0.32553191489361705,
+      0.4
+    ]
+  },
+  {
+    "id": 236,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "genus": "Firmiana",
+      "species": "Firmiana simplex",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malvales",
+      "family_wp": "Malvaceae",
+      "genus_wp": "Firmiana",
+      "species_wp": "Firmiana_simplex"
+    },
+    "count": 1,
+    "name_common": [
+      "Chinese Parasoltree"
+    ],
+    "name_botanical": "Firmiana simplex",
+    "wp_link": "Firmiana_simplex",
+    "color": [
+      0.13333333333333336,
+      0.31489361702127666,
+      0.4
+    ]
+  },
+  {
+    "id": 98,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "genus": "Hibiscus",
+      "species": "Hibiscus syriacus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malvales",
+      "family_wp": "Malvaceae",
+      "genus_wp": "Hibiscus",
+      "species_wp": "Hibiscus_syriacus"
+    },
+    "count": 2,
+    "name_common": [
+      "Shrub Althea",
+      "Althea",
+      "Rose Of Sharon"
+    ],
+    "name_botanical": "Hibiscus syriacus",
+    "wp_link": "Hibiscus_syriacus",
+    "color": [
+      0.1,
+      0.3042553191489362,
+      0.4
+    ]
+  },
+  {
+    "id": 129,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malvales",
+      "family": "Malvaceae",
+      "genus": "Lagunaria",
+      "species": "Lagunaria patersonii",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Malvales",
+      "family_wp": "Malvaceae",
+      "genus_wp": "Lagunaria",
+      "species_wp": "Lagunaria"
+    },
+    "count": 22,
+    "name_common": [
+      "Cow Itch Tree"
+    ],
+    "name_botanical": "Lagunaria patersonii",
+    "wp_link": "Lagunaria",
+    "color": [
+      0.0666666666666667,
+      0.2936170212765958,
+      0.4
+    ]
+  },
+  {
+    "id": 40,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Lythraceae",
+      "genus": "Lagerstroemia",
+      "species": "Lagerstroemia indica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Lythraceae",
+      "genus_wp": "Lagerstroemia",
+      "species_wp": "Lagerstroemia_indica"
+    },
+    "count": 2380,
+    "name_common": [
+      "Crapemyrtle"
+    ],
+    "name_botanical": "Lagerstroemia indica",
+    "wp_link": "Lagerstroemia_indica",
+    "color": [
+      0.2,
+      0.3872340425531915,
+      0.4
+    ]
+  },
+  {
+    "id": 200,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Lythraceae",
+      "genus": "Punica",
+      "species": "Punica granatum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Lythraceae",
+      "genus_wp": "Punica",
+      "species_wp": "Pomegranate"
+    },
+    "count": 4,
+    "name_common": [
+      "Pomegranate"
+    ],
+    "name_botanical": "Punica granatum",
+    "wp_link": "Pomegranate",
+    "color": [
+      0.13333333333333336,
+      0.3829787234042554,
+      0.4
+    ]
+  },
+  {
+    "id": 110,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Acca",
+      "species": "Acca sellowiana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Acca_(plant)",
+      "species_wp": "Acca_sellowiana"
+    },
+    "count": 4,
+    "name_common": [
+      "Feijoa"
+    ],
+    "name_botanical": "Acca sellowiana",
+    "wp_link": "Acca_sellowiana",
+    "color": [
+      0.2,
+      0.23404255319148934,
+      0.4
+    ]
+  },
+  {
+    "id": 148,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Agonis",
+      "species": "Agonis flexuosa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Agonis",
+      "species_wp": "Agonis_flexuosa"
+    },
+    "count": 14,
+    "name_common": [
+      "Peppermint Tree"
+    ],
+    "name_botanical": "Agonis flexuosa",
+    "wp_link": "Agonis_flexuosa",
+    "color": [
+      0.18571428571428572,
+      0.22218844984802433,
+      0.4
+    ]
+  },
+  {
+    "id": 189,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Angophora",
+      "species": "Angophora costata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Angophora",
+      "species_wp": "Angophora_costata"
+    },
+    "count": 14,
+    "name_common": [
+      "Gum Myrtle"
+    ],
+    "name_botanical": "Angophora costata",
+    "wp_link": "Angophora_costata",
+    "color": [
+      0.17142857142857146,
+      0.21033434650455926,
+      0.4
+    ]
+  },
+  {
+    "id": 6,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Callistemon",
+      "species": "Callistemon citrinus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Callistemon",
+      "species_wp": "Melaleuca_citrina"
+    },
+    "count": 124,
+    "name_common": [
+      "Crimson Bottlebrush"
+    ],
+    "name_botanical": "Callistemon citrinus",
+    "wp_link": "Melaleuca_citrina",
+    "color": [
+      0.15714285714285717,
+      0.1984802431610942,
+      0.4
+    ]
+  },
+  {
+    "id": 201,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Callistemon",
+      "species": "Callistemon salignus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Callistemon",
+      "species_wp": "Melaleuca_salicina"
+    },
+    "count": 1,
+    "name_common": [
+      "Stonewood",
+      "White Bottlebrush",
+      "Willow Bottlebrush"
+    ],
+    "name_botanical": "Callistemon salignus",
+    "wp_link": "Melaleuca_salicina",
+    "color": [
+      0.20625000000000004,
+      0.2605053191489361,
+      0.525
+    ]
+  },
+  {
+    "id": 132,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Callistemon",
+      "species": "Callistemon viminalis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Callistemon",
+      "species_wp": "Melaleuca_viminalis"
+    },
+    "count": 95,
+    "name_common": [
+      "Weeping Bottlebrush"
+    ],
+    "name_botanical": "Callistemon viminalis",
+    "wp_link": "Melaleuca_viminalis",
+    "color": [
+      0.2553571428571429,
+      0.32253039513677806,
+      0.65
+    ]
+  },
+  {
+    "id": 93,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Corymbia",
+      "species": "Corymbia citriodora",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Corymbia",
+      "species_wp": "Corymbia_citriodora"
+    },
+    "count": 19,
+    "name_common": [
+      "Lemonscented Gum"
+    ],
+    "name_botanical": "Corymbia citriodora",
+    "wp_link": "Corymbia_citriodora",
+    "color": [
+      0.14285714285714288,
+      0.18662613981762918,
+      0.4
+    ]
+  },
+  {
+    "id": 73,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Corymbia",
+      "species": "Corymbia ficifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Corymbia",
+      "species_wp": "Corymbia_ficifolia"
+    },
+    "count": 85,
+    "name_common": [
+      "Redflower Gum"
+    ],
+    "name_botanical": "Corymbia ficifolia",
+    "wp_link": "Corymbia_ficifolia",
+    "color": [
+      0.2023809523809524,
+      0.264387031408308,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 126,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus"
+    },
+    "count": 28,
+    "name_common": [
+      "Gum"
+    ],
+    "name_botanical": "Eucalyptus",
+    "wp_link": "Eucalyptus",
+    "color": [
+      0.12857142857142856,
+      0.17477203647416406,
+      0.4
+    ]
+  },
+  {
+    "id": 21,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus camaldulensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_camaldulensis"
+    },
+    "count": 74,
+    "name_common": [
+      "River Redgum",
+      "Eucalipto-rojo",
+      "Murray Red Gum",
+      "Red Gum"
+    ],
+    "name_botanical": "Eucalyptus camaldulensis",
+    "wp_link": "Eucalyptus_camaldulensis",
+    "color": [
+      0.1392857142857143,
+      0.18933637284701108,
+      0.43333333333333335
+    ]
+  },
+  {
+    "id": 91,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus cinerea",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_cinerea"
+    },
+    "count": 10,
+    "name_common": [
+      "Argyle Apple"
+    ],
+    "name_botanical": "Eucalyptus cinerea",
+    "wp_link": "Eucalyptus_cinerea",
+    "color": [
+      0.15,
+      0.20390070921985806,
+      0.4666666666666667
+    ]
+  },
+  {
+    "id": 161,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus cladocalyx",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_cladocalyx"
+    },
+    "count": 10,
+    "name_common": [
+      "Sugargum"
+    ],
+    "name_botanical": "Eucalyptus cladocalyx",
+    "wp_link": "Eucalyptus_cladocalyx",
+    "color": [
+      0.1607142857142857,
+      0.21846504559270508,
+      0.5
+    ]
+  },
+  {
+    "id": 46,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus globulus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_globulus"
+    },
+    "count": 53,
+    "name_common": [
+      "Bluegum Eucalyptus",
+      "Tasmanian Bluegum"
+    ],
+    "name_botanical": "Eucalyptus globulus",
+    "wp_link": "Eucalyptus_globulus",
+    "color": [
+      0.1714285714285714,
+      0.2330293819655521,
+      0.5333333333333333
+    ]
+  },
+  {
+    "id": 156,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus leucoxylon",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_leucoxylon"
+    },
+    "count": 6,
+    "name_common": [
+      "White Ironbark",
+      "Yellow Gum"
+    ],
+    "name_botanical": "Eucalyptus leucoxylon",
+    "wp_link": "Eucalyptus_leucoxylon",
+    "color": [
+      0.1821428571428571,
+      0.24759371833839908,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 103,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus nicholii",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_nicholii"
+    },
+    "count": 12,
+    "name_common": [
+      "Willow-leaved Pepper"
+    ],
+    "name_botanical": "Eucalyptus nicholii",
+    "wp_link": "Eucalyptus_nicholii",
+    "color": [
+      0.19285714285714287,
+      0.26215805471124615,
+      0.6000000000000001
+    ]
+  },
+  {
+    "id": 59,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus platypus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_platypus"
+    },
+    "count": 1,
+    "name_common": [
+      "Round-leaf Moort"
+    ],
+    "name_botanical": "Eucalyptus platypus",
+    "wp_link": "Eucalyptus_platypus",
+    "color": [
+      0.20357142857142854,
+      0.2767223910840931,
+      0.6333333333333333
+    ]
+  },
+  {
+    "id": 16,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus polyanthemos",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_polyanthemos"
+    },
+    "count": 198,
+    "name_common": [
+      "Redbox"
+    ],
+    "name_botanical": "Eucalyptus polyanthemos",
+    "wp_link": "Eucalyptus_polyanthemos",
+    "color": [
+      0.2142857142857143,
+      0.2912867274569401,
+      0.6666666666666667
+    ]
+  },
+  {
+    "id": 82,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus robusta",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_robusta"
+    },
+    "count": 45,
+    "name_common": [
+      "Swampmahogany"
+    ],
+    "name_botanical": "Eucalyptus robusta",
+    "wp_link": "Eucalyptus_robusta",
+    "color": [
+      0.22499999999999995,
+      0.3058510638297871,
+      0.7
+    ]
+  },
+  {
+    "id": 133,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus rudis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_rudis"
+    },
+    "count": 18,
+    "name_common": [
+      "Desert Gum",
+      "Western Australian Floodedgum"
+    ],
+    "name_botanical": "Eucalyptus rudis",
+    "wp_link": "Eucalyptus_rudis",
+    "color": [
+      0.2357142857142857,
+      0.32041540020263415,
+      0.7333333333333334
+    ]
+  },
+  {
+    "id": 83,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus sideroxylon",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_sideroxylon"
+    },
+    "count": 31,
+    "name_common": [
+      "Red Ironbark"
+    ],
+    "name_botanical": "Eucalyptus sideroxylon",
+    "wp_link": "Eucalyptus_sideroxylon",
+    "color": [
+      0.24642857142857139,
+      0.3349797365754811,
+      0.7666666666666666
+    ]
+  },
+  {
+    "id": 238,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus torquata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_torquata"
+    },
+    "count": 2,
+    "name_common": [
+      "Coral Gum"
+    ],
+    "name_botanical": "Eucalyptus torquata",
+    "wp_link": "Eucalyptus_torquata",
+    "color": [
+      0.2571428571428571,
+      0.3495440729483281,
+      0.8
+    ]
+  },
+  {
+    "id": 120,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Eucalyptus",
+      "species": "Eucalyptus viminalis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Eucalyptus",
+      "species_wp": "Eucalyptus_viminalis"
+    },
+    "count": 4,
+    "name_common": [
+      "Manna Gum"
+    ],
+    "name_botanical": "Eucalyptus viminalis",
+    "wp_link": "Eucalyptus_viminalis",
+    "color": [
+      0.26785714285714285,
+      0.36410840932117516,
+      0.8333333333333334
+    ]
+  },
+  {
+    "id": 168,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Leptospermum",
+      "species": "Leptospermum laevigatum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Leptospermum",
+      "species_wp": "Leptospermum_laevigatum"
+    },
+    "count": 5,
+    "name_common": [
+      "Australian Teatree"
+    ],
+    "name_botanical": "Leptospermum laevigatum",
+    "wp_link": "Leptospermum_laevigatum",
+    "color": [
+      0.11428571428571428,
+      0.16291793313069905,
+      0.4
+    ]
+  },
+  {
+    "id": 10,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Lophostemon",
+      "species": "Lophostemon confertus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Lophostemon",
+      "species_wp": "Lophostemon_confertus"
+    },
+    "count": 1417,
+    "name_common": [
+      "Vinegartree"
+    ],
+    "name_botanical": "Lophostemon confertus",
+    "wp_link": "Lophostemon_confertus",
+    "color": [
+      0.1,
+      0.15106382978723398,
+      0.4
+    ]
+  },
+  {
+    "id": 123,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Melaleuca",
+      "species": "Melaleuca armillaris",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Melaleuca",
+      "species_wp": "Melaleuca_armillaris"
+    },
+    "count": 15,
+    "name_common": [
+      "Drooping Melaleuca"
+    ],
+    "name_botanical": "Melaleuca armillaris",
+    "wp_link": "Melaleuca_armillaris",
+    "color": [
+      0.08571428571428573,
+      0.13920972644376892,
+      0.4
+    ]
+  },
+  {
+    "id": 102,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Melaleuca",
+      "species": "Melaleuca linariifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Melaleuca",
+      "species_wp": "Melaleuca_linariifolia"
+    },
+    "count": 25,
+    "name_common": [
+      "Cajeput Tree"
+    ],
+    "name_botanical": "Melaleuca linariifolia",
+    "wp_link": "Melaleuca_linariifolia",
+    "color": [
+      0.10357142857142858,
+      0.16821175278622078,
+      0.48333333333333334
+    ]
+  },
+  {
+    "id": 249,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Melaleuca",
+      "species": "Melaleuca nesophila",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Melaleuca",
+      "species_wp": "Melaleuca_nesophila"
+    },
+    "count": 1,
+    "name_common": [
+      "Pink Melaleuca"
+    ],
+    "name_botanical": "Melaleuca nesophila",
+    "wp_link": "Melaleuca_nesophila",
+    "color": [
+      0.12142857142857144,
+      0.19721377912867263,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 57,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Melaleuca",
+      "species": "Melaleuca quinquenervia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Melaleuca",
+      "species_wp": "Melaleuca_quinquenervia"
+    },
+    "count": 497,
+    "name_common": [
+      "Bottle Brush Tree",
+      "Cajeput Tree",
+      "Melaleuca",
+      "Niaouli",
+      "Paperbark",
+      "Punktree"
+    ],
+    "name_botanical": "Melaleuca quinquenervia",
+    "wp_link": "Melaleuca_quinquenervia",
+    "color": [
+      0.1392857142857143,
+      0.2262158054711245,
+      0.65
+    ]
+  },
+  {
+    "id": 178,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Melaleuca",
+      "species": "Melaleuca styphelioides",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Melaleuca",
+      "species_wp": "Melaleuca_styphelioides"
+    },
+    "count": 3,
+    "name_common": [
+      "Prickly-leaf Teatree"
+    ],
+    "name_botanical": "Melaleuca styphelioides",
+    "wp_link": "Melaleuca_styphelioides",
+    "color": [
+      0.15714285714285717,
+      0.2552178318135764,
+      0.7333333333333334
+    ]
+  },
+  {
+    "id": 185,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Metrosideros",
+      "species": "Metrosideros",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Metrosideros",
+      "species_wp": "Metrosideros"
+    },
+    "count": 3,
+    "name_common": [
+      "Lehua"
+    ],
+    "name_botanical": "Metrosideros",
+    "wp_link": "Metrosideros",
+    "color": [
+      0.07142857142857144,
+      0.1273556231003039,
+      0.4
+    ]
+  },
+  {
+    "id": 184,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Metrosideros",
+      "species": "Metrosideros excelsa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Metrosideros",
+      "species_wp": "Metrosideros_excelsa"
+    },
+    "count": 19,
+    "name_common": [
+      "New Zealand Christmas Tree"
+    ],
+    "name_botanical": "Metrosideros excelsa",
+    "wp_link": "Metrosideros_excelsa",
+    "color": [
+      0.1011904761904762,
+      0.18042046605876386,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 216,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Psidium",
+      "species": "Psidium guajava",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Psidium",
+      "species_wp": "Psidium_guajava"
+    },
+    "count": 10,
+    "name_common": [
+      "Guava",
+      "Abas",
+      "Goyavier",
+      "Guabang",
+      "Kautonga",
+      "Kuahpa"
+    ],
+    "name_botanical": "Psidium guajava",
+    "wp_link": "Psidium_guajava",
+    "color": [
+      0.05714285714285712,
+      0.11550151975683881,
+      0.4
+    ]
+  },
+  {
+    "id": 35,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Syzygium",
+      "species": "Syzygium paniculatum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Syzygium",
+      "species_wp": "Syzygium_paniculatum"
+    },
+    "count": 1017,
+    "name_common": [
+      "Brush Cherry"
+    ],
+    "name_botanical": "Syzygium paniculatum",
+    "wp_link": "Syzygium_paniculatum",
+    "color": [
+      0.042857142857142885,
+      0.10364741641337383,
+      0.4
+    ]
+  },
+  {
+    "id": 231,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Syzygium",
+      "species": "Syzygium smithii",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Syzygium",
+      "species_wp": "Syzygium_smithii"
+    },
+    "count": 1,
+    "name_common": [
+      "Lilly Pilly Tree"
+    ],
+    "name_botanical": "Syzygium smithii",
+    "wp_link": "Syzygium_smithii",
+    "color": [
+      0.06071428571428575,
+      0.14683383991894625,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 33,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Myrtaceae",
+      "genus": "Tristaniopsis",
+      "species": "Tristaniopsis laurina",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Myrtales",
+      "family_wp": "Myrtaceae",
+      "genus_wp": "Tristaniopsis",
+      "species_wp": "Tristaniopsis_laurina"
+    },
+    "count": 10,
+    "name_common": [
+      "Water-gum"
+    ],
+    "name_botanical": "Tristaniopsis laurina",
+    "wp_link": "Tristaniopsis_laurina",
+    "color": [
+      0.02857142857142856,
+      0.09179331306990873,
+      0.4
+    ]
+  },
+  {
+    "id": 49,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Proteales",
+      "family": "Platanaceae",
+      "genus": "Platanus",
+      "species": "Platanus acerifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Proteales",
+      "family_wp": "Platanaceae",
+      "genus_wp": "Platanus",
+      "species_wp": "Platanus_×_acerifolia"
+    },
+    "count": 385,
+    "name_common": [
+      "London Plane",
+      "London Planetree",
+      "Hybrid Plane"
+    ],
+    "name_botanical": "Platanus acerifolia",
+    "wp_link": "Platanus_×_acerifolia",
+    "color": [
+      0.29361702127659567,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "id": 28,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Proteales",
+      "family": "Platanaceae",
+      "genus": "Platanus",
+      "species": "Platanus racemosa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Proteales",
+      "family_wp": "Platanaceae",
+      "genus_wp": "Platanus",
+      "species_wp": "Platanus_racemosa"
+    },
+    "count": 471,
+    "name_common": [
+      "California Sycamore"
+    ],
+    "name_botanical": "Platanus racemosa",
+    "wp_link": "Platanus_racemosa",
+    "color": [
+      0.4159574468085105,
+      0.2833333333333333,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 86,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Proteales",
+      "family": "Proteaceae",
+      "genus": "Grevillea",
+      "species": "Grevillea robusta",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Proteales",
+      "family_wp": "Proteaceae",
+      "genus_wp": "Grevillea",
+      "species_wp": "Grevillea_robusta"
+    },
+    "count": 44,
+    "name_common": [
+      "Silky Oak",
+      "Silver Oak",
+      "Silkoak"
+    ],
+    "name_botanical": "Grevillea robusta",
+    "wp_link": "Grevillea_robusta",
+    "color": [
+      0.3446808510638299,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "id": 169,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Proteales",
+      "family": "Proteaceae",
+      "genus": "Stenocarpus",
+      "species": "Stenocarpus sinuatus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Proteales",
+      "family_wp": "Proteaceae",
+      "genus_wp": "Stenocarpus",
+      "species_wp": "Stenocarpus_sinuatus"
+    },
+    "count": 15,
+    "name_common": [
+      "Firewheeltree"
+    ],
+    "name_botanical": "Stenocarpus sinuatus",
+    "wp_link": "Stenocarpus_sinuatus",
+    "color": [
+      0.3262411347517732,
+      0.13333333333333336,
+      0.4
+    ]
+  },
+  {
+    "id": 194,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Ranunculales",
+      "family": "Menispermaceae",
+      "genus": "Cocculus",
+      "species": "Cocculus laurifolius",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Ranunculales",
+      "family_wp": "Menispermaceae",
+      "genus_wp": "Cocculus",
+      "species_wp": "Cocculus_laurifolius"
+    },
+    "count": 2,
+    "name_common": [
+      "Laurel-leaf Snailseed"
+    ],
+    "name_botanical": "Cocculus laurifolius",
+    "wp_link": "Cocculus_laurifolius",
+    "color": [
+      0.2,
+      0.2851063829787234,
+      0.4
+    ]
+  },
+  {
+    "id": 62,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Cannabaceae",
+      "genus": "Celtis",
+      "species": "Celtis australis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Cannabaceae",
+      "genus_wp": "Celtis",
+      "species_wp": "Celtis_australis"
+    },
+    "count": 9,
+    "name_common": [
+      "Mediterranean Hackberry",
+      "European Hackberry",
+      "European Nettletree",
+      "Honey-berry"
+    ],
+    "name_botanical": "Celtis australis",
+    "wp_link": "Celtis_australis",
+    "color": [
+      0.3191489361702128,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "id": 192,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Cannabaceae",
+      "genus": "Celtis",
+      "species": "Celtis occidentalis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Cannabaceae",
+      "genus_wp": "Celtis",
+      "species_wp": "Celtis_occidentalis"
+    },
+    "count": 7,
+    "name_common": [
+      "Hackberry",
+      "Common Hackberry",
+      "Western Hackberry"
+    ],
+    "name_botanical": "Celtis occidentalis",
+    "wp_link": "Celtis_occidentalis",
+    "color": [
+      0.39893617021276595,
+      0.5,
+      0.25
+    ]
+  },
+  {
+    "id": 232,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Cannabaceae",
+      "genus": "Celtis",
+      "species": "Celtis reticulata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Cannabaceae",
+      "genus_wp": "Celtis",
+      "species_wp": "Celtis_reticulata"
+    },
+    "count": 1,
+    "name_common": [
+      "Netleaf Hackberry",
+      "Palo Blanco"
+    ],
+    "name_botanical": "Celtis reticulata",
+    "wp_link": "Celtis_reticulata",
+    "color": [
+      0.47872340425531923,
+      0.6000000000000001,
+      0.30000000000000004
+    ]
+  },
+  {
+    "id": 181,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Cannabaceae",
+      "genus": "Celtis",
+      "species": "Celtis sinensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Cannabaceae",
+      "genus_wp": "Celtis",
+      "species_wp": "Celtis_sinensis"
+    },
+    "count": 4,
+    "name_common": [
+      "Chinese Hackberry",
+      "Japanese Hackberry"
+    ],
+    "name_botanical": "Celtis sinensis",
+    "wp_link": "Celtis_sinensis",
+    "color": [
+      0.5585106382978723,
+      0.7,
+      0.35
+    ]
+  },
+  {
+    "id": 220,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "genus": "Broussonetia",
+      "species": "Broussonetia papyrifera",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Moraceae",
+      "genus_wp": "Broussonetia",
+      "species_wp": "Paper_mulberry"
+    },
+    "count": 1,
+    "name_common": [
+      "Wauke",
+      "Paper Mulberry"
+    ],
+    "name_botanical": "Broussonetia papyrifera",
+    "wp_link": "Paper_mulberry",
+    "color": [
+      0.2,
+      0.2595744680851064,
+      0.4
+    ]
+  },
+  {
+    "id": 118,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "genus": "Ficus",
+      "species": "Ficus benjamina",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Moraceae",
+      "genus_wp": "Ficus",
+      "species_wp": "Ficus_benjamina"
+    },
+    "count": 105,
+    "name_common": [
+      "Weeping Fig"
+    ],
+    "name_botanical": "Ficus benjamina",
+    "wp_link": "Ficus_benjamina",
+    "color": [
+      0.15000000000000002,
+      0.22446808510638305,
+      0.4
+    ]
+  },
+  {
+    "id": 121,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "genus": "Ficus",
+      "species": "Ficus carica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Moraceae",
+      "genus_wp": "Ficus",
+      "species_wp": "Common_fig"
+    },
+    "count": 32,
+    "name_common": [
+      "Common Fig",
+      "Edible Fig"
+    ],
+    "name_botanical": "Ficus carica",
+    "wp_link": "Common_fig",
+    "color": [
+      0.18125,
+      0.2712322695035462,
+      0.48333333333333334
+    ]
+  },
+  {
+    "id": 202,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "genus": "Ficus",
+      "species": "Ficus elastica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Moraceae",
+      "genus_wp": "Ficus",
+      "species_wp": "Ficus_elastica"
+    },
+    "count": 3,
+    "name_common": [
+      "Indian Rubber Fig",
+      "Indian Rubberplant"
+    ],
+    "name_botanical": "Ficus elastica",
+    "wp_link": "Ficus_elastica",
+    "color": [
+      0.2125,
+      0.3179964539007093,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 12,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "genus": "Ficus",
+      "species": "Ficus microcarpa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Moraceae",
+      "genus_wp": "Ficus",
+      "species_wp": "Ficus_microcarpa"
+    },
+    "count": 642,
+    "name_common": [
+      "Laurel Fig",
+      "Curtain Fig",
+      "Chinese Banyan"
+    ],
+    "name_botanical": "Ficus microcarpa",
+    "wp_link": "Ficus_microcarpa",
+    "color": [
+      0.24375000000000002,
+      0.3647606382978724,
+      0.65
+    ]
+  },
+  {
+    "id": 235,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "genus": "Ficus",
+      "species": "Ficus rubiginosa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Moraceae",
+      "genus_wp": "Ficus",
+      "species_wp": "Ficus_rubiginosa"
+    },
+    "count": 3,
+    "name_common": [
+      "Port Jackson Fig"
+    ],
+    "name_botanical": "Ficus rubiginosa",
+    "wp_link": "Ficus_rubiginosa",
+    "color": [
+      0.275,
+      0.4115248226950356,
+      0.7333333333333334
+    ]
+  },
+  {
+    "id": 87,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Moraceae",
+      "genus": "Morus",
+      "species": "Morus alba",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Moraceae",
+      "genus_wp": "Morus",
+      "species_wp": "Morus_alba"
+    },
+    "count": 35,
+    "name_common": [
+      "Mulberry",
+      "White Mulberry"
+    ],
+    "name_botanical": "Morus alba",
+    "wp_link": "Morus_alba",
+    "color": [
+      0.1,
+      0.18936170212765965,
+      0.4
+    ]
+  },
+  {
+    "id": 163,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Eriobotrya",
+      "species": "Eriobotrya deflexa",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Eriobotrya",
+      "species_wp": "Bronze_loquat"
+    },
+    "count": 90,
+    "name_common": [
+      "Bronze Loquat"
+    ],
+    "name_botanical": "Eriobotrya deflexa",
+    "wp_link": "Bronze_loquat",
+    "color": [
+      0.37021276595744673,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "id": 97,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Eriobotrya",
+      "species": "Eriobotrya japonica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Eriobotrya",
+      "species_wp": "Loquat"
+    },
+    "count": 76,
+    "name_common": [
+      "Loquat"
+    ],
+    "name_botanical": "Eriobotrya japonica",
+    "wp_link": "Loquat",
+    "color": [
+      0.5244680851063828,
+      0.2833333333333333,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 211,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Eriobotrya",
+      "species": "Eriobotrya japonica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Eriobotrya",
+      "species_wp": "Loquat"
+    },
+    "count": 21,
+    "name_common": [
+      "Loquat"
+    ],
+    "name_botanical": "Eriobotrya japonica 'Coppertone'",
+    "wp_link": "Loquat",
+    "color": [
+      0.5244680851063828,
+      0.2833333333333333,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 22,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Heteromeles",
+      "species": "Heteromeles arbutifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Heteromeles",
+      "species_wp": "Heteromeles"
+    },
+    "count": 69,
+    "name_common": [
+      "Toyon"
+    ],
+    "name_botanical": "Heteromeles arbutifolia",
+    "wp_link": "Heteromeles",
+    "color": [
+      0.36648936170212754,
+      0.17500000000000002,
+      0.4
+    ]
+  },
+  {
+    "id": 209,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Malus",
+      "species": "Malus pumila",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Malus",
+      "species_wp": "Apple"
+    },
+    "count": 6,
+    "name_common": [
+      "Paradise Apple"
+    ],
+    "name_botanical": "Malus pumila",
+    "wp_link": "Apple",
+    "color": [
+      0.3627659574468084,
+      0.15000000000000002,
+      0.4
+    ]
+  },
+  {
+    "id": 245,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Photinia",
+      "species": "Photinia × fraseri",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Photinia",
+      "species_wp": "Photinia"
+    },
+    "count": 11,
+    "name_common": [
+      "Fraser's Photinia",
+      "Red-tip Photinia"
+    ],
+    "name_botanical": "Photinia × fraseri",
+    "wp_link": "Photinia",
+    "color": [
+      0.35904255319148926,
+      0.125,
+      0.4
+    ]
+  },
+  {
+    "id": 191,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Prunus"
+    },
+    "count": 3,
+    "name_common": [
+      "Chokecherry",
+      "Plum"
+    ],
+    "name_botanical": "Prunus",
+    "wp_link": "Prunus",
+    "color": [
+      0.35531914893617006,
+      0.1,
+      0.4
+    ]
+  },
+  {
+    "id": 76,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus × blireana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Prunus_×_blireana"
+    },
+    "count": 30,
+    "name_common": [
+      "Purple-leafed Plum",
+      "Double-flowering Plum"
+    ],
+    "name_botanical": "Prunus × blireana",
+    "wp_link": "Prunus_×_blireana",
+    "color": [
+      0.7254432624113472,
+      0.20416666666666666,
+      0.8166666666666667
+    ]
+  },
+  {
+    "id": 226,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus armeniaca",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Prunus_armeniaca"
+    },
+    "count": 13,
+    "name_common": [
+      "Siberian Apricot",
+      "Albaricoque",
+      "Damasco",
+      "Apricot"
+    ],
+    "name_botanical": "Prunus armeniaca",
+    "wp_link": "Prunus_armeniaca",
+    "color": [
+      0.3923315602836878,
+      0.11041666666666668,
+      0.4416666666666667
+    ]
+  },
+  {
+    "id": 56,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus caroliniana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Prunus_caroliniana"
+    },
+    "count": 633,
+    "name_common": [
+      "Carolina Laurelcherry"
+    ],
+    "name_botanical": "Prunus caroliniana",
+    "wp_link": "Prunus_caroliniana",
+    "color": [
+      0.42934397163120547,
+      0.12083333333333333,
+      0.48333333333333334
+    ]
+  },
+  {
+    "id": 75,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus cerasifera",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Cherry_plum"
+    },
+    "count": 393,
+    "name_common": [
+      "Myrobalan Plum",
+      "Ciruela Chabacana",
+      "Cherry Plum"
+    ],
+    "name_botanical": "Prunus cerasifera",
+    "wp_link": "Cherry_plum",
+    "color": [
+      0.4663563829787232,
+      0.13125,
+      0.525
+    ]
+  },
+  {
+    "id": 183,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus domestica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Prunus_domestica"
+    },
+    "count": 25,
+    "name_common": [
+      "European Plum"
+    ],
+    "name_botanical": "Prunus domestica",
+    "wp_link": "Prunus_domestica",
+    "color": [
+      0.5033687943262409,
+      0.14166666666666666,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 152,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus dulcis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Almond"
+    },
+    "count": 6,
+    "name_common": [
+      "Sweet Almond",
+      "Almond",
+      "Almendro"
+    ],
+    "name_botanical": "Prunus dulcis",
+    "wp_link": "Almond",
+    "color": [
+      0.5403812056737587,
+      0.15208333333333335,
+      0.6083333333333334
+    ]
+  },
+  {
+    "id": 20,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus ilicifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Prunus_ilicifolia"
+    },
+    "count": 38,
+    "name_common": [
+      "Hollyleaf Cherry"
+    ],
+    "name_botanical": "Prunus ilicifolia",
+    "wp_link": "Prunus_ilicifolia",
+    "color": [
+      0.5773936170212763,
+      0.1625,
+      0.65
+    ]
+  },
+  {
+    "id": 146,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus persica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Peach"
+    },
+    "count": 33,
+    "name_common": [
+      "Peach"
+    ],
+    "name_botanical": "Prunus persica",
+    "wp_link": "Peach",
+    "color": [
+      0.614406028368794,
+      0.17291666666666666,
+      0.6916666666666667
+    ]
+  },
+  {
+    "id": 197,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus serrulata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Prunus_serrulata"
+    },
+    "count": 93,
+    "name_common": [
+      "Japanese Flowering Cherry"
+    ],
+    "name_botanical": "Prunus serrulata",
+    "wp_link": "Prunus_serrulata",
+    "color": [
+      0.6514184397163119,
+      0.18333333333333335,
+      0.7333333333333334
+    ]
+  },
+  {
+    "id": 182,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Prunus",
+      "species": "Prunus yedoensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Prunus",
+      "species_wp": "Prunus_×_yedoensis"
+    },
+    "count": 1,
+    "name_common": [
+      "Yoshino Cherry"
+    ],
+    "name_botanical": "Prunus yedoensis",
+    "wp_link": "Prunus_×_yedoensis",
+    "color": [
+      0.6884308510638295,
+      0.19375,
+      0.775
+    ]
+  },
+  {
+    "id": 127,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Pyrus",
+      "species": "Pyrus calleryana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Pear",
+      "species_wp": "Pyrus_calleryana"
+    },
+    "count": 231,
+    "name_common": [
+      "Callery Pear"
+    ],
+    "name_botanical": "Pyrus calleryana",
+    "wp_link": "Pyrus_calleryana",
+    "color": [
+      0.35159574468085086,
+      0.07500000000000001,
+      0.4
+    ]
+  },
+  {
+    "id": 227,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Rosaceae",
+      "genus": "Rhaphiolepis",
+      "species": "Rhaphiolepis indica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Rosaceae",
+      "genus_wp": "Rhaphiolepis",
+      "species_wp": "Rhaphiolepis_indica"
+    },
+    "count": 16,
+    "name_common": [
+      "Indian Hawthorn"
+    ],
+    "name_botanical": "Rhaphiolepis indica",
+    "wp_link": "Rhaphiolepis_indica",
+    "color": [
+      0.3478723404255317,
+      0.05,
+      0.4
+    ]
+  },
+  {
+    "id": 160,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Ulmaceae",
+      "genus": "Ulmus",
+      "species": "Ulmus americana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Ulmaceae",
+      "genus_wp": "Elm",
+      "species_wp": "Ulmus_americana"
+    },
+    "count": 8,
+    "name_common": [
+      "American Elm"
+    ],
+    "name_botanical": "Ulmus americana",
+    "wp_link": "Ulmus_americana",
+    "color": [
+      0.4,
+      0.2,
+      0.225531914893617
+    ]
+  },
+  {
+    "id": 11,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Ulmaceae",
+      "genus": "Ulmus",
+      "species": "Ulmus parvifolia",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Ulmaceae",
+      "genus_wp": "Elm",
+      "species_wp": "Ulmus_parvifolia"
+    },
+    "count": 3579,
+    "name_common": [
+      "Lacebark Elm",
+      "Chinese Elm"
+    ],
+    "name_botanical": "Ulmus parvifolia",
+    "wp_link": "Ulmus_parvifolia",
+    "color": [
+      0.525,
+      0.2625,
+      0.29601063829787233
+    ]
+  },
+  {
+    "id": 54,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Ulmaceae",
+      "genus": "Ulmus",
+      "species": "Ulmus pumila",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Ulmaceae",
+      "genus_wp": "Elm",
+      "species_wp": "Ulmus_pumila"
+    },
+    "count": 239,
+    "name_common": [
+      "Siberian Elm",
+      "Chinese Elm"
+    ],
+    "name_botanical": "Ulmus pumila",
+    "wp_link": "Ulmus_pumila",
+    "color": [
+      0.65,
+      0.325,
+      0.36648936170212765
+    ]
+  },
+  {
+    "id": 36,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Rosales",
+      "family": "Ulmaceae",
+      "genus": "Zelkova",
+      "species": "Zelkova serrata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Rosales",
+      "family_wp": "Ulmaceae",
+      "genus_wp": "Zelkova",
+      "species_wp": "Zelkova_serrata"
+    },
+    "count": 901,
+    "name_common": [
+      "Japanese Zelkova"
+    ],
+    "name_botanical": "Zelkova serrata",
+    "wp_link": "Zelkova_serrata",
+    "color": [
+      0.4,
+      0.13333333333333336,
+      0.16737588652482271
+    ]
+  },
+  {
+    "id": 215,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Anacardiaceae",
+      "genus": "Cotinus",
+      "species": "Cotinus coggygria",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Anacardiaceae",
+      "genus_wp": "Cotinus",
+      "species_wp": "Cotinus_coggygria"
+    },
+    "count": 4,
+    "name_common": [
+      "European Smoketree"
+    ],
+    "name_botanical": "Cotinus coggygria",
+    "wp_link": "Cotinus_coggygria",
+    "color": [
+      0.4,
+      0.251063829787234,
+      0.2
+    ]
+  },
+  {
+    "id": 206,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Anacardiaceae",
+      "genus": "Harpephyllum",
+      "species": "Harpephyllum caffrum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Anacardiaceae",
+      "genus_wp": "Harpephyllum",
+      "species_wp": "Harpephyllum"
+    },
+    "count": 9,
+    "name_common": [
+      "Kaffir Plum",
+      "Wild Plum"
+    ],
+    "name_botanical": "Harpephyllum caffrum",
+    "wp_link": "Harpephyllum",
+    "color": [
+      0.4,
+      0.22624113475177304,
+      0.16666666666666666
+    ]
+  },
+  {
+    "id": 130,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Anacardiaceae",
+      "genus": "Pistacia",
+      "species": "Pistacia chinensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Anacardiaceae",
+      "genus_wp": "Pistacia",
+      "species_wp": "Pistacia_chinensis"
+    },
+    "count": 470,
+    "name_common": [
+      "Chinese Pistache"
+    ],
+    "name_botanical": "Pistacia chinensis",
+    "wp_link": "Pistacia_chinensis",
+    "color": [
+      0.4,
+      0.20141843971631204,
+      0.13333333333333336
+    ]
+  },
+  {
+    "id": 60,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Anacardiaceae",
+      "genus": "Schinus",
+      "species": "Schinus molle",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Anacardiaceae",
+      "genus_wp": "Schinus",
+      "species_wp": "Schinus_molle"
+    },
+    "count": 79,
+    "name_common": [
+      "Peppertree",
+      "American Pepper",
+      "False Pepper",
+      "Molle Del Peru",
+      "Pepper Tree",
+      "Peruvian Peppertree"
+    ],
+    "name_botanical": "Schinus molle",
+    "wp_link": "Schinus_molle",
+    "color": [
+      0.4,
+      0.17659574468085104,
+      0.1
+    ]
+  },
+  {
+    "id": 199,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Anacardiaceae",
+      "genus": "Schinus",
+      "species": "Schinus polygamus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Anacardiaceae",
+      "genus_wp": "Schinus",
+      "species_wp": "Schinus_polygama"
+    },
+    "count": 10,
+    "name_common": [
+      "Hardee Peppertree"
+    ],
+    "name_botanical": "Schinus polygamus",
+    "wp_link": "Schinus_polygama",
+    "color": [
+      0.525,
+      0.231781914893617,
+      0.13125
+    ]
+  },
+  {
+    "id": 78,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Anacardiaceae",
+      "genus": "Schinus",
+      "species": "Schinus terebinthifolius",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Anacardiaceae",
+      "genus_wp": "Schinus",
+      "species_wp": "Schinus_terebinthifolia"
+    },
+    "count": 96,
+    "name_common": [
+      "Brazilian Pepper-tree",
+      "Christmas Berry",
+      "Florida Holly",
+      "Warui",
+      "Christmasberry",
+      "Brazilian Peppertree"
+    ],
+    "name_botanical": "Schinus terebinthifolius",
+    "wp_link": "Schinus_terebinthifolia",
+    "color": [
+      0.65,
+      0.28696808510638294,
+      0.1625
+    ]
+  },
+  {
+    "id": 188,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Anacardiaceae",
+      "genus": "Searsia",
+      "species": "Searsia lancea",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Anacardiaceae",
+      "genus_wp": "Searsia_(plant)",
+      "species_wp": "Searsia_lancea"
+    },
+    "count": 1,
+    "name_common": [
+      "African Sumac",
+      "Bastard Willow",
+      "Karroo-tree"
+    ],
+    "name_botanical": "Searsia lancea",
+    "wp_link": "Searsia_lancea",
+    "color": [
+      0.4,
+      0.15177304964539007,
+      0.0666666666666667
+    ]
+  },
+  {
+    "id": 63,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Meliaceae",
+      "genus": "Melia",
+      "species": "Melia azedarach",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Meliaceae",
+      "genus_wp": "Melia_(plant)",
+      "species_wp": "Melia_azedarach"
+    },
+    "count": 22,
+    "name_common": [
+      "Chinaberry Tree",
+      "Chinaberry",
+      "Indian Lilac",
+      "Lelah",
+      "Paraiso",
+      "Pride Of India",
+      "White Cedar"
+    ],
+    "name_botanical": "Melia azedarach",
+    "wp_link": "Melia_azedarach",
+    "color": [
+      0.2,
+      0.3106382978723404,
+      0.4
+    ]
+  },
+  {
+    "id": 205,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "genus": "Calodendrum",
+      "species": "Calodendrum capense",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Rutaceae",
+      "genus_wp": "Calodendrum",
+      "species_wp": "Calodendrum_capense"
+    },
+    "count": 40,
+    "name_common": [
+      "Cape-chestnut"
+    ],
+    "name_botanical": "Calodendrum capense",
+    "wp_link": "Calodendrum_capense",
+    "color": [
+      0.3957446808510639,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "id": 180,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "genus": "Casimiroa",
+      "species": "Casimiroa edulis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Rutaceae",
+      "genus_wp": "Casimiroa",
+      "species_wp": "White_sapote"
+    },
+    "count": 1,
+    "name_common": [
+      "White Sapote"
+    ],
+    "name_botanical": "Casimiroa edulis",
+    "wp_link": "White_sapote",
+    "color": [
+      0.3948936170212767,
+      0.16000000000000003,
+      0.4
+    ]
+  },
+  {
+    "id": 140,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "genus": "Citrus",
+      "species": "Citrus × limon",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Rutaceae",
+      "genus_wp": "Citrus",
+      "species_wp": "Lemon"
+    },
+    "count": 40,
+    "name_common": [
+      "Lemon"
+    ],
+    "name_botanical": "Citrus × limon",
+    "wp_link": "Lemon",
+    "color": [
+      0.5171808510638299,
+      0.15750000000000003,
+      0.525
+    ]
+  },
+  {
+    "id": 116,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "genus": "Citrus",
+      "species": "Citrus × sinensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Rutaceae",
+      "genus_wp": "Citrus",
+      "species_wp": "Citrus_×_sinensis"
+    },
+    "count": 56,
+    "name_common": [
+      "Sweet Orange"
+    ],
+    "name_botanical": "Citrus × sinensis",
+    "wp_link": "Citrus_×_sinensis",
+    "color": [
+      0.6403191489361704,
+      0.19500000000000003,
+      0.65
+    ]
+  },
+  {
+    "id": 151,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "genus": "Citrus",
+      "species": "Citrus aurantium",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Rutaceae",
+      "genus_wp": "Citrus",
+      "species_wp": "Bitter_orange"
+    },
+    "count": 3,
+    "name_common": [
+      "Sour Orange"
+    ],
+    "name_botanical": "Citrus aurantium",
+    "wp_link": "Bitter_orange",
+    "color": [
+      0.3940425531914895,
+      0.12000000000000002,
+      0.4
+    ]
+  },
+  {
+    "id": 50,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Rutaceae",
+      "genus": "Geijera",
+      "species": "Geijera parviflora",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Rutaceae",
+      "genus_wp": "Geijera",
+      "species_wp": "Geijera_parviflora"
+    },
+    "count": 50,
+    "name_common": [
+      "Australian Willow"
+    ],
+    "name_botanical": "Geijera parviflora",
+    "wp_link": "Geijera_parviflora",
+    "color": [
+      0.39319148936170223,
+      0.07999999999999999,
+      0.4
+    ]
+  },
+  {
+    "id": 244,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Acer",
+      "species": "Acer circinatum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Maple",
+      "species_wp": "Acer_circinatum"
+    },
+    "count": 1,
+    "name_common": [
+      "Vine Maple"
+    ],
+    "name_botanical": "Acer circinatum",
+    "wp_link": "Acer_circinatum",
+    "color": [
+      0.4,
+      0.2,
+      0.3531914893617021
+    ]
+  },
+  {
+    "id": 170,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Acer",
+      "species": "Acer macrophyllum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Maple",
+      "species_wp": "Acer_macrophyllum"
+    },
+    "count": 1,
+    "name_common": [
+      "Bigleaf Maple"
+    ],
+    "name_botanical": "Acer macrophyllum",
+    "wp_link": "Acer_macrophyllum",
+    "color": [
+      0.4714285714285714,
+      0.2357142857142857,
+      0.4162613981762917
+    ]
+  },
+  {
+    "id": 107,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Acer",
+      "species": "Acer negundo",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Maple",
+      "species_wp": "Acer_negundo"
+    },
+    "count": 3,
+    "name_common": [
+      "Ashleaf Maple",
+      "Boxelder",
+      "Boxelder Maple",
+      "California Boxelder",
+      "Manitoba Maple",
+      "Western Boxelder",
+      "Box Elder",
+      "Three-leaf Maple",
+      "Ash-leaf Maple"
+    ],
+    "name_botanical": "Acer negundo",
+    "wp_link": "Acer_negundo",
+    "color": [
+      0.5428571428571429,
+      0.27142857142857146,
+      0.47933130699088144
+    ]
+  },
+  {
+    "id": 115,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Acer",
+      "species": "Acer palmatum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Maple",
+      "species_wp": "Acer_palmatum"
+    },
+    "count": 77,
+    "name_common": [
+      "Japanese Maple"
+    ],
+    "name_botanical": "Acer palmatum",
+    "wp_link": "Acer_palmatum",
+    "color": [
+      0.6142857142857143,
+      0.30714285714285716,
+      0.5424012158054711
+    ]
+  },
+  {
+    "id": 204,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Acer",
+      "species": "Acer rubrum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Maple",
+      "species_wp": "Acer_rubrum"
+    },
+    "count": 3,
+    "name_common": [
+      "Red Maple"
+    ],
+    "name_botanical": "Acer rubrum",
+    "wp_link": "Acer_rubrum",
+    "color": [
+      0.6857142857142857,
+      0.34285714285714286,
+      0.6054711246200607
+    ]
+  },
+  {
+    "id": 117,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Acer",
+      "species": "Acer saccharinum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Maple",
+      "species_wp": "Acer_saccharinum"
+    },
+    "count": 123,
+    "name_common": [
+      "Silver Maple"
+    ],
+    "name_botanical": "Acer saccharinum",
+    "wp_link": "Acer_saccharinum",
+    "color": [
+      0.7571428571428571,
+      0.37857142857142856,
+      0.6685410334346503
+    ]
+  },
+  {
+    "id": 9,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Aesculus",
+      "species": "Aesculus californica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Aesculus",
+      "species_wp": "Aesculus_californica"
+    },
+    "count": 1,
+    "name_common": [
+      "California Buckeye"
+    ],
+    "name_botanical": "Aesculus californica",
+    "wp_link": "Aesculus_californica",
+    "color": [
+      0.4,
+      0.16000000000000003,
+      0.34382978723404256
+    ]
+  },
+  {
+    "id": 171,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Aesculus",
+      "species": "Aesculus hippocastanum",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Aesculus",
+      "species_wp": "Aesculus_hippocastanum"
+    },
+    "count": 9,
+    "name_common": [
+      "Horse Chestnut"
+    ],
+    "name_botanical": "Aesculus hippocastanum",
+    "wp_link": "Aesculus_hippocastanum",
+    "color": [
+      0.5666666666666667,
+      0.22666666666666668,
+      0.4870921985815602
+    ]
+  },
+  {
+    "id": 0,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Cupaniopsis",
+      "species": "Cupaniopsis anacardioides",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Cupaniopsis",
+      "species_wp": "Cupaniopsis_anacardioides"
+    },
+    "count": 1374,
+    "name_common": [
+      "Carrotwood",
+      "Carrot Weed"
+    ],
+    "name_botanical": "Cupaniopsis anacardioides",
+    "wp_link": "Cupaniopsis_anacardioides",
+    "color": [
+      0.4,
+      0.12000000000000002,
+      0.33446808510638293
+    ]
+  },
+  {
+    "id": 137,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Koelreuteria",
+      "species": "Koelreuteria bipinnata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Koelreuteria",
+      "species_wp": "Koelreuteria_bipinnata"
+    },
+    "count": 178,
+    "name_common": [
+      "Goldenrain Tree"
+    ],
+    "name_botanical": "Koelreuteria bipinnata",
+    "wp_link": "Koelreuteria_bipinnata",
+    "color": [
+      0.4,
+      0.07999999999999999,
+      0.32510638297872335
+    ]
+  },
+  {
+    "id": 190,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Koelreuteria",
+      "species": "Koelreuteria elegans",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Koelreuteria",
+      "species_wp": "Koelreuteria_elegans"
+    },
+    "count": 5,
+    "name_common": [
+      "Golden Rain Tree",
+      "Flamegold"
+    ],
+    "name_botanical": "Koelreuteria elegans",
+    "wp_link": "Koelreuteria_elegans",
+    "color": [
+      0.525,
+      0.10499999999999998,
+      0.4267021276595744
+    ]
+  },
+  {
+    "id": 230,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Sapindaceae",
+      "genus": "Koelreuteria",
+      "species": "Koelreuteria paniculata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Sapindaceae",
+      "genus_wp": "Koelreuteria",
+      "species_wp": "Koelreuteria_paniculata"
+    },
+    "count": 3,
+    "name_common": [
+      "Goldenrain Tree"
+    ],
+    "name_botanical": "Koelreuteria paniculata",
+    "wp_link": "Koelreuteria_paniculata",
+    "color": [
+      0.65,
+      0.12999999999999998,
+      0.5282978723404255
+    ]
+  },
+  {
+    "id": 39,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Sapindales",
+      "family": "Simaroubaceae",
+      "genus": "Ailanthus",
+      "species": "Ailanthus altissima",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Sapindales",
+      "family_wp": "Simaroubaceae",
+      "genus_wp": "Ailanthus",
+      "species_wp": "Ailanthus_altissima"
+    },
+    "count": 15,
+    "name_common": [
+      "Copal Tree",
+      "Tree-of-heaven",
+      "Tree Of Heaven"
+    ],
+    "name_botanical": "Ailanthus altissima",
+    "wp_link": "Ailanthus_altissima",
+    "color": [
+      0.4,
+      0.2,
+      0.3276595744680851
+    ]
+  },
+  {
+    "id": 187,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Saxifragales",
+      "family": "Altingiaceae",
+      "genus": "Liquidambar",
+      "species": "Liquidambar",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Saxifragales",
+      "family_wp": "Altingiaceae",
+      "genus_wp": "Liquidambar",
+      "species_wp": "Liquidambar"
+    },
+    "count": 7,
+    "name_common": [
+      "Sweetgum"
+    ],
+    "name_botanical": "Liquidambar",
+    "wp_link": "Liquidambar",
+    "color": [
+      0.4,
+      0.225531914893617,
+      0.2
+    ]
+  },
+  {
+    "id": 218,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Saxifragales",
+      "family": "Altingiaceae",
+      "genus": "Liquidambar",
+      "species": "Liquidambar formosana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Saxifragales",
+      "family_wp": "Altingiaceae",
+      "genus_wp": "Liquidambar",
+      "species_wp": "Liquidambar_formosana"
+    },
+    "count": 6,
+    "name_common": [
+      "Chinese Sweetgum"
+    ],
+    "name_botanical": "Liquidambar formosana",
+    "wp_link": "Liquidambar_formosana",
+    "color": [
+      0.525,
+      0.29601063829787233,
+      0.2625
+    ]
+  },
+  {
+    "id": 14,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Saxifragales",
+      "family": "Altingiaceae",
+      "genus": "Liquidambar",
+      "species": "Liquidambar styraciflua",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Saxifragales",
+      "family_wp": "Altingiaceae",
+      "genus_wp": "Liquidambar",
+      "species_wp": "Liquidambar_styraciflua"
+    },
+    "count": 1322,
+    "name_common": [
+      "Sweetgum"
+    ],
+    "name_botanical": "Liquidambar styraciflua",
+    "wp_link": "Liquidambar_styraciflua",
+    "color": [
+      0.65,
+      0.36648936170212765,
+      0.325
+    ]
+  },
+  {
+    "id": 193,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "genus": "Lycianthes",
+      "species": "Lycianthes rantonnetii",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Solanales",
+      "family_wp": "Solanaceae",
+      "genus_wp": "Lycianthes",
+      "species_wp": "Lycianthes_rantonnetii"
+    },
+    "count": 7,
+    "name_common": [
+      "Blue Potatobush"
+    ],
+    "name_botanical": "Lycianthes rantonnetii",
+    "wp_link": "Lycianthes_rantonnetii",
+    "color": [
+      0.4,
+      0.2,
+      0.3021276595744681
+    ]
+  },
+  {
+    "id": 18,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Solanales",
+      "family": "Solanaceae",
+      "genus": "Nicotiana",
+      "species": "Nicotiana glauca",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Solanales",
+      "family_wp": "Solanaceae",
+      "genus_wp": "Nicotiana",
+      "species_wp": "Nicotiana_glauca"
+    },
+    "count": 2,
+    "name_common": [
+      "Tree Tobacco"
+    ],
+    "name_botanical": "Nicotiana glauca",
+    "wp_link": "Nicotiana_glauca",
+    "color": [
+      0.4,
+      0.13333333333333336,
+      0.2695035460992908
+    ]
+  },
+  {
+    "id": 213,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Zingiberales",
+      "family": "Strelitziaceae",
+      "genus": "Strelitzia",
+      "species": "Strelitzia nicolai",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Magnoliopsida",
+      "order_wp": "Zingiberales",
+      "family_wp": "Strelitziaceae",
+      "genus_wp": "Strelitzia",
+      "species_wp": "Strelitzia_nicolai"
+    },
+    "count": 1,
+    "name_common": [
+      "Bird-of-paradise Tree",
+      "White Bird-of-paradise Tree"
+    ],
+    "name_botanical": "Strelitzia nicolai",
+    "wp_link": "Strelitzia_nicolai",
+    "color": [
+      0.4,
+      0.2,
+      0.2765957446808511
+    ]
+  },
+  {
+    "id": 111,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Araucariaceae",
+      "genus": "Araucaria",
+      "species": "Araucaria heterophylla",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Araucariaceae",
+      "genus_wp": "Araucaria",
+      "species_wp": "Araucaria_heterophylla"
+    },
+    "count": 20,
+    "name_common": [
+      "Norfolk Island Pine"
+    ],
+    "name_botanical": "Araucaria heterophylla",
+    "wp_link": "Araucaria_heterophylla",
+    "color": [
+      0.4,
+      0.35319148936170214,
+      0.2
+    ]
+  },
+  {
+    "id": 153,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Callitropsis",
+      "species": "Callitropsis glabra",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Callitropsis",
+      "species_wp": "Cupressus_arizonica"
+    },
+    "count": 25,
+    "name_common": [
+      "Arizona Smooth Bark Cypress",
+      "Smooth Arizona Cypress"
+    ],
+    "name_botanical": "Callitropsis glabra",
+    "wp_link": "Cupressus_arizonica",
+    "color": [
+      0.2680851063829787,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "id": 27,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Calocedrus",
+      "species": "Calocedrus decurrens",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Calocedrus",
+      "species_wp": "Calocedrus_decurrens"
+    },
+    "count": 380,
+    "name_common": [
+      "Incense Cedar"
+    ],
+    "name_botanical": "Calocedrus decurrens",
+    "wp_link": "Calocedrus_decurrens",
+    "color": [
+      0.2548936170212766,
+      0.4,
+      0.18
+    ]
+  },
+  {
+    "id": 224,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Chamaecyparis",
+      "species": "Chamaecyparis lawsoniana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Chamaecyparis",
+      "species_wp": "Chamaecyparis_lawsoniana"
+    },
+    "count": 5,
+    "name_common": [
+      "Lawson Cedar",
+      "Oregon Cedar",
+      "Port Orford White Cedar",
+      "Ginger-pine",
+      "Port Orford Cedar"
+    ],
+    "name_botanical": "Chamaecyparis lawsoniana",
+    "wp_link": "Chamaecyparis_lawsoniana",
+    "color": [
+      0.24170212765957447,
+      0.4,
+      0.16000000000000003
+    ]
+  },
+  {
+    "id": 41,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Cupressus",
+      "species": "Cupressus sempervirens",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Cupressus",
+      "species_wp": "Cupressus_sempervirens"
+    },
+    "count": 774,
+    "name_common": [
+      "Italian Cypress"
+    ],
+    "name_botanical": "Cupressus sempervirens",
+    "wp_link": "Cupressus_sempervirens",
+    "color": [
+      0.22851063829787233,
+      0.4,
+      0.13999999999999999
+    ]
+  },
+  {
+    "id": 89,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Cuprocyparis",
+      "species": "× Cuprocyparis leylandii",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Leyland_cypress",
+      "species_wp": "Leyland_cypress"
+    },
+    "count": 20,
+    "name_common": [
+      "Leyland Cypress"
+    ],
+    "name_botanical": "× Cuprocyparis leylandii",
+    "wp_link": "Leyland_cypress",
+    "color": [
+      0.21531914893617024,
+      0.4,
+      0.12000000000000002
+    ]
+  },
+  {
+    "id": 92,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Juniperus",
+      "species": "Juniperus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Juniper",
+      "species_wp": "Juniper"
+    },
+    "count": 60,
+    "name_common": [
+      "Juniper",
+      "Cedar",
+      "Redcedar"
+    ],
+    "name_botanical": "Juniperus",
+    "wp_link": "Juniper",
+    "color": [
+      0.2021276595744681,
+      0.4,
+      0.1
+    ]
+  },
+  {
+    "id": 68,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Juniperus",
+      "species": "Juniperus chinensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Juniper",
+      "species_wp": "Juniperus_chinensis"
+    },
+    "count": 66,
+    "name_common": [
+      "Chinese Juniper"
+    ],
+    "name_botanical": "Juniperus chinensis",
+    "wp_link": "Juniperus_chinensis",
+    "color": [
+      0.2863475177304965,
+      0.5666666666666667,
+      0.14166666666666666
+    ]
+  },
+  {
+    "id": 114,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Juniperus",
+      "species": "Juniperus chinensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Juniper",
+      "species_wp": "Juniperus_chinensis"
+    },
+    "count": 61,
+    "name_common": [
+      "Chinese Juniper"
+    ],
+    "name_botanical": "Juniperus chinensis 'Torulosa'",
+    "wp_link": "Juniperus_chinensis",
+    "color": [
+      0.2863475177304965,
+      0.5666666666666667,
+      0.14166666666666666
+    ]
+  },
+  {
+    "id": 138,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Platycladus",
+      "species": "Platycladus orientalis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Platycladus",
+      "species_wp": "Platycladus"
+    },
+    "count": 50,
+    "name_common": [
+      "Oriental Arborvitae"
+    ],
+    "name_botanical": "Platycladus orientalis",
+    "wp_link": "Platycladus",
+    "color": [
+      0.18893617021276599,
+      0.4,
+      0.07999999999999999
+    ]
+  },
+  {
+    "id": 44,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Sequoia",
+      "species": "Sequoia sempervirens",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Sequoia",
+      "species_wp": "Sequoia_sempervirens"
+    },
+    "count": 44,
+    "name_common": [
+      "Redwood",
+      "California Redwood",
+      "Coast Redwood"
+    ],
+    "name_botanical": "Sequoia sempervirens",
+    "wp_link": "Sequoia_sempervirens",
+    "color": [
+      0.17574468085106387,
+      0.4,
+      0.06000000000000001
+    ]
+  },
+  {
+    "id": 142,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Thuja",
+      "species": "Thuja occidentalis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Thuja",
+      "species_wp": "Thuja_occidentalis"
+    },
+    "count": 17,
+    "name_common": [
+      "Arborvitae",
+      "Eastern White Cedar",
+      "Northern White Cedar",
+      "Swamp Cedar"
+    ],
+    "name_botanical": "Thuja occidentalis",
+    "wp_link": "Thuja_occidentalis",
+    "color": [
+      0.1625531914893617,
+      0.4,
+      0.039999999999999994
+    ]
+  },
+  {
+    "id": 225,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Cupressaceae",
+      "genus": "Thuja",
+      "species": "Thuja plicata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Cupressaceae",
+      "genus_wp": "Thuja",
+      "species_wp": "Thuja_plicata"
+    },
+    "count": 21,
+    "name_common": [
+      "Western Red Cedar",
+      "Western Redcedar"
+    ],
+    "name_botanical": "Thuja plicata",
+    "wp_link": "Thuja_plicata",
+    "color": [
+      0.2302836879432624,
+      0.5666666666666667,
+      0.05666666666666665
+    ]
+  },
+  {
+    "id": 30,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Cedrus",
+      "species": "Cedrus atlantica",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Cedrus",
+      "species_wp": "Cedrus_atlantica"
+    },
+    "count": 16,
+    "name_common": [
+      "Atlas Cedar"
+    ],
+    "name_botanical": "Cedrus atlantica",
+    "wp_link": "Cedrus_atlantica",
+    "color": [
+      0.24255319148936183,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "id": 8,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Cedrus",
+      "species": "Cedrus deodara",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Cedrus",
+      "species_wp": "Cedrus_deodara"
+    },
+    "count": 278,
+    "name_common": [
+      "Deodar Cedar"
+    ],
+    "name_botanical": "Cedrus deodara",
+    "wp_link": "Cedrus_deodara",
+    "color": [
+      0.3436170212765959,
+      0.2833333333333333,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 43,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "species": "Pinus canariensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Pine",
+      "species_wp": "Pinus_canariensis"
+    },
+    "count": 560,
+    "name_common": [
+      "Canary Island Pine"
+    ],
+    "name_botanical": "Pinus canariensis",
+    "wp_link": "Pinus_canariensis",
+    "color": [
+      0.19007092198581577,
+      0.13333333333333336,
+      0.4
+    ]
+  },
+  {
+    "id": 214,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "species": "Pinus coulteri",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Pine",
+      "species_wp": "Coulter_pine"
+    },
+    "count": 4,
+    "name_common": [
+      "Coulter Pine",
+      "Bigcone Pine",
+      "Pitch Pine"
+    ],
+    "name_botanical": "Pinus coulteri",
+    "wp_link": "Coulter_pine",
+    "color": [
+      0.2164696611505124,
+      0.15185185185185188,
+      0.4555555555555556
+    ]
+  },
+  {
+    "id": 15,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "species": "Pinus halepensis",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Pine",
+      "species_wp": "Pinus_halepensis"
+    },
+    "count": 137,
+    "name_common": [
+      "Aleppo Pine"
+    ],
+    "name_botanical": "Pinus halepensis",
+    "wp_link": "Pinus_halepensis",
+    "color": [
+      0.24286840031520898,
+      0.17037037037037037,
+      0.5111111111111111
+    ]
+  },
+  {
+    "id": 223,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "species": "Pinus pinaster",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Pine",
+      "species_wp": "Pinus_pinaster"
+    },
+    "count": 3,
+    "name_common": [
+      "Maritime Pine",
+      "Cluster Pine"
+    ],
+    "name_botanical": "Pinus pinaster",
+    "wp_link": "Pinus_pinaster",
+    "color": [
+      0.2692671394799056,
+      0.1888888888888889,
+      0.5666666666666667
+    ]
+  },
+  {
+    "id": 45,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "species": "Pinus pinea",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Pine",
+      "species_wp": "Stone_pine"
+    },
+    "count": 44,
+    "name_common": [
+      "Italian Stone Pine"
+    ],
+    "name_botanical": "Pinus pinea",
+    "wp_link": "Stone_pine",
+    "color": [
+      0.29566587864460225,
+      0.20740740740740743,
+      0.6222222222222222
+    ]
+  },
+  {
+    "id": 99,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "species": "Pinus radiata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Pine",
+      "species_wp": "Pinus_radiata"
+    },
+    "count": 25,
+    "name_common": [
+      "Insignis Pine",
+      "Monterey Pine"
+    ],
+    "name_botanical": "Pinus radiata",
+    "wp_link": "Pinus_radiata",
+    "color": [
+      0.3220646178092989,
+      0.22592592592592597,
+      0.6777777777777778
+    ]
+  },
+  {
+    "id": 100,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "species": "Pinus thunbergii",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Pine",
+      "species_wp": "Pinus_thunbergii"
+    },
+    "count": 75,
+    "name_common": [
+      "Japanese Black Pine"
+    ],
+    "name_botanical": "Pinus thunbergii",
+    "wp_link": "Pinus_thunbergii",
+    "color": [
+      0.34846335697399555,
+      0.2444444444444445,
+      0.7333333333333334
+    ]
+  },
+  {
+    "id": 207,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Pinaceae",
+      "genus": "Pinus",
+      "species": "Pinus torreyana",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Pinaceae",
+      "genus_wp": "Pine",
+      "species_wp": "Torrey_pine"
+    },
+    "count": 1,
+    "name_common": [
+      "Del Mar Pine",
+      "Soledad Pine",
+      "Torrey Pine"
+    ],
+    "name_botanical": "Pinus torreyana",
+    "wp_link": "Torrey_pine",
+    "color": [
+      0.3748620961386922,
+      0.262962962962963,
+      0.788888888888889
+    ]
+  },
+  {
+    "id": 31,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Podocarpaceae",
+      "genus": "Afrocarpus",
+      "species": "Afrocarpus gracilior",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Podocarpaceae",
+      "genus_wp": "Afrocarpus",
+      "species_wp": "Afrocarpus_gracilior"
+    },
+    "count": 308,
+    "name_common": [
+      "African Fern Pine"
+    ],
+    "name_botanical": "Afrocarpus gracilior",
+    "wp_link": "Afrocarpus_gracilior",
+    "color": [
+      0.3191489361702129,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "id": 47,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Podocarpaceae",
+      "genus": "Podocarpus",
+      "species": "Podocarpus macrophyllus",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Podocarpaceae",
+      "genus_wp": "Podocarpus",
+      "species_wp": "Podocarpus_macrophyllus"
+    },
+    "count": 766,
+    "name_common": [
+      "Yew Plum Pine"
+    ],
+    "name_botanical": "Podocarpus macrophyllus",
+    "wp_link": "Podocarpus_macrophyllus",
+    "color": [
+      0.29219858156028383,
+      0.13333333333333336,
+      0.4
+    ]
+  },
+  {
+    "id": 237,
+    "hierarchy": {
+      "kingdom": "Plantae",
+      "phylum": "Tracheophyta",
+      "class": "Pinopsida",
+      "order": "Pinales",
+      "family": "Taxaceae",
+      "genus": "Taxus",
+      "species": "Taxus baccata",
+      "kingdom_wp": "Plant",
+      "phylum_wp": "Vascular_plant",
+      "class_wp": "Pinophyta",
+      "order_wp": "Pinales",
+      "family_wp": "Taxaceae",
+      "genus_wp": "Taxus",
+      "species_wp": "Taxus_baccata"
+    },
+    "count": 2,
+    "name_common": [
+      "European Yew",
+      "English Yew"
+    ],
+    "name_botanical": "Taxus baccata",
+    "wp_link": "Taxus_baccata",
+    "color": [
+      0.4,
+      0.2,
+      0.251063829787234
+    ]
+  }
+]

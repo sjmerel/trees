@@ -1,0 +1,2217 @@
+{
+  "Metrosideros": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Washingtonia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Liquidambar": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Saxifragales",
+    "family": "Altingiaceae"
+  },
+  "Cinnamomum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Laurales",
+    "family": "Lauraceae"
+  },
+  "Quercus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Fagaceae"
+  },
+  "Jacaranda": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae"
+  },
+  "Cupaniopsis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Sapindaceae"
+  },
+  "Araucaria": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Araucariaceae"
+  },
+  "Platanus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Proteales",
+    "family": "Platanaceae"
+  },
+  "Taxodium": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Livistona": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Pinus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae"
+  },
+  "Prunus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Melaleuca": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Salix": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malpighiales",
+    "family": "Salicaceae"
+  },
+  "Ficus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Moraceae"
+  },
+  "Lophostemon": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Syagrus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Magnolia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Magnoliales",
+    "family": "Magnoliaceae"
+  },
+  "Koelreuteria": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Sapindaceae"
+  },
+  "Callistemon": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Archontophoenix": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Juniperus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Ulmus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Ulmaceae"
+  },
+  "Phoenix": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Psidium": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Brachychiton": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Schinus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae"
+  },
+  "Corymbia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Calodendrum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Rutaceae"
+  },
+  "Eucalyptus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Afrocarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Podocarpaceae"
+  },
+  "Grevillea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Proteales",
+    "family": "Proteaceae"
+  },
+  "Ginkgo": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Ginkgoopsida",
+    "order": "Ginkgoales",
+    "family": "Ginkgoaceae"
+  },
+  "Pyrus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Albizia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Yucca": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Asparagales",
+    "family": "Asparagaceae"
+  },
+  "Stenocarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Proteales",
+    "family": "Proteaceae"
+  },
+  "Trachycarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Tristaniopsis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Maytenus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Celastrales",
+    "family": "Celastraceae"
+  },
+  "Cedrus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae"
+  },
+  "Liriodendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Magnoliales",
+    "family": "Magnoliaceae"
+  },
+  "Sequoia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Tipuana": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Cupressus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Casuarina": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Casuarinaceae"
+  },
+  "Eriobotrya": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Citrus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Rutaceae"
+  },
+  "Pittosporum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Apiales",
+    "family": "Pittosporaceae"
+  },
+  "Ceratonia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Ceiba": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Handroanthus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae"
+  },
+  "Cassia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Strelitzia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Zingiberales",
+    "family": "Strelitziaceae"
+  },
+  "Chamaerops": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Nerium": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Gentianales",
+    "family": "Apocynaceae"
+  },
+  "Robinia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Laurus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Laurales",
+    "family": "Lauraceae"
+  },
+  "Malus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Chionanthus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Oleaceae"
+  },
+  "Catalpa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae"
+  },
+  "Persea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Laurales",
+    "family": "Lauraceae"
+  },
+  "Calocedrus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Acacia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Arbutus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Ericaceae"
+  },
+  "Parkinsonia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Ilex": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Aquifoliales",
+    "family": "Aquifoliaceae"
+  },
+  "Musa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Zingiberales",
+    "family": "Musaceae"
+  },
+  "Heteromeles": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Platycladus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Tilia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Juglans": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Juglandaceae"
+  },
+  "Thuja": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Fraxinus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Oleaceae"
+  },
+  "Schefflera": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Apiales",
+    "family": "Araliaceae"
+  },
+  "Searsia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae"
+  },
+  "Lagerstroemia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Lythraceae"
+  },
+  "Ligustrum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Oleaceae"
+  },
+  "Styphnolobium": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Bauhinia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Cercis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Syzygium": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Hymenosporum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Apiales",
+    "family": "Pittosporaceae"
+  },
+  "Acer": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Sapindaceae"
+  },
+  "Castanea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Fagaceae"
+  },
+  "Beaucarnea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Asparagales",
+    "family": "Asparagaceae"
+  },
+  "Cryptomeria": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Myrtus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Erythrina": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Cyathea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Polypodiopsida",
+    "order": "Cyatheales",
+    "family": "Cyatheaceae"
+  },
+  "Jubaea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Howea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Malosma": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae"
+  },
+  "Myoporum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Scrophulariaceae"
+  },
+  "Roystonea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Butia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Leptospermum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Ailanthus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Simaroubaceae"
+  },
+  "Macadamia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Proteales",
+    "family": "Proteaceae"
+  },
+  "Lyonothamnus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Ravenea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Lagunaria": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Betula": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Betulaceae"
+  },
+  "Acca": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Pistacia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae"
+  },
+  "Gleditsia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Morus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Moraceae"
+  },
+  "Alnus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Betulaceae"
+  },
+  "Chilopsis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae"
+  },
+  "Quillaja": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Quillajaceae"
+  },
+  "Carya": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Juglandaceae"
+  },
+  "Cocculus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ranunculales",
+    "family": "Menispermaceae"
+  },
+  "Callitropsis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Dodonaea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Sapindaceae"
+  },
+  "Wisteria": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Viburnum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Dipsacales",
+    "family": "Adoxaceae"
+  },
+  "Duranta": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Verbenaceae"
+  },
+  "Casimiroa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Rutaceae"
+  },
+  "Tecoma": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae"
+  },
+  "Melia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Meliaceae"
+  },
+  "Cordyline": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Asparagales",
+    "family": "Asparagaceae"
+  },
+  "Diospyros": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Ebenaceae"
+  },
+  "Cotinus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae"
+  },
+  "Zelkova": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Ulmaceae"
+  },
+  "Eugenia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Phoebe": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Laurales",
+    "family": "Lauraceae"
+  },
+  "Dypsis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Umbellularia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Laurales",
+    "family": "Lauraceae"
+  },
+  "Allocasuarina": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Casuarinaceae"
+  },
+  "Hakea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Proteales",
+    "family": "Proteaceae"
+  },
+  "Podocarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Podocarpaceae"
+  },
+  "Xylosma": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malpighiales",
+    "family": "Salicaceae"
+  },
+  "Celtis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Cannabaceae"
+  },
+  "Cycas": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Cycadopsida",
+    "order": "Cycadales",
+    "family": "Cycadaceae"
+  },
+  "Picea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae"
+  },
+  "Populus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malpighiales",
+    "family": "Salicaceae"
+  },
+  "Rhus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae"
+  },
+  "Punica": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Lythraceae"
+  },
+  "Hibiscus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Sambucus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Dipsacales",
+    "family": "Adoxaceae"
+  },
+  "Triadica": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malpighiales",
+    "family": "Euphorbiaceae"
+  },
+  "Pyracantha": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Thevetia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Gentianales",
+    "family": "Apocynaceae"
+  },
+  "Maclura": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Moraceae"
+  },
+  "Broussonetia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Moraceae"
+  },
+  "Grewia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Leucaena": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Tamarix": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Caryophyllales",
+    "family": "Tamaricaceae"
+  },
+  "Aesculus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Sapindaceae"
+  },
+  "Nicotiana": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Solanales",
+    "family": "Solanaceae"
+  },
+  "Tabebuia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae"
+  },
+  "Fortunella": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Rutaceae"
+  },
+  "Sabal": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Euphorbia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malpighiales",
+    "family": "Euphorbiaceae"
+  },
+  "Cocos": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Ensete": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Zingiberales",
+    "family": "Musaceae"
+  },
+  "Photinia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Vitex": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Lamiaceae"
+  },
+  "Crataegus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Plumeria": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Gentianales",
+    "family": "Apocynaceae"
+  },
+  "Fremontodendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Solanum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Solanales",
+    "family": "Solanaceae"
+  },
+  "Rhaphiolepis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Lycianthes": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Solanales",
+    "family": "Solanaceae"
+  },
+  "Syringa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Oleaceae"
+  },
+  "Senna": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Sorbus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Lithocarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Fagaceae"
+  },
+  "Carissa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Gentianales",
+    "family": "Apocynaceae"
+  },
+  "Paulownia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Paulowniaceae"
+  },
+  "Cornus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Cornales",
+    "family": "Cornaceae"
+  },
+  "Cotoneaster": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Fagus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Fagaceae"
+  },
+  "Sequoiadendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Taxus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Taxaceae"
+  },
+  "Annona": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Magnoliales",
+    "family": "Annonaceae"
+  },
+  "Abutilon": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Stangeria": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Cycadopsida",
+    "order": "Cycadales",
+    "family": "Zamiaceae"
+  },
+  "Cercidiphyllum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Saxifragales",
+    "family": "Cercidiphyllaceae"
+  },
+  "Paraserianthes": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Pseudotsuga": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae"
+  },
+  "Camellia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Theaceae"
+  },
+  "Calliandra": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Ziziphus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rhamnaceae"
+  },
+  "Erythrostemon": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Torreya": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Taxaceae"
+  },
+  "Metasequoia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Chamaedorea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Osmanthus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Oleaceae"
+  },
+  "Corynocarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Cucurbitales",
+    "family": "Corynocarpaceae"
+  },
+  "Carica": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Brassicales",
+    "family": "Caricaceae"
+  },
+  "Escallonia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Escalloniales",
+    "family": "Escalloniaceae"
+  },
+  "Firmiana": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Aloe": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Asparagales",
+    "family": "Xanthorrhoeaceae"
+  },
+  "Abies": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae"
+  },
+  "Spathodea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Bignoniaceae"
+  },
+  "Cydonia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Chamaecyparis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Agathis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Araucariaceae"
+  },
+  "Myrcia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Myrtaceae"
+  },
+  "Prosopis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Cordia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Boraginales",
+    "family": "Cordiaceae"
+  },
+  "Corylus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Betulaceae"
+  },
+  "Cladrastis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Sassafras": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Laurales",
+    "family": "Lauraceae"
+  },
+  "Nyssa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Cornales",
+    "family": "Nyssaceae"
+  },
+  "Eucommia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Garryales",
+    "family": "Eucommiaceae"
+  },
+  "Parrotia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Saxifragales",
+    "family": "Hamamelidaceae"
+  },
+  "Gymnocladus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Styrax": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Styracaceae"
+  },
+  "Carpinus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Betulaceae"
+  },
+  "Tsuga": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae"
+  },
+  "Phellodendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Rutaceae"
+  },
+  "Ostrya": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Betulaceae"
+  },
+  "Larix": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae"
+  },
+  "Amelanchier": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Maackia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Halesia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Styracaceae"
+  },
+  "Lithrea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae"
+  },
+  "Rhamnus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rhamnaceae"
+  },
+  "Dicksonia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Polypodiopsida",
+    "order": "Cyatheales",
+    "family": "Dicksoniaceae"
+  },
+  "Ceanothus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rhamnaceae"
+  },
+  "Banksia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Proteales",
+    "family": "Proteaceae"
+  },
+  "Elaeocarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Oxalidales",
+    "family": "Elaeocarpaceae"
+  },
+  "Arctostaphylos": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Ericaceae"
+  },
+  "Tibouchina": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Myrtales",
+    "family": "Melastomataceae"
+  },
+  "Bambusa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Poales",
+    "family": "Poaceae"
+  },
+  "Brugmansia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Solanales",
+    "family": "Solanaceae"
+  },
+  "Aloidendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Asparagales",
+    "family": "Xanthorrhoeaceae"
+  },
+  "Garrya": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Garryales",
+    "family": "Garryaceae"
+  },
+  "Caryota": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Arecales",
+    "family": "Arecaceae"
+  },
+  "Chiranthodendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Moringa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Brassicales",
+    "family": "Moringaceae"
+  },
+  "Cercocarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Meryta": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Apiales",
+    "family": "Araliaceae"
+  },
+  "Cedrela": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Meliaceae"
+  },
+  "Hypelate": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Sapindaceae"
+  },
+  "Pseudopanax": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Apiales",
+    "family": "Araliaceae"
+  },
+  "Mangifera": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae"
+  },
+  "Morella": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Myricaceae"
+  },
+  "Laburnum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Stewartia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Theaceae"
+  },
+  "Nothofagus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Nothofagaceae"
+  },
+  "Elaeagnus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Elaeagnaceae"
+  },
+  "Clerodendrum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Lamiaceae"
+  },
+  "Rhododendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Ericaceae"
+  },
+  "Oxydendrum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Ericaceae"
+  },
+  "Chaenomeles": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Philadelphus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Cornales",
+    "family": "Hydrangeaceae"
+  },
+  "Cunninghamia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Hamamelis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Saxifragales",
+    "family": "Hamamelidaceae"
+  },
+  "Berberis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ranunculales",
+    "family": "Berberidaceae"
+  },
+  "Euonymus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Celastrales",
+    "family": "Celastraceae"
+  },
+  "Abelia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Dipsacales",
+    "family": "Linnaeaceae"
+  },
+  "Aralia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Apiales",
+    "family": "Araliaceae"
+  },
+  "Physocarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Asimina": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Magnoliales",
+    "family": "Annonaceae"
+  },
+  "Buddleja": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Scrophulariaceae"
+  },
+  "Pterocarya": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Juglandaceae"
+  },
+  "Daphne": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Thymelaeaceae"
+  },
+  "Ribes": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Saxifragales",
+    "family": "Grossulariaceae"
+  },
+  "Lavatera": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Nandina": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ranunculales",
+    "family": "Berberidaceae"
+  },
+  "Holodiscus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Rubus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Dermatophyllum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Sideroxylon": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Sapotaceae"
+  },
+  "Condalia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rhamnaceae"
+  },
+  "Vachellia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Sapindus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Sapindaceae"
+  },
+  "Phyllostachys": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Poales",
+    "family": "Poaceae"
+  },
+  "Dahlia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Asterales",
+    "family": "Asteraceae"
+  },
+  "Inga": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Datura": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Solanales",
+    "family": "Solanaceae"
+  },
+  "Hoheria": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malvales",
+    "family": "Malvaceae"
+  },
+  "Agave": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Asparagales",
+    "family": "Asparagaceae"
+  },
+  "Dracaena": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Asparagales",
+    "family": "Asparagaceae"
+  },
+  "Toona": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Meliaceae"
+  },
+  "Lonicera": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Dipsacales",
+    "family": "Caprifoliaceae"
+  },
+  "Zanthoxylum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Rutaceae"
+  },
+  "Franklinia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Theaceae"
+  },
+  "Aucuba": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Garryales",
+    "family": "Garryaceae"
+  },
+  "Buxus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Buxales",
+    "family": "Buxaceae"
+  },
+  "Genista": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Cephalotaxus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Taxaceae"
+  },
+  "Eucryphia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Oxalidales",
+    "family": "Cunoniaceae"
+  },
+  "Cuprocyparis": null,
+  "Karpatiosorbus": null,
+  "Chitalpa": null,
+  "Gingko": {},
+  "Eriolobus": null,
+  "Laburnocytisus": null,
+  "Griselinia": null,
+  "Hedlundia": null,
+  "Azara": null,
+  "Phillyrea": null,
+  "Aria": null,
+  "Docyniopsis": null,
+  "Borkhausenia": null,
+  "Monophylla": null,
+  "Caricq": null,
+  "Soulangiana": null,
+  "Chrysocoma": null,
+  "Kanzan": null,
+  "Torminalis": null,
+  "Crus-galli": null,
+  "Ceracifera": null,
+  "Bradford": null,
+  "Carnea": null,
+  "Crateagus": null,
+  "Cytisus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Eleagnus": null,
+  "Shrub": null,
+  "Trachycarpos": null,
+  "Cupresocyparis": null,
+  "Buddlea": null,
+  "Buddleia": null,
+  "Chamaecyparkis": null,
+  "Coniferae": null,
+  "Liquidamber": null,
+  "Lireodendron": null,
+  "Deciduous": null,
+  "Cupressocyparkis": null,
+  "Chamaecyparislawsoniana": null,
+  "Hippophae": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Elaeagnaceae"
+  },
+  "Tetradium": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Rutaceae"
+  },
+  "Querus": null,
+  "Zelcova": null,
+  "Spaethii": null,
+  "Psuedoacacia": null,
+  "Cupresocy": null,
+  "Lagertroemia": null,
+  "Cuppressus": null,
+  "Trachyparus": null,
+  "Gleditisia": null,
+  "Kolkwitzia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Dipsacales",
+    "family": "Linnaeaceae"
+  },
+  "Crataegas": null,
+  "Cratagaigus": null,
+  "Feioja": null,
+  "Lagerstromeia": null,
+  "Lagerstroemeia": null,
+  "Mimosoideae": null,
+  "Caragana": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Quer.x": null,
+  "Sophora": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fabales",
+    "family": "Fabaceae"
+  },
+  "Zizyphus": null,
+  "Corrylus": null,
+  "Tamerix": null,
+  "Bush": null,
+  "Sorbas": null,
+  "Clerodendron": null,
+  "Cladastris": null,
+  "Cladrastris": null,
+  "Michela": null,
+  "Euonymous": null,
+  "Abis": null,
+  "Forsythia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Oleaceae"
+  },
+  "Rosa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Eleaeagnus": null,
+  "Toxicodendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Anacardiaceae"
+  },
+  "Stransvesia": null,
+  "Stranvaesia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  },
+  "Tamarisk": null,
+  "Cyprocyparis": null,
+  "Mugil": null,
+  "Erioboyta": null,
+  "Tillia": null,
+  "Sambucas": null,
+  "Eucalptus": null,
+  "Chamacecyparis": null,
+  "Chamae": null,
+  "Woodland": null,
+  "Crat": null,
+  "Aesculushippocastanumbaumannii": null,
+  "Acerautumn": null,
+  "Frax": null,
+  "Ligustrun": null,
+  "Cordline": null,
+  "Sorbaronia": null,
+  "Laburnam": null,
+  "Footpath": null,
+  "Laburocytisus": null,
+  "Other": null,
+  "Unknown": null,
+  "Sciadopitys": null,
+  "Thujopsis": null,
+  "Chameacyparis": null,
+  "Pistachia": null,
+  "Asminia": null,
+  "Pseudostuga": null,
+  "Divers": null,
+  "Thuya": null,
+  "Heptacodium": null,
+  "Unplantable": null,
+  "Stump": null,
+  "Liex": null,
+  "Geijera": null,
+  "Cerocarpus": null,
+  "Hydrangea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Cornales",
+    "family": "Hydrangeaceae"
+  },
+  "Ptelea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Rutaceae"
+  },
+  "N/a": null,
+  "Shepherdia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Elaeagnaceae"
+  },
+  "Xancotheras": null,
+  "Xanthoceras": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Sapindales",
+    "family": "Sapindaceae"
+  },
+  "Forthysia": null,
+  "Broadleasmall": null,
+  "Ddigs": null,
+  "Agonis": null
+}

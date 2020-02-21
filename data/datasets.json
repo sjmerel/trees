@@ -1,0 +1,230 @@
+[
+  {
+    "code": "sm",
+    "name": "Santa Monica",
+    "administrativeArea": "California",
+    "country": "United States",
+    "url": "https://data.smgov.net/Public-Assets/Trees-Inventory/w8ue-6cnd",
+    "numberOfSites": 34595,
+    "location": {
+      "latitude": 34.0118575,
+      "longitude": -118.493737
+    }
+  },
+  {
+    "code": "la",
+    "name": "Los Angeles",
+    "administrativeArea": "California",
+    "country": "United States",
+    "url": "https://data.lacity.org/A-Livable-and-Sustainable-City/Street-Tree-Inventory-1990s/vt5t-mscf",
+    "numberOfSites": 230628,
+    "location": {
+      "latitude": 34.053718,
+      "longitude": -118.244842
+    }
+  },
+  {
+    "code": "weho",
+    "name": "West Hollywood",
+    "administrativeArea": "California",
+    "country": "United States",
+    "url": "https://data.weho.org/Infrastructure/City-Tree-Inventory/qqwt-wx9z",
+    "numberOfSites": 8753,
+    "location": {
+      "latitude": 34.0905742,
+      "longitude": -118.3725673
+    }
+  },
+  {
+    "code": "pas",
+    "name": "Pasadena",
+    "administrativeArea": "California",
+    "country": "United States",
+    "url": "http://data.cityofpasadena.net/datasets/street-row-trees",
+    "numberOfSites": 63747,
+    "location": {
+      "latitude": 34.1478945,
+      "longitude": -118.1460461
+    }
+  },
+  {
+    "code": "nyc",
+    "name": "New York City",
+    "administrativeArea": "New York",
+    "country": "United States",
+    "url": "https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35",
+    "numberOfSites": 651778,
+    "location": {
+      "latitude": 40.7127784,
+      "longitude": -74.0082477
+    }
+  },
+  {
+    "code": "sf",
+    "name": "San Francisco",
+    "administrativeArea": "California",
+    "country": "United States",
+    "url": "https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq",
+    "numberOfSites": 151542,
+    "location": {
+      "latitude": 37.7792639,
+      "longitude": -122.4214533
+    }
+  },
+  {
+    "code": "seattle",
+    "name": "Seattle",
+    "administrativeArea": "Washington",
+    "country": "United States",
+    "url": "https://data.seattle.gov/Transportation/Trees/e4p8-hm3u",
+    "numberOfSites": 149109,
+    "location": {
+      "latitude": 47.603843,
+      "longitude": -122.3322341
+    }
+  },
+  {
+    "code": "berkeley",
+    "name": "Berkeley",
+    "administrativeArea": "California",
+    "country": "United States",
+    "url": "https://data.cityofberkeley.info/Natural-Resources/City-Trees/9t35-jmin",
+    "numberOfSites": 34261,
+    "location": {
+      "latitude": 37.8698364,
+      "longitude": -122.2732688
+    }
+  },
+  {
+    "code": "oak",
+    "name": "Oakland",
+    "administrativeArea": "California",
+    "country": "United States",
+    "url": "https://data.oaklandnet.com/dataset/Street-Trees/9e7e-63pp",
+    "numberOfSites": 35597,
+    "location": {
+      "latitude": 37.8053682,
+      "longitude": -122.2746696
+    }
+  },
+  {
+    "code": "austin",
+    "name": "Austin",
+    "administrativeArea": "Texas",
+    "country": "United States",
+    "url": "https://data.austintexas.gov/Locations-and-Maps/Downtown-Tree-Inventory-2013/auyh-v9m2",
+    "numberOfSites": 5975,
+    "location": {
+      "latitude": 30.2647966,
+      "longitude": -97.7494032
+    }
+  },
+  {
+    "code": "phi",
+    "name": "Philadelphia",
+    "administrativeArea": "Pennsylvania",
+    "country": "United States",
+    "url": "https://www.opentreemap.org/phillytreemap/map/",
+    "location": {
+      "latitude": 39.9523789,
+      "longitude": -75.1657883
+    },
+    "numberOfSites": 50558
+  },
+  {
+    "code": "dc",
+    "name": "Washington",
+    "administrativeArea": "District of Columbia",
+    "country": "United States",
+    "url": "https://opendata.dc.gov/datasets/urban-forestry-street-trees",
+    "numberOfSites": 158896,
+    "location": {
+      "latitude": 38.9021752,
+      "longitude": -77.0279287
+    }
+  },
+  {
+    "code": "london",
+    "name": "London",
+    "administrativeArea": "England",
+    "country": "United Kingdom",
+    "url": "https://data.london.gov.uk/dataset/local-authority-maintained-trees",
+    "numberOfSites": 539282,
+    "location": {
+      "latitude": 51.504827,
+      "longitude": -0.0808151
+    }
+  },
+  {
+    "code": "montreal",
+    "name": "Montréal",
+    "administrativeArea": "Québec",
+    "country": "Canada",
+    "url": "http://donnees.ville.montreal.qc.ca/dataset/arbres/resource/c6c5afe8-10be-4539-8eae-93918ea9866e",
+    "numberOfSites": 308448,
+    "location": {
+      "latitude": 45.5089229,
+      "longitude": -73.5565212
+    }
+  },
+  {
+    "code": "sjo",
+    "name": "San Jose",
+    "administrativeArea": "California",
+    "country": "United States",
+    "url": "http://gisdata-csjdotgis.opendata.arcgis.com/datasets/0b0ad30145394b1588ff09ef1a7c9225_0",
+    "numberOfSites": 16903,
+    "location": {
+      "latitude": 37.3351575,
+      "longitude": -121.8918131
+    }
+  },
+  {
+    "code": "victoria",
+    "name": "Victoria",
+    "administrativeArea": "British Columbia",
+    "country": "Canada",
+    "url": "http://opendata.victoria.ca/datasets/tree-species",
+    "numberOfSites": 0,
+    "location": {
+      "latitude": 48.4277561,
+      "longitude": -123.400371
+    }
+  },
+  {
+    "code": "houston",
+    "name": "Houston",
+    "administrativeArea": "Texas",
+    "country": "United States",
+    "url": "https://koordinates.com/layer/25245-houston-texas-street-tree-inventory/",
+    "numberOfSites": 0,
+    "location": {
+      "latitude": 48.4277561,
+      "longitude": -123.400371
+    }
+  },
+  {
+    "code": "sacramento",
+    "name": "Sacramento",
+    "administrativeArea": "California",
+    "country": "United States",
+    "url": "http://data.cityofsacramento.org/datasets/b9b716e09b5048179ab648bb4518452b_0",
+    "numberOfSites": 91954,
+    "location": {
+      "latitude": 38.581896,
+      "longitude": -121.4957184
+    }
+  },
+  {
+    "code": "denver",
+    "name": "Denver",
+    "administrativeArea": "Colorado",
+    "country": "United States",
+    "url": "https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-tree-inventory",
+    "numberOfSites": 284228,
+    "location": {
+      "latitude": 39.7391786,
+      "longitude": -104.9932348
+    }
+  }
+]

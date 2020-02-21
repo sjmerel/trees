@@ -1,0 +1,30 @@
+{
+  "Olea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Oleaceae"
+  },
+  "Davidia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Cornales",
+    "family": "Nyssaceae"
+  },
+  "Pieris": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Ericaceae"
+  },
+  "Mespilus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rosaceae"
+  }
+}

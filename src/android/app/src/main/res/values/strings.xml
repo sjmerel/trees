@@ -1,0 +1,19 @@
+<resources>
+  <string name="info_text">
+Walk up to a tree, or tap it on the map, to identify it.\n
+\n
+Tap the button in the lower right corner to center the map on your location, and again to also orient the map to your current heading.\n
+\n
+The database contains trees on city land, such as parks, median strips, and parkways (the areas between the sidewalk and the street).\n
+\n
+Source code:\n
+\thttps://github.com/sjmerel/trees\n
+\n
+Feedback:\n
+\tsteve@crickettechnology.com\n
+\n
+Thanks to:\n
+\tSanta Monica Public Landscape Division\n
+  </string>
+  <string name="google_maps_key">AIzaSyDHsD70JMxvUpYYxZ_lRrqv_4DMNl--GaE</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TaxonView" customModule="trees" customModuleProvider="target">
+            <connections>
+                <outlet property="nameLabel" destination="vMg-8g-z0D" id="4at-dl-yoZ"/>
+                <outlet property="valueLabel" destination="C6m-fq-F3Z" id="DPQ-nQ-1bg"/>
+                <outlet property="wikipediaButton" destination="pNJ-LU-ZfH" id="Wgc-1C-tdq"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="372" height="30"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="subspecies:" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="vMg-8g-z0D">
+                    <rect key="frame" x="0.0" y="8" width="70" height="14.5"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="70" id="m87-D2-JP0"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" weight="light" pointSize="12"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Plantae" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="C6m-fq-F3Z">
+                    <rect key="frame" x="75" y="4.5" width="257" height="21"/>
+                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pNJ-LU-ZfH" customClass="WikipediaButton" customModule="trees" customModuleProvider="target">
+                    <rect key="frame" x="332" y="-5" width="40" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="40" id="9lj-A1-tB9"/>
+                        <constraint firstAttribute="height" constant="40" id="gXX-lo-8N9"/>
+                    </constraints>
+                    <inset key="contentEdgeInsets" minX="6" minY="6" maxX="6" maxY="6"/>
+                    <state key="normal" image="wikipedia.png"/>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vMg-8g-z0D" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="68o-i1-7q1"/>
+                <constraint firstItem="C6m-fq-F3Z" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="AOE-Fl-72g"/>
+                <constraint firstItem="C6m-fq-F3Z" firstAttribute="leading" secondItem="vMg-8g-z0D" secondAttribute="trailing" constant="5" id="fy6-46-5s5"/>
+                <constraint firstItem="pNJ-LU-ZfH" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="qQs-QJ-aIk"/>
+                <constraint firstItem="pNJ-LU-ZfH" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="tBP-de-lSL"/>
+                <constraint firstItem="pNJ-LU-ZfH" firstAttribute="leading" secondItem="C6m-fq-F3Z" secondAttribute="trailing" id="xu7-nL-5Xi"/>
+                <constraint firstItem="vMg-8g-z0D" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="zB0-Mz-qMC"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <point key="canvasLocation" x="128" y="-103.44827586206897"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="wikipedia.png" width="131" height="131"/>
+    </resources>
+</document>

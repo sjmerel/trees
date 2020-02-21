@@ -1,0 +1,25 @@
+body {
+    margin-left: 1em;
+    margin-right: 1em;
+    font-family: Helvetica,Arial,sans-serif;
+
+    /* force wrap of long urls */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Avenir Next",Helvetica,Arial,sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Avenir Next",Helvetica,Arial,sans-serif;
+    line-height: 100%;
+    margin-top: 10px;
+    margin-bottom: 0;
+}

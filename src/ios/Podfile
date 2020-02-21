@@ -1,0 +1,12 @@
+workspace 'trees'
+#source 'https://github.com/CocoaPods/Specs.git'
+source 'https://cdn.cocoapods.org/'
+use_frameworks!
+
+target 'trees' do
+  project 'trees.xcodeproj'
+  pod 'GoogleMaps'
+  pod 'GooglePlaces'
+  pod 'Fabric'
+  pod 'Crashlytics'
+end

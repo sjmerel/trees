@@ -1,0 +1,4209 @@
+{
+  "Koelreuteria bipinnata": [
+    "Goldenrain Tree"
+  ],
+  "Liquidambar styraciflua": [
+    "Sweetgum"
+  ],
+  "Arbutus unedo": [
+    "Strawberry Tree"
+  ],
+  "Betula pendula": [
+    "European White Birch"
+  ],
+  "Lagerstroemia indica": [
+    "Crapemyrtle"
+  ],
+  "Prunus persica": [
+    "Peach"
+  ],
+  "Citrus X sinensis": [
+    "Sweet Orange"
+  ],
+  "Olea europaea": [
+    "Olive"
+  ],
+  "Ceratonia siliqua": [
+    "St. John's Bread",
+    "Carob"
+  ],
+  "Prunus ilicifolia var. integrifolia": [
+    "Hollyleaf Cherry"
+  ],
+  "Citrus X limon": [
+    "Lemon"
+  ],
+  "Jacaranda mimosifolia": [
+    "Black Poui"
+  ],
+  "Persea americana": [
+    "Avocado"
+  ],
+  "Celtis bungeana": [
+    "Bunge's Hackberry"
+  ],
+  "Ficus benjamina": [
+    "Weeping Fig"
+  ],
+  "Fraxinus velutina": [
+    "Velvet Ash"
+  ],
+  "Pyrus calleryana": [
+    "Callery Pear"
+  ],
+  "Cinnamomum camphora": [
+    "Camphortree",
+    "Camphor Tree",
+    "Camphor Laurel"
+  ],
+  "Podocarpus macrophyllus": [
+    "Yew Plum Pine"
+  ],
+  "Ficus microcarpa": [
+    "Laurel Fig",
+    "Curtain Fig",
+    "Chinese Banyan"
+  ],
+  "Yucca gloriosa": [
+    "Moundlily Yucca"
+  ],
+  "Callistemon citrinus": [
+    "Crimson Bottlebrush"
+  ],
+  "Pinus halepensis": [
+    "Aleppo Pine"
+  ],
+  "Cupaniopsis anacardioides": [
+    "Carrotwood",
+    "Carrot Weed"
+  ],
+  "Tipuana tipu": [
+    "Tipa",
+    "Tipa Blanca",
+    "Tiputree"
+  ],
+  "Magnolia grandiflora": [
+    "Laurier Tulipier",
+    "Bull-bay",
+    "Southern Magnolia"
+  ],
+  "Melia azedarach": [
+    "Chinaberry Tree",
+    "Chinaberry",
+    "Indian Lilac",
+    "Lelah",
+    "Paraiso",
+    "Pride Of India",
+    "White Cedar"
+  ],
+  "Quercus": [
+    "Oak"
+  ],
+  "Fraxinus uhdei": [
+    "Shamel Ash"
+  ],
+  "Prunus domestica": [
+    "European Plum"
+  ],
+  "Pinus thunbergii": [
+    "Japanese Black Pine"
+  ],
+  "Ficus carica": [
+    "Common Fig",
+    "Edible Fig"
+  ],
+  "Nerium oleander": [
+    "Oleander"
+  ],
+  "Morus alba": [
+    "Mulberry",
+    "White Mulberry"
+  ],
+  "Acer rubrum": [
+    "Red Maple"
+  ],
+  "Eucalyptus rudis": [
+    "Desert Gum",
+    "Western Australian Floodedgum"
+  ],
+  "Yucca gloriosa var. recurvifolia": [
+    "Curve-leaf Yucca"
+  ],
+  "Quercus lobata": [
+    "California White Oak",
+    "Valley Oak"
+  ],
+  "Eucalyptus globulus": [
+    "Bluegum Eucalyptus",
+    "Tasmanian Bluegum"
+  ],
+  "Albizia julibrissin": [
+    "Silktree",
+    "Powderpuff Tree",
+    "Mimosa",
+    "Silk Tree"
+  ],
+  "Prunus armeniaca": [
+    "Siberian Apricot",
+    "Albaricoque",
+    "Damasco",
+    "Apricot"
+  ],
+  "Prunus caroliniana": [
+    "Carolina Laurelcherry"
+  ],
+  "Ulmus pumila": [
+    "Siberian Elm",
+    "Chinese Elm"
+  ],
+  "Schinus molle": [
+    "Peppertree",
+    "American Pepper",
+    "False Pepper",
+    "Molle Del Peru",
+    "Pepper Tree",
+    "Peruvian Peppertree"
+  ],
+  "Prunus dulcis": [
+    "Sweet Almond",
+    "Almond",
+    "Almendro"
+  ],
+  "Grevillea robusta": [
+    "Silky Oak",
+    "Silver Oak",
+    "Silkoak"
+  ],
+  "Prunus cerasifera": [
+    "Myrobalan Plum",
+    "Ciruela Chabacana",
+    "Cherry Plum"
+  ],
+  "Acer": [
+    "Maples"
+  ],
+  "Ficus elastica": [
+    "Indian Rubber Fig",
+    "Indian Rubberplant"
+  ],
+  "Syagrus romanzoffiana": [
+    "Queen Palm"
+  ],
+  "Gleditsia triacanthos": [
+    "Honeylocust",
+    "Honey-locust",
+    "Common Honeylocust",
+    "Honey Locust"
+  ],
+  "Acacia baileyana": [
+    "Cootamundra Wattle",
+    "Bailey's Acacia"
+  ],
+  "Cercis occidentalis": [
+    "California Redbud"
+  ],
+  "Quercus ilex": [
+    "Holly Oak"
+  ],
+  "Schinus terebinthifolius": [
+    "Brazilian Pepper-tree",
+    "Christmas Berry",
+    "Florida Holly",
+    "Warui",
+    "Christmasberry",
+    "Brazilian Peppertree"
+  ],
+  "Pinus radiata": [
+    "Insignis Pine",
+    "Monterey Pine"
+  ],
+  "Bauhinia variegata": [
+    "Mountain Ebony"
+  ],
+  "Ailanthus altissima": [
+    "Copal Tree",
+    "Tree-of-heaven",
+    "Tree Of Heaven"
+  ],
+  "Washingtonia robusta": [
+    "Washington Fan Palm",
+    "Mexican Fan Palm"
+  ],
+  "Cycas revoluta": [
+    "Sago Palm"
+  ],
+  "Cordyline australis": [
+    "Cabbage Tree"
+  ],
+  "Liriodendron tulipifera": [
+    "Yellow Poplar",
+    "Tulip Poplar",
+    "Yellow-poplar",
+    "Tuliptree",
+    "Bois-jaune",
+    "Tulip-poplar"
+  ],
+  "Ulmus parvifolia": [
+    "Lacebark Elm",
+    "Chinese Elm"
+  ],
+  "Ligustrum lucidum": [
+    "Glossy Privet"
+  ],
+  "Platycladus orientalis": [
+    "Oriental Arborvitae"
+  ],
+  "Syzygium paniculatum": [
+    "Brush Cherry"
+  ],
+  "Casuarina cunninghamiana": [
+    "Cunningham's Beefwood",
+    "River She-oak"
+  ],
+  "Eucalyptus parvula": [
+    "Kybean Gum"
+  ],
+  "Melaleuca quinquenervia": [
+    "Bottle Brush Tree",
+    "Cajeput Tree",
+    "Melaleuca",
+    "Niaouli",
+    "Paperbark",
+    "Punktree"
+  ],
+  "Malus sylvestris": [
+    "European Crab Apple"
+  ],
+  "Phoenix canariensis": [
+    "Canary Island Date Palm"
+  ],
+  "Prunus ilicifolia": [
+    "Hollyleaf Cherry"
+  ],
+  "Pittosporum undulatum": [
+    "Mock Orange",
+    "Sweet Pittosporum",
+    "Victorian Box",
+    "Victorian Laurel",
+    "Australian Cheesewood"
+  ],
+  "Ilex cornuta": [
+    "Chinese Holly",
+    "Horned Holly"
+  ],
+  "Acacia melanoxylon": [
+    "Blackwood"
+  ],
+  "Cupressus sempervirens": [
+    "Italian Cypress"
+  ],
+  "Ginkgo biloba": [
+    "Maidenhair Tree",
+    "Common Ginkgo"
+  ],
+  "Myoporum laetum": [
+    "Ngaio Tree"
+  ],
+  "Leptospermum scoparium": [
+    "Broom Teatree",
+    "Manuka"
+  ],
+  "Pinus canariensis": [
+    "Canary Island Pine"
+  ],
+  "Eucalyptus cladocalyx": [
+    "Sugargum"
+  ],
+  "Washingtonia filifera": [
+    "California Fan Palm"
+  ],
+  "Acacia longifolia": [
+    "Sydney Golden Wattle"
+  ],
+  "Eriobotrya japonica": [
+    "Loquat"
+  ],
+  "Juniperus chinensis": [
+    "Chinese Juniper"
+  ],
+  "Pinus pinea": [
+    "Italian Stone Pine"
+  ],
+  "Butia capitata": [
+    "South American Jelly Palm"
+  ],
+  "Araucaria heterophylla": [
+    "Norfolk Island Pine"
+  ],
+  "Quercus agrifolia": [
+    "California Live Oak",
+    "Coast Live Oak"
+  ],
+  "Acer palmatum": [
+    "Japanese Maple"
+  ],
+  "Heteromeles arbutifolia": [
+    "Toyon"
+  ],
+  "Malosma laurina": [
+    "Laurel Sumac"
+  ],
+  "Betula papyrifera": [
+    "Paper Birch"
+  ],
+  "Ceiba speciosa": [
+    "Silk-floss Tree"
+  ],
+  "Eucalyptus": [
+    "Gum"
+  ],
+  "Juglans regia": [
+    "English Walnut"
+  ],
+  "Alnus cordata": [
+    "Italian Alder"
+  ],
+  "Celtis sinensis": [
+    "Chinese Hackberry",
+    "Japanese Hackberry"
+  ],
+  "Corymbia ficifolia": [
+    "Redflower Gum"
+  ],
+  "Platanus racemosa": [
+    "California Sycamore"
+  ],
+  "Corymbia calophylla": [
+    "Redgum"
+  ],
+  "Eucalyptus viminalis": [
+    "Manna Gum"
+  ],
+  "Koelreuteria paniculata": [
+    "Goldenrain Tree"
+  ],
+  "Lophostemon confertus": [
+    "Vinegartree"
+  ],
+  "Casuarina equisetifolia": [
+    "Australian Pine",
+    "Common Ironwood",
+    "Horsetail Casuarina",
+    "Beach She-oak",
+    "Australian-pine",
+    "Coast She-oak"
+  ],
+  "Corymbia citriodora": [
+    "Lemonscented Gum"
+  ],
+  "Dracaena draco": [
+    "Dragontree"
+  ],
+  "Acacia dealbata": [
+    "Silver Wattle",
+    "Mimosa"
+  ],
+  "Robinia pseudoacacia": [
+    "Black Locust",
+    "False Acacia",
+    "Yellow Locust"
+  ],
+  "Acer saccharinum": [
+    "Silver Maple"
+  ],
+  "Melaleuca linariifolia": [
+    "Cajeput Tree"
+  ],
+  "Cedrus deodara": [
+    "Deodar Cedar"
+  ],
+  "Callistemon viminalis": [
+    "Weeping Bottlebrush"
+  ],
+  "Picea pungens": [
+    "Silver Spruce",
+    "Colorado Blue Spruce",
+    "Blue Spruce"
+  ],
+  "Populus nigra": [
+    "Black Cottonwood",
+    "Black Poplar",
+    "Lombardy's Poplar"
+  ],
+  "Juniperus monosperma": [
+    "Oneseed Juniper"
+  ],
+  "Rhus ovata": [
+    "Sugar Sumac"
+  ],
+  "Maytenus boaria": [
+    "Mayten"
+  ],
+  "Punica granatum": [
+    "Pomegranate"
+  ],
+  "Citrus reticulata": [
+    "Tangerine"
+  ],
+  "Eucalyptus robusta": [
+    "Swampmahogany"
+  ],
+  "Acer negundo": [
+    "Ashleaf Maple",
+    "Boxelder",
+    "Boxelder Maple",
+    "California Boxelder",
+    "Manitoba Maple",
+    "Western Boxelder",
+    "Box Elder",
+    "Three-leaf Maple",
+    "Ash-leaf Maple"
+  ],
+  "Sequoia sempervirens": [
+    "Redwood",
+    "California Redwood",
+    "Coast Redwood"
+  ],
+  "Ulmus americana": [
+    "American Elm"
+  ],
+  "Eucalyptus torquata": [
+    "Coral Gum"
+  ],
+  "Ilex aquifolium": [
+    "English Holly"
+  ],
+  "Pinus brutia": [
+    "Turkish Pine",
+    "Calabrian Pine"
+  ],
+  "Pinus muricata": [
+    "Prickle-cone Pine",
+    "Santa Cruz Island Pine",
+    "Bishop Pine"
+  ],
+  "Eucalyptus polyanthemos": [
+    "Redbox"
+  ],
+  "Dodonaea viscosa": [
+    "Hopbush",
+    "Hopseed Bush",
+    "Florida Hopbush"
+  ],
+  "Eucalyptus sideroxylon": [
+    "Red Ironbark"
+  ],
+  "Malus floribunda": [
+    "Japanese Flowering Crab Apple"
+  ],
+  "Cocculus laurifolius": [
+    "Laurel-leaf Snailseed"
+  ],
+  "Juglans californica": [
+    "California Black Walnut",
+    "Southern California Walnut"
+  ],
+  "Phoenix reclinata": [
+    "Senegal Date Palm",
+    "Reclining Date Palm"
+  ],
+  "Eucalyptus camaldulensis": [
+    "River Redgum",
+    "Eucalipto-rojo",
+    "Murray Red Gum",
+    "Red Gum"
+  ],
+  "Catalpa speciosa": [
+    "Northern Catalpa"
+  ],
+  "Carya illinoinensis": [
+    "Nuez Encarcelada",
+    "Nogal Morado",
+    "Pecanier",
+    "Pecan"
+  ],
+  "Hibiscus rosa-sinensis": [
+    "Chinese Hibiscus",
+    "Shoeblackplant"
+  ],
+  "Acacia decurrens": [
+    "Green Wattle"
+  ],
+  "Quercus virginiana": [
+    "Live Oak"
+  ],
+  "Chamaerops humilis": [
+    "European Fan Palm"
+  ],
+  "Araucaria columnaris": [
+    "New Caledonia Pine"
+  ],
+  "Calodendrum capense": [
+    "Cape-chestnut"
+  ],
+  "Strelitzia nicolai": [
+    "Bird-of-paradise Tree",
+    "White Bird-of-paradise Tree"
+  ],
+  "Eucalyptus cinerea": [
+    "Argyle Apple"
+  ],
+  "Eucalyptus leucoxylon": [
+    "White Ironbark",
+    "Yellow Gum"
+  ],
+  "Alnus rhombifolia": [
+    "Rhombie Leaf Alder",
+    "White Alder"
+  ],
+  "Erythrina crista-galli": [
+    "Crybabytree"
+  ],
+  "Platanus occidentalis": [
+    "Sycamore",
+    "American Sycamore"
+  ],
+  "Pinus patula": [
+    "Mexican Weeping Pine"
+  ],
+  "Pyrus pyrifolia": [
+    "Chinese Pear"
+  ],
+  "Ligustrum japonicum": [
+    "Japanese Privet"
+  ],
+  "Sambucus nigra ssp. cerulea": [
+    "Blue Elder",
+    "Blue Elderberry",
+    "Elderberry"
+  ],
+  "Erythrina humeana": [
+    "Dwarf Erythrina",
+    "Dwarf Kaffirboom"
+  ],
+  "Triadica sebifera": [
+    "Tallowtree",
+    "Chinese Tallow"
+  ],
+  "Schefflera actinophylla": [
+    "Umbrella Tree",
+    "Octopus Tree"
+  ],
+  "Sphaeropteris cooperi": [
+    "Cooper's Cyathea"
+  ],
+  "Leptospermum laevigatum": [
+    "Australian Teatree"
+  ],
+  "Erythrina fusca": [
+    "Bucayo",
+    "Lucky Beantree",
+    "Cape Kaffirboom",
+    "Kaffirboom"
+  ],
+  "Pyracantha coccinea": [
+    "Scarlet Firethorn"
+  ],
+  "Pinus torreyana": [
+    "Del Mar Pine",
+    "Soledad Pine",
+    "Torrey Pine"
+  ],
+  "Quercus suber": [
+    "Cork Oak"
+  ],
+  "Salix commutata": [
+    "Undergreen Willow"
+  ],
+  "Thevetia peruviana": [
+    "Luckynut"
+  ],
+  "Malus pumila": [
+    "Paradise Apple"
+  ],
+  "Zelkova serrata": [
+    "Japanese Zelkova"
+  ],
+  "Maclura pomifera": [
+    "Osage-orange",
+    "Osage Orange"
+  ],
+  "Salix X sepulcralis": [
+    "Weeping Willow"
+  ],
+  "Ficus rubiginosa": [
+    "Port Jackson Fig"
+  ],
+  "Acca sellowiana": [
+    "Feijoa"
+  ],
+  "Juglans nigra": [
+    "Black Walnut",
+    "Noyer Noir"
+  ],
+  "Phoenix roebelenii": [
+    "Pygmy Date Palm"
+  ],
+  "Broussonetia papyrifera": [
+    "Wauke",
+    "Paper Mulberry"
+  ],
+  "Eucalyptus tereticornis": [
+    "Forest Redgum"
+  ],
+  "Grewia occidentalis": [
+    "Crossberry"
+  ],
+  "Pistacia chinensis": [
+    "Chinese Pistache"
+  ],
+  "Pittosporum tobira": [
+    "Japanese Cheesewood"
+  ],
+  "Prunus salicina": [
+    "Japanese Plum"
+  ],
+  "Pinus": [
+    "Pine"
+  ],
+  "Leucaena leucocephala ssp. leucocephala": [
+    "White Leadtree"
+  ],
+  "Myrtus communis": [
+    "Myrtle"
+  ],
+  "Laurus nobilis": [
+    "Sweet Bay"
+  ],
+  "Eucalyptus resinifera": [
+    "Redmahogany"
+  ],
+  "Calocedrus decurrens": [
+    "Incense Cedar"
+  ],
+  "Pinus jeffreyi": [
+    "Jeffrey's Pine",
+    "Black Pine",
+    "Jeffrey Pine"
+  ],
+  "Pinus sabiniana": [
+    "California Foothill Pine",
+    "Gray Pine",
+    "Bull Pine",
+    "Digger Pine"
+  ],
+  "Tamarix aphylla": [
+    "Saltcedar",
+    "Tamarisk",
+    "Tamarix",
+    "Athel Tamarisk"
+  ],
+  "Morus rubra": [
+    "Red Mulberry"
+  ],
+  "Aesculus californica": [
+    "California Buckeye"
+  ],
+  "Phoenix dactylifera": [
+    "Date Palm"
+  ],
+  "Nicotiana glauca": [
+    "Tree Tobacco"
+  ],
+  "Fortunella margarita": [
+    "Oval Kumquat"
+  ],
+  "Casimiroa edulis": [
+    "White Sapote"
+  ],
+  "Cercis canadensis": [
+    "Eastern Redbud",
+    "Redbud"
+  ],
+  "Pyrus communis": [
+    "Common Pear",
+    "Pear"
+  ],
+  "Lagunaria patersonii": [
+    "Cow Itch Tree"
+  ],
+  "Quercus chrysolepis": [
+    "Canyon Live Oak"
+  ],
+  "Magnolia stellata": [
+    "Star Magnolia"
+  ],
+  "Citrus X aurantiifolia": [
+    "Key Lime"
+  ],
+  "Hibiscus syriacus": [
+    "Shrub Althea",
+    "Althea",
+    "Rose Of Sharon"
+  ],
+  "Salix alba": [
+    "White Willow"
+  ],
+  "Castanea dentata": [
+    "American Chestnut"
+  ],
+  "Juglans": [
+    "Nogal",
+    "Walnut"
+  ],
+  "Fraxinus ornus": [
+    "Flowering Ash"
+  ],
+  "Bauhinia purpurea": [
+    "Butterfly Tree"
+  ],
+  "Eucalyptus lehmannii": [
+    "Bushy Yate"
+  ],
+  "Sabal mexicana": [
+    "Rio Grande Palmetto",
+    "Palmetto"
+  ],
+  "Euphorbia tirucalli": [
+    "Indiantree Spurge"
+  ],
+  "Trachycarpus fortunei": [
+    "Chinese Windmill Palm"
+  ],
+  "Cocos nucifera": [
+    "Coconut Palm"
+  ],
+  "Callistemon speciosus": [
+    "Gray Bottlebrush"
+  ],
+  "Salix nigra": [
+    "Black Willow"
+  ],
+  "Wisteria sinensis": [
+    "Chinese Wisteria"
+  ],
+  "Pittosporum crassifolium": [
+    "Stiffleaf Cheesewood"
+  ],
+  "Pinus mugo": [
+    "Mugo Pine"
+  ],
+  "Livistona": [
+    "Livistona"
+  ],
+  "Diospyros kaki": [
+    "Japanese Persimmon"
+  ],
+  "Juglans hindsii": [
+    "Hinds's Black Walnut",
+    "Northern California Walnut"
+  ],
+  "Ensete ventricosum": [
+    "Abyssinian Banana"
+  ],
+  "Persea borbonia": [
+    "Redbay"
+  ],
+  "Cedrus libani": [
+    "Cyprus Cedar",
+    "Cedar Of Lebanon"
+  ],
+  "Acacia pendula": [
+    "Myall Acacia",
+    "Weeping Myall"
+  ],
+  "Populus fremontii": [
+    "Cottonwood",
+    "Fremont's Cottonwood"
+  ],
+  "Psidium guajava": [
+    "Guava",
+    "Abas",
+    "Goyavier",
+    "Guabang",
+    "Kautonga",
+    "Kuahpa"
+  ],
+  "Salix discolor": [
+    "Pussy Willow"
+  ],
+  "Syzygium jambos": [
+    "Malabar Plum",
+    "Rose-apple"
+  ],
+  "Viburnum tinus": [
+    "Laurustinus"
+  ],
+  "Acer platanoides": [
+    "Norway Maple"
+  ],
+  "Pinus attenuata": [
+    "Knobcone Pine"
+  ],
+  "Crataegus douglasii": [
+    "River Hawthorn",
+    "Black Hawthorn"
+  ],
+  "Quercus rubra": [
+    "Northern Red Oak"
+  ],
+  "Catalpa bignonioides": [
+    "Southern Catalpa"
+  ],
+  "Quercus coccinea": [
+    "Scarlet Oak"
+  ],
+  "Plumeria rubra": [
+    "Frangipani",
+    "Templetree"
+  ],
+  "Eucalyptus cornuta": [
+    "Yate"
+  ],
+  "Bauhinia forficata": [
+    "Cow's-foot",
+    "Pata De Vaca"
+  ],
+  "Populus balsamifera": [
+    "Balsam Poplar"
+  ],
+  "Schinus polygamus": [
+    "Hardee Peppertree"
+  ],
+  "Thuja occidentalis": [
+    "Arborvitae",
+    "Eastern White Cedar",
+    "Northern White Cedar",
+    "Swamp Cedar"
+  ],
+  "Pinus edulis": [
+    "Twoneedle Pinyon",
+    "Nut Pine",
+    "Colorado Pinyon",
+    "Pinyon",
+    "Two-leaf Pinyon",
+    "Two-needle Pinyon",
+    "Pi�on Pine",
+    "Pinyon Pine"
+  ],
+  "Salix lasiolepis": [
+    "Arroyo Willow"
+  ],
+  "Fremontodendron californicum": [
+    "Flannelbush",
+    "California Fremontia",
+    "California Flannelbush"
+  ],
+  "Acacia cultriformis": [
+    "Knife Acacia"
+  ],
+  "Albizia lebbeck": [
+    "Woman's Tongue",
+    "Lebbek",
+    "Siris Tree",
+    "Raom Tree",
+    "Soros-tree",
+    "Woman's-tongue Tree"
+  ],
+  "Quercus palustris": [
+    "Pin Oak"
+  ],
+  "Lycianthes rantonnetii": [
+    "Blue Potatobush"
+  ],
+  "Syringa vulgaris": [
+    "Common Lilac"
+  ],
+  "Juniperus": [
+    "Juniper",
+    "Cedar",
+    "Redcedar"
+  ],
+  "Senna surattensis ssp. surattensis": [
+    "Glossy Shower"
+  ],
+  "Quercus kelloggii": [
+    "California Black Oak"
+  ],
+  "Ficus religiosa": [
+    "Peepul Tree"
+  ],
+  "Eucalyptus maculata": [
+    "Spotted Gum"
+  ],
+  "Celtis occidentalis": [
+    "Hackberry",
+    "Common Hackberry",
+    "Western Hackberry"
+  ],
+  "Yucca aloifolia": [
+    "Aloe Yucca"
+  ],
+  "Pinus contorta": [
+    "Lodgepole Pine",
+    "Scrub Pine",
+    "Shore Pine",
+    "Tamarack Pine"
+  ],
+  "Ilex opaca": [
+    "American Holly"
+  ],
+  "Sorbus americana": [
+    "American Mountain-ash"
+  ],
+  "Lithocarpus densiflorus": [
+    "Tanoak"
+  ],
+  "Allocasuarina verticillata": [
+    "Drooping She-oak"
+  ],
+  "Macadamia integrifolia": [
+    "Macadamia Nut"
+  ],
+  "Senna corymbosa": [
+    "Argentine Senna"
+  ],
+  "Parkinsonia aculeata": [
+    "Jerusalem Thorn"
+  ],
+  "Melaleuca styphelioides": [
+    "Prickly-leaf Teatree"
+  ],
+  "Betula nigra": [
+    "River Birch"
+  ],
+  "Acacia saligna": [
+    "Orange Wattle"
+  ],
+  "Salix": [
+    "Willow"
+  ],
+  "Carissa macrocarpa": [
+    "Amatungulu"
+  ],
+  "Senna hirsuta var. hirsuta": [
+    "Woolly Senna"
+  ],
+  "Celtis australis": [
+    "Mediterranean Hackberry",
+    "European Hackberry",
+    "European Nettletree",
+    "Honey-berry"
+  ],
+  "Morus nigra": [
+    "Black Mulberry"
+  ],
+  "Araucaria angustifolia": [
+    "Parana Pine"
+  ],
+  "Callitropsis macrocarpa": [
+    "Monterey Cypress"
+  ],
+  "Paulownia tomentosa": [
+    "Royal Paulownia",
+    "Princess Tree"
+  ],
+  "Prunus subhirtella": [
+    "Winter-flowering Cherry"
+  ],
+  "Prunus serrulata": [
+    "Japanese Flowering Cherry"
+  ],
+  "Quercus dumosa": [
+    "Nuttall's Scrub Oak",
+    "Coastal Sage Scrub Oak"
+  ],
+  "Ficus drupacea": [
+    "Brown-woolly Fig"
+  ],
+  "Populus trichocarpa": [
+    "Black Cottonwood"
+  ],
+  "Brachychiton acerifolius": [
+    "Flame Bottletree"
+  ],
+  "Euphorbia fulgens": [
+    "Scarlet-plume"
+  ],
+  "Celtis": [
+    "Hackberry"
+  ],
+  "Cornus florida": [
+    "Flowering Dogwood"
+  ],
+  "Tilia americana var. heterophylla": [
+    "American Basswood"
+  ],
+  "Thuja plicata": [
+    "Western Red Cedar",
+    "Western Redcedar"
+  ],
+  "Pinus coulteri": [
+    "Coulter Pine",
+    "Bigcone Pine",
+    "Pitch Pine"
+  ],
+  "Cotoneaster lacteus": [
+    "Milkflower Cotoneaster"
+  ],
+  "Picea engelmannii": [
+    "Engelmann Spruce",
+    "Columbian Spruce",
+    "Mountain Spruce",
+    "Silver Spruce",
+    "White Spruce",
+    "Engelmann's Spruce"
+  ],
+  "Umbellularia californica": [
+    "California Laurel"
+  ],
+  "Eucalyptus pulverulenta": [
+    "Silverleaf Mountain Gum"
+  ],
+  "Fagus grandifolia": [
+    "American Beech"
+  ],
+  "Hibiscus": [
+    "Rosemallow"
+  ],
+  "Sequoiadendron giganteum": [
+    "Giant Sequoia",
+    "Giant Redwood",
+    "Sierra Redwood"
+  ],
+  "Crataegus phaenopyrum": [
+    "Washington Hawthorn"
+  ],
+  "Taxus baccata": [
+    "European Yew",
+    "English Yew"
+  ],
+  "Annona cherimola": [
+    "Cherimoya"
+  ],
+  "Liquidambar orientalis": [
+    "Oriental Sweetgum"
+  ],
+  "Prunus yedoensis": [
+    "Yoshino Cherry"
+  ],
+  "Photinia serratifolia": [
+    "Taiwanese Photinia"
+  ],
+  "Abutilon pictum": [],
+  "Cercidiphyllum japonicum": [
+    "Katsura Tree"
+  ],
+  "Populus alba": [
+    "White Poplar"
+  ],
+  "Alnus glutinosa": [
+    "Black Alder",
+    "European Alder"
+  ],
+  "Tristaniopsis laurina": [
+    "Water-gum"
+  ],
+  "Diospyros virginiana": [
+    "Eastern Persimmon",
+    "Common Persimmon"
+  ],
+  "Rhus integrifolia": [
+    "Lemonade Sumac"
+  ],
+  "Ficus auriculata": [
+    "Roxburgh Fig"
+  ],
+  "Viburnum suspensum": [
+    "Viburnum"
+  ],
+  "Quillaja saponaria": [
+    "Soapbark"
+  ],
+  "Cupressus": [
+    "Cypress"
+  ],
+  "Paraserianthes lophantha": [
+    "Plume Albizia"
+  ],
+  "Acer saccharum": [
+    "Sugar Maple"
+  ],
+  "Acer macrophyllum": [
+    "Bigleaf Maple"
+  ],
+  "Pittosporum viridiflorum": [
+    "Cape Cheesewood"
+  ],
+  "Ficus lyrata": [
+    "Fiddleleaf Fig"
+  ],
+  "Pseudotsuga menziesii": [
+    "Red Fir",
+    "Douglas Spruce",
+    "Oregon Pine",
+    "Douglas-fir"
+  ],
+  "Psidium cattleianum": [
+    "Cattley Guava",
+    "Cherry Guava",
+    "Chinese Guava",
+    "Purple Guava",
+    "Strawberry Guava"
+  ],
+  "Taxodium distichum": [
+    "Baldcypress",
+    "Bald Cypress"
+  ],
+  "Koelreuteria elegans": [
+    "Golden Rain Tree",
+    "Flamegold"
+  ],
+  "Salix laevigata": [
+    "Red Willow"
+  ],
+  "Cornus capitata": [
+    "Bentham's Cornel"
+  ],
+  "Camellia japonica": [
+    "Camellia"
+  ],
+  "Fraxinus americana": [
+    "White Ash"
+  ],
+  "Lithrea molleoides": [
+    "Aroeira Blanca"
+  ],
+  "Beaucarnea recurvata": [
+    "Bottle-palm"
+  ],
+  "Fraxinus dipetala": [
+    "Two-petal Ash",
+    "California Ash"
+  ],
+  "Salix matsudana": [
+    "Tortured Willow",
+    "Peking Willow",
+    "Corkscrew Willow"
+  ],
+  "Duranta erecta": [
+    "Golden Dewdrops"
+  ],
+  "Prunus avium": [
+    "Sweet Cherry"
+  ],
+  "Euphorbia pulcherrima": [
+    "Poinsettia"
+  ],
+  "Celtis reticulata": [
+    "Netleaf Hackberry",
+    "Palo Blanco"
+  ],
+  "Ligustrum ovalifolium": [
+    "California Privet"
+  ],
+  "Araucaria bidwillii": [
+    "Bunya Bunya"
+  ],
+  "Magnolia doltsopa": [
+    "Sweet Michelia"
+  ],
+  "Populus": [
+    "Cottonwood"
+  ],
+  "Taxodium mucronatum": [
+    "Montezuma Bald Cypress",
+    "Mexican Cypress",
+    "Montezuma Baldcypress"
+  ],
+  "Cryptomeria japonica": [
+    "Japanese Cedar"
+  ],
+  "Pinus ponderosa": [
+    "Ponderosa Pine",
+    "Bull Pine",
+    "Western Yellow Pine",
+    "Blackjack Pine",
+    "Rock Pine"
+  ],
+  "Callitropsis forbsii": [
+    "Tecate Cypress"
+  ],
+  "Livistona chinensis": [
+    "Fountain Palm",
+    "Chinese Fan Palm"
+  ],
+  "Styphnolobium japonicum": [
+    "Japanese Pagoda Tree"
+  ],
+  "Prunus": [
+    "Chokecherry",
+    "Plum"
+  ],
+  "Callistemon salignus": [
+    "Stonewood",
+    "White Bottlebrush",
+    "Willow Bottlebrush"
+  ],
+  "Callitropsis arizonica": [
+    "Arizona Cypress"
+  ],
+  "Araucaria cunninghamii": [
+    "Moreton Bay Pine"
+  ],
+  "Stenocarpus sinuatus": [
+    "Firewheeltree"
+  ],
+  "Pinus sylvestris": [
+    "Scots Pine"
+  ],
+  "Pinus nigra": [
+    "Austrian Pine",
+    "Australian Pine",
+    "European Black Pine"
+  ],
+  "Lyonothamnus floribundus": [
+    "Catalina Ironwood"
+  ],
+  "Alnus rubra": [
+    "Red Alder"
+  ],
+  "Juniperus communis": [
+    "Dwarf Juniper",
+    "Common Juniper"
+  ],
+  "Eucalyptus salicifolia": [
+    "Black Peppermint"
+  ],
+  "Juniperus scopulorum": [
+    "Rocky Mountain Juniper"
+  ],
+  "Vitex agnus-castus": [
+    "Lilac Chastetree"
+  ],
+  "Pyracantha fortuneana": [
+    "Chinese Firethorn"
+  ],
+  "Arbutus menziesii": [
+    "Pacific Madrone"
+  ],
+  "Ulmus": [
+    "Elm"
+  ],
+  "Torreya californica": [
+    "California Nutmeg",
+    "California Torreya"
+  ],
+  "Metasequoia glyptostroboides": [
+    "Dawn Redwood"
+  ],
+  "Prunus mume": [
+    "Japanese Apricot"
+  ],
+  "Pinus quadrifolia": [
+    "Nut Pine",
+    "Four-needle Pinyon",
+    "Parry Pinyon"
+  ],
+  "Chamaedorea elegans": [
+    "Parlor Palm"
+  ],
+  "Pinus wallichiana": [
+    "Himalayan White Pine",
+    "Himalayan Pine",
+    "Blue Pine",
+    "Bhutan Pine"
+  ],
+  "Citrus X aurantium": [
+    "Sour Orange"
+  ],
+  "Tamarix parviflora": [
+    "Small-flower Tamarisk",
+    "Saltcedar",
+    "Tamarisk",
+    "Tamarix",
+    "Smallflower Tamarisk"
+  ],
+  "Castanea sativa": [
+    "European Chestnut"
+  ],
+  "Prunus subcordata": [
+    "Klamath Plum"
+  ],
+  "Malus ioensis": [
+    "Prairie Crab Apple"
+  ],
+  "Pistacia atlantica": [
+    "Mt. Atlas Mastic Tree"
+  ],
+  "Callistemon rigidus": [
+    "Bottlebrush"
+  ],
+  "Osmanthus fragrans": [
+    "Sweet Osmanthus"
+  ],
+  "Pinus bungeana": [
+    "Bunge's Pine",
+    "Lacebark Pine"
+  ],
+  "Callitropsis nevadensis": [
+    "Paiute Cypress"
+  ],
+  "Corynocarpus laevigatus": [
+    "New Zealand Laurel",
+    "Karaka Nut"
+  ],
+  "Ficus": [
+    "Fig"
+  ],
+  "Acer japonicum": [
+    "Amur Maple"
+  ],
+  "Ilex": [
+    "Hollies",
+    "Holly"
+  ],
+  "Carica papaya": [
+    "Papaya",
+    "Pawpaw"
+  ],
+  "Araucaria araucana": [
+    "Monkeypuzzle Tree",
+    "Monkey Puzzle Tree"
+  ],
+  "Cornus": [
+    "Dogwood"
+  ],
+  "Ulmus procera": [
+    "English Elm"
+  ],
+  "Juniperus californica": [
+    "California Juniper"
+  ],
+  "Quercus engelmannii": [
+    "Engelmann's Oak"
+  ],
+  "Firmiana simplex": [
+    "Chinese Parasoltree"
+  ],
+  "Melaleuca ericifolia": [
+    "Swamp Paperbark"
+  ],
+  "Aloe arborescens": [
+    "Candelabra Aloe",
+    "Candelabra Plant",
+    "Kidachi Aloe",
+    "Mountain Bush Aloe",
+    "Octopus Plant",
+    "Oldenland's Bush Aloe",
+    "Sword Aloe",
+    "Woody Aloe",
+    "Torch Plant",
+    "Krans Aloe",
+    "Krantz Aloe"
+  ],
+  "Betula maximowicziana": [
+    "Monarch Birch"
+  ],
+  "Araucaria": [
+    "Araucaria"
+  ],
+  "Fortunella japonica": [
+    "Round Kumquat"
+  ],
+  "Leptospermum petersonii": [
+    "Common Teatree"
+  ],
+  "Quercus falcata": [
+    "Southern Red Oak"
+  ],
+  "Prunus cerasus": [
+    "Sour Cherry"
+  ],
+  "Podocarpus": [
+    "Plum Pine"
+  ],
+  "Pinus densiflora": [
+    "Tanyosho Pine",
+    "Japanese Red Pine",
+    "Japanese Umbrella Pine"
+  ],
+  "Acacia pycnantha": [
+    "Golden Wattle"
+  ],
+  "Grevillea banksii": [
+    "Banks' Grevillea",
+    "Haiku",
+    "Kahili Flower"
+  ],
+  "Spathodea campanulata": [
+    "Fireball",
+    "Fountain Tree",
+    "African Tuliptree"
+  ],
+  "Cydonia oblonga": [
+    "Quince"
+  ],
+  "Chamaecyparis lawsoniana": [
+    "Lawson Cedar",
+    "Oregon Cedar",
+    "Port Orford White Cedar",
+    "Ginger-pine",
+    "Port Orford Cedar"
+  ],
+  "Jubaea chilensis": [
+    "Chile Cocopalm"
+  ],
+  "Cotinus coggygria": [
+    "European Smoketree"
+  ],
+  "Acacia paradoxa": [
+    "Paradox Acacia",
+    "Kangaroo-thorn",
+    "Acacia-hedge",
+    "Prickly Acacia",
+    "Kangaroothorn",
+    "Kangaroo Thorn"
+  ],
+  "Chamaecyparis": [
+    "False-cypress",
+    "White Cedar",
+    "Cedar"
+  ],
+  "Pinus brutia var. eldarica": [
+    "Afghan Pine",
+    "Eilar Pine"
+  ],
+  "Cupressus macrocarpa": [
+    "Monterey Cypress"
+  ],
+  "Quercus tomentella": [
+    "Island Oak",
+    "Island Live Oak"
+  ],
+  "Parkinsonia florida": [
+    "Blue Paloverde"
+  ],
+  "Musa": [
+    "Banana"
+  ],
+  "Tilia americana": [
+    "American Basswood"
+  ],
+  "Acacia cognata": [
+    "Bower Wattle"
+  ],
+  "Prunus lusitanica": [
+    "Portuguese Laurel",
+    "Portuguese Laurel Cherry",
+    "Portugal Laurel"
+  ],
+  "Castanea mollissima": [
+    "Chinese Chestnut"
+  ],
+  "Eucalyptus amplifolia": [
+    "Cabbage Gum"
+  ],
+  "Arbutus": [
+    "Madrones"
+  ],
+  "Yucca": [
+    "Yucca"
+  ],
+  "Cyathea cooperi": [
+    "Cooper's Cyathea",
+    "Scaly Tree Fern"
+  ],
+  "Cercis": [
+    "Redbud"
+  ],
+  "Howea forsteriana": [
+    "Sentrypalm"
+  ],
+  "Roystonea regia": [
+    "Cuban Royal Palm",
+    "Florida Royal Palm"
+  ],
+  "Cercis canadensis var. mexicana": [
+    "Mexican Redbud"
+  ],
+  "Morus": [
+    "Mulberry"
+  ],
+  "Chilopsis linearis": [
+    "Desert Willow"
+  ],
+  "Cercis canadensis var. texensis": [
+    "Texas Redbud"
+  ],
+  "Viburnum": [
+    "Viburnum"
+  ],
+  "Acacia stenophylla": [
+    "Dalby Myall",
+    "River Myall",
+    "River Cooba"
+  ],
+  "Tecoma stans": [
+    "Yellow Elder",
+    "Yellow Trumpet-flower",
+    "Trumpetbush",
+    "Trumpetflower",
+    "Yellow Trumpetbush"
+  ],
+  "Afrocarpus falcatus": [
+    "Yellowwood"
+  ],
+  "Macadamia tetraphylla": [
+    "Macadamia Nut"
+  ],
+  "Eucalyptus grandis": [
+    "Grand Eucalyptus"
+  ],
+  "Eucalyptus deglupta": [
+    "Indonesian Gum"
+  ],
+  "Callistemon": [
+    "Bottlebrush"
+  ],
+  "Howea belmoreana": [
+    "Belmore Sentrypalm"
+  ],
+  "Agathis robusta": [
+    "Queensland Kauri"
+  ],
+  "Leptospermum": [
+    "Teatree"
+  ],
+  "Ulmus davidiana var. japonica": [
+    "Japanese Elm"
+  ],
+  "Tabebuia heterophylla": [
+    "White Cedar"
+  ],
+  "Prosopis chilensis": [
+    "Algarrobo"
+  ],
+  "Cordia boissieri": [
+    "Anacahuite",
+    "Anacahuita"
+  ],
+  "Eucalyptus microtheca": [
+    "Coolabah",
+    "Coolibah",
+    "Flooded-box"
+  ],
+  "Dypsis lutescens": [
+    "Yellow Butterfly Palm"
+  ],
+  "Calliandra haematocephala": [
+    "Stickpea"
+  ],
+  "Phoenix": [
+    "Date Palm"
+  ],
+  "Citrus aurantium": [
+    "Sour Orange"
+  ],
+  "Aesculus hippocastanum": [
+    "Horse Chestnut"
+  ],
+  "Metrosideros": [
+    "Lehua"
+  ],
+  "Pittosporum": [
+    "Cheesewood"
+  ],
+  "Liquidambar": [
+    "Sweetgum"
+  ],
+  "Senna spectabilis": [
+    "Casia Amarilla"
+  ],
+  "Pinus pinaster": [
+    "Maritime Pine",
+    "Cluster Pine"
+  ],
+  "Acer circinatum": [
+    "Vine Maple"
+  ],
+  "Quercus phellos": [
+    "Willow Oak"
+  ],
+  "Acer pseudoplatanus": [
+    "Sycamore",
+    "Sycamore Maple"
+  ],
+  "Acer ginnala": [
+    "Amur Maple"
+  ],
+  "Acer campestre": [
+    "Field Maple",
+    "Hedge Maple"
+  ],
+  "Fraxinus": [
+    "Ash"
+  ],
+  "Malus": [
+    "Apple"
+  ],
+  "Corylus colurna": [
+    "Turkish Hazelnut"
+  ],
+  "Prunus serotina": [
+    "Black Chokecherry",
+    "Black Cherry"
+  ],
+  "Juniperus virginiana": [
+    "Eastern Red-cedar",
+    "Red Cedar Juniper",
+    "Eastern Redcedar"
+  ],
+  "Quercus acutissima": [
+    "Sawtooth Oak"
+  ],
+  "Quercus bicolor": [
+    "Swamp White Oak"
+  ],
+  "Chamaecyparis thyoides": [
+    "Atlantic White-cedar",
+    "Southern White-cedar",
+    "Atlantic White Cedar",
+    "Southern White Cedar"
+  ],
+  "Quercus velutina": [
+    "Black Oak"
+  ],
+  "Quercus alba": [
+    "White Oak"
+  ],
+  "Aesculus glabra": [
+    "Ohio Buckeye",
+    "Buckeye",
+    "Texas Buckeye"
+  ],
+  "Carya glabra": [
+    "Pignut Hickory",
+    "Sweet Pignut"
+  ],
+  "Cladrastis kentukea": [
+    "Kentucky Yellowwood",
+    "Yellowwood"
+  ],
+  "Sassafras albidum": [
+    "Sassafras"
+  ],
+  "Picea": [
+    "Spruce"
+  ],
+  "Tilia cordata": [
+    "Littleleaf Linden"
+  ],
+  "Pinus strobus": [
+    "Eastern White Pine",
+    "White Pine",
+    "Northern White Pine",
+    "Soft Pine",
+    "Weymouth Pine"
+  ],
+  "Nyssa sylvatica": [
+    "Black Gum",
+    "Black Tupelo",
+    "Blackgum"
+  ],
+  "Syringa reticulata": [
+    "Japanese Tree Lilac"
+  ],
+  "Fraxinus pennsylvanica": [
+    "Green Ash"
+  ],
+  "Quercus robur": [
+    "English Oak"
+  ],
+  "Quercus shumardii": [
+    "Shumard's Oak"
+  ],
+  "Parrotia persica": [
+    "Persian Ironwood"
+  ],
+  "Cornus mas": [
+    "Cornelian Cherry",
+    "Sorbet",
+    "Cornejo Macho"
+  ],
+  "Gymnocladus dioicus": [
+    "Kentucky Coffeetree"
+  ],
+  "Styrax japonicus": [
+    "Japanese Storax",
+    "Japanese Snowbell"
+  ],
+  "Syringa pekinensis": [
+    "Peking Tree Lilac"
+  ],
+  "Carpinus caroliniana": [
+    "American Hornbeam"
+  ],
+  "Populus deltoides": [
+    "Plains Cottonwood",
+    "Common Cottonwood",
+    "Eastern Cottonwood"
+  ],
+  "Tsuga canadensis": [
+    "Canada Hemlock",
+    "Hemlock Spruce",
+    "Eastern Hemlock"
+  ],
+  "Crataegus": [
+    "Hawthorns"
+  ],
+  "Prunus virginiana": [
+    "Chokecherry",
+    "Common Chokecherry",
+    "Virginia Chokecherry"
+  ],
+  "Fagus sylvatica": [
+    "European Beech"
+  ],
+  "Picea abies": [
+    "Norway Spruce"
+  ],
+  "Phellodendron amurense": [
+    "Amur Corktree"
+  ],
+  "Quercus imbricaria": [
+    "Shingle Oak"
+  ],
+  "Ostrya virginiana": [
+    "Eastern Hophornbeam",
+    "Hophornbeam"
+  ],
+  "Larix laricina": [
+    "Tamarack",
+    "Alaskan Larch",
+    "American Larch",
+    "Eastern Larch",
+    "Hackmatack"
+  ],
+  "Cornus kousa": [
+    "Kousa Dogwood",
+    "Japanese Dogwood",
+    "Kousa"
+  ],
+  "Magnolia acuminata": [
+    "Cucumbertree",
+    "Cucumber-tree"
+  ],
+  "Amelanchier": [
+    "Serviceberry"
+  ],
+  "Acer griseum": [
+    "Paperbark Maple"
+  ],
+  "Pinus resinosa": [
+    "Red Pine",
+    "Norway Pine"
+  ],
+  "Acer tataricum": [
+    "Tatarian Maple"
+  ],
+  "Acer nigrum": [
+    "Sugar Maple",
+    "Black Sugar Maple",
+    "Hard Maple",
+    "Rock Maple",
+    "Black Maple"
+  ],
+  "Populus tremuloides": [
+    "Quaking Aspen"
+  ],
+  "Maackia amurensis": [
+    "Amur Maackia"
+  ],
+  "Carpinus betulus": [
+    "European Hornbeam"
+  ],
+  "Quercus macrocarpa": [
+    "Bur Oak"
+  ],
+  "Populus grandidentata": [
+    "Bigtooth Aspen"
+  ],
+  "Acer buergerianum": [
+    "Trident Maple"
+  ],
+  "Pinus virginiana": [
+    "Scrub Pine",
+    "Jersey Pine",
+    "Virginia Pine"
+  ],
+  "Cornus alternifolia": [
+    "Alternate-leaf Dogwood",
+    "Alternateleaf Dogwood"
+  ],
+  "Halesia diptera": [
+    "Twowing Silverbell",
+    "Two-wing Silverbell"
+  ],
+  "Chamaecyparis pisifera": [
+    "Sawara Cypress"
+  ],
+  "Pinus rigida": [
+    "Pitch Pine"
+  ],
+  "Rhamnus alaternus": [
+    "Italian Buckthorn"
+  ],
+  "Dicksonia antarctica": [
+    "Australian Treefern"
+  ],
+  "Pittosporum tenuifolium": [
+    "Tawhiwhi"
+  ],
+  "Eucalyptus saligna": [
+    "Sydney Bluegum"
+  ],
+  "Citrus": [
+    "Citrus"
+  ],
+  "Pyracantha": [
+    "Firethorn"
+  ],
+  "Betula": [
+    "Birch"
+  ],
+  "Banksia integrifolia": [
+    "White-honeysuckle",
+    "Coast Banksia"
+  ],
+  "Pyrus": [
+    "Pear"
+  ],
+  "Juniperus virginiana var. silicicola": [
+    "Coastal Redcedar",
+    "Southern Red-cedar",
+    "Southern Redcedar",
+    "Coast Juniper"
+  ],
+  "Crataegus laevigata": [
+    "Smooth Hawthorn",
+    "English Hawthorn",
+    "Whitethorn",
+    "Woodland Hawthorn"
+  ],
+  "Arctostaphylos manzanita": [
+    "Whiteleaf Manzanita"
+  ],
+  "Tibouchina urvilleana": [
+    "Princess-flower",
+    "Glorybush",
+    "Lasiandra",
+    "Princessflower"
+  ],
+  "Tilia": [
+    "Basswood"
+  ],
+  "Bambusa": [],
+  "Prunus laurocerasus": [
+    "Cherry Laurel"
+  ],
+  "Eucalyptus gunnii": [
+    "Cider Gum"
+  ],
+  "Syringa": [
+    "Lilac"
+  ],
+  "Fremontodendron": [
+    "Flannelbush"
+  ],
+  "Aloidendron barberae": [
+    "Tree Aloe"
+  ],
+  "Acacia cyclops": [
+    "Coastal Wattle",
+    "Red Eye"
+  ],
+  "Rhamnus californica": [
+    "California Buckthorn"
+  ],
+  "Rhus typhina": [
+    "Staghorn Sumac"
+  ],
+  "Garrya elliptica": [
+    "Wavyleaf Silktassel"
+  ],
+  "Chiranthodendron pentadactylon": [
+    "Mexican-hat-plant"
+  ],
+  "Moringa oleifera": [
+    "Horseradish Tree",
+    "Horseradishtree"
+  ],
+  "Sambucus": [
+    "Elderberry"
+  ],
+  "Cercocarpus betuloides": [
+    "Birch-leaf Mountain-mahogany"
+  ],
+  "Eucalyptus melliodora": [
+    "Yellow-box"
+  ],
+  "Hypelate trifoliata": [
+    "Inkwood"
+  ],
+  "Sambucus nigra ssp. canadensis": [
+    "Elder",
+    "Elderberry",
+    "Mexican Elderberry",
+    "Blue Elder",
+    "Common Elderberry",
+    "American Black Elderberry"
+  ],
+  "Chamaecyparis obtusa": [
+    "Hinoki False Cypress"
+  ],
+  "Quercus douglasii": [
+    "Blue Oak"
+  ],
+  "Mangifera indica": [
+    "Mango"
+  ],
+  "Ligustrum": [
+    "Privet"
+  ],
+  "Morella californica": [
+    "California Wax Myrtle"
+  ],
+  "Sorbus aucuparia": [
+    "Rowan",
+    "Rowan-berry",
+    "European Mountain-ash"
+  ],
+  "Quercus wislizeni": [
+    "Interior Live Oak"
+  ],
+  "Quercus frainetto": [
+    "Italian Oak"
+  ],
+  "Melaleuca leucadendra": [
+    "Cajeput"
+  ],
+  "Platanus orientalis": [
+    "Oriental Planetree"
+  ],
+  "Eucalyptus macarthurii": [
+    "Camden Woollybutt"
+  ],
+  "Ceanothus thyrsiflorus": [
+    "Blue Blossom Ceanothus",
+    "Blueblossom"
+  ],
+  "Prunus emarginata": [
+    "Bitter Cherry"
+  ],
+  "Cornus nuttallii": [
+    "Pacific Dogwood"
+  ],
+  "Tsuga heterophylla": [
+    "Pacific Hemlock",
+    "West Coast Hemlock",
+    "Western Hemlock"
+  ],
+  "Pinus aristata": [
+    "Bristlecone Pine",
+    "Foxtail Pine",
+    "Hickory Pine"
+  ],
+  "Crataegus monogyna": [
+    "Singleseed Hawthorn",
+    "Oneseed Hawthorn"
+  ],
+  "Tilia platyphyllos": [
+    "Largeleaf Linden"
+  ],
+  "Corylus avellana": [
+    "Common Filbert"
+  ],
+  "Laburnum anagyroides": [
+    "Golden Chain Tree"
+  ],
+  "Amelanchier arborea": [
+    "Allegheny Serviceberry",
+    "Apple Shadbush",
+    "Downy Serviceberry",
+    "Shadblow",
+    "Common Serviceberry"
+  ],
+  "Cercidiphyllum": [
+    "Katsura Tree"
+  ],
+  "Ulmus glabra": [
+    "Wych Elm"
+  ],
+  "Betula pubescens": [
+    "Downy Birch"
+  ],
+  "Ilex crenata": [
+    "Japanese Holly"
+  ],
+  "Corylus": [
+    "Hazelnut"
+  ],
+  "Fraxinus excelsior": [
+    "European Ash"
+  ],
+  "Prunus padus": [
+    "European Bird Cherry"
+  ],
+  "Magnolia kobus": [
+    "Kobus Magnolia"
+  ],
+  "Sorbus aria": [
+    "Whitebeam",
+    "Chess-apple"
+  ],
+  "Malus tschonoskii": [
+    "Pillar Apple"
+  ],
+  "Sorbus": [
+    "Mountain-ash"
+  ],
+  "Crataegus crus-galli": [
+    "Bush Hawthorn",
+    "Cockspur Hawthorn"
+  ],
+  "Betula alleghaniensis": [
+    "Yellow Birch"
+  ],
+  "Amelanchier laevis": [
+    "Allegheny Serviceberry"
+  ],
+  "Robinia": [
+    "Locust"
+  ],
+  "Fraxinus latifolia": [
+    "Oregon Ash"
+  ],
+  "Fagus": [
+    "Beech"
+  ],
+  "Abies grandis": [
+    "White Fir",
+    "Silver Fir",
+    "Giant Fir",
+    "Lowland White Fir",
+    "Yellow Fir",
+    "Grand Fir"
+  ],
+  "Callitropsis nootkatensis": [
+    "Alaska Cedar"
+  ],
+  "Tsuga mertensiana": [
+    "Mountain Hemlock",
+    "Hemlock Spruce",
+    "Alpine Hemlock",
+    "Black Hemlock"
+  ],
+  "Abies amabilis": [
+    "Red Fir",
+    "White Fir",
+    "Cascade Fir",
+    "Lovely Fir",
+    "Pacific Silver Fir"
+  ],
+  "Picea glauca": [
+    "Black Hills Spruce",
+    "Canadian Spruce",
+    "Cat Spruce",
+    "Skunk Spruce",
+    "Western White Spruce",
+    "White Spruce"
+  ],
+  "Styrax": [
+    "Snowbells",
+    "Snowbell"
+  ],
+  "Abies procera": [
+    "Red Fir",
+    "White Fir",
+    "Noble Fir"
+  ],
+  "Castanea": [
+    "Chestnut"
+  ],
+  "Acer grandidentatum": [
+    "Sugar Maple",
+    "Canyon Maple",
+    "Uvalde Big-tooth Maple",
+    "Bigtooth Maple"
+  ],
+  "Elaeagnus angustifolia": [
+    "Russian Olive",
+    "Russian-olive",
+    "Trebizond-date",
+    "Oleaster"
+  ],
+  "Aesculus flava": [
+    "Yellow Buckeye"
+  ],
+  "Abies concolor": [
+    "Balsam Fir",
+    "Silver Fir",
+    "Colorado Fir",
+    "Concolor Fir",
+    "White Balsam",
+    "White Fir"
+  ],
+  "Abies": [
+    "Fir"
+  ],
+  "Quercus cerris": [
+    "European Turkey Oak"
+  ],
+  "Carpinus": [
+    "Hornbeam"
+  ],
+  "Rhus glabra": [
+    "Smooth Sumac"
+  ],
+  "Clerodendrum": [
+    "Glorybower"
+  ],
+  "Rhododendron": [
+    "Azaleas",
+    "Rhododendron"
+  ],
+  "Amelanchier alnifolia": [
+    "Juneberry",
+    "Pacific Serviceberry",
+    "Western Serviceberry",
+    "Western Shadbush",
+    "Saskatoon Serviceberry"
+  ],
+  "Oxydendrum arboreum": [
+    "Sourwood",
+    "Sorrel Tree",
+    "Lily-of-the-valley Tree"
+  ],
+  "Larix decidua": [
+    "European Larch"
+  ],
+  "Picea sitchensis": [
+    "Coast Spruce",
+    "Tideland Spruce",
+    "Yellow Spruce",
+    "Sitka Spruce"
+  ],
+  "Malus coronaria": [
+    "Sweet Crab Apple"
+  ],
+  "Salix caprea": [
+    "Goat Willow"
+  ],
+  "Quercus garryana": [
+    "Oregon White Oak"
+  ],
+  "Chaenomeles": [
+    "Flowering Quince"
+  ],
+  "Pinus contorta var. latifolia": [
+    "Lodgepole Pine",
+    "Rocky Mountain Lodgepole Pine",
+    "Tall Lodgepole Pine"
+  ],
+  "Pinus monticola": [
+    "Western White Pine",
+    "Idaho White Pine",
+    "Mountain White Pine",
+    "Silver Pine"
+  ],
+  "Robinia viscosa": [
+    "Clammy Locust"
+  ],
+  "Crataegus germanica": [
+    "Medlar",
+    "Common Medlar"
+  ],
+  "Pinus cembroides": [
+    "Mexican Nut Pine",
+    "Nut Pine",
+    "Stone Pine",
+    "Mexican Pinyon"
+  ],
+  "Betula lenta": [
+    "Sweet Birch"
+  ],
+  "Philadelphus": [
+    "Mockorange",
+    "Mock Orange"
+  ],
+  "Prunus americana": [
+    "American Plum"
+  ],
+  "Laburnum": [
+    "Golden Chain Tree"
+  ],
+  "Salix hookeriana": [
+    "Dune Willow"
+  ],
+  "Salix scouleriana": [
+    "Scouler's Willow"
+  ],
+  "Platanus": [
+    "Sycamore"
+  ],
+  "Cotinus obovatus": [
+    "American Smoketree"
+  ],
+  "Cunninghamia lanceolata": [
+    "Chinese Fir"
+  ],
+  "Ulmus rubra": [
+    "Slippery Elm"
+  ],
+  "Taxus": [
+    "Yew"
+  ],
+  "Diospyros lotus": [
+    "Date Plum"
+  ],
+  "Halesia carolina": [
+    "Silverbell",
+    "Carolina Silverbell"
+  ],
+  "Sorbus intermedia": [
+    "Swedish Whitebeam"
+  ],
+  "Crataegus mollis": [
+    "Arnold Hawthorn",
+    "Red Hawthorn",
+    "Downy Hawthorn"
+  ],
+  "Acer glabrum": [
+    "California Mountain Maple",
+    "Douglas' Maple",
+    "Dwarf Maple",
+    "Mountain Maple",
+    "New Mexico Maple",
+    "Sierra Maple",
+    "Rocky Mountain Maple"
+  ],
+  "Photinia": [
+    "Chokeberry"
+  ],
+  "Malus sieboldii": [
+    "Toringa Crab Apple"
+  ],
+  "Berberis aquifolium": [
+    "Oregon-grape",
+    "Hollyleaved Barberry"
+  ],
+  "Betula populifolia": [
+    "Gray Birch"
+  ],
+  "Pinus uncinata": [
+    "Mountain Pine"
+  ],
+  "Carya ovata": [
+    "Shagbark Hickory",
+    "Caryer Ovale",
+    "Noyer Tendre",
+    "Shellbark Hickory"
+  ],
+  "Euonymus": [
+    "Burningbush",
+    "Spindletree"
+  ],
+  "Pinus heldreichii": [
+    "Bosnian Pine"
+  ],
+  "Viburnum plicatum": [
+    "Japanese Snowball"
+  ],
+  "Ligustrum sinense": [
+    "Common Chinese Privet",
+    "Chinese Privet"
+  ],
+  "Nothofagus": [
+    "Southern Beech"
+  ],
+  "Pinus pungens": [
+    "Hickory Pine",
+    "Prickley Pine",
+    "Table Mountain Pine"
+  ],
+  "Sorbus domestica": [],
+  "Hamamelis virginiana": [
+    "Witch-hazel",
+    "Witchhazel",
+    "American Witchhazel"
+  ],
+  "Aralia chinensis": [
+    "Chinese Angelica Tree"
+  ],
+  "Magnolia denudata": [
+    "Lilytree"
+  ],
+  "Sambucus racemosa": [
+    "European Red Elder",
+    "Scarlet Elderberry",
+    "Red Elderberry"
+  ],
+  "Malus fusca": [
+    "Oregon Crab Apple"
+  ],
+  "Taxus brevifolia": [
+    "Pacific Yew"
+  ],
+  "Quercus petraea": [
+    "Durmast Oak"
+  ],
+  "Carya laciniosa": [
+    "Shellbark Hickory",
+    "Kingnut"
+  ],
+  "Physocarpus opulifolius": [
+    "Common Ninebark",
+    "Ninebark"
+  ],
+  "Quercus michauxii": [
+    "Swamp Chestnut Oak"
+  ],
+  "Aralia elata": [
+    "Japanese Angelica Tree"
+  ],
+  "Cornus controversa": [
+    "Giant Dogwood"
+  ],
+  "Cercis siliquastrum": [
+    "Judas-tree",
+    "Lovetree"
+  ],
+  "Torreya nucifera": [
+    "Japanese Torreya"
+  ],
+  "Acer pensylvanicum": [
+    "Moosewood",
+    "Striped Maple"
+  ],
+  "Magnolia virginiana": [
+    "Laurier Doux",
+    "Swamp-bay",
+    "Sweetbay"
+  ],
+  "Asimina triloba": [
+    "Pawpaw"
+  ],
+  "Buddleja davidii": [
+    "Orange Eye Butterflybush"
+  ],
+  "Eucalyptus pauciflora": [
+    "Snow Gum"
+  ],
+  "Rhamnus purshiana": [
+    "Cascara Buckthorn",
+    "Pursh's Buckthorn"
+  ],
+  "Larix kaempferi": [
+    "Japanese Larch"
+  ],
+  "Cornus sericea": [
+    "Redosier",
+    "Redosier Dogwood"
+  ],
+  "Picea omorika": [
+    "Serbian Spruce"
+  ],
+  "Cornus sericea ssp. sericea": [
+    "Redosier Dogwood",
+    "Tatarian Dogwood",
+    "Siberian Dogwood"
+  ],
+  "Euonymus alatus": [
+    "Winged Burning Bush",
+    "Winged Euonymus",
+    "Winged Spindletree",
+    "Burningbush"
+  ],
+  "Quercus rugosa": [
+    "Netleaf Oak"
+  ],
+  "Daphne laureola": [
+    "Spurgelaurel"
+  ],
+  "Ceanothus gloriosus": [
+    "Point Reyes Ceanothus"
+  ],
+  "Physocarpus capitatus": [
+    "Pacific Ninebark"
+  ],
+  "Camellia": [
+    "Tea"
+  ],
+  "Ribes sanguineum": [
+    "Redflower Currant"
+  ],
+  "Lavatera thuringiaca": [
+    "Tree Lavatera"
+  ],
+  "Abies veitchii": [
+    "Veitch Fir",
+    "Christmastree"
+  ],
+  "Nandina domestica": [
+    "Heavenly Bamboo",
+    "Nanten",
+    "Sacred Bamboo"
+  ],
+  "Holodiscus discolor": [
+    "Hillside Oceanspray",
+    "Creambush Oceanspray",
+    "Oceanspray",
+    "Creambush"
+  ],
+  "Pieris japonica": [
+    "Japanese Pieris",
+    "Lily-of-the-valley-bush"
+  ],
+  "Euonymus fortunei": [
+    "Winter Creeper"
+  ],
+  "Rubus ursinus": [
+    "California Blackberry"
+  ],
+  "Malus X zumi": [
+    "O-zumi"
+  ],
+  "Sorbus hybrida": [
+    "Oakleaf Mountain-ash"
+  ],
+  "Quercus glauca": [
+    "Ring-cup Oak"
+  ],
+  "Quercus hypoleucoides": [
+    "Silverleaf Oak"
+  ],
+  "Xylosma racemosum": null,
+  "Handroanthus impetiginosum": null,
+  "Palm": null,
+  "Agonis flexuosa": null,
+  "x Chitalpa tashkentensis": null,
+  "Yucca gigantea": null,
+  "Acacia": null,
+  "Acer paxii": null,
+  "Hymenosporum flavum": null,
+  "Bauhinia blakeana": null,
+  "Platanus acerifolia": null,
+  "Melaleuca nesophila": null,
+  "x Cuprocyparis leylandii": null,
+  "Callitropsis glabra": null,
+  "Citrus x paradisi": null,
+  "Magnolia x soulangeana": null,
+  "Erythrina coralloides": null,
+  "Eriobotrya deflexa": null,
+  "Brahea edulis": null,
+  "Afrocarpus gracilior": null,
+  "Brachychiton populneus": null,
+  "Ilex x altaclerensis": null,
+  "Searsia lancea": null,
+  "Fraxinus angustifolia subsp. oxycarpa": null,
+  "Prunus x blireana": null,
+  "Ficus macrophylla": null,
+  "Acacia longissima": null,
+  "Eucalyptus nicholii": null,
+  "Archontophoenix cunninghamiana": null,
+  "Pinus roxburghii": null,
+  "Harpephyllum caffrum": null,
+  "Geijera parviflora": null,
+  "Handroanthus chrysotrichus": null,
+  "Schefflera pueckleri": null,
+  "Photinia x fraseri": null,
+  "Vitex lucens": null,
+  "Aesculus carnea": null,
+  "Eucalyptus erythrocorys": null,
+  "Acacia subporosa": null,
+  "Cassia leptophylla": null,
+  "Juglans x": null,
+  "Trithrinax brasiliensis var. acanthocoma": null,
+  "Musa x paradisiaca": null,
+  "Solanum myriacanthum": null,
+  "Cinnamomum yabunikkei": null,
+  "Rhaphiolepis indica": null,
+  "Brachychiton discolor": null,
+  "Brahea armata": null,
+  "Cedrus atlantica": null,
+  "Viburnum japonicum": null,
+  "Erythrina": null,
+  "Phoenix paludosa": null,
+  "Lyonothamnus floribundus subsp. asplenifolius": null,
+  "Metrosideros excelsa": null,
+  "Populus canadensis": null,
+  "Melaleuca armillaris": null,
+  "Erythrina rubinervia": null,
+  "Auranticarpa rhombifolia": null,
+  "Chionanthus retusus": null,
+  "Robinia x ambigua": null,
+  "Cotoneaster multiflorus": null,
+  "Roystonea oleracea": null,
+  "Stangeria eriopus": null,
+  "Hakea drupacea": null,
+  "Phoebe indica": null,
+  "Fraxinus pallisiae": null,
+  "Livistona australis": null,
+  "Syzygium smithii": null,
+  "Liquidambar formosana": null,
+  "Lagerstroemia subcostata": null,
+  "Pittosporum eugenioides": null,
+  "Acer oblongum": null,
+  "Eucalyptus pulchella": null,
+  "Dracaena americana": null,
+  "Olmediella betschlerana": null,
+  "Cordyline obtecta": null,
+  "Calliandra tweedii": null,
+  "Eucalyptus incrassata": null,
+  "Ziziphus jujuba": null,
+  "Erythrostemon gilliesii": null,
+  "Acacia floribunda": null,
+  "Eucalyptus intertexta": null,
+  "Catalpa x erubescens": null,
+  "Crinodendron patagua": null,
+  "Phoenix rupicola": null,
+  "Escallonia x exoniensis": null,
+  "Melaleuca decussata": null,
+  "Abies pinsapo": null,
+  "Eucalyptus platypus": null,
+  "Pittosporum phillyraeoides": null,
+  "Angophora costata": null,
+  "Platanus x acerifolia": null,
+  "Platanus mexicana": null,
+  "Handroanthus impetiginosus": null,
+  "Melaleuca lutea": null,
+  "Corymbia maculata": null,
+  "Wodyetia bifurcata": null,
+  "Washingtonia x filibusta": null,
+  "Syzygium": null,
+  "Ravenea rivularis": null,
+  "Parkinsonia x": null,
+  "Prunus lyonii": null,
+  "Magnolia champaca": null,
+  "Radermachera sinica": null,
+  "Melaleuca decora": null,
+  "Melaleuca": null,
+  "Brahea brandegeei": null,
+  "Eugenia cerasiflora": null,
+  "Erythrina bidwillii": null,
+  "Dypsis decaryi": null,
+  "Rhaphiolepis": null,
+  "Senna splendida": null,
+  "Podocarpus henkelii": null,
+  "Bauhinia variegata var. candida": null,
+  "Rhaphiolepis indica 'Majestic'": null,
+  "Magnolia sieboldii subsp. sinensis": null,
+  "Rotheca myricoides subsp. myricoides": null,
+  "Tilia tomentosa": null,
+  "Lagerstroemia": null,
+  "Eucommia ulmoides": null,
+  "Catalpa": null,
+  "Magnolia": null,
+  "Taxodium distichum var. imbricarium": null,
+  "Crataegus crus-galli var. inermis": null,
+  "Aesculus x carnea": null,
+  "Acer truncatum": null,
+  "Carpinus japonica": null,
+  "Ceanothus": null,
+  "Prunus x yedoensis": null,
+  "Acer x freemanii": null,
+  "Elaeocarpus decipiens": null,
+  "Cornus nuttallii x florida": null,
+  "Griselinia lucida": null,
+  "Cussonia spicata": null,
+  "Syzygium australe": null,
+  "Cotoneaster": null,
+  "Magnolia x alba": null,
+  "Brugmansia": null,
+  "Escallonia bifida": null,
+  "Azara microphylla": null,
+  "Grevillea": null,
+  "Lagerstroemia x": null,
+  "Abutilon x hybridum": null,
+  "Archontophoenix myolensis": null,
+  "Viburnum odoratissimum var. awabuki": null,
+  "Dypsis cabadae": null,
+  "Schefflera": null,
+  "Caryota maxima": null,
+  "Metrosideros robusta": null,
+  "Hakea laurina": null,
+  "Paulownia fortunei": null,
+  "Rhopalostylis baueri": null,
+  "Angophora": null,
+  "Leucadendron": null,
+  "Brachychiton rupestris": null,
+  "Acacia iteaphylla": null,
+  "Meryta sinclairii": null,
+  "Cedrela fissilis": null,
+  "Acer tegmentosum": null,
+  "Pseudopanax lessonii": null,
+  "Acacia vestita": null,
+  "Leucadendron argenteum": null,
+  "Fraxinus angustifolia": null,
+  "Prunus sargentii": null,
+  "Euphorbia ingens": null,
+  "Magnolia x foggii": null,
+  "Citrus x meyeri": null,
+  "Malus x": null,
+  "Prunus campanulata": null,
+  "Geijera": null,
+  "Prunus serrula": null,
+  "Rhopalostylis sapida": null,
+  "Eucalyptus odorata": null,
+  "Magnolia sargentiana": null,
+  "Citrus x limon": null,
+  "Citrus x hystrix": null,
+  "Malus x moerlandsii": null,
+  "Prunus spachiana": null,
+  "Cornus kousa subsp. chinensis": null,
+  "Acer platanoides form. schwedler": null,
+  "Acer tataricum subsp. ginnala": null,
+  "Betula utilis subsp. jacquemontii": null,
+  "Acer truncatum x platanoides": null,
+  "Tilia euchlora": null,
+  "Davidia involucrata": null,
+  "Cornus florida var. florida": null,
+  "Crataegus x lavalleei": null,
+  "Amelanchier x grandiflora": null,
+  "Chamaecyparis pisifera form. plumosa": null,
+  "Populus balsamifera subsp. trichocarpa": null,
+  "Stewartia monadelpha": null,
+  "Acer cappadocicum": null,
+  "Populus x canadensis": null,
+  "Stewartia pseudocamellia": null,
+  "Tilia x flavescens": null,
+  "Sorbus x thuringiaca": null,
+  "Tilia mongolica": null,
+  "Salix x sepulcralis": null,
+  "Ulmus laevis": null,
+  "Laburnum x watereri": null,
+  "Malus x zumi": null,
+  "Nothofagus antarctica": null,
+  "Picea orientalis": null,
+  "Malus transitoria": null,
+  "Ulmus x hollandica": null,
+  "Crataegus monogyna form. pendula": null,
+  "Acer palmatum var. dissectum": null,
+  "Chamaecyparis pisifera form. filifera": null,
+  "Acer davidii": null,
+  "Stewartia rostrata": null,
+  "Phellodendron chinense": null,
+  "Chamaecyparis pisifera form. squarrosa": null,
+  "Acer capillipes": null,
+  "Pyrus salicifolia": null,
+  "Magnolia obovata": null,
+  "Malus x purpurea": null,
+  "Picea pungens form. glauca": null,
+  "+ Laburnocytidus adamii": null,
+  "Magnolia x loebneri": null,
+  "Styrax obassia": null,
+  "Stewartia": null,
+  "Magnolia loebneri": null,
+  "Quercus robur subsp. robur": null,
+  "Salix lucida subsp. lasiandra": null,
+  "Quercus robur x bicolor": null,
+  "Juniperus chinensis var. torulosa": null,
+  "Hamamelis x intermedia": null,
+  "Chamaecyparis lawsoniana form. glauca": null,
+  "Zelkova": null,
+  "Sorbus tianschanica": null,
+  "Thujopsis dolabrata": null,
+  "Abelia x grandiflora": null,
+  "Acer miyabei": null,
+  "Ulmus chenmoui": null,
+  "Crataegus viridis": null,
+  "Acer triflorum": null,
+  "Sciadopitys verticillata": null,
+  "Pinus montezumae": null,
+  "Ulmus japonica x wilsoniana": null,
+  "Tilia cordata x mongolica": null,
+  "Cornus x": null,
+  "Sorbus x hybrida": null,
+  "Salix integra": null,
+  "Cornus kousa x nuttallii": null,
+  "Magnolia iolanthe": null,
+  "Platanus x": null,
+  "Acer rufinerve": null,
+  "Prunus incisa": null,
+  "Acer tschonoskii": null,
+  "Magnolia x veitchii": null,
+  "Nothofagus alpina": null,
+  "Quercus robur x alba": null,
+  "Acer monspessulanum": null,
+  "Cornus x rutgersensis": null,
+  "Corylus cornuta subsp. californica": null,
+  "Pterocarya pterocarpa": null,
+  "Quercus x heterophylla": null,
+  "Cercis racemosa": null,
+  "+ Laburnocytisus adamii": null,
+  "Gleditsia": [
+    "Locust",
+    "Honeylocust"
+  ],
+  "Quercus lyrata": [
+    "Overcup Oak"
+  ],
+  "Prunus okame": null,
+  "Quercus texana": null,
+  "Liquidambar stryaciflua": null,
+  "Quercus laevis": [
+    "Turkey Oak"
+  ],
+  "Celtis laevigata": [
+    "Sugar Hackberry",
+    "Sugarberry"
+  ],
+  "Amelanchier canadensis": [
+    "Canadian Serviceberry"
+  ],
+  "Aesculus pavia": [
+    "Red Buckeye"
+  ],
+  "Quercus shumardi": null,
+  "Quercus montana": [
+    "Chestnut Oak"
+  ],
+  "Quercus stellata": [
+    "Post Oak"
+  ],
+  "Pinus taeda": [
+    "Loblolly Pine"
+  ],
+  "Magnolia liliflora x sprengeri": null,
+  "Ulmus pioneer": null,
+  "Cedrus deodora": null,
+  "Carya": [
+    "Caryer",
+    "Hickory"
+  ],
+  "Quercus nigra": [
+    "Water Oak"
+  ],
+  "Pinus palustris": [
+    "Longleaf Pine"
+  ],
+  "Ulmus hollandica": null,
+  "Diospyros virginia": null,
+  "Quercus marilandica": [
+    "Blackjack Oak"
+  ],
+  "Quercus ilicifolia": [
+    "Bear Oak"
+  ],
+  "Fagus grandiflora": null,
+  "Quercus pagoda": [
+    "Cherrybark Oak",
+    "Texas Oak"
+  ],
+  "Quercus fusiformis": [
+    "Texas Live Oak",
+    "Escarpment Live Oak",
+    "Plateau Oak",
+    "Live Oak"
+  ],
+  "Ulmus crassifolia": [
+    "Cedar Elm"
+  ],
+  "Quercus durandii": null,
+  "Fraxinus texensis": [
+    "Texas Ash"
+  ],
+  "Quercus polymorpha": [
+    "Netleaf White Oak"
+  ],
+  "Quercus muehlenbergii": [
+    "Chinkapin Oak"
+  ],
+  "Ilex vomitoria": [
+    "Yaupon"
+  ],
+  "Dermatophyllum secundiflorum": [
+    "Mescalbean",
+    "Mescal Bean"
+  ],
+  "Juniperus ashei": [
+    "Ashe Juniper",
+    "Ashe's Juniper"
+  ],
+  "Fraxinus berlandieriana": [
+    "Mexican Ash"
+  ],
+  "Rhus copallinum var. lanceolata": null,
+  "Quercus buckleyi": [
+    "Buckley's Oak",
+    "Texas Oak"
+  ],
+  "Prosopis glandulosa": [
+    "Honey Mesquite"
+  ],
+  "Diospyros texana": [
+    "Texas Persimmon"
+  ],
+  "Sabal palmetto": [
+    "Cabbage Palmetto",
+    "Cabbage Palm"
+  ],
+  "Sideroxylon lanuginosum": [
+    "Gum Bully"
+  ],
+  "Quercus laceyi": [
+    "Lacey's Oak"
+  ],
+  "Condalia hookeri": [
+    "Bluewood",
+    "Lotebush",
+    "Brazilian Bluewood"
+  ],
+  "Leucaena leucocephala": [
+    "White Leadtree"
+  ],
+  "Koelreuteria elegans subsp. formosana": null,
+  "Prosopis alba": [
+    "Algarrobo Blanco"
+  ],
+  "Bauhinia lunarioides": [
+    "Texasplume"
+  ],
+  "Vachellia farnesiana var. farnesiana": [
+    "Sweet Acacia"
+  ],
+  "Prunus mexicana": [
+    "Mexican Plum"
+  ],
+  "Ilex decidua": [
+    "Possumhaw"
+  ],
+  "Morella cerifera": [
+    "Wax Myrtle"
+  ],
+  "Yucca rostrata": [
+    "Beaked Yucca"
+  ],
+  "Sapindus saponaria var. drummondii": [
+    "Western Soapberry"
+  ],
+  "Quercus canbyi": null,
+  "Prunus blieriana": null,
+  "Tristaniopsis conferta": null,
+  "Phyllostachys": [],
+  "Lycianthes rantonnei": null,
+  "Salix lucida": [
+    "Shining Willow"
+  ],
+  "Crataegus phaenopyrus": null,
+  "Juniperus occidentalis": [
+    "Western Juniper"
+  ],
+  "Juniperus ssp.": null,
+  "Cotoneaster buxifolius": null,
+  "Dahlia imperialis": null,
+  "Betula albo-sinensis": null,
+  "Chamaecyparis funebris": [
+    "Chinese Weeping Chamaecyparis",
+    "Chinese Weeping-cypress",
+    "Mourning-cypress"
+  ],
+  "Tamarix chinensis": [
+    "Fivestamen Tamarisk",
+    "Tamarisk",
+    "China Tamarisk",
+    "Saltcedar",
+    "Chinese Tamarisk",
+    "Tamarix",
+    "Chinese Saltcedar",
+    "Five-stamen Tamarisk"
+  ],
+  "Tilia x vulgaris": null,
+  "Brahea": null,
+  "Pyrus kawakami": null,
+  "Fraxinus o.": null,
+  "Persea": [
+    "Bay"
+  ],
+  "Melaleuca linarifolia": null,
+  "Prunus cerasifera/blireiana": null,
+  "Melaleuca stypheloides": null,
+  "Dodonaea": [
+    "Hopseed Bush"
+  ],
+  "Koelreuteria": null,
+  "Robinia hybrid": null,
+  "Schinus terebinthefolia": null,
+  "Cedrus": [
+    "Cedar"
+  ],
+  "Salix torulosa": null,
+  "Populus fremonti": null,
+  "Geijera parvifolia": null,
+  "Solanum": [
+    "Nightshade"
+  ],
+  "Tibouchina": [
+    "Glorytree"
+  ],
+  "Alnus": [
+    "Alder"
+  ],
+  "Bauhinia": [
+    "Bauhinia"
+  ],
+  "Casuarina": [
+    "She-oak"
+  ],
+  "Tristaniopsis i.": null,
+  "Cotinus coggyggria": null,
+  "Solanum rantonnetiii": null,
+  "Pittosporum tennuifolium": null,
+  "Inga vera subsp. vera": null,
+  "Datura": [
+    "Jimsonweed"
+  ],
+  "Lyonothamnus asplinifolia": null,
+  "Photinia fraserii": null,
+  "Brachychiton populneum": [
+    "Whiteflower Kurrajong"
+  ],
+  "Myrtus": null,
+  "Hoheria populnea": [
+    "Lacebark"
+  ],
+  "Fraxinus v.": null,
+  "Chamaerops humilus": null,
+  "Agave": [
+    "Agave"
+  ],
+  "Magnolia liliiflora x sprengeri": null,
+  "Prunus blireana": null,
+  "Betula utilis subsp. albosinensis": null,
+  "Lyonothamnus asplenifolius": null,
+  "Lyonothamnus floribundus ssp. asplenifolius": null,
+  "Parrotia": [
+    "Ironwood"
+  ],
+  "Berberis bealei": [
+    "Beale's Barberry"
+  ],
+  "Rhus": [
+    "Sumac"
+  ],
+  "Cornus racemosa": [
+    "Gray Dogwood",
+    "Panicled Dogwood"
+  ],
+  "Toona sinensis": null,
+  "Abies balsamea": [
+    "Balsam Fir"
+  ],
+  "Quercus hemisphaerica": [
+    "Darlington's Oak"
+  ],
+  "Magnolia tripetala": [
+    "Umbrella Magnolia",
+    "Umbrella-tree"
+  ],
+  "Abies fraseri": [
+    "Balsam Fir",
+    "Eastern Fir",
+    "Fraser Balsam Fir",
+    "Southern Balsam",
+    "Southern Fir",
+    "Fraser Fir"
+  ],
+  "Betula platyphylla": [
+    "Asian White Birch"
+  ],
+  "Ilex x attenuata": null,
+  "Ulmus x accolade": null,
+  "Pinus echinata": [
+    "Shortleaf Pine",
+    "Arkansas Pine",
+    "Shortleaf Yellow Pine",
+    "Shortstraw Pine",
+    "Southern Yellow Pine",
+    "Yellow Pine"
+  ],
+  "Lonicera": [
+    "Honeysuckle"
+  ],
+  "Zanthoxylum simulans": [
+    "Chinese-pepper",
+    "Sichuan-pepper"
+  ],
+  "Magnolia liliiflora": null,
+  "Ulmus x homestead": null,
+  "Juglans cinerea": [
+    "White Walnut",
+    "Butternut"
+  ],
+  "Carya cordiformis": [
+    "Bitternut Hickory",
+    "Pignut",
+    "Noyer Amer"
+  ],
+  "Fraxinus nigra": [
+    "Black Ash"
+  ],
+  "Heptacodium miconioides": null,
+  "Quercus ellipsoidalis": [
+    "Northern Pin Oak"
+  ],
+  "Ulmus carpinfolia": null,
+  "Cotinus obvatus": null,
+  "Hamamelis millis": null,
+  "Viburnum prunifolium": [
+    "Blackhaw"
+  ],
+  "Prunus triloba": [
+    "Flowering Plum"
+  ],
+  "Chamaecyparis lawsonia": null,
+  "Aralia spinosa": [
+    "Devils Walkingstick",
+    "Angelicatree",
+    "Devil's Walkingstick"
+  ],
+  "Prunus x incam": null,
+  "Acer psuedoplatanus": null,
+  "Franklinia alatamaha": [
+    "Franklin Tree"
+  ],
+  "Aucuba": null,
+  "Crataegus crusgalli": null,
+  "Chionanthus virginicus": [
+    "Fringetree",
+    "White Fringetree"
+  ],
+  "Rhamnus cathartica": [
+    "Carolina Buckthorn",
+    "European Buckthorn",
+    "European Waythorn",
+    "Hart's Thorn",
+    "Common Buckthorn"
+  ],
+  "Carya tomentosa": [
+    "Mockernut Hickory"
+  ],
+  "Malus halliana": [
+    "Hall Crab Apple"
+  ],
+  "Prunus maackii": [
+    "Amur Chokecherry"
+  ],
+  "Tsuga": [
+    "Hemlock"
+  ],
+  "Buxus": [
+    "Boxwood"
+  ],
+  "Elaeagnus umbellata": [
+    "Oleaster",
+    "Autumn Olive"
+  ],
+  "Ulmus 'Accolade'": null,
+  "Ulmus 'Homestead'": null,
+  "Ulmus carpinifolia": null,
+  "Hamamelis mollis": null,
+  "Prunus hisakura": null,
+  "Malus cultivar": null,
+  "Amelanchier lamarckii": null,
+  "Prunus pandora": null,
+  "Prunus cultivar": null,
+  "Genista aetnensis": [
+    "Mt. Etna Broom"
+  ],
+  "Populus tremula": [
+    "European Aspen"
+  ],
+  "Populus deltoides subsp. deltoides": null,
+  "Prunus kanzan": null,
+  "Gleditsia tricanthos": null,
+  "Cotoneaster frigidus": [
+    "Tree Cotoneaster"
+  ],
+  "Cedrus altantica": null,
+  "Prunus umineko": null,
+  "Prunus x hillieri": null,
+  "Acer platanoidesety": null,
+  "Taxus baccata form. aurea": null,
+  "Alnus incana": [
+    "Gray Alder"
+  ],
+  "Prunus x": null,
+  "Prunus macchii": null,
+  "Prunus x schmittii": null,
+  "Betula utilis": null,
+  "Prunus padas": null,
+  "Sambucus nigra": [
+    "European Black Elder",
+    "European Elderberry",
+    "European Black Elderberry",
+    "Elder",
+    "Elderberry",
+    "Common Elderberry",
+    "Black Elderberry"
+  ],
+  "Fraxinus pensylvanica": null,
+  "Prunus hybrid": null,
+  "Prunus shirotae": null,
+  "Cotoneaster waterii": null,
+  "Prunus x hilleri": null,
+  "Prunus x hispanica": null,
+  "Cotoneaster waterri": null,
+  "Betula penula": null,
+  "Crataegus x prunifolia": null,
+  "Crataegus oxycantha": null,
+  "Aesculus hippocastrum": null,
+  "Prunus amanogowa": null,
+  "Prunus amanagowa": null,
+  "Quercus patraea": null,
+  "Sorbus x thuingiaca": null,
+  "Sorbus cashmiriana": null,
+  "Sorbus hupehensis": null,
+  "Salix chrysocoma": null,
+  "Salix x chrysocoma": null,
+  "Prunus x schmitii": null,
+  "Picea abies var. abies": null,
+  "Prunus spinosa": [
+    "Blackthorn"
+  ],
+  "Acer platnoides": null,
+  "Prunus hiskara": null,
+  "Fraxinus excelsoir": null,
+  "Salix cinerea": [
+    "Large Gray Willow"
+  ],
+  "Salix fragilis": [
+    "Crack Willow"
+  ],
+  "Cotoneaster x watereri": null,
+  "Tilia x europaea": null,
+  "Acer cappadocium": null,
+  "Malus sylvestrus": null,
+  "Viburnum x rhytidophyllum": null,
+  "Karpatiosorbus latifolia": null,
+  "Chitalpa taskentensis": null,
+  "Aesculus": [
+    "Buckeye",
+    "Horsechestnut"
+  ],
+  "Malus profusion": null,
+  "Tilia x europeae": null,
+  "Prunus umneko": null,
+  "Alnus crodata": null,
+  "Gingko biloba": null,
+  "Tilia X europaea": [
+    "Common Linden"
+  ],
+  "Ilex x altaclarensis": null,
+  "Gingko bilboba": null,
+  "Prunus amanogawa": null,
+  "Metasequoia glyphtostroboides": null,
+  "Aesculus cranea": null,
+  "Liriodendron tulipofera": null,
+  "Malus slyvestris": null,
+  "Buxus sempervirens": [
+    "Common Box"
+  ],
+  "Fagus slyvatica": null,
+  "Ilex aquifium": null,
+  "Cercis siliguastrum": null,
+  "Tamarix gallica": [
+    "French Tamarisk",
+    "Tamarisk",
+    "Saltcedar",
+    "Tamarix"
+  ],
+  "Salix bablonica": null,
+  "Prunus sargentil": null,
+  "Euonymus europaeus": [
+    "European Spindletree",
+    "Spindletree"
+  ],
+  "Berberis japonica": null,
+  "Acer peudoplatanus": null,
+  "Chamaecyparis lawsonisna": null,
+  "Laburnum anagynoides": null,
+  "Prunus hiskura": null,
+  "Acer grisium": null,
+  "Acer platanoidesiety": null,
+  "Tilia x europea": null,
+  "Pyrus comunis": null,
+  "Phyllostachys aurea": [],
+  "Acer ngundo": null,
+  "Betula jacquemontil": null,
+  "Eucalyptus pauciflora ssp. niphophila": null,
+  "Pyrus com.": null,
+  "Sorbus x intermedia": null,
+  "Sorbus auc": null,
+  "Crataegus x lavellei": null,
+  "Malus hupehensis": [
+    "Tea Crab Apple",
+    "Chinese Crab Apple"
+  ],
+  "Betula ermanii": null,
+  "Malus prunifolia": [
+    "Plumleaf Crab Apple"
+  ],
+  "Populus x canescens": null,
+  "Crataegus monogyna var. lasiocarpa": null,
+  "Aesculus indica": null,
+  "Eucalyptus gunii": null,
+  "Cotoneaster watereri": null,
+  "Prunus schmitti": null,
+  "Sorbus torminalis": [
+    "Checkertree",
+    "Chequers",
+    "Wild Servicetree"
+  ],
+  "Crataegus crus-gallii": null,
+  "Eriolobus trilobatus": null,
+  "Quercus hispanica": null,
+  "Tilia petiolaris": [
+    "Pendent Silver Linden"
+  ],
+  "Larix sibirica": [
+    "Siberian Larch"
+  ],
+  "Prunus kursar": null,
+  "Robinia pseudoacacia form. inermis": null,
+  "Pinus nigra subsp. laricio": null,
+  "Ostrya carpinifolia": null,
+  "Laburnum vossii": null,
+  "Betula pubescens ssp. pubescens": [
+    "Downy Birch"
+  ],
+  "Laburnocytisus": null,
+  "Laburnum adamii": null,
+  "Taxus cuspidata": [
+    "Japanese Yew"
+  ],
+  "Quercus x hispanica": null,
+  "Quercus canariensis": null,
+  "Abies alba": [
+    "Silver Fir"
+  ],
+  "Picea brewerana": null,
+  "Magnolia campbellii": null,
+  "Cephalotaxus harringtonia": [
+    "Japanese Plum-yew",
+    "Harrington's Plum-yew",
+    "Harrington's Cephalotaxus"
+  ],
+  "Acer cappadocicum subsp. lobelii": null,
+  "Magnolia wilsonii": null,
+  "Nothofagus obliqua": [
+    "Roble Beech"
+  ],
+  "Pinus pinnaster": null,
+  "Catalpa ovata": [
+    "Chinese Catalpa"
+  ],
+  "Quercus x turneri": null,
+  "Pinus cembra": [
+    "Swiss Stone Pine"
+  ],
+  "Trachycarpus fortuneii": null,
+  "Acer pectinatum subsp. forrestii": null,
+  "Crataegus coccinea var. coccinea": [
+    "Scarlet Hawthorn"
+  ],
+  "Arbutus andrachne": null,
+  "Pterocarya rhoifolia": null,
+  "Abies koreana": null,
+  "Cotoneaster x cornubia": null,
+  "Eucryphia x nymansensis": null,
+  "Ulmus dodoens": null,
+  "Abies mariesii": null,
+  "Magnolia salicifolia": null,
+  "Rhododendron ponticum": null,
+  "Hamamelis japonica": null,
+  "Tsuga mertensiana subsp. grandicona": null,
+  "Arbutus x andrachnoides": null,
+  "Ilex altaclerensis": null,
+  "Abies noblis": null,
+  "Acer lobellii": null,
+  "Acer pseudoplatanusf": null,
+  "Acer x": null,
+  "Alnus viridis": [
+    "Green Alder"
+  ],
+  "Carpinus betulas": null,
+  "Crataegus persimilis": [
+    "Plumleaf Hawthorn"
+  ],
+  "Callitropsis lusitanica": [
+    "Portuguese Cypress",
+    "Cedar-of-goa",
+    "Mexican Cypress"
+  ],
+  "Griselinia littoralis": null,
+  "Ligustrum vulgare": [
+    "European Privet"
+  ],
+  "Liquidambar acalyina": null,
+  "Malus adirondack": null,
+  "Malus yunnanensis var. veitchii": null,
+  "Prunus fruiticosa": null,
+  "Prunus fruticosa": [
+    "European Dwarf Cherry"
+  ],
+  "Sorbus auccuparia": null,
+  "Sorbus commixta": null,
+  "Sorbus mitchellii": null,
+  "Sorbus sargentiana": null,
+  "Sorbus thibetica": null,
+  "Sorbus vilmorinii": null,
+  "Tilia platyphyllos subsp. platyphyllos": null,
+  "Tilia pettiolaris": null,
+  "Ulmus lobel": null,
+  "Platanus hybrida": [
+    "London Planetree"
+  ],
+  "Kobus magnolia": null,
+  "Malus purpurea": null,
+  "Persica parrotia": null,
+  "Incana alnus": null,
+  "Hedlundia thuringiaca": null,
+  "Hedlundia boscii": null,
+  "Quercus helferiana": null,
+  "Phillyrea latifolia": null,
+  "Aria edulis": null,
+  "Umbellularia california": null,
+  "Alnus x spaethii": null,
+  "Abies lasiocarpa var. lasiocarpa": [
+    "Subalpine Fir"
+  ],
+  "Morus alba var. indica": null,
+  "Cephalotaxus harringtonii var. harringtonii": null,
+  "Juglans ailanthifolia": [
+    "Japanese Walnut"
+  ],
+  "Pyrus elaeagrifolia subsp. elaeagrifolia": null,
+  "Citrus trifoliata": null,
+  "Docyniopsis tschonoskii": null,
+  "Tilia pleached": null,
+  "Borkhausenia intermedia": null,
+  "Tilia americana var. mexicana": null,
+  "Quercus x": null,
+  "Magnolia laevifolia": null,
+  "Prunus x schmitti": null,
+  "Salix lanata": [],
+  "Monophylla fraxinus": null,
+  "Nothofagus dombeyi": [
+    "Coigue"
+  ],
+  "Fraxinus monophylla": null,
+  "Quercus pubescens subsp. pubescens": null,
+  "Magnolia soulangeana": null,
+  "Alnus subcordata": null,
+  "Malus sieboldii subsp. sieboldii": null,
+  "Sorbus x arnoldiana": null,
+  "Zelkova carpinifolia": null,
+  "Malus baccata": [
+    "Siberian Crab Apple"
+  ],
+  "Sorbus aucaparia": null,
+  "Malus evereste": null,
+  "Ulmus sophora": null,
+  "Crataegus x grignonensis": null,
+  "Abies cephalonica": null,
+  "Abies delavayi": null,
+  "Acer freemanii": null,
+  "Acer pseudoplatanusariet": null,
+  "Aesculus hippocastanumar": null,
+  "Betula nana": [
+    "Shrub Birch",
+    "Bog Birch",
+    "Dwarf Birch"
+  ],
+  "Chamaecyparis obtusaarie": null,
+  "Cotoneaster cornubia": null,
+  "Crataegus coccinea": [
+    "Scarlet Hawthorn",
+    "Red-fruited Hawthorn",
+    "Red Haw"
+  ],
+  "Cytisus scoparius": [
+    "Scotch Broom",
+    "English Broom",
+    "Scotchbroom"
+  ],
+  "Juniperus foetidissima": [
+    "Stinking Juniper"
+  ],
+  "Larix": [
+    "Larch"
+  ],
+  "Larix x eurolepis": null,
+  "Liquidambar acalycina": null,
+  "Malus moerlandsii": null,
+  "Malus cox": null,
+  "Malus toringoides": [
+    "Cutleaf Crab Apple"
+  ],
+  "Nothofagus solanderi": null,
+  "Philadelphus coronarius": [
+    "Sweet Mock Orange"
+  ],
+  "Picea breweriana": [
+    "Brewer Spruce",
+    "Weeping Spruce"
+  ],
+  "Pinus x holfordiana": null,
+  "Populus simonii": [
+    "Simon Poplar"
+  ],
+  "Prunus insititia": null,
+  "Salix daphnoides": [
+    "Violet Willow",
+    "Daphne Willow"
+  ],
+  "Tamarix": [
+    "Tamarisk"
+  ],
+  "Tilia henryana": null,
+  "Tilia playphyllos": null,
+  "Ulmus clusius": null,
+  "Ulmus minor subsp. minor": null,
+  "Ulmus deodens": null,
+  "Viburnum x burkwoodii": null,
+  "Buddleja": [
+    "Butterfly Bush",
+    "Butterflybush"
+  ],
+  "Cedrus libanii": null,
+  "Corylus columa": null,
+  "Ligustrum lucidium": null,
+  "Malus moerland": null,
+  "Robinia psuedoacacia": null,
+  "Sequoiadendron giganteum.": null,
+  "Sorbus aucuparkia": null,
+  "Acer cissifolium": [
+    "Ivyleaf Maple"
+  ],
+  "Catalpa bignoniodes": null,
+  "Chitalpa": null,
+  "Fraxinus oxyacantha": null,
+  "Hippophae salicifolia": null,
+  "Hippophae rhamnoides": [
+    "Seaberry",
+    "Seabuckthorn"
+  ],
+  "Ilex koehneana": null,
+  "Malus rudolph": null,
+  "Prunus accolade": null,
+  "Prunus hillieri": null,
+  "Prunus schmittii": null,
+  "Prunus shirofugen": null,
+  "Prunus subhitilla": null,
+  "Prunus sunset": null,
+  "Prunus tai-haku": null,
+  "Prunus yedohensis": null,
+  "Pyrus capital": null,
+  "Quercus rhysophylla": null,
+  "Sorbus arnoldiana": null,
+  "Sorbus thuringacia": null,
+  "Ulmus princeton": null,
+  "Prunus ichiyo": null,
+  "Sorbus aucu": null,
+  "Carpinus betulusfastigi": null,
+  "Tetradium daniellii": [
+    "Bee-bee Tree"
+  ],
+  "Carpinus bet": null,
+  "Acer plat": null,
+  "Cornus macrophylla": null,
+  "Berberis": [
+    "Holly Grape",
+    "Oregon-grape",
+    "Barberry",
+    "Algerita",
+    "Berb�ris"
+  ],
+  "Robinia pseudo": null,
+  "Acer pseudo": null,
+  "Cotoneaster speci": null,
+  "Robinia x holdtii": null,
+  "Sorbus thuring": null,
+  "Pyrus com": null,
+  "Pyrus call": null,
+  "Robinia pseudofrisia": null,
+  "Tsuga hetrophylla": null,
+  "Sorbus esserteauana": null,
+  "Pinus strobiformis": [
+    "Southwestern White Pine",
+    "Border Limber Pine",
+    "Border White Pine",
+    "Mexican White Pine"
+  ],
+  "Prunus subhirt": null,
+  "Gymnocladus dioica": null,
+  "Quercus trojana subsp. trojana": null,
+  "Prunus serrulata 'Hisakura'": null,
+  "Platanus x hispanica": null,
+  "Chitalpa tashkentensis": null,
+  "Pyrus comunis 'Conference'": null,
+  "Prunus serrulata 'Amanogawa'": null,
+  "Betula jacquemontii": null,
+  "Tilia × europaea": null,
+  "Prunus 'Accolade'": null,
+  "Prunus 'Umineko'": null,
+  "Ulmus hollandica 'dodoens'": null,
+  "Liquidambar styraciflua 'Worplesdon'": null,
+  "Prunus serrulata 'Kanzan'": null,
+  "Pyrus calleryana 'Bradford'": null,
+  "Pinus tabuliformis": [
+    "Chinese Pine",
+    "Southern Chinese Pine"
+  ],
+  "Eucalyptus dalrympleana": null,
+  "Eucalyptus urnigera": [
+    "Urn Gum",
+    "Urn-fruit Gum"
+  ],
+  "Osmanthus heterophyllus": [
+    "Holly Osmanthus"
+  ],
+  "Salix pentandra": [
+    "Laurel Willow"
+  ],
+  "Crataegus laviegata": null,
+  "Sorbus inter": null,
+  "Abies lasiocarpa": [
+    "Subalpine Fir",
+    "Balsam Fir",
+    "White Balsam",
+    "Rocky Mountain Fir",
+    "Western Balsam Fir"
+  ],
+  "Abies numidica": null,
+  "Amelanchier ballerina": null,
+  "Cotoneaster salicifolius": null,
+  "Euonymus japonicus": [
+    "Japanese Spindletree"
+  ],
+  "Gleditsia sunburst": null,
+  "Hibiscus woodbridge": null,
+  "Larix x decidua": null,
+  "Liquidambar worplesdon": null,
+  "Magnolia galaxy": null,
+  "Malus mokum": null,
+  "Populus canescens": null,
+  "Populus hybrid": null,
+  "Prunus gondouinii": null,
+  "Quercus rubar": null,
+  "Salix atrocinerea": [
+    "Large Gray Willow"
+  ],
+  "Sorbus x": null,
+  "Populus x candicans": null,
+  "Acer x roundilobum": null,
+  "Eucalyptus coccifera": null,
+  "Cotoneaster x wateri": null,
+  "Salix babyloncia": null,
+  "Rhus typhrina": null,
+  "Aesculus parviflora": [
+    "Bottlebrush Buckeye"
+  ],
+  "Quercus petrea": null,
+  "Fraxinus jaspidea": null,
+  "Platanus orientalis var. digitata": null,
+  "Cornus sanguinea": [
+    "Bloodtwig Dogwood",
+    "Dogberry",
+    "Common Dogwood",
+    "Pegwood"
+  ],
+  "Acer pseudoplantanus": null,
+  "Fagus pendula": null,
+  "Nothofagus antartica": null,
+  "Rhus potaninii": null,
+  "Salix viminalis": [
+    "Basket Willow"
+  ],
+  "Aesculus x neglecta": null,
+  "Kolkwitzia amabilis": [
+    "Beautybush"
+  ],
+  "Melia azederach": null,
+  "Robinia bessoniana": null,
+  "Amelanchier asiatica": null,
+  "Crataegus pendicellata": null,
+  "Crataegus wattiana": null,
+  "Laurus lusitanica": null,
+  "Tamarix ramosissima": [
+    "Tamarix",
+    "Salt Cedar",
+    "Tamarisk",
+    "Saltcedar"
+  ],
+  "Acer davidii subsp. grosseri": null,
+  "Acer pseudoplatunus": null,
+  "Betula davurica": null,
+  "Caragana arborescens": [
+    "Siberian Peashrub",
+    "Siberian Peatree"
+  ],
+  "Cephalotaxus fortunei": null,
+  "Clerodendrum trichotomum": [
+    "Harlequin Glorybower"
+  ],
+  "Ilex hybrid": null,
+  "Liquidambar styfaciflua": null,
+  "Morus australis": null,
+  "Nothofagus x alpina": null,
+  "Osmanthus decorus": null,
+  "Populus yunnanensis": null,
+  "Prunus fugenzo": null,
+  "Pyrus cordata": [
+    "Plymouth Pear"
+  ],
+  "Quercus trojana": null,
+  "Salix babylonica var. pekinensi": null,
+  "Sophora microphylla": [
+    "Kowhai"
+  ],
+  "Sorbus cashmeriana": null,
+  "Thuja": [
+    "Arborvitae",
+    "Thuya",
+    "Red Cedar"
+  ],
+  "Wisteria villosa": null,
+  "Gleditsia aquatica": [
+    "Water Locust",
+    "Swamp-locust",
+    "Waterlocust",
+    "Water Honeylocust"
+  ],
+  "Malus purpuree": null,
+  "Prunus dawyckenis": null,
+  "Acer saccarinum": null,
+  "Tamarix angelica": null,
+  "Aucuba japonica": [
+    "Japanese Laurel"
+  ],
+  "Viburnum x botnantense": null,
+  "Ligustrum chinensis": null,
+  "Prunus domestica subsp. institia": null,
+  "Tilia oliveri": null,
+  "Styrax japonica": null,
+  "Tamarix tetandra": null,
+  "Crataegus x gri": null,
+  "Platanus x tremonia": null,
+  "Eucalyptus debeuzevillei": null,
+  "Eugenia apiculata": [
+    "Shortleaf Stopper"
+  ],
+  "Quercus casteneifolia": null,
+  "Laburnocytisus adamii": null,
+  "Philadelphus spec": null,
+  "Acacia pravissima": [
+    "Wedge-leaf Wattle"
+  ],
+  "Pseudopanax crassifolius": null,
+  "Tamarix aestivalis": null,
+  "Quercus x ludoviciana": null,
+  "Prunus fructicosa": null,
+  "Salix albaarie": null,
+  "Forsythia intermedia": null,
+  "Rosa": [
+    "Wildrose",
+    "Rose"
+  ],
+  "Acer pseudoplatanusarie": null,
+  "Alnus incana subsp. rugosa": null,
+  "Chamaecyparis obtusaari": null,
+  "Cotinus": [
+    "Smoketree"
+  ],
+  "Crataegus chlorosarca": null,
+  "Crataegus x mordenensis": null,
+  "Elaeagnus": [
+    "Silverberry",
+    "Oleaster"
+  ],
+  "Fraxinus westhof form. glory": null,
+  "Lonicera nitida": [
+    "Box Honeysuckle"
+  ],
+  "Magnolia grandifolia": null,
+  "Malus x robusta": null,
+  "Malus snowcloud": null,
+  "Prunus shosar": null,
+  "Toxicodendron vernicifluum": [
+    "Chinese Lacquer"
+  ],
+  "Sorbus aria x magnifica": null,
+  "Sorbus sunshine": null,
+  "Stranvaesia": null,
+  "Betula kenaica": [
+    "Kenai Birch"
+  ],
+  "Laburnum watereri": null,
+  "Amelanchier robin": null,
+  "Alnus alnobetula subsp. sinuata": null,
+  "Cotoneaster franchetii": [
+    "Franchet's Cotoneaster",
+    "Orange Cotoneaster"
+  ],
+  "Laburnum alpinum": [
+    "Scotch Laburnum"
+  ],
+  "Olea europea": null,
+  "Prunus accolaid": null,
+  "Viburnum opulus": [
+    "Guelder Rose",
+    "Viburnum",
+    "European Cranberrybush"
+  ],
+  "Malus robusta": null,
+  "Prunus trainlblazer": null,
+  "Pterocarya stenoptera": [
+    "Chinese Wingnut"
+  ],
+  "Pyracantha specie": null,
+  "Sorbus acuparia": null,
+  "Eucalyptus specie": null,
+  "Prunus sero": null,
+  "Malus tschnoskii": null,
+  "Sequoia": [
+    "Redwood"
+  ],
+  "Mespilus gerwanica": null,
+  "Acer capillipes/cappadocicum": null,
+  "Catalpa bignoninoides": null,
+  "Cupressus leylandil": null,
+  "Ginkgo": [
+    "Ginkgo"
+  ],
+  "Acer sacccharinum": null,
+  "Malus x tschonoskii": null,
+  "Prunus x kursar": null,
+  "Sorbus x thur": null,
+  "Acer pseud": null,
+  "Eucalyptus subcrenulata": null,
+  "Fraxinus dimorpha": null,
+  "Malus vietschii": null,
+  "Quercus schumardii": null,
+  "Quercus castanifolia": null,
+  "Ulmus sapporo": null,
+  "Juglans spieces": null,
+  "Quercus dentata": [
+    "Daimyo Oak"
+  ],
+  "Tilia platyphylos": null,
+  "Cotoneaster pendulus": null,
+  "Viburnum lantana": [
+    "Wayfaring Tree",
+    "Wayfaringtree"
+  ],
+  "Malus echtermeyer": null,
+  "Sorbus aria,iety": null,
+  "Acer platiety": null,
+  "Crataegus x grigonensis": null,
+  "Sorbus embley": null,
+  "Acer pseudoiety": null,
+  "Prunus yedo-zakura": null,
+  "Acer pseudoplatanusworleei": null,
+  "Sorbus xanthocarpa": null,
+  "Acer pseudoplatanusnegenia": null,
+  "Acer platanoidespurpureum": null,
+  "Acer platanoidesdrummondii": null,
+  "Acer platanoidesreitenbachii": null,
+  "Acer pseudoplatanuspurpureum": null,
+  "Malus yunnanensis": null,
+  "Prunus 'Pandora'": null,
+  "Prunus 'umineko'": null,
+  "Prunus 'shirotae'": null,
+  "Prunus x acerifolia": null,
+  "Prunus 'amanogawa'": null,
+  "Salix x sepulcralis 'chrysocoma'": null,
+  "Prunus serrulata 'hisakura'": null,
+  "Viburnum rhytidophyllum": [
+    "Leatherleaf Arrowwood"
+  ],
+  "Malus x moerlandsii 'profusion'": null,
+  "Salix babylonica": [
+    "Weeping Willow"
+  ],
+  "Crataegus x lavallei": null,
+  "Prunus 'kursar'": null,
+  "Laburnum x watereri 'vossii'": null,
+  "+ Laburnocytisus 'adamii'": null,
+  "Cotoneaster x watereri 'cornubia'": null,
+  "Ulmus 'dodoens'": null,
+  "Acer lobelii": null,
+  "Malus 'adirondack'": null,
+  "Ulmus 'lobel'": null,
+  "Malus 'evereste'": null,
+  "Cotoneaster 'cornubia'": null,
+  "Larix x marschlinsii": null,
+  "Malus domestica 'cox'": null,
+  "Nothofagus solandri": null,
+  "Ulmus 'clusius'": null,
+  "Ulmus 'deodens'": null,
+  "x Chitalpa": null,
+  "Fraxinus oxycarpa": null,
+  "Ilex x koehneana": null,
+  "Malus 'rudolph'": null,
+  "Prunus 'accolade'": null,
+  "Prunus 'shirofugen'": null,
+  "Prunus serrulata 'sunset boulevard'": null,
+  "Prunus 'tai-haku'": null,
+  "Pyrus calleryana 'capital'": null,
+  "Quercus rysophylla": null,
+  "Sorbus thuringiaca": null,
+  "Ulmus americana 'princeton'": null,
+  "Prunus 'ichiyo'": null,
+  "Carpinus betulus 'fastigiata'": null,
+  "Robinia pseudoacacia 'frisia'": null,
+  "Amelanchier x grandiflora 'ballerina'": null,
+  "Gleditsia triacanthos 'sunburst'": null,
+  "Hibiscus syriacus 'woodbridge'": null,
+  "Liquidambar styraciflua 'worplesdon'": null,
+  "Magnolia 'galaxy'": null,
+  "Malus 'mokum'": null,
+  "Prunus 'okame'": null,
+  "Populus x jackii": null,
+  "Acer x rotundiloba": null,
+  "Fraxinus excelsior 'jaspidea'": null,
+  "Fagus sylvatica 'pendula'": null,
+  "+ Laburnocytisus": null,
+  "Prunus dawyckeniss": null,
+  "Viburnum x bodnantense": null,
+  "Cupressus x leylandii": null,
+  "Malus veitchii": null,
+  "Robinia pseudoacacia 'bessoniana'": null,
+  "Crataegus pedicellata": [
+    "Scarlet Hawthorn"
+  ],
+  "Prunus 'fugenzo'": null,
+  "Salix babylonica var. pekinensis": null,
+  "Tamarix anglica": null,
+  "Prunus domestica subsp. insititia": null,
+  "Tamarix tetrandra": null,
+  "Platanus x hispanica 'tremonia'": null,
+  "Quercus castaneifolia": null,
+  "Fraxinus excelsior 'westhof’s glorie": null,
+  "Fraxinus excelsior 'westhof’s glorie'": null,
+  "Malus 'snowcloud'": null,
+  "Prunus 'shosar'": null,
+  "Sorbus aria 'magnifica'": null,
+  "Sorbus 'sunshine'": null,
+  "Amelanchier x grandiflora 'robin hill'": null,
+  "Prunus cerasifera 'trailblazer'": null,
+  "Mespilus germanica": [
+    "Medlar",
+    "Common Medlar"
+  ],
+  "Ulmus 'sapporo autumn gold'": null,
+  "Cotoneaster 'pendulus'": null,
+  "Malus 'echtermeyer'": null,
+  "Sorbus commixta 'embley'": null,
+  "Prunus 'yedo-zakura'": null,
+  "Acer pseudoplatanus 'worleii'": null,
+  "Sorbus aucuparia 'xanthocarpa'": null,
+  "Acer pseudoplatanus 'negenia'": null,
+  "Acer platanoides 'purpureum'": null,
+  "Acer platanoides 'drummondii'": null,
+  "Acer platanoides 'reitenbachii'": null,
+  "Acer pseudoplatanus 'purpureum'": null,
+  "Prunus dawyckensis": null,
+  "Crataegus punctata": [
+    "Dotted Hawthorn"
+  ],
+  "Halesia tetaptera": null,
+  "Pinus banksiana": [
+    "Scrub Pine",
+    "Black Pine",
+    "Gray Pine",
+    "Hudson Bay Pine",
+    "Jack Pine"
+  ],
+  "Prunus pensylvanica": [
+    "Pin Cherry"
+  ],
+  "Cryptomeria": [
+    "Japanese Cedar"
+  ],
+  "Pinus flexilis": [
+    "Limber Pine",
+    "Rocky Mountain White Pine"
+  ],
+  "Magnolia x galaxy": null,
+  "Prunus ceresifera": null,
+  "Stewartia pseudo-camellia": null,
+  "Amelanchier amabilis": null,
+  "Populus balsamifera subsp. tricho": null,
+  "Crataegus mordensis": null,
+  "Magnolia accuminata": null,
+  "Cupressus cashmeriana": [
+    "Kashmir Cypress"
+  ],
+  "Crataegus grignonensis": null,
+  "Davidia involucrate": null,
+  "Larix occidentalis": [
+    "Hackmatack",
+    "Montana Larch",
+    "Mountain Larch",
+    "Western Tamarack",
+    "Western Larch"
+  ],
+  "Magnolia x": null,
+  "Aesculus briottii": null,
+  "Quercus rubur": null,
+  "Salix sitchensis": [
+    "Sitka Willow"
+  ],
+  "Malus mathewsii": null,
+  "Chaenomeles sinensis": null,
+  "Pinus parvifolia": null,
+  "Acer henryi": null,
+  "Metasequoia glyptostroboid": null,
+  "Pinus contorta var. bolanderi": [
+    "Bolander Beach Pine"
+  ],
+  "Ulmus davidiana": [
+    "Japanese Elm"
+  ],
+  "Aesculus x hybrida": null,
+  "Phellodendron amurensis": null,
+  "Ulmus x": null,
+  "Tilia x mongolica": null,
+  "Aesculus glabra var. arguta": [
+    "Texas Buckeye",
+    "Ohio Buckeye"
+  ],
+  "Populus sp.(hybrides)": null,
+  "Picea rubens": [
+    "Red Spruce"
+  ],
+  "Amelanchier g.": null,
+  "Salix x rubens": null,
+  "Malus x centurion®": null,
+  "Pyrus ussuriensis": [
+    "Chinese Pear"
+  ],
+  "Quercus x warei": null,
+  "Sorbus alnifolia": null,
+  "Salix pentendra": null,
+  "Pterocarya stepnotera": null,
+  "Acer spicatum": [
+    "Moose Maple",
+    "Mountain Maple"
+  ],
+  "Platanus x a.": null,
+  "Malus x adstringens": null,
+  "Fraxinus sogdiana": null,
+  "Fraxinus bungeana": null,
+  "Fraxinus profunda": [
+    "Pumpkin Ash"
+  ],
+  "Fraxinus longicuspis": null,
+  "Fraxinus angustifolia subsp. syriaca": null,
+  "Fraxinus quadrangulata": [
+    "Blue Ash"
+  ],
+  "Fraxinus chinensis subsp. rynchophylla": null,
+  "Fraxinus sieboldiana": null,
+  "Acer gennala": null,
+  "Sorbus decora": [
+    "Northern Mountain-ash"
+  ],
+  "Crataegus x mordensis": null,
+  "Phellodendron": [
+    "Corktree"
+  ],
+  "Malus x ¿": null,
+  "Ulmus thomasii": [],
+  "Pinus koraiensis": [
+    "Korean Pine",
+    "Chinese Pinenut"
+  ],
+  "Rhamnus": [
+    "Buckthorn"
+  ],
+  "Salix x": null,
+  "Syringa prestoniae": null,
+  "Gymnocladus": [
+    "Coffeetree"
+  ],
+  "Malus x brandywine®": null,
+  "Picea mariana": [
+    "Black Spruce",
+    "Bog Spruce",
+    "Shortleaf Black Spruce",
+    "Swamp Spruce"
+  ],
+  "Cladrastis": [
+    "Yellowwood"
+  ],
+  "Prunus nigra": [
+    "Canadian Plum"
+  ],
+  "Rhamnus frangula": [
+    "Glossy Buckthorn",
+    "Columnar Buckthorn",
+    "European Alder",
+    "Fen Buckthorn",
+    "Tall Hedge Buckthorn",
+    "Alder Buckthorn"
+  ],
+  "Prunus maakii": null,
+  "Caragana": [
+    "Peashrub"
+  ],
+  "Ulmus 13-0053": null,
+  "Populus x 915508": null,
+  "Magnolia fraseri": [
+    "Fraser's Magnolia",
+    "Mountain Magnolia"
+  ],
+  "Magnolia acuminata var. acuminata": null,
+  "Robinia x slavinii": null,
+  "Aesculus x arnoldiana": null,
+  "Magnolia x butterflies": null,
+  "Pseudotsuga": [
+    "Douglas-fir"
+  ],
+  "Acer tatricum": null,
+  "Fraxinus mandshurica": [
+    "Manchurian Ash"
+  ],
+  "Prunus x cistena": null,
+  "Crataegus x oxyacantha": null,
+  "Caragana arobrescens": null,
+  "Gymnocladus d.": null,
+  "Malus x dreamweaver": null,
+  "Aesculus x hybridia": null,
+  "Malus x centurion": null,
+  "Pinus parviflora": [
+    "Japanese White Pine",
+    "Five-needle Pine"
+  ],
+  "Fraxinus chinensis subsp. rhynchophylla": null,
+  "Malus x 'Brandywine'": null,
+  "Populus x": null,
+  "Aesculus x 'Arnoldiana'": null,
+  "Magnolia x 'butterflies'": null,
+  "Malus x 'Dreamweaver'": null,
+  "Vitex negundo": [
+    "Chinese Chastetree"
+  ],
+  "Metasequoia glyptostroboi": null,
+  "Fortunella": [
+    "Kumquat"
+  ],
+  "Yucca faxoniana": [
+    "Eve's Needle"
+  ],
+  "Pinus elderica": null,
+  "Quercus muehlenbergi": null,
+  "Quercus castaneafolia": null,
+  "Trachycarpus fortune": null,
+  "Podocarpus macrophylla": null,
+  "Aesculus california": null,
+  "Acer x freemani": null,
+  "Quercus x macdanielii": null,
+  "Tilia americana x ‘redmond’": null,
+  "Tilia americana x euchlora": null,
+  "Arbutus marina": null,
+  "Arbutus 'Marina'": null,
+  "Quercus gambellii": null,
+  "Populus x acuminata": null,
+  "Populus angustifolia": [
+    "Narrowleaf Cottonwood"
+  ],
+  "Populus deltoides ssp. monilifera": [
+    "Plains Cottonwood"
+  ],
+  "Salix amygdaloides": [
+    "Peach-leaf Willow",
+    "Peachleaf Willow"
+  ],
+  "Quercus X undulata": null,
+  "Ulmus x hybrida": null,
+  "Betula occidentalis": [
+    "Water Birch"
+  ],
+  "Alnus tenufolia": null,
+  "Gleditsia triancanthos": null,
+  "Pinus densiflora var. umbraculifera": null,
+  "Prunus pumila": [
+    "Sandcherry"
+  ],
+  "Crataegus ambigua": null,
+  "Juniperus oxycedrus": [
+    "Cade Juniper",
+    "Prickly Juniper",
+    "Redberry Juniper"
+  ],
+  "Ulmus carpinifolia x parvifolia": null,
+  "Quercus macrocarpa x gambelii": null,
+  "Crataegus mordenensis": null,
+  "Cercocarpus": [
+    "Mountain-mahogany"
+  ],
+  "Aesculus x": null,
+  "Hydrangea paniculata": [
+    "Panicled Hydrangea"
+  ],
+  "Quercus x schuettei": null,
+  "Juniperus osteosperma": [
+    "Utah Juniper"
+  ],
+  "Ptelea trifoliata": [
+    "Common Hoptree",
+    "Hoptree"
+  ],
+  "Quercus robur x macrocarpa": null,
+  "Shepherdia argentea": [
+    "Silver Buffaloberry"
+  ],
+  "Prunus glandulosa": [
+    "Flowering Almond"
+  ],
+  "Quercus x mazei": null,
+  "Xanthoceras sorbifolium": null,
+  "Forsythia": null,
+  "Ulmus wilsoniania": null,
+  "Pinus balfouriana": [
+    "Foxtail Pine",
+    "Foxtailed Pine"
+  ],
+  "Nyssa ogeche": [
+    "Ogeechee Tupelo"
+  ],
+  "Paulownia": null,
+  "Robinia neomexican": null,
+  "Ilex verticillata": [
+    "Common Winterberry"
+  ],
+  "Prunus x snofozam": null,
+  "Quercus gambelii": [
+    "Gambel's Oak"
+  ],
+  "Alnus tenuifolia": [
+    "Mountain Alder"
+  ],
+  "Quercus macrocarpa x robur": null,
+  "Ulmus wilsoniana": null,
+  "Robinia neomexicana": [
+    "New Mexico Locust"
+  ],
+  "Prunus x 'snofozam'": null,
+  "Ulmus parviflora": null,
+  "Acer x fremanii": null,
+  "Fraxinus x moraine": null,
+  "Fraxinus x 'Moraine'": null,
+  "Gleditsia triacanthose": null,
+  "Pinus jeffereyi": null,
+  "Quercus schuettei": null
+}

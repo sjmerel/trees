@@ -1,0 +1,14 @@
+{
+  "name": "trees",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "csv-parse": "^4.3.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "engines": {
+    "node": "^8"
+  }
+}

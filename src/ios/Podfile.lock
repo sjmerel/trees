@@ -1,0 +1,34 @@
+PODS:
+  - Crashlytics (3.14.0):
+    - Fabric (~> 1.10.2)
+  - Fabric (1.10.2)
+  - GoogleMaps (3.7.0):
+    - GoogleMaps/Maps (= 3.7.0)
+  - GoogleMaps/Base (3.7.0)
+  - GoogleMaps/Maps (3.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.7.0):
+    - GoogleMaps/Base (= 3.7.0)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - GoogleMaps
+  - GooglePlaces
+
+SPEC REPOS:
+  trunk:
+    - Crashlytics
+    - Fabric
+    - GoogleMaps
+    - GooglePlaces
+
+SPEC CHECKSUMS:
+  Crashlytics: 540b7e5f5da5a042647227a5e3ac51d85eed06df
+  Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
+  GoogleMaps: 55da829c68aa931f3ae982b9e341cc2f3d89c587
+  GooglePlaces: a62077320f9d64239245af63aa1aa136393ebeb6
+
+PODFILE CHECKSUM: c39a2ebf6a15b2bbdcf519196d0be86a244a4013
+
+COCOAPODS: 1.8.4

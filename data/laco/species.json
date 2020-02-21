@@ -1,0 +1,423 @@
+[
+  {
+    "genus": "Schinus",
+    "species": "terebinthifolius",
+    "id": 0,
+    "name_common": "Pepper - Brazilian",
+    "name_botanical": "Schinus terebinthifolius",
+    "family": "Anacardiaceae",
+    "wp_title": "Schinus_terebinthifolia",
+    "color": [
+      0.5666666666666667,
+      0.3966666666666666,
+      0.2833333333333333
+    ]
+  },
+  {
+    "genus": "Jacaranda",
+    "species": "mimosifolia",
+    "id": 1,
+    "name_common": "Jacaranda",
+    "name_botanical": "Jacaranda mimosifolia",
+    "family": "Bignoniaceae",
+    "wp_title": "Jacaranda_mimosifolia",
+    "color": [
+      0.4,
+      0.36000000000000004,
+      0.2
+    ]
+  },
+  {
+    "genus": "Olea",
+    "species": "europaea",
+    "id": 2,
+    "name_common": "Olive",
+    "name_botanical": "Olea europaea",
+    "family": "Limapontiidae",
+    "wp_title": "Olive",
+    "color": [
+      0.27999999999999997,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "genus": "Ulmus",
+    "species": "parvifolia",
+    "id": 3,
+    "name_common": "Elm - Chinese",
+    "name_botanical": "Ulmus parvifolia",
+    "family": "Tingidae",
+    "wp_title": "Ulmus_parvifolia",
+    "color": [
+      0.4,
+      0.2,
+      0.36
+    ]
+  },
+  {
+    "genus": "Liquidambar",
+    "species": "styraciflua",
+    "id": 4,
+    "name_common": "Liquidambar",
+    "name_botanical": "Liquidambar styraciflua",
+    "family": "Altingiaceae",
+    "wp_title": "Liquidambar_styraciflua",
+    "color": [
+      0.5666666666666667,
+      0.2833333333333333,
+      0.2833333333333333
+    ]
+  },
+  {
+    "genus": "Platanus",
+    "species": "acerifolia",
+    "id": 5,
+    "name_common": "Sycamore - London Plane",
+    "name_botanical": "Platanus acerifolia",
+    "family": "Platanaceae",
+    "wp_title": "Platanus_× acerifolia",
+    "color": [
+      0.2,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "genus": "Callistemon",
+    "species": "viminalis",
+    "id": 6,
+    "name_common": "Bottlebrush - Weeping",
+    "name_botanical": "Callistemon viminalis",
+    "family": "Myrtaceae",
+    "wp_title": "Melaleuca_viminalis",
+    "color": [
+      0.2,
+      0.4,
+      0.36
+    ]
+  },
+  {
+    "genus": "Pinus",
+    "species": "thunbergiana",
+    "id": 7,
+    "name_common": "Pine - Japanese Black",
+    "name_botanical": "Pinus thunbergiana",
+    "family": "Pinaceae",
+    "wp_title": "Pinus_thunbergii",
+    "color": [
+      0.2166666666666667,
+      0.39000000000000024,
+      0.65
+    ]
+  },
+  {
+    "genus": "Ulmus",
+    "species": "pumila",
+    "id": 8,
+    "name_common": "Elm - Siberian",
+    "name_botanical": "Ulmus pumila",
+    "family": "Tingidae",
+    "wp_title": "Ulmus_pumila",
+    "color": [
+      0.5666666666666667,
+      0.2833333333333333,
+      0.5099999999999999
+    ]
+  },
+  {
+    "genus": "Cupaniopsis",
+    "species": "anacardioides",
+    "id": 9,
+    "name_common": "Carrotwood",
+    "name_botanical": "Cupaniopsis anacardioides",
+    "family": "Sapindaceae",
+    "wp_title": "Cupaniopsis_anacardioides",
+    "color": [
+      0.36000000000000015,
+      0.2,
+      0.4
+    ]
+  },
+  {
+    "genus": "Eucalyptus",
+    "species": "citriodora",
+    "id": 10,
+    "name_common": "Eucalyptus - Citriodora",
+    "name_botanical": "Eucalyptus citriodora",
+    "family": "Myrtaceae",
+    "wp_title": "Corymbia_citriodora",
+    "color": [
+      0.15000000000000002,
+      0.4,
+      0.35
+    ]
+  },
+  {
+    "genus": "Pinus",
+    "species": "eldarica",
+    "id": 11,
+    "name_common": "Pine - Eldarica",
+    "name_botanical": "Pinus eldarica",
+    "family": "Pinaceae",
+    "wp_title": "Pinus_brutia",
+    "color": [
+      0.17500000000000002,
+      0.31500000000000017,
+      0.525
+    ]
+  },
+  {
+    "genus": "Ficus",
+    "species": "rubiginosa",
+    "id": 12,
+    "name_common": "Ficus - Rubiginosa",
+    "name_botanical": "Ficus rubiginosa",
+    "family": "Moraceae",
+    "wp_title": "Ficus_rubiginosa",
+    "color": [
+      0.2833333333333333,
+      0.5666666666666667,
+      0.3966666666666668
+    ]
+  },
+  {
+    "genus": "Pinus",
+    "species": "canariensis",
+    "id": 13,
+    "name_common": "Pine - Canary Island",
+    "name_botanical": "Pinus canariensis",
+    "family": "Pinaceae",
+    "wp_title": "Pinus_canariensis",
+    "color": [
+      0.13333333333333336,
+      0.24000000000000013,
+      0.4
+    ]
+  },
+  {
+    "genus": "Ceratonia",
+    "species": "siliqua",
+    "id": 14,
+    "name_common": "Carob",
+    "name_botanical": "Ceratonia siliqua",
+    "family": "Fabaceae",
+    "wp_title": "Ceratonia_siliqua",
+    "color": [
+      0.36,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "genus": "Cedrus",
+    "species": "deodara",
+    "id": 15,
+    "name_common": "Cedar - Deodar",
+    "name_botanical": "Cedrus deodara",
+    "family": "Pinaceae",
+    "wp_title": "Cedrus_deodara",
+    "color": [
+      0.2,
+      0.2800000000000001,
+      0.4
+    ]
+  },
+  {
+    "genus": "Ficus",
+    "species": "carica",
+    "id": 16,
+    "name_common": "Fig - Edible",
+    "name_botanical": "Ficus carica",
+    "family": "Moraceae",
+    "wp_title": "Common_fig",
+    "color": [
+      0.2,
+      0.4,
+      0.2800000000000001
+    ]
+  },
+  {
+    "genus": "Morus",
+    "species": "alba",
+    "id": 17,
+    "name_common": "Mulberry - White",
+    "name_botanical": "Morus alba",
+    "family": "Moraceae",
+    "wp_title": "Morus_alba",
+    "color": [
+      0.13333333333333336,
+      0.4,
+      0.24000000000000013
+    ]
+  },
+  {
+    "genus": "Pyrus",
+    "species": "kawakamii",
+    "id": 18,
+    "name_common": "Pear - Evergreen",
+    "name_botanical": "Pyrus kawakamii",
+    "family": "Rosaceae",
+    "wp_title": "Pear",
+    "color": [
+      0.21999999999999986,
+      0.1,
+      0.4
+    ]
+  },
+  {
+    "genus": "Schinus",
+    "species": "molle",
+    "id": 19,
+    "name_common": "Pepper - California",
+    "name_botanical": "Schinus molle",
+    "family": "Anacardiaceae",
+    "wp_title": "Schinus_molle",
+    "color": [
+      0.4,
+      0.27999999999999997,
+      0.2
+    ]
+  },
+  {
+    "genus": "Eucalyptus",
+    "species": "globulus",
+    "id": 20,
+    "name_common": "Eucalyptus - Blue Gum",
+    "name_botanical": "Eucalyptus globulus",
+    "family": "Myrtaceae",
+    "wp_title": "Eucalyptus_globulus",
+    "color": [
+      0.19687500000000002,
+      0.525,
+      0.459375
+    ]
+  },
+  {
+    "genus": "Eucalyptus",
+    "species": "leucoxylon",
+    "id": 21,
+    "name_common": "Eucalyptus - White Ironbark",
+    "name_botanical": "Eucalyptus leucoxylon",
+    "family": "Myrtaceae",
+    "wp_title": "Eucalyptus_leucoxylon",
+    "color": [
+      0.24375000000000002,
+      0.65,
+      0.56875
+    ]
+  },
+  {
+    "genus": "Melaleuca",
+    "species": "quinquenervia",
+    "id": 22,
+    "name_common": "Melaleuca",
+    "name_botanical": "Melaleuca quinquenervia",
+    "family": "Myrtaceae",
+    "wp_title": "Melaleuca_quinquenervia",
+    "color": [
+      0.1,
+      0.4,
+      0.33999999999999997
+    ]
+  },
+  {
+    "genus": "Fraxinus",
+    "species": "uhdei",
+    "id": 23,
+    "name_common": "Ash - Shamel",
+    "name_botanical": "Fraxinus uhdei",
+    "family": "Oleaceae",
+    "wp_title": "Fraxinus",
+    "color": [
+      0.2,
+      0.36,
+      0.4
+    ]
+  },
+  {
+    "genus": "Zelkova",
+    "species": "serrata",
+    "id": 24,
+    "name_common": "Zelkova - Sawleaf",
+    "name_botanical": "Zelkova serrata",
+    "family": "Ulmaceae",
+    "wp_title": "Zelkova_serrata",
+    "color": [
+      0.4,
+      0.2,
+      0.2800000000000001
+    ]
+  },
+  {
+    "genus": "Lagerstroemia",
+    "species": "indica",
+    "id": 25,
+    "name_common": "Crape Myrtle",
+    "name_botanical": "Lagerstroemia indica",
+    "family": "Lythraceae",
+    "wp_title": "Lagerstroemia_indica",
+    "color": [
+      0.2,
+      0.4,
+      0.2
+    ]
+  },
+  {
+    "genus": "Liquidambar",
+    "species": "orientalis",
+    "id": 26,
+    "name_common": "Liquidambar - Orientalis",
+    "name_botanical": "Liquidambar orientalis",
+    "family": "Altingiaceae",
+    "wp_title": "Liquidambar_orientalis",
+    "color": [
+      0.4,
+      0.2,
+      0.2
+    ]
+  },
+  {
+    "cultivar": "Modesto",
+    "genus": "Fraxinus",
+    "species": "velutina",
+    "id": 27,
+    "name_common": "Ash - Modesto",
+    "name_botanical": "Fraxinus velutina 'Modesto'",
+    "family": "Oleaceae",
+    "wp_title": "Fraxinus_velutina",
+    "color": [
+      0.2833333333333333,
+      0.5099999999999999,
+      0.5666666666666667
+    ]
+  },
+  {
+    "genus": "Prunus",
+    "species": "persica",
+    "id": 28,
+    "name_common": "Peach",
+    "name_botanical": "Prunus persica",
+    "family": "Rosaceae",
+    "wp_title": "Peach",
+    "color": [
+      0.2499999999999999,
+      0.15000000000000002,
+      0.4
+    ]
+  },
+  {
+    "genus": "Eriobotrya",
+    "species": "deflexa",
+    "id": 29,
+    "name_common": "Loquat - Bronze",
+    "name_botanical": "Eriobotrya deflexa",
+    "family": "Rosaceae",
+    "wp_title": "Bronze_loquat",
+    "color": [
+      0.2799999999999999,
+      0.2,
+      0.4
+    ]
+  }
+]

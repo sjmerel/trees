@@ -1,0 +1,29 @@
+houston
+victoria
+
+website
+
+open source licenses
+fix info screen; make webview
+show family dividers in tree list
+port to android
+fabric on android
+
+site display:
+  - image 
+  - showing subspecies etc?
+
+map display:
+  - smoother interpolation of heading
+  - better color choices (too dark; choose mid values first?)
+  - disallow picking for low zoom values
+  - automatically deselect tree when zoom out
+  - customize city location markers
+  - draw species ids at high zoom?
+  use map insets when info display is visible
+
+future:
+- filter to show fruit trees
+- special display of historical trees
+let users vote for their city
+include url of open data

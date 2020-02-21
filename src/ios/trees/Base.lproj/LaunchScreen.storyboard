@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina3_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch_street.png" translatesAutoresizingMaskIntoConstraints="NO" id="Vfm-WJ-TeE">
+                                <rect key="frame" x="0.0" y="325" width="320" height="155"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch_sky.png" translatesAutoresizingMaskIntoConstraints="NO" id="4G8-xV-wx9">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="325"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Trees" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="DLm-AI-Jsk">
+                                <rect key="frame" x="30" y="101" width="280" height="78"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-DemiBold" family="Avenir Next" pointSize="57"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="City" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="xCL-xZ-Olr">
+                                <rect key="frame" x="30" y="23" width="280" height="78"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="57"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch_buildings.png" translatesAutoresizingMaskIntoConstraints="NO" id="4Hb-tS-Oq6">
+                                <rect key="frame" x="0.0" y="298.5" width="320" height="80"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="80" id="H2q-cz-hcm"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch_leaf.png" translatesAutoresizingMaskIntoConstraints="NO" id="p1o-QC-JYq">
+                                <rect key="frame" x="64" y="283" width="192" height="192"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="p1o-QC-JYq" secondAttribute="height" multiplier="1:1" id="Lbg-Hg-JQw"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="xCL-xZ-Olr" secondAttribute="trailing" constant="10" id="0kT-wA-ZMK"/>
+                            <constraint firstItem="Vfm-WJ-TeE" firstAttribute="top" secondItem="4G8-xV-wx9" secondAttribute="bottom" id="4RP-wk-D6g"/>
+                            <constraint firstItem="Vfm-WJ-TeE" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="8ay-Zq-Hk8"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="4G8-xV-wx9" secondAttribute="trailing" id="9vg-zb-MF4"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="leading" secondItem="4Hb-tS-Oq6" secondAttribute="leading" id="Esw-U6-d6S"/>
+                            <constraint firstItem="DLm-AI-Jsk" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" constant="-110" id="FFj-qG-nLP"/>
+                            <constraint firstItem="p1o-QC-JYq" firstAttribute="centerX" secondItem="4G8-xV-wx9" secondAttribute="centerX" id="K4I-7L-QfH"/>
+                            <constraint firstItem="Vfm-WJ-TeE" firstAttribute="top" secondItem="4Hb-tS-Oq6" secondAttribute="bottom" constant="-53.5" id="N5Z-M0-bhA"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="DLm-AI-Jsk" secondAttribute="trailing" constant="10" id="PTh-ZB-OmZ"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="centerY" secondItem="4G8-xV-wx9" secondAttribute="bottom" constant="-75" id="T99-PF-SxA"/>
+                            <constraint firstItem="DLm-AI-Jsk" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="U1a-Oo-Sfd"/>
+                            <constraint firstItem="4G8-xV-wx9" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="b2B-jq-Xpo"/>
+                            <constraint firstItem="DLm-AI-Jsk" firstAttribute="top" secondItem="xCL-xZ-Olr" secondAttribute="bottom" id="b2M-eu-qCy"/>
+                            <constraint firstItem="p1o-QC-JYq" firstAttribute="bottom" secondItem="4G8-xV-wx9" secondAttribute="bottom" constant="150" id="bLg-YL-dVQ"/>
+                            <constraint firstItem="4G8-xV-wx9" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="eDu-4X-nWO"/>
+                            <constraint firstAttribute="bottom" secondItem="Vfm-WJ-TeE" secondAttribute="bottom" id="hAE-6y-w3b"/>
+                            <constraint firstItem="p1o-QC-JYq" firstAttribute="width" secondItem="Vfm-WJ-TeE" secondAttribute="width" multiplier="0.6" id="hQS-hq-hO0"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Vfm-WJ-TeE" secondAttribute="trailing" id="iiT-qd-l2N"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="4Hb-tS-Oq6" secondAttribute="trailing" id="kC8-YB-EGe"/>
+                            <constraint firstItem="xCL-xZ-Olr" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="smb-5e-rAC"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="launch_buildings.png" width="461.35385131835938" height="83.076919555664062"/>
+        <image name="launch_leaf.png" width="158.12307739257812" height="227.63076782226562"/>
+        <image name="launch_sky.png" width="6.9230771064758301" height="55.384616851806641"/>
+        <image name="launch_street.png" width="7.4769229888916016" height="55.384616851806641"/>
+    </resources>
+</document>
