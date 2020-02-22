@@ -2064,7 +2064,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 86982,
     "name_common": [
@@ -2073,7 +2073,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.30000000000000004,
       0.2,
@@ -3143,14 +3143,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 116,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus × carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.65,
       0.24375000000000002,

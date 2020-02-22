@@ -1292,14 +1292,14 @@
       "order_wp": "Fabales",
       "family_wp": "Fabaceae",
       "genus_wp": "Bauhinia",
-      "species_wp": "Bauhinia_×_blakeana"
+      "species_wp": "Bauhinia_%C3%97_blakeana"
     },
     "count": 1,
     "name_common": [
       "Hong Kong Orchid Tree"
     ],
     "name_botanical": "Bauhinia blakeana",
-    "wp_link": "Bauhinia_×_blakeana",
+    "wp_link": "Bauhinia_%C3%97_blakeana",
     "color": [
       0.17142857142857146,
       0.4,
@@ -1353,14 +1353,14 @@
       "order_wp": "Fabales",
       "family_wp": "Fabaceae",
       "genus_wp": "Bauhinia",
-      "species_wp": "Bauhinia_×_blakeana"
+      "species_wp": "Bauhinia_%C3%97_blakeana"
     },
     "count": 9,
     "name_common": [
       "White Butterfly Tree"
     ],
     "name_botanical": "Bauhinia variegata var. candida",
-    "wp_link": "Bauhinia_×_blakeana",
+    "wp_link": "Bauhinia_%C3%97_blakeana",
     "color": [
       0.24285714285714288,
       0.5666666666666667,
@@ -3036,14 +3036,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 58,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.23333333333333334,
       0.6106382978723404,
@@ -4654,7 +4654,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 385,
     "name_common": [
@@ -4663,7 +4663,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.29361702127659567,
       0.2,
@@ -5363,7 +5363,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_blireana"
+      "species_wp": "Prunus_%C3%97_blireana"
     },
     "count": 30,
     "name_common": [
@@ -5371,7 +5371,7 @@
       "Double-flowering Plum"
     ],
     "name_botanical": "Prunus × blireana",
-    "wp_link": "Prunus_×_blireana",
+    "wp_link": "Prunus_%C3%97_blireana",
     "color": [
       0.7254432624113472,
       0.20416666666666666,
@@ -5641,14 +5641,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 1,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.6884308510638295,
       0.19375,
@@ -6202,14 +6202,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Rutaceae",
       "genus_wp": "Citrus",
-      "species_wp": "Citrus_×_sinensis"
+      "species_wp": "Citrus_%C3%97_sinensis"
     },
     "count": 56,
     "name_common": [
       "Sweet Orange"
     ],
     "name_botanical": "Citrus × sinensis",
-    "wp_link": "Citrus_×_sinensis",
+    "wp_link": "Citrus_%C3%97_sinensis",
     "color": [
       0.6403191489361704,
       0.19500000000000003,

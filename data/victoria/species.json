@@ -3925,14 +3925,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 40,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.2666666666666667,
       0.6222222222222222,
@@ -4988,7 +4988,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 499,
     "name_common": [
@@ -4997,7 +4997,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.2799999999999999,
       0.2,
@@ -5520,14 +5520,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Cotoneaster",
-      "species_wp": "Cotoneaster_×_watereri"
+      "species_wp": "Cotoneaster_%C3%97_watereri"
     },
     "count": 1,
     "name_common": [
       "Waterer's Cotoneaster"
     ],
     "name_botanical": "Cotoneaster × watereri",
-    "wp_link": "Cotoneaster_×_watereri",
+    "wp_link": "Cotoneaster_%C3%97_watereri",
     "color": [
       0.4512345679012347,
       0.22037037037037033,
@@ -5580,14 +5580,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_grignonensis"
+      "species_wp": "Crataegus_%C3%97_grignonensis"
     },
     "count": 58,
     "name_common": [
       "Grignon Hawthorn"
     ],
     "name_botanical": "Crataegus × grignonensis",
-    "wp_link": "Crataegus_×_grignonensis",
+    "wp_link": "Crataegus_%C3%97_grignonensis",
     "color": [
       0.602777777777778,
       0.25833333333333336,
@@ -5610,7 +5610,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_lavalleei"
+      "species_wp": "Crataegus_%C3%97_lavalleei"
     },
     "count": 260,
     "name_common": [
@@ -5618,7 +5618,7 @@
       "Lavallée's Hawthorn"
     ],
     "name_botanical": "Crataegus × lavalleei",
-    "wp_link": "Crataegus_×_lavalleei",
+    "wp_link": "Crataegus_%C3%97_lavalleei",
     "color": [
       0.6351851851851854,
       0.27222222222222225,
@@ -5831,14 +5831,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_mordenensis"
+      "species_wp": "Crataegus_%C3%97_mordenensis"
     },
     "count": 10,
     "name_common": [
       "Hawthorn"
     ],
     "name_botanical": "Crataegus mordenensis 'Toba'",
-    "wp_link": "Crataegus_×_mordenensis",
+    "wp_link": "Crataegus_%C3%97_mordenensis",
     "color": [
       0.4731481481481483,
       0.2027777777777778,
@@ -6581,7 +6581,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_blireana"
+      "species_wp": "Prunus_%C3%97_blireana"
     },
     "count": 12,
     "name_common": [
@@ -6589,7 +6589,7 @@
       "Double-flowering Plum"
     ],
     "name_botanical": "Prunus × blireana",
-    "wp_link": "Prunus_×_blireana",
+    "wp_link": "Prunus_%C3%97_blireana",
     "color": [
       0.6183574879227055,
       0.1855072463768116,
@@ -6612,14 +6612,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 5,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus × yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.6344605475040259,
       0.1903381642512077,
@@ -7440,14 +7440,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 685,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.602254428341385,
       0.18067632850241544,
@@ -7835,14 +7835,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_intermedia"
+      "species_wp": "Sorbus_%C3%97_intermedia"
     },
     "count": 167,
     "name_common": [
       "Swedish Whitebeam"
     ],
     "name_botanical": "Sorbus intermedia",
-    "wp_link": "Sorbus_×_intermedia",
+    "wp_link": "Sorbus_%C3%97_intermedia",
     "color": [
       0.532804232804233,
       0.08412698412698416,
@@ -9714,14 +9714,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 17,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus × carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.7571428571428571,
       0.3028571428571429,
@@ -9774,14 +9774,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 606,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.5428571428571429,
       0.2171428571428572,
@@ -9804,14 +9804,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 11,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus carnea 'Fort Mcnair'",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.5428571428571429,
       0.2171428571428572,

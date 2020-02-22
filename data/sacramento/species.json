@@ -2937,14 +2937,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 131,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.2166666666666667,
       0.5369565217391306,
@@ -3818,7 +3818,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 13224,
     "name_common": [
@@ -3827,7 +3827,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.44347826086956516,
       0.2833333333333333,
@@ -5916,14 +5916,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 4,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus × carnea 'Briotii'",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.7,
       0.27999999999999997,
@@ -5976,14 +5976,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 44,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.5,
       0.2,

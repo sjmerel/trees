@@ -2520,14 +2520,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 148,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.25833333333333336,
       0.5926470588235294,
@@ -2735,14 +2735,14 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_canadensis"
+      "species_wp": "Populus_%C3%97_canadensis"
     },
     "count": 1,
     "name_common": [
       "Carolina Poplar"
     ],
     "name_botanical": "Populus canadensis",
-    "wp_link": "Populus_×_canadensis",
+    "wp_link": "Populus_%C3%97_canadensis",
     "color": [
       0.55,
       0.2833333333333333,
@@ -3125,7 +3125,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 4758,
     "name_common": [
@@ -3134,7 +3134,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.5161764705882352,
       0.325,
@@ -3157,7 +3157,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 830,
     "name_common": [
@@ -3166,7 +3166,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia 'Bloodgood'",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.5161764705882352,
       0.325,
@@ -3928,14 +3928,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 1714,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.629891956782713,
       0.21632653061224488,
@@ -4290,14 +4290,14 @@
       "order_wp": "Rosales",
       "family_wp": "Ulmaceae",
       "genus_wp": "Elm",
-      "species_wp": "Ulmus_×_hollandica"
+      "species_wp": "Ulmus_%C3%97_hollandica"
     },
     "count": 6,
     "name_common": [
       "Bea Schwartz Dutch Elm"
     ],
     "name_botanical": "Ulmus hollandica 'Bea Schwartz'",
-    "wp_link": "Ulmus_×_hollandica",
+    "wp_link": "Ulmus_%C3%97_hollandica",
     "color": [
       0.5875,
       0.29375,
@@ -4320,14 +4320,14 @@
       "order_wp": "Rosales",
       "family_wp": "Ulmaceae",
       "genus_wp": "Elm",
-      "species_wp": "Ulmus_×_hollandica"
+      "species_wp": "Ulmus_%C3%97_hollandica"
     },
     "count": 2,
     "name_common": [
       "Blandford Dutch Elm"
     ],
     "name_botanical": "Ulmus hollandica 'Blandford'",
-    "wp_link": "Ulmus_×_hollandica",
+    "wp_link": "Ulmus_%C3%97_hollandica",
     "color": [
       0.5875,
       0.29375,
@@ -4350,14 +4350,14 @@
       "order_wp": "Rosales",
       "family_wp": "Ulmaceae",
       "genus_wp": "Elm",
-      "species_wp": "Ulmus_×_hollandica"
+      "species_wp": "Ulmus_%C3%97_hollandica"
     },
     "count": 3,
     "name_common": [
       "Commelin Dutch Elm"
     ],
     "name_botanical": "Ulmus hollandica 'Commelin'",
-    "wp_link": "Ulmus_×_hollandica",
+    "wp_link": "Ulmus_%C3%97_hollandica",
     "color": [
       0.5875,
       0.29375,
@@ -4380,14 +4380,14 @@
       "order_wp": "Rosales",
       "family_wp": "Ulmaceae",
       "genus_wp": "Elm",
-      "species_wp": "Ulmus_×_hollandica"
+      "species_wp": "Ulmus_%C3%97_hollandica"
     },
     "count": 2,
     "name_common": [
       "Groenveldt Dutch Elm"
     ],
     "name_botanical": "Ulmus hollandica 'Groenveldt'",
-    "wp_link": "Ulmus_×_hollandica",
+    "wp_link": "Ulmus_%C3%97_hollandica",
     "color": [
       0.5875,
       0.29375,
@@ -4410,14 +4410,14 @@
       "order_wp": "Rosales",
       "family_wp": "Ulmaceae",
       "genus_wp": "Elm",
-      "species_wp": "Ulmus_×_hollandica"
+      "species_wp": "Ulmus_%C3%97_hollandica"
     },
     "count": 24,
     "name_common": [
       "Pioneer Elm"
     ],
     "name_botanical": "Ulmus hollandica 'Pioneer'",
-    "wp_link": "Ulmus_×_hollandica",
+    "wp_link": "Ulmus_%C3%97_hollandica",
     "color": [
       0.5875,
       0.29375,
@@ -5352,14 +5352,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 238,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.4,
       0.15000000000000002,

@@ -39,7 +39,7 @@ async function find(name) {
     return null;
   }
 
-  return title.replace(/ /g, '_');
+  return encodeURI(title.replace(/ /g, '_'));
 }
 
 async function findWithoutCache(name) {

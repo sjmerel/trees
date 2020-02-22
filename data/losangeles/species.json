@@ -2775,14 +2775,14 @@
       "order_wp": "Fabales",
       "family_wp": "Fabaceae",
       "genus_wp": "Bauhinia",
-      "species_wp": "Bauhinia_×_blakeana"
+      "species_wp": "Bauhinia_%C3%97_blakeana"
     },
     "count": 24,
     "name_common": [
       "Hong Kong Orchid Tree"
     ],
     "name_botanical": "Bauhinia blakeana",
-    "wp_link": "Bauhinia_×_blakeana",
+    "wp_link": "Bauhinia_%C3%97_blakeana",
     "color": [
       0.17894736842105266,
       0.4,
@@ -6160,14 +6160,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 137,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.23333333333333334,
       0.6353846153846152,
@@ -6525,14 +6525,14 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_canadensis"
+      "species_wp": "Populus_%C3%97_canadensis"
     },
     "count": 31,
     "name_common": [
       "Carolina Poplar"
     ],
     "name_botanical": "Populus canadensis",
-    "wp_link": "Populus_×_canadensis",
+    "wp_link": "Populus_%C3%97_canadensis",
     "color": [
       0.5170000000000002,
       0.23500000000000001,
@@ -9441,7 +9441,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 4135,
     "name_common": [
@@ -9450,7 +9450,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.23076923076923067,
       0.2,
@@ -11031,7 +11031,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_blireana"
+      "species_wp": "Prunus_%C3%97_blireana"
     },
     "count": 162,
     "name_common": [
@@ -11039,7 +11039,7 @@
       "Double-flowering Plum"
     ],
     "name_botanical": "Prunus × blireana",
-    "wp_link": "Prunus_×_blireana",
+    "wp_link": "Prunus_%C3%97_blireana",
     "color": [
       0.5892551892551896,
       0.18095238095238098,
@@ -11520,14 +11520,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 5,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.5698717948717952,
       0.17500000000000002,
@@ -12599,14 +12599,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Rutaceae",
       "genus_wp": "Citrus",
-      "species_wp": "Citrus_×_sinensis"
+      "species_wp": "Citrus_%C3%97_sinensis"
     },
     "count": 762,
     "name_common": [
       "Sweet Orange"
     ],
     "name_botanical": "Citrus × sinensis",
-    "wp_link": "Citrus_×_sinensis",
+    "wp_link": "Citrus_%C3%97_sinensis",
     "color": [
       0.6095970695970697,
       0.25238095238095243,
@@ -13147,14 +13147,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 3,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.5310683760683762,
       0.23611111111111108,
@@ -13635,14 +13635,14 @@
       "order_wp": "Zingiberales",
       "family_wp": "Musaceae",
       "genus_wp": "Musa_(genus)",
-      "species_wp": "Musa_×_paradisiaca"
+      "species_wp": "Musa_%C3%97_paradisiaca"
     },
     "count": 22,
     "name_common": [
       "Banana"
     ],
     "name_botanical": "Musa × paradisiaca",
-    "wp_link": "Musa_×_paradisiaca",
+    "wp_link": "Musa_%C3%97_paradisiaca",
     "color": [
       0.13333333333333336,
       0.24000000000000013,
