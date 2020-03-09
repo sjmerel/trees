@@ -295,5 +295,98 @@
   "Forthysia": null,
   "Broadleasmall": null,
   "Ddigs": null,
-  "Palm": null
+  "Palm": null,
+  "Euptelea": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ranunculales",
+    "family": "Eupteleaceae"
+  },
+  "Sycoparrotia": null,
+  "Notholithocarpus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Fagaceae"
+  },
+  "Poliothyrsis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Malpighiales",
+    "family": "Salicaceae"
+  },
+  "Cathaya": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae"
+  },
+  "Athrotaxis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Melliodendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Styracaceae"
+  },
+  "Diospyrus": null,
+  "Machilus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Laurales",
+    "family": "Lauraceae"
+  },
+  "Daphniphyllum": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Saxifragales",
+    "family": "Daphniphyllaceae"
+  },
+  "Trochodendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Trochodendrales",
+    "family": "Trochodendraceae"
+  },
+  "Metapanax": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Apiales",
+    "family": "Araliaceae"
+  },
+  "Schima": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Theaceae"
+  },
+  "Rehderodendron": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Styracaceae"
+  },
+  "Callicarpa": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Lamiales",
+    "family": "Lamiaceae"
+  }
 }

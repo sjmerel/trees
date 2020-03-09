@@ -214,5 +214,17 @@
       "latitude": 39.7391786,
       "longitude": -104.9932348
     }
+  },
+  {
+    "code": "portland",
+    "name": "Portland",
+    "administrativeArea": "Oregon",
+    "country": "United States",
+    "url": "https://gis-pdx.opendata.arcgis.com/",
+    "location": {
+      "latitude": 45.5150138,
+      "longitude": -122.6812806
+    },
+    "numberOfSites": 241733
   }
 ]
