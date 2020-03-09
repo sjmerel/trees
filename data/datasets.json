@@ -226,5 +226,17 @@
       "longitude": -122.6812806
     },
     "numberOfSites": 241733
+  },
+  {
+    "code": "toronto",
+    "name": "Toronto",
+    "administrativeArea": "Ontario",
+    "country": "Canada",
+    "url": "https://open.toronto.ca/dataset/street-tree-data/",
+    "numberOfSites": 287388,
+    "location": {
+      "latitude": 43.6534438,
+      "longitude": -79.3862788
+    }
   }
 ]

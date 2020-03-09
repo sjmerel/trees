@@ -4347,5 +4347,17 @@
   "Metrosideros excelsus": null,
   "Callistemon viminalis subsp. viminalis": null,
   "Afrocarpus macrophyllus": null,
-  "Auranticarpa rhombifolium": null
+  "Auranticarpa rhombifolium": null,
+  "Gleditsia tricanthos var. inermis": null,
+  "Rhamnus davurica": [
+    "Dahurian Buckthorn"
+  ],
+  "Fraxinus qudrangulata": null,
+  "Picea omorica": null,
+  "Corylus americana": [
+    "Hazel",
+    "Hazelnut",
+    "American Hazelnut"
+  ],
+  "Gleditsia triacanthos var. inermis": null
 }
