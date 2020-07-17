@@ -226,5 +226,17 @@
       "latitude": 39.7391786,
       "longitude": -104.9932348
     }
+  },
+  {
+    "code": "vancouver",
+    "name": "Vancouver",
+    "administrativeArea": "British Columbia",
+    "country": "Canada",
+    "url": "https://opendata.vancouver.ca/explore/dataset/street-trees",
+    "location": {
+      "latitude": 49.2836498,
+      "longitude": -123.1823495
+    },
+    "numberOfSites": 123638
   }
 ]

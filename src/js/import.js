@@ -19,20 +19,20 @@ const dataDir='../../data/';
 const datasets=[
 'austin', 
 'berkeley', 
-'washingtondc', 
 'denver',
-'losangeles', 
 'london', 
+'losangeles', 
 'montreal',
 'newyorkcity', 
 'oakland', 
 'pasadena', 
 'philadelphia', 
 'sacramento', 
-'seattle', 
 'sanfrancisco', 
 'sanjose', 
 'santamonica', 
+'seattle', 
+'washingtondc', 
 'westhollywood'];
 
 // process:

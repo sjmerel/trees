@@ -2213,5 +2213,21 @@
   "Forthysia": null,
   "Broadleasmall": null,
   "Ddigs": null,
-  "Agonis": null
+  "Agonis": null,
+  "Phellodendon": null,
+  "Pterostyrax": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Styracaceae"
+  },
+  "Ostryia": null,
+  "Kalopanax": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Apiales",
+    "family": "Araliaceae"
+  }
 }

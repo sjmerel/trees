@@ -90,6 +90,7 @@
 		AAFB55D123FB5286007A9944 /* sacramento in Resources */ = {isa = PBXBuildFile; fileRef = AAFB55D023FB5286007A9944 /* sacramento */; };
 		AAFB55D523FBC18D007A9944 /* sanjose in Resources */ = {isa = PBXBuildFile; fileRef = AAFB55D423FBC18C007A9944 /* sanjose */; };
 		AAFDEB3D233814CD001BEB33 /* montreal in Resources */ = {isa = PBXBuildFile; fileRef = AAFDEB3C233814CD001BEB33 /* montreal */; };
+		B0A5F6C224C14636000B793F /* vancouver in Resources */ = {isa = PBXBuildFile; fileRef = B0A5F6C124C14636000B793F /* vancouver */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -181,6 +182,7 @@
 		AAFB55D023FB5286007A9944 /* sacramento */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sacramento; path = ../../../data/sacramento; sourceTree = "<group>"; };
 		AAFB55D423FBC18C007A9944 /* sanjose */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sanjose; path = ../../../data/sanjose; sourceTree = "<group>"; };
 		AAFDEB3C233814CD001BEB33 /* montreal */ = {isa = PBXFileReference; lastKnownFileType = folder; name = montreal; path = ../../../data/montreal; sourceTree = "<group>"; };
+		B0A5F6C124C14636000B793F /* vancouver */ = {isa = PBXFileReference; lastKnownFileType = folder; name = vancouver; path = ../../../data/vancouver; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -325,20 +327,21 @@
 			children = (
 				AAC1EA21221138DA00F46ECE /* austin */,
 				AAC1EA22221138DA00F46ECE /* berkeley */,
-				AAC1EA23221138DA00F46ECE /* washingtondc */,
 				AA5FBA3F23FF7AEB00586732 /* denver */,
-				AA04BCFA21EF6DA8008EDF53 /* losangeles */,
 				AA06889922EE890300131773 /* london */,
+				AA04BCFA21EF6DA8008EDF53 /* losangeles */,
 				AAFDEB3C233814CD001BEB33 /* montreal */,
 				AA156E2B21FE73A500C58926 /* newyorkcity */,
 				AAC1EA20221138DA00F46ECE /* oakland */,
 				AABAE1EE21F6A86D0014C618 /* pasadena */,
 				AAA0356D22A2CB0400D63A59 /* philadelphia */,
 				AAFB55D023FB5286007A9944 /* sacramento */,
-				AAC1EA1E2210E59700F46ECE /* seattle */,
 				AA156E2F21FEAC3600C58926 /* sanfrancisco */,
 				AAFB55D423FBC18C007A9944 /* sanjose */,
 				AA04BCF821EF6D9C008EDF53 /* santamonica */,
+				AAC1EA1E2210E59700F46ECE /* seattle */,
+				B0A5F6C124C14636000B793F /* vancouver */,
+				AAC1EA23221138DA00F46ECE /* washingtondc */,
 				AA04BD0021EF8AE4008EDF53 /* westhollywood */,
 			);
 			name = data;
@@ -422,6 +425,7 @@
 			files = (
 				AAFDEB3D233814CD001BEB33 /* montreal in Resources */,
 				AA6C60B82241499600C2E398 /* launch_leaf.png in Resources */,
+				B0A5F6C224C14636000B793F /* vancouver in Resources */,
 				AA04BD0121EF8AE4008EDF53 /* westhollywood in Resources */,
 				AAFB55D523FBC18D007A9944 /* sanjose in Resources */,
 				AA6C60B72241499600C2E398 /* launch_street.png in Resources */,
@@ -748,6 +752,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.crickettechnology.trees;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -770,6 +775,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.crickettechnology.trees;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
