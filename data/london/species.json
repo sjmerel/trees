@@ -2330,12 +2330,12 @@
       "order_wp": "Dipsacales",
       "family_wp": "Adoxaceae",
       "genus_wp": "Viburnum",
-      "species_wp": "Viburnum_×_bodnantense"
+      "species_wp": "Viburnum_%C3%97_bodnantense"
     },
     "count": 7,
     "name_common": [],
     "name_botanical": "Viburnum × bodnantense",
-    "wp_link": "Viburnum_×_bodnantense",
+    "wp_link": "Viburnum_%C3%97_bodnantense",
     "color": [
       0.7333333333333334,
       0.2444444444444445,
@@ -2358,12 +2358,12 @@
       "order_wp": "Dipsacales",
       "family_wp": "Adoxaceae",
       "genus_wp": "Viburnum",
-      "species_wp": "Viburnum_×_burkwoodii"
+      "species_wp": "Viburnum_%C3%97_burkwoodii"
     },
     "count": 7,
     "name_common": [],
     "name_botanical": "Viburnum × burkwoodii",
-    "wp_link": "Viburnum_×_burkwoodii",
+    "wp_link": "Viburnum_%C3%97_burkwoodii",
     "color": [
       0.788888888888889,
       0.262962962962963,
@@ -6820,14 +6820,14 @@
       "order_wp": "Fagales",
       "family_wp": "Fagaceae",
       "genus_wp": "Oak",
-      "species_wp": "Quercus_×_hispanica"
+      "species_wp": "Quercus_%C3%97_hispanica"
     },
     "count": 3,
     "name_common": [
       "Oak"
     ],
     "name_botanical": "Quercus × hispanica 'Fulhamens'",
-    "wp_link": "Quercus_×_hispanica",
+    "wp_link": "Quercus_%C3%97_hispanica",
     "color": [
       0.20833333333333334,
       0.8333333333333334,
@@ -6850,14 +6850,14 @@
       "order_wp": "Fagales",
       "family_wp": "Fagaceae",
       "genus_wp": "Oak",
-      "species_wp": "Quercus_×_hispanica"
+      "species_wp": "Quercus_%C3%97_hispanica"
     },
     "count": 11,
     "name_common": [
       "Oak"
     ],
     "name_botanical": "Quercus × hispanica 'Lucombeana'",
-    "wp_link": "Quercus_×_hispanica",
+    "wp_link": "Quercus_%C3%97_hispanica",
     "color": [
       0.20833333333333334,
       0.8333333333333334,
@@ -7208,14 +7208,14 @@
       "order_wp": "Fagales",
       "family_wp": "Fagaceae",
       "genus_wp": "Oak",
-      "species_wp": "Quercus_×_hispanica"
+      "species_wp": "Quercus_%C3%97_hispanica"
     },
     "count": 1,
     "name_common": [
       "Oak"
     ],
     "name_botanical": "Quercus hispanica",
-    "wp_link": "Quercus_×_hispanica",
+    "wp_link": "Quercus_%C3%97_hispanica",
     "color": [
       0.14166666666666666,
       0.5666666666666667,
@@ -7238,14 +7238,14 @@
       "order_wp": "Fagales",
       "family_wp": "Fagaceae",
       "genus_wp": "Oak",
-      "species_wp": "Quercus_×_hispanica"
+      "species_wp": "Quercus_%C3%97_hispanica"
     },
     "count": 3,
     "name_common": [
       "Oak"
     ],
     "name_botanical": "Quercus hispanica 'Lucombeana'",
-    "wp_link": "Quercus_×_hispanica",
+    "wp_link": "Quercus_%C3%97_hispanica",
     "color": [
       0.14166666666666666,
       0.5666666666666667,
@@ -10762,14 +10762,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 55,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.28039215686274516,
       0.5755417956656346,
@@ -10792,14 +10792,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 1,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana 'Alba'",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.28039215686274516,
       0.5755417956656346,
@@ -10822,14 +10822,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 1,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana 'Amabilis'",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.28039215686274516,
       0.5755417956656346,
@@ -11121,12 +11121,12 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_loebneri"
+      "species_wp": "Magnolia_%C3%97_loebneri"
     },
     "count": 3,
     "name_common": [],
     "name_botanical": "Magnolia loebneri",
-    "wp_link": "Magnolia_×_loebneri",
+    "wp_link": "Magnolia_%C3%97_loebneri",
     "color": [
       0.22156862745098044,
       0.4547987616099071,
@@ -11177,12 +11177,12 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 6,
     "name_common": [],
     "name_botanical": "Magnolia soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.24117647058823535,
       0.495046439628483,
@@ -11351,7 +11351,7 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_canadensis"
+      "species_wp": "Populus_%C3%97_canadensis"
     },
     "count": 575,
     "name_common": [
@@ -11359,7 +11359,7 @@
       "Carolina Poplar"
     ],
     "name_botanical": "Populus × canadensis",
-    "wp_link": "Populus_×_canadensis",
+    "wp_link": "Populus_%C3%97_canadensis",
     "color": [
       0.7666666666666666,
       0.2875,
@@ -11382,7 +11382,7 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_canadensis"
+      "species_wp": "Populus_%C3%97_canadensis"
     },
     "count": 4,
     "name_common": [
@@ -11390,7 +11390,7 @@
       "Carolina Poplar"
     ],
     "name_botanical": "Populus × canadensis 'Regenerata'",
-    "wp_link": "Populus_×_canadensis",
+    "wp_link": "Populus_%C3%97_canadensis",
     "color": [
       0.7666666666666666,
       0.2875,
@@ -11413,14 +11413,14 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_canescens"
+      "species_wp": "Populus_%C3%97_canescens"
     },
     "count": 445,
     "name_common": [
       "Poplar"
     ],
     "name_botanical": "Populus × canescens",
-    "wp_link": "Populus_×_canescens",
+    "wp_link": "Populus_%C3%97_canescens",
     "color": [
       0.8,
       0.30000000000000004,
@@ -11443,14 +11443,14 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_canescens"
+      "species_wp": "Populus_%C3%97_canescens"
     },
     "count": 5,
     "name_common": [
       "Poplar"
     ],
     "name_botanical": "Populus × canescens 'Fastigiat'",
-    "wp_link": "Populus_×_canescens",
+    "wp_link": "Populus_%C3%97_canescens",
     "color": [
       0.8,
       0.30000000000000004,
@@ -11473,14 +11473,14 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_jackii"
+      "species_wp": "Populus_%C3%97_jackii"
     },
     "count": 10,
     "name_common": [
       "Poplar"
     ],
     "name_botanical": "Populus × jackii",
-    "wp_link": "Populus_×_jackii",
+    "wp_link": "Populus_%C3%97_jackii",
     "color": [
       0.8333333333333334,
       0.3125,
@@ -11623,14 +11623,14 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_canadensis"
+      "species_wp": "Populus_%C3%97_canadensis"
     },
     "count": 35,
     "name_common": [
       "Carolina Poplar"
     ],
     "name_botanical": "Populus canadensis",
-    "wp_link": "Populus_×_canadensis",
+    "wp_link": "Populus_%C3%97_canadensis",
     "color": [
       0.5,
       0.1875,
@@ -11653,14 +11653,14 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_canescens"
+      "species_wp": "Populus_%C3%97_canescens"
     },
     "count": 64,
     "name_common": [
       "Grau-pappel"
     ],
     "name_botanical": "Populus canescens",
-    "wp_link": "Populus_×_canescens",
+    "wp_link": "Populus_%C3%97_canescens",
     "color": [
       0.5333333333333333,
       0.2,
@@ -12868,14 +12868,14 @@
       "order_wp": "Malvales",
       "family_wp": "Malvaceae",
       "genus_wp": "Tilia",
-      "species_wp": "Tilia_×_europaea"
+      "species_wp": "Tilia_%C3%97_europaea"
     },
     "count": 19548,
     "name_common": [
       "Lime"
     ],
     "name_botanical": "Tilia × europaea",
-    "wp_link": "Tilia_×_europaea",
+    "wp_link": "Tilia_%C3%97_europaea",
     "color": [
       0.2743589743589744,
       0.5053981106612688,
@@ -12898,12 +12898,12 @@
       "order_wp": "Malvales",
       "family_wp": "Malvaceae",
       "genus_wp": "Tilia",
-      "species_wp": "Tilia_×_europaea"
+      "species_wp": "Tilia_%C3%97_europaea"
     },
     "count": 5,
     "name_common": [],
     "name_botanical": "Tilia × europaea 'Pallida'",
-    "wp_link": "Tilia_×_europaea",
+    "wp_link": "Tilia_%C3%97_europaea",
     "color": [
       0.2743589743589744,
       0.5053981106612688,
@@ -14182,7 +14182,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 35193,
     "name_common": [
@@ -14191,7 +14191,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.5593984962406016,
       0.34285714285714286,
@@ -14214,7 +14214,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 1,
     "name_common": [
@@ -14223,7 +14223,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia 'Augustine Henry'",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.5593984962406016,
       0.34285714285714286,
@@ -14246,7 +14246,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 5,
     "name_common": [
@@ -14255,7 +14255,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia 'Columbia'",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.5593984962406016,
       0.34285714285714286,
@@ -14278,7 +14278,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 1,
     "name_common": [
@@ -14287,7 +14287,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia 'Digitata'",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.5593984962406016,
       0.34285714285714286,
@@ -14310,7 +14310,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 3,
     "name_common": [
@@ -14319,7 +14319,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia 'Pyramidalis'",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.5593984962406016,
       0.34285714285714286,
@@ -14342,14 +14342,14 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 1,
     "name_common": [
       "Plane"
     ],
     "name_botanical": "Platanus × hispanica",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.6176691729323309,
       0.37857142857142856,
@@ -14372,14 +14372,14 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 4463,
     "name_common": [
       "London Planetree"
     ],
     "name_botanical": "Platanus hybrida",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.3845864661654136,
       0.2357142857142857,
@@ -15235,14 +15235,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Amelanchier",
-      "species_wp": "Amelanchier_×_grandiflora"
+      "species_wp": "Amelanchier_%C3%97_grandiflora"
     },
     "count": 14,
     "name_common": [
       "Service Berry"
     ],
     "name_botanical": "Amelanchier × grandiflora",
-    "wp_link": "Amelanchier_×_grandiflora",
+    "wp_link": "Amelanchier_%C3%97_grandiflora",
     "color": [
       0.7681286549707604,
       0.3944444444444445,
@@ -15265,14 +15265,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Amelanchier",
-      "species_wp": "Amelanchier_×_grandiflora"
+      "species_wp": "Amelanchier_%C3%97_grandiflora"
     },
     "count": 27,
     "name_common": [
       "Snowy Mespilus"
     ],
     "name_botanical": "Amelanchier × grandiflora 'Hill'",
-    "wp_link": "Amelanchier_×_grandiflora",
+    "wp_link": "Amelanchier_%C3%97_grandiflora",
     "color": [
       0.7681286549707604,
       0.3944444444444445,
@@ -15295,14 +15295,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Amelanchier",
-      "species_wp": "Amelanchier_×_grandiflora"
+      "species_wp": "Amelanchier_%C3%97_grandiflora"
     },
     "count": 3,
     "name_common": [
       "Snowy Mespil"
     ],
     "name_botanical": "Amelanchier × grandiflora 'Robin Hill'",
-    "wp_link": "Amelanchier_×_grandiflora",
+    "wp_link": "Amelanchier_%C3%97_grandiflora",
     "color": [
       0.7681286549707604,
       0.3944444444444445,
@@ -15670,14 +15670,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_intermedia"
+      "species_wp": "Sorbus_%C3%97_intermedia"
     },
     "count": 2,
     "name_common": [
       "Whitebeam"
     ],
     "name_botanical": "Borkhausenia intermedia",
-    "wp_link": "Sorbus_×_intermedia",
+    "wp_link": "Sorbus_%C3%97_intermedia",
     "color": [
       0.38851674641148337,
       0.18181818181818185,
@@ -15758,12 +15758,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Cotoneaster",
-      "species_wp": "Cotoneaster_×_watereri"
+      "species_wp": "Cotoneaster_%C3%97_watereri"
     },
     "count": 104,
-    "name_common": [],
+    "name_common": [
+      "Waterer's Cotoneaster"
+    ],
     "name_botanical": "Cotoneaster × watereri",
-    "wp_link": "Cotoneaster_×_watereri",
+    "wp_link": "Cotoneaster_%C3%97_watereri",
     "color": [
       0.71140350877193,
       0.31666666666666676,
@@ -15907,14 +15909,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_grignonensis"
+      "species_wp": "Crataegus_%C3%97_grignonensis"
     },
     "count": 20,
     "name_common": [
-      "Hawthorn"
+      "Grignon Hawthorn"
     ],
     "name_botanical": "Crataegus × grignonensis",
-    "wp_link": "Crataegus_×_grignonensis",
+    "wp_link": "Crataegus_%C3%97_grignonensis",
     "color": [
       0.7105263157894738,
       0.3,
@@ -15937,7 +15939,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_lavalleei"
+      "species_wp": "Crataegus_%C3%97_lavalleei"
     },
     "count": 511,
     "name_common": [
@@ -15945,7 +15947,7 @@
       "Lavallée's Hawthorn"
     ],
     "name_botanical": "Crataegus × lavalleei",
-    "wp_link": "Crataegus_×_lavalleei",
+    "wp_link": "Crataegus_%C3%97_lavalleei",
     "color": [
       0.7374401913875599,
       0.31136363636363634,
@@ -15968,7 +15970,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_lavalleei"
+      "species_wp": "Crataegus_%C3%97_lavalleei"
     },
     "count": 42,
     "name_common": [
@@ -15976,7 +15978,7 @@
       "Lavallée's Hawthorn"
     ],
     "name_botanical": "Crataegus × lavalleei 'Carrierei'",
-    "wp_link": "Crataegus_×_lavalleei",
+    "wp_link": "Crataegus_%C3%97_lavalleei",
     "color": [
       0.7374401913875599,
       0.31136363636363634,
@@ -15999,14 +16001,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_lavalleei"
+      "species_wp": "Crataegus_%C3%97_lavalleei"
     },
     "count": 271,
     "name_common": [
       "Hawthorn"
     ],
     "name_botanical": "Crataegus × lavallei",
-    "wp_link": "Crataegus_×_lavalleei",
+    "wp_link": "Crataegus_%C3%97_lavalleei",
     "color": [
       0.7643540669856461,
       0.32272727272727275,
@@ -16029,14 +16031,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_lavalleei"
+      "species_wp": "Crataegus_%C3%97_lavalleei"
     },
     "count": 14,
     "name_common": [
       "Hawthorn"
     ],
     "name_botanical": "Crataegus × lavallei 'Carrieri'",
-    "wp_link": "Crataegus_×_lavalleei",
+    "wp_link": "Crataegus_%C3%97_lavalleei",
     "color": [
       0.7643540669856461,
       0.32272727272727275,
@@ -16059,14 +16061,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_mordenensis"
+      "species_wp": "Crataegus_%C3%97_mordenensis"
     },
     "count": 43,
     "name_common": [
-      "Hawthorn"
+      "Morden Hawthorn"
     ],
     "name_botanical": "Crataegus × mordenensis 'Toba'",
-    "wp_link": "Crataegus_×_mordenensis",
+    "wp_link": "Crataegus_%C3%97_mordenensis",
     "color": [
       0.7912679425837321,
       0.33409090909090905,
@@ -19661,7 +19663,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_blireana"
+      "species_wp": "Prunus_%C3%97_blireana"
     },
     "count": 3,
     "name_common": [
@@ -19669,7 +19671,7 @@
       "Double-flowering Plum"
     ],
     "name_botanical": "Prunus × blireana",
-    "wp_link": "Prunus_×_blireana",
+    "wp_link": "Prunus_%C3%97_blireana",
     "color": [
       0.7705666866028711,
       0.12826704545454554,
@@ -19692,14 +19694,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_hillieri"
+      "species_wp": "Prunus_%C3%97_hillieri"
     },
     "count": 465,
     "name_common": [
       "Cherry"
     ],
     "name_botanical": "Prunus × hillieri",
-    "wp_link": "Prunus_×_hillieri",
+    "wp_link": "Prunus_%C3%97_hillieri",
     "color": [
       0.7855001495215314,
       0.13075284090909098,
@@ -19722,14 +19724,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_hillieri"
+      "species_wp": "Prunus_%C3%97_hillieri"
     },
     "count": 1429,
     "name_common": [
       "Cherry"
     ],
     "name_botanical": "Prunus × hillieri 'Spire'",
-    "wp_link": "Prunus_×_hillieri",
+    "wp_link": "Prunus_%C3%97_hillieri",
     "color": [
       0.7855001495215314,
       0.13075284090909098,
@@ -19812,14 +19814,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 174,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus × yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.8303005382775123,
       0.13821022727272736,
@@ -22029,14 +22031,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 94,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.7406997607655504,
       0.12329545454545461,
@@ -23056,7 +23058,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_hybrida"
+      "species_wp": "Sorbus_%C3%97_hybrida"
     },
     "count": 15,
     "name_common": [
@@ -23065,7 +23067,7 @@
       "Finnish Whitebeam"
     ],
     "name_botanical": "Sorbus × hybrida",
-    "wp_link": "Sorbus_×_hybrida",
+    "wp_link": "Sorbus_%C3%97_hybrida",
     "color": [
       0.7731693363844395,
       0.0554347826086956,
@@ -23088,7 +23090,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_hybrida"
+      "species_wp": "Sorbus_%C3%97_hybrida"
     },
     "count": 11,
     "name_common": [
@@ -23097,7 +23099,7 @@
       "Finnish Whitebeam"
     ],
     "name_botanical": "Sorbus × hybrida 'Fastigiata'",
-    "wp_link": "Sorbus_×_hybrida",
+    "wp_link": "Sorbus_%C3%97_hybrida",
     "color": [
       0.7731693363844395,
       0.0554347826086956,
@@ -23120,14 +23122,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_intermedia"
+      "species_wp": "Sorbus_%C3%97_intermedia"
     },
     "count": 946,
     "name_common": [
       "Whitebeam"
     ],
     "name_botanical": "Sorbus × intermedia",
-    "wp_link": "Sorbus_×_intermedia",
+    "wp_link": "Sorbus_%C3%97_intermedia",
     "color": [
       0.7938423132931145,
       0.056916996047430786,
@@ -23150,14 +23152,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_intermedia"
+      "species_wp": "Sorbus_%C3%97_intermedia"
     },
     "count": 288,
     "name_common": [
       "Whitebeam"
     ],
     "name_botanical": "Sorbus × intermedia 'Brouwerers'",
-    "wp_link": "Sorbus_×_intermedia",
+    "wp_link": "Sorbus_%C3%97_intermedia",
     "color": [
       0.7938423132931145,
       0.056916996047430786,
@@ -24300,14 +24302,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_intermedia"
+      "species_wp": "Sorbus_%C3%97_intermedia"
     },
     "count": 3526,
     "name_common": [
       "Swedish Whitebeam"
     ],
     "name_botanical": "Sorbus intermedia",
-    "wp_link": "Sorbus_×_intermedia",
+    "wp_link": "Sorbus_%C3%97_intermedia",
     "color": [
       0.5871125442063658,
       0.042094861660079017,
@@ -24330,14 +24332,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_intermedia"
+      "species_wp": "Sorbus_%C3%97_intermedia"
     },
     "count": 12,
     "name_common": [
       "Swedish Whitebeam"
     ],
     "name_botanical": "Sorbus intermedia 'Brouwers'",
-    "wp_link": "Sorbus_×_intermedia",
+    "wp_link": "Sorbus_%C3%97_intermedia",
     "color": [
       0.5871125442063658,
       0.042094861660079017,
@@ -24450,14 +24452,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_pinnatifida"
+      "species_wp": "Sorbus_%C3%97_pinnatifida"
     },
     "count": 19,
     "name_common": [
       "Whitebeam"
     ],
     "name_botanical": "Sorbus thuringiaca",
-    "wp_link": "Sorbus_×_pinnatifida",
+    "wp_link": "Sorbus_%C3%97_pinnatifida",
     "color": [
       0.6698044518410653,
       0.04802371541501972,
@@ -24480,14 +24482,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_pinnatifida"
+      "species_wp": "Sorbus_%C3%97_pinnatifida"
     },
     "count": 2,
     "name_common": [
       "Whitebeam"
     ],
     "name_botanical": "Sorbus thuringiaca ''fastigiata'",
-    "wp_link": "Sorbus_×_pinnatifida",
+    "wp_link": "Sorbus_%C3%97_pinnatifida",
     "color": [
       0.6698044518410653,
       0.04802371541501972,
@@ -24930,14 +24932,14 @@
       "order_wp": "Rosales",
       "family_wp": "Ulmaceae",
       "genus_wp": "Elm",
-      "species_wp": "Ulmus_×_hollandica"
+      "species_wp": "Ulmus_%C3%97_hollandica"
     },
     "count": 112,
     "name_common": [
       "Dutch Elm"
     ],
     "name_botanical": "Ulmus × hollandica",
-    "wp_link": "Ulmus_×_hollandica",
+    "wp_link": "Ulmus_%C3%97_hollandica",
     "color": [
       0.823076923076923,
       0.4115384615384615,
@@ -25201,14 +25203,14 @@
       "order_wp": "Rosales",
       "family_wp": "Ulmaceae",
       "genus_wp": "Elm",
-      "species_wp": "Ulmus_×_hollandica"
+      "species_wp": "Ulmus_%C3%97_hollandica"
     },
     "count": 13,
     "name_common": [
       "Elm"
     ],
     "name_botanical": "Ulmus hollandica",
-    "wp_link": "Ulmus_×_hollandica",
+    "wp_link": "Ulmus_%C3%97_hollandica",
     "color": [
       0.5538461538461539,
       0.27692307692307694,
@@ -25231,14 +25233,14 @@
       "order_wp": "Rosales",
       "family_wp": "Ulmaceae",
       "genus_wp": "Elm",
-      "species_wp": "Ulmus_×_hollandica"
+      "species_wp": "Ulmus_%C3%97_hollandica"
     },
     "count": 3,
     "name_common": [
       "Elm"
     ],
     "name_botanical": "Ulmus hollandica 'Dodoens'",
-    "wp_link": "Ulmus_×_hollandica",
+    "wp_link": "Ulmus_%C3%97_hollandica",
     "color": [
       0.5538461538461539,
       0.27692307692307694,
@@ -25261,14 +25263,14 @@
       "order_wp": "Rosales",
       "family_wp": "Ulmaceae",
       "genus_wp": "Elm",
-      "species_wp": "Ulmus_×_hollandica"
+      "species_wp": "Ulmus_%C3%97_hollandica"
     },
     "count": 3,
     "name_common": [
       "Elm"
     ],
     "name_botanical": "Ulmus hollandica 'Lobel'",
-    "wp_link": "Ulmus_×_hollandica",
+    "wp_link": "Ulmus_%C3%97_hollandica",
     "color": [
       0.5538461538461539,
       0.27692307692307694,
@@ -29202,14 +29204,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 1210,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus × carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.75,
       0.28125,
@@ -29232,14 +29234,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 60,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus × carnea 'Briottii'",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.75,
       0.28125,
@@ -29292,14 +29294,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 36,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.45,
       0.16875,

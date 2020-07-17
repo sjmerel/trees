@@ -1075,7 +1075,7 @@
       "genus_wp": "Gleditsia",
       "species_wp": "Honey_locust"
     },
-    "count": 23561,
+    "count": 23560,
     "name_common": [
       "Honeylocust",
       "Honey-locust",
@@ -2263,14 +2263,14 @@
       "order_wp": "Fagales",
       "family_wp": "Fagaceae",
       "genus_wp": "Oak",
-      "species_wp": "Quercus_×_warei"
+      "species_wp": "Quercus_%C3%97_warei"
     },
     "count": 92,
     "name_common": [
       "Ware's Oak"
     ],
     "name_botanical": "Quercus × warei",
-    "wp_link": "Quercus_×_warei",
+    "wp_link": "Quercus_%C3%97_warei",
     "color": [
       0.21693548387096773,
       0.8677419354838709,
@@ -4109,14 +4109,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 60,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.25238095238095243,
       0.5810631229235882,
@@ -4352,14 +4352,14 @@
       "order_wp": "Malpighiales",
       "family_wp": "Salicaceae",
       "genus_wp": "Populus",
-      "species_wp": "Populus_×_acuminata"
+      "species_wp": "Populus_%C3%97_acuminata"
     },
     "count": 896,
     "name_common": [
       "Lanceleaf Cottonwood"
     ],
     "name_botanical": "Populus × acuminata",
-    "wp_link": "Populus_×_acuminata",
+    "wp_link": "Populus_%C3%97_acuminata",
     "color": [
       0.7534883720930232,
       0.4,
@@ -5175,7 +5175,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 1813,
     "name_common": [
@@ -5184,7 +5184,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.430813953488372,
       0.325,
@@ -5733,14 +5733,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Amelanchier",
-      "species_wp": "Amelanchier_×_grandiflora"
+      "species_wp": "Amelanchier_%C3%97_grandiflora"
     },
     "count": 191,
     "name_common": [
       "Autumn Brilliance Servicebery"
     ],
     "name_botanical": "Amelanchier × grandiflora 'Autumn Brilliance'",
-    "wp_link": "Amelanchier_×_grandiflora",
+    "wp_link": "Amelanchier_%C3%97_grandiflora",
     "color": [
       0.5215116279069768,
       0.325,
@@ -5853,14 +5853,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Crataegus",
-      "species_wp": "Crataegus_×_mordenensis"
+      "species_wp": "Crataegus_%C3%97_mordenensis"
     },
     "count": 36,
     "name_common": [
       "Morden Hawthorn"
     ],
     "name_botanical": "Crataegus × mordenensis 'Toba'",
-    "wp_link": "Crataegus_×_mordenensis",
+    "wp_link": "Crataegus_%C3%97_mordenensis",
     "color": [
       0.6067183462532301,
       0.3111111111111111,
@@ -6532,14 +6532,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 27,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus × yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.5917782475922012,
       0.18989898989898987,
@@ -7174,14 +7174,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 260,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.5603006812309139,
       0.1797979797979798,
@@ -7448,14 +7448,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Sorbus",
-      "species_wp": "Sorbus_×_intermedia"
+      "species_wp": "Sorbus_%C3%97_intermedia"
     },
     "count": 11,
     "name_common": [
       "Swedish Whitebeam"
     ],
     "name_botanical": "Sorbus intermedia",
-    "wp_link": "Sorbus_×_intermedia",
+    "wp_link": "Sorbus_%C3%97_intermedia",
     "color": [
       0.421576227390181,
       0.07222222222222226,
@@ -9065,14 +9065,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 201,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus × carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.7333333333333334,
       0.2933333333333334,
@@ -9095,14 +9095,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 20,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus × carnea 'Briotti'",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.7333333333333334,
       0.2933333333333334,
@@ -9125,14 +9125,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 89,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus × carnea 'Fort Mcnair'",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.7333333333333334,
       0.2933333333333334,

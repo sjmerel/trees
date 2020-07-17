@@ -19,5 +19,12 @@
     "class": "Pinopsida",
     "order": "Pinales",
     "family": "Cupressaceae"
+  },
+  "Sycoparrotia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Saxifragales",
+    "family": "Hamamelidaceae"
   }
 }

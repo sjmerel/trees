@@ -986,7 +986,8 @@
       "order": "Fabales",
       "family": "Fabaceae",
       "genus": "Inga",
-      "species": "Inga vera subsp. vera",
+      "species": "Inga vera",
+      "subspecies": "vera",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -2172,7 +2173,9 @@
       "species_wp": "Magnolia"
     },
     "count": 8,
-    "name_common": [],
+    "name_common": [
+      "Magnolia"
+    ],
     "name_botanical": "Magnolia",
     "wp_link": "Magnolia",
     "color": [
@@ -2197,14 +2200,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 18,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.23333333333333334,
       0.7,
@@ -3308,7 +3311,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 3788,
     "name_common": [
@@ -3317,7 +3320,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.2869565217391305,
       0.2,
@@ -3725,7 +3728,8 @@
       "order": "Rosales",
       "family": "Rosaceae",
       "genus": "Lyonothamnus",
-      "species": "Lyonothamnus floribundus subsp. asplenifolius",
+      "species": "Lyonothamnus floribundus",
+      "subspecies": "asplenifolius",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -4845,14 +4849,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Sapindaceae",
       "genus_wp": "Aesculus",
-      "species_wp": "Aesculus_×_carnea"
+      "species_wp": "Aesculus_%C3%97_carnea"
     },
     "count": 68,
     "name_common": [
       "Red Horse-chestnut"
     ],
     "name_botanical": "Aesculus carnea",
-    "wp_link": "Aesculus_×_carnea",
+    "wp_link": "Aesculus_%C3%97_carnea",
     "color": [
       0.5666666666666667,
       0.22666666666666668,

@@ -33,7 +33,10 @@ const datasets=[
 'santamonica', 
 'seattle', 
 'washingtondc', 
-'westhollywood'];
+'vancouver',
+'victoria',
+'westhollywood'
+];
 
 // process:
 // - read data.json
@@ -229,6 +232,10 @@ function writeBinarySites(sites, code) {
     minLongitude = Math.min(minLongitude, site.longitude);
     maxLongitude = Math.max(maxLongitude, site.longitude);
   }
+
+  console.log(`${minLatitude}-${maxLatitude} ${minLongitude}-${maxLongitude}`);
+  if (Math.abs(minLatitude-maxLatitude) > 2) { throw new Error("bad latitude: " + code); }
+  if (Math.abs(minLongitude-maxLongitude) > 2) { throw new Error("bad longitude" + code); }
 
   let siteFile = fs.createWriteStream(`${dataDir}/${code}/site.bin`);
 

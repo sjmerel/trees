@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "csv-parse": "^4.3.0",
+    "csv-parse": "^4.8.5",
     "request": "^2.88.2",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.5"
   },
   "devDependencies": {},
   "scripts": {},

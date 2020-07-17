@@ -1721,7 +1721,8 @@
       "order": "Fagales",
       "family": "Betulaceae",
       "genus": "Betula",
-      "species": "Betula utilis subsp. albosinensis",
+      "species": "Betula utilis",
+      "subspecies": "albosinensis",
       "kingdom_wp": "Plant",
       "phylum_wp": "Vascular_plant",
       "class_wp": "Magnoliopsida",
@@ -2884,14 +2885,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 107,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.2166666666666667,
       0.65,
@@ -3313,14 +3314,14 @@
       "order_wp": "Malvales",
       "family_wp": "Malvaceae",
       "genus_wp": "Tilia",
-      "species_wp": "Tilia_×_europaea"
+      "species_wp": "Tilia_%C3%97_europaea"
     },
     "count": 3,
     "name_common": [
       "Common Linden"
     ],
     "name_botanical": "Tilia × vulgaris",
-    "wp_link": "Tilia_×_europaea",
+    "wp_link": "Tilia_%C3%97_europaea",
     "color": [
       0.23333333333333334,
       0.6714285714285713,
@@ -3377,7 +3378,7 @@
     },
     "count": 2,
     "name_common": [
-      "Silber-linde"
+      "Littleleaf Linden"
     ],
     "name_botanical": "Tilia tomentosa",
     "wp_link": "Tilia_tomentosa",
@@ -4254,7 +4255,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 3208,
     "name_common": [
@@ -4263,7 +4264,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.2081632653061224,
       0.2,
@@ -4930,7 +4931,7 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_blireana"
+      "species_wp": "Prunus_%C3%97_blireana"
     },
     "count": 385,
     "name_common": [
@@ -4938,7 +4939,7 @@
       "Double-flowering Plum"
     ],
     "name_botanical": "Prunus × blireana",
-    "wp_link": "Prunus_×_blireana",
+    "wp_link": "Prunus_%C3%97_blireana",
     "color": [
       0.5890184645286685,
       0.13809523809523816,
@@ -5268,14 +5269,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 241,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus yedoensis",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.5636297376093294,
       0.1321428571428572,
@@ -5823,14 +5824,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Rutaceae",
       "genus_wp": "Citrus",
-      "species_wp": "Citrus_×_sinensis"
+      "species_wp": "Citrus_%C3%97_sinensis"
     },
     "count": 43,
     "name_common": [
       "Sweet Orange"
     ],
     "name_botanical": "Citrus × sinensis",
-    "wp_link": "Citrus_×_sinensis",
+    "wp_link": "Citrus_%C3%97_sinensis",
     "color": [
       0.5770408163265305,
       0.325,
@@ -6467,14 +6468,14 @@
       "order_wp": "Zingiberales",
       "family_wp": "Musaceae",
       "genus_wp": "Musa_(genus)",
-      "species_wp": "Musa_×_paradisiaca"
+      "species_wp": "Musa_%C3%97_paradisiaca"
     },
     "count": 1,
     "name_common": [
       "Banana"
     ],
     "name_botanical": "Musa × paradisiaca",
-    "wp_link": "Musa_×_paradisiaca",
+    "wp_link": "Musa_%C3%97_paradisiaca",
     "color": [
       0.2,
       0.3387755102040817,

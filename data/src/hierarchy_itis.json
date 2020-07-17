@@ -2214,7 +2214,50 @@
   "Broadleasmall": null,
   "Ddigs": null,
   "Agonis": null,
+<<<<<<< HEAD
   "Phellodendon": null,
+=======
+  "Austrocedrus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Cupressaceae"
+  },
+  "Brahea": null,
+  "Palm": null,
+  "Auranticarpa": null,
+  "Harpephyllum": null,
+  "Trithrinax": null,
+  "Olmediella": null,
+  "Crinodendron": null,
+  "Angophora": null,
+  "Rotheca": null,
+  "Cussonia": null,
+  "Rhopalostylis": null,
+  "Leucadendron": null,
+  "Radermachera": null,
+  "Wodyetia": null,
+  "Euptelea": null,
+  "Lindera": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Laurales",
+    "family": "Lauraceae"
+  },
+  "Sycoparrotia": null,
+  "Notholithocarpus": null,
+  "Hovenia": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Rosales",
+    "family": "Rhamnaceae"
+  },
+  "Poliothyrsis": null,
+  "Cathaya": null,
+  "Athrotaxis": null,
   "Pterostyrax": {
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
@@ -2222,12 +2265,46 @@
     "order": "Ericales",
     "family": "Styracaceae"
   },
-  "Ostryia": null,
   "Kalopanax": {
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
     "class": "Magnoliopsida",
     "order": "Apiales",
     "family": "Araliaceae"
+  }
+  "Melliodendron": null,
+  "Castanopsis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Fagaceae"
+  },
+  "Chrysolepis": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Fagales",
+    "family": "Fagaceae"
+  },
+  "Diospyrus": null,
+  "Pseudolarix": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Pinopsida",
+    "order": "Pinales",
+    "family": "Pinaceae"
+  },
+  "Machilus": null,
+  "Daphniphyllum": null,
+  "Trochodendron": null,
+  "Metapanax": null,
+  "Schima": null,
+  "Illicium": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Austrobaileyales",
+    "family": "Schisandraceae"
   }
 }

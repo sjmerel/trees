@@ -185,22 +185,10 @@
     "administrativeArea": "British Columbia",
     "country": "Canada",
     "url": "http://opendata.victoria.ca/datasets/tree-species",
-    "numberOfSites": 0,
+    "numberOfSites": 32620,
     "location": {
-      "latitude": 48.4277561,
-      "longitude": -123.400371
-    }
-  },
-  {
-    "code": "houston",
-    "name": "Houston",
-    "administrativeArea": "Texas",
-    "country": "United States",
-    "url": "https://koordinates.com/layer/25245-houston-texas-street-tree-inventory/",
-    "numberOfSites": 0,
-    "location": {
-      "latitude": 48.4277561,
-      "longitude": -123.400371
+      "latitude": 48.4283058,
+      "longitude": -123.3671006
     }
   },
   {
@@ -221,7 +209,7 @@
     "administrativeArea": "Colorado",
     "country": "United States",
     "url": "https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-tree-inventory",
-    "numberOfSites": 284228,
+    "numberOfSites": 284227,
     "location": {
       "latitude": 39.7391786,
       "longitude": -104.9932348
@@ -238,5 +226,29 @@
       "longitude": -123.1823495
     },
     "numberOfSites": 123638
+  },
+  {
+    "code": "portland",
+    "name": "Portland",
+    "administrativeArea": "Oregon",
+    "country": "United States",
+    "url": "https://gis-pdx.opendata.arcgis.com/",
+    "location": {
+      "latitude": 45.5150138,
+      "longitude": -122.6812806
+    },
+    "numberOfSites": 241733
+  },
+  {
+    "code": "toronto",
+    "name": "Toronto",
+    "administrativeArea": "Ontario",
+    "country": "Canada",
+    "url": "https://open.toronto.ca/dataset/street-tree-data/",
+    "numberOfSites": 287388,
+    "location": {
+      "latitude": 43.6534438,
+      "longitude": -79.3862788
+    }
   }
 ]

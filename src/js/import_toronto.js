@@ -4,10 +4,10 @@
 const Fs = require('fs');
 const CsvParse = require('csv-parse/lib/sync')
 
-const srcDataDir='../../data/src/victoria/';
+const srcDataDir='../../data/src/toronto/';
 
 console.log('reading data');
-let csvData = Fs.readFileSync(srcDataDir + 'Tree_Species.kml.csv');
+let csvData = Fs.readFileSync(srcDataDir + 'TMMS_Open_Data_WGS84.csv');
 
 console.log('parsing data');
 let data = CsvParse(csvData, {
@@ -20,17 +20,16 @@ let sites = [];
 let skipped = {};
 for (let o of data) {
 
-  let species = o['Species'];
+  let species = o['BOTANICAL_'];
   let latitude = o['Y'];
   let longitude = o['X'];
 
+  species = species.replace('"', "'");
+
+  if (latitude <= 0) { continue; }
+
   // remove uninteresting sites
-  if (species == 'Wildlife snag'
-    || species == 'Other'
-    || species == 'Unknown'
-    || species.startsWith('Broadleaf ')
-    || species.startsWith('Conifer ')
-    || species.startsWith('Deciduous ')) {
+  if (species == 'Unknown') {
     if (!skipped[species]) {
       console.log('skipping: ' + species);
       skipped[species] = true;
@@ -42,9 +41,13 @@ for (let o of data) {
     latitude: Number(latitude),
     longitude: Number(longitude),
     name_botanical: species,
-    name_common: o['CommonName']
+    name_common: o['COMMON_NAM']
   });
 }
 
 console.log('writing data');
 Fs.writeFileSync(srcDataDir + 'data.json', JSON.stringify(sites, null, 2));
+
+
+
+

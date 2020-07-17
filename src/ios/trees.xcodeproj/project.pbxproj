@@ -33,6 +33,7 @@
 		AA3B670F21DBCBE000971485 /* SiteTileLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA3B670E21DBCBE000971485 /* SiteTileLayer.swift */; };
 		AA59C19321BAD19300BF2796 /* ShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA59C19221BAD19200BF2796 /* ShadowView.swift */; };
 		AA5FBA4023FF7AEC00586732 /* denver in Resources */ = {isa = PBXBuildFile; fileRef = AA5FBA3F23FF7AEB00586732 /* denver */; };
+		AA5FBA4224002A7900586732 /* victoria in Resources */ = {isa = PBXBuildFile; fileRef = AA5FBA4124002A7900586732 /* victoria */; };
 		AA6C3FE821D6AB4E00373FD2 /* TrackControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA6C3FE721D6AB4E00373FD2 /* TrackControl.swift */; };
 		AA6C3FFD21D6B01E00373FD2 /* map_style.json in Resources */ = {isa = PBXBuildFile; fileRef = AA6C3FFA21D6B01E00373FD2 /* map_style.json */; };
 		AA6C401521D6B20800373FD2 /* track_on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA6C401021D6B20800373FD2 /* track_on@2x.png */; };
@@ -68,6 +69,8 @@
 		AA7FAC4421B26A6100332463 /* QtSpan.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7FAC4121B2690400332463 /* QtSpan.swift */; };
 		AA7FAC4621B26B8D00332463 /* QtNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7FAC4521B26B8D00332463 /* QtNode.swift */; };
 		AA7FAC4821B26BC300332463 /* QtElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7FAC4721B26BC300332463 /* QtElement.swift */; };
+		AA94FB9F2415460E00EBC97E /* portland in Resources */ = {isa = PBXBuildFile; fileRef = AA94FB9E2415460D00EBC97E /* portland */; };
+		AA94FBA1241612CB00EBC97E /* toronto in Resources */ = {isa = PBXBuildFile; fileRef = AA94FBA0241612CB00EBC97E /* toronto */; };
 		AAA0356E22A2CB0400D63A59 /* philadelphia in Resources */ = {isa = PBXBuildFile; fileRef = AAA0356D22A2CB0400D63A59 /* philadelphia */; };
 		AAA08187221317C300A56F9B /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA08186221317C300A56F9B /* TabBarController.swift */; };
 		AAA0818922146BBF00A56F9B /* QtDistanceScale.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA0818822146BBF00A56F9B /* QtDistanceScale.swift */; };
@@ -122,6 +125,7 @@
 		AA3B670E21DBCBE000971485 /* SiteTileLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SiteTileLayer.swift; sourceTree = "<group>"; };
 		AA59C19221BAD19200BF2796 /* ShadowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShadowView.swift; sourceTree = "<group>"; };
 		AA5FBA3F23FF7AEB00586732 /* denver */ = {isa = PBXFileReference; lastKnownFileType = folder; name = denver; path = ../../../data/denver; sourceTree = "<group>"; };
+		AA5FBA4124002A7900586732 /* victoria */ = {isa = PBXFileReference; lastKnownFileType = folder; name = victoria; path = ../../../data/victoria; sourceTree = "<group>"; };
 		AA6C3FE721D6AB4E00373FD2 /* TrackControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackControl.swift; sourceTree = "<group>"; };
 		AA6C3FFA21D6B01E00373FD2 /* map_style.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = map_style.json; path = trees/map_style.json; sourceTree = SOURCE_ROOT; };
 		AA6C401021D6B20800373FD2 /* track_on@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "track_on@2x.png"; path = "../../../assets/track_on@2x.png"; sourceTree = "<group>"; };
@@ -159,6 +163,8 @@
 		AA7FAC4121B2690400332463 /* QtSpan.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QtSpan.swift; sourceTree = "<group>"; };
 		AA7FAC4521B26B8D00332463 /* QtNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QtNode.swift; sourceTree = "<group>"; };
 		AA7FAC4721B26BC300332463 /* QtElement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QtElement.swift; sourceTree = "<group>"; };
+		AA94FB9E2415460D00EBC97E /* portland */ = {isa = PBXFileReference; lastKnownFileType = folder; name = portland; path = ../../../data/portland; sourceTree = "<group>"; };
+		AA94FBA0241612CB00EBC97E /* toronto */ = {isa = PBXFileReference; lastKnownFileType = folder; name = toronto; path = ../../../data/toronto; sourceTree = "<group>"; };
 		AAA0356D22A2CB0400D63A59 /* philadelphia */ = {isa = PBXFileReference; lastKnownFileType = folder; name = philadelphia; path = ../../../data/philadelphia; sourceTree = "<group>"; };
 		AAA08186221317C300A56F9B /* TabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		AAA0818822146BBF00A56F9B /* QtDistanceScale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QtDistanceScale.swift; sourceTree = "<group>"; };
@@ -325,6 +331,9 @@
 		AAA858A4221F3E8400673B49 /* data */ = {
 			isa = PBXGroup;
 			children = (
+				AA94FBA0241612CB00EBC97E /* toronto */,
+				AA94FB9E2415460D00EBC97E /* portland */,
+				AA5FBA4124002A7900586732 /* victoria */,
 				AAC1EA21221138DA00F46ECE /* austin */,
 				AAC1EA22221138DA00F46ECE /* berkeley */,
 				AA5FBA3F23FF7AEB00586732 /* denver */,
@@ -431,10 +440,12 @@
 				AA6C60B72241499600C2E398 /* launch_street.png in Resources */,
 				AA1B771A222357B300229550 /* arrow_up@2x.png in Resources */,
 				AA04BCFB21EF6DA8008EDF53 /* losangeles in Resources */,
+				AA5FBA4224002A7900586732 /* victoria in Resources */,
 				AAC1EA24221138DA00F46ECE /* oakland in Resources */,
 				AA156E3021FEAC3700C58926 /* sanfrancisco in Resources */,
 				AA3B670B21DAA37800971485 /* track_on2@2x.png in Resources */,
 				AA6C401821D6B20800373FD2 /* info@2x.png in Resources */,
+				AA94FBA1241612CB00EBC97E /* toronto in Resources */,
 				AA04BCF921EF6D9C008EDF53 /* santamonica in Resources */,
 				AA6C3FFD21D6B01E00373FD2 /* map_style.json in Resources */,
 				AAA858A6221F3EB300673B49 /* tree@2x.png in Resources */,
@@ -461,6 +472,7 @@
 				AA7FAC1621A891D200332463 /* Assets.xcassets in Resources */,
 				AA5FBA4023FF7AEC00586732 /* denver in Resources */,
 				AAC1EA26221138DA00F46ECE /* berkeley in Resources */,
+				AA94FB9F2415460E00EBC97E /* portland in Resources */,
 				AA7C0CCC2217646200A783EC /* arrow_right@2x.png in Resources */,
 				AA06889A22EE890300131773 /* london in Resources */,
 				AAC1EA25221138DA00F46ECE /* austin in Resources */,
@@ -752,7 +764,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.8;
+				MARKETING_VERSION = 1.10;
 				PRODUCT_BUNDLE_IDENTIFIER = com.crickettechnology.trees;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -775,7 +787,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.8;
+				MARKETING_VERSION = 1.10;
 				PRODUCT_BUNDLE_IDENTIFIER = com.crickettechnology.trees;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";

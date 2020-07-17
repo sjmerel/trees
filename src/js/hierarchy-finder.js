@@ -62,17 +62,22 @@ async function findCol(name) {
     return null;
   }
 
-  let result = response.results.find(o => o.name == name && o.kingdom == 'Plantae');
-  if (!result) {
+  let results = response.results.filter(o => o.name == name);
+  if (results.length == 0) {
     return null;
   }
 
-  let hierarchy = {};
-  for (let h of result.classification) {
-    hierarchy[h.rank.toLowerCase()] = h.name;
+  for (let result of results) {
+    let hierarchy = {};
+    for (let h of result.classification) {
+      hierarchy[h.rank.toLowerCase()] = h.name;
+    }
+    if (hierarchy.kingdom == 'Plantae') {
+      return hierarchy;
+    }
   }
 
-  return hierarchy;
+  return null;
 }
 
 

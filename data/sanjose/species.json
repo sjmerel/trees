@@ -449,12 +449,12 @@
       "order_wp": "Dipsacales",
       "family_wp": "Caprifoliaceae",
       "genus_wp": "Abelia",
-      "species_wp": "Linnaea_×_grandiflora"
+      "species_wp": "Linnaea_%C3%97_grandiflora"
     },
     "count": 1,
     "name_common": [],
     "name_botanical": "Abelia × grandiflora",
-    "wp_link": "Linnaea_×_grandiflora",
+    "wp_link": "Linnaea_%C3%97_grandiflora",
     "color": [
       0.2,
       0.3853658536585366,
@@ -2086,14 +2086,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 2,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.2166666666666667,
       0.4914634146341462,
@@ -2902,7 +2902,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 687,
     "name_common": [
@@ -2911,7 +2911,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.3073170731707318,
       0.2,
@@ -2934,7 +2934,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 14,
     "name_common": [
@@ -2943,7 +2943,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus acerifolia 'Bloodgood'",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.3073170731707318,
       0.2,
@@ -2966,7 +2966,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 431,
     "name_common": [
@@ -2975,7 +2975,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus acerifolia 'Columbia'",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.3073170731707318,
       0.2,
@@ -2998,7 +2998,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 1973,
     "name_common": [
@@ -3007,7 +3007,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus acerifolia 'Yarwood'",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.3073170731707318,
       0.2,
@@ -3456,14 +3456,14 @@
       "order_wp": "Rosales",
       "family_wp": "Rosaceae",
       "genus_wp": "Prunus",
-      "species_wp": "Prunus_×_yedoensis"
+      "species_wp": "Prunus_%C3%97_yedoensis"
     },
     "count": 80,
     "name_common": [
       "Yoshino Cherry"
     ],
     "name_botanical": "Prunus × yedoensis 'Akebono'",
-    "wp_link": "Prunus_×_yedoensis",
+    "wp_link": "Prunus_%C3%97_yedoensis",
     "color": [
       0.7737708091366629,
       0.16904761904761909,

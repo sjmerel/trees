@@ -1030,14 +1030,14 @@
       "order_wp": "Fabales",
       "family_wp": "Fabaceae",
       "genus_wp": "Bauhinia",
-      "species_wp": "Bauhinia_×_blakeana"
+      "species_wp": "Bauhinia_%C3%97_blakeana"
     },
     "count": 1,
     "name_common": [
       "Hong Kong Orchid Tree"
     ],
     "name_botanical": "Bauhinia blakeana",
-    "wp_link": "Bauhinia_×_blakeana",
+    "wp_link": "Bauhinia_%C3%97_blakeana",
     "color": [
       0.17333333333333334,
       0.4,
@@ -2376,14 +2376,14 @@
       "order_wp": "Magnoliales",
       "family_wp": "Magnoliaceae",
       "genus_wp": "Magnolia",
-      "species_wp": "Magnolia_×_soulangeana"
+      "species_wp": "Magnolia_%C3%97_soulangeana"
     },
     "count": 4,
     "name_common": [
       "Saucer Magnolia"
     ],
     "name_botanical": "Magnolia × soulangeana",
-    "wp_link": "Magnolia_×_soulangeana",
+    "wp_link": "Magnolia_%C3%97_soulangeana",
     "color": [
       0.1888888888888889,
       0.5403100775193798,
@@ -3441,7 +3441,7 @@
       "order_wp": "Proteales",
       "family_wp": "Platanaceae",
       "genus_wp": "Platanus",
-      "species_wp": "Platanus_×_acerifolia"
+      "species_wp": "Platanus_%C3%97_acerifolia"
     },
     "count": 144,
     "name_common": [
@@ -3450,7 +3450,7 @@
       "Hybrid Plane"
     ],
     "name_botanical": "Platanus × acerifolia",
-    "wp_link": "Platanus_×_acerifolia",
+    "wp_link": "Platanus_%C3%97_acerifolia",
     "color": [
       0.430813953488372,
       0.325,
@@ -4770,14 +4770,14 @@
       "order_wp": "Sapindales",
       "family_wp": "Rutaceae",
       "genus_wp": "Citrus",
-      "species_wp": "Citrus_×_sinensis"
+      "species_wp": "Citrus_%C3%97_sinensis"
     },
     "count": 8,
     "name_common": [
       "Sweet Orange"
     ],
     "name_botanical": "Citrus × sinensis",
-    "wp_link": "Citrus_×_sinensis",
+    "wp_link": "Citrus_%C3%97_sinensis",
     "color": [
       0.5970930232558139,
       0.19500000000000003,

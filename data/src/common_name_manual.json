@@ -388,15 +388,42 @@
     "weeping cherry"
   ],
   "Forsythia": [],
-  "Crataegus mordenensis": null,
-  "Sorbus alnifolia": null,
-  "Magnolia x kewensis": null,
-  "Tilia x europaea": null,
-  "Aesculus x 'Arnoldiana'": null,
-  "Betula albosinensis": null,
-  "Malus yunnanensis": null,
-  "Prunus x hillieri": null,
-  "Populus x canescens": null,
-  "Malus x micromalus": null,
-  "Malus pendula": null
+  "Magnolia x 'galaxy'": [
+    "Magnolia"
+  ],
+  "Prunus 'accolade'": [
+    "Flowering cherry"
+  ],
+  "Amelanchier amabilis": [
+    "Lovely shadbush"
+  ],
+  "Crataegus mordenensis": [
+    "Hawthorn"
+  ],
+  "Crataegus x grignonensis": [
+    "Grignon hawthorn"
+  ],
+  "Magnolia x": [
+    "magnolia"
+  ],
+  "Aesculus briotti": [
+    "red horse chestnut"
+  ],
+  "Cotoneaster x watereri": [
+    "waterer's cotoneaster"
+  ],
+  "Malus matthewsii": [],
+  "Chaenomeles sinensis": [
+    "chinese quince"
+  ],
+  "Malus x purpurea 'eleyi'": [
+    "flowering crab apple"
+  ],
+  "Robinia x ambigua 'idahoensis'": [
+    "idaho locust"
+  ],
+  "Eucryphia x intermedia": [],
+  "Prunus wadai": [
+    "cherry"
+  ]
 }
