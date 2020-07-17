@@ -2214,9 +2214,7 @@
   "Broadleasmall": null,
   "Ddigs": null,
   "Agonis": null,
-<<<<<<< HEAD
   "Phellodendon": null,
-=======
   "Austrocedrus": {
     "kingdom": "Plantae",
     "phylum": "Tracheophyta",
@@ -2271,7 +2269,7 @@
     "class": "Magnoliopsida",
     "order": "Apiales",
     "family": "Araliaceae"
-  }
+  },
   "Melliodendron": null,
   "Castanopsis": {
     "kingdom": "Plantae",
@@ -2306,5 +2304,26 @@
     "class": "Magnoliopsida",
     "order": "Austrobaileyales",
     "family": "Schisandraceae"
-  }
+  },
+  "Fraxinus,": null,
+  "Robinina": null,
+  "Serviceberry": null,
+  "Maple": null,
+  "Planetree,": null,
+  "Enkianthus": {
+    "kingdom": "Plantae",
+    "phylum": "Tracheophyta",
+    "class": "Magnoliopsida",
+    "order": "Ericales",
+    "family": "Ericaceae"
+  },
+  "Tuliptree": null,
+  "Elm,": null,
+  "Cherry,": null,
+  "Cherry:": null,
+  "Fir": null,
+  "Linden,": null,
+  "Maple,": null,
+  "Pagoda": null,
+  "Zelkova,": null
 }

@@ -250,5 +250,29 @@
       "latitude": 43.6534438,
       "longitude": -79.3862788
     }
+  },
+  {
+    "code": "waterloo",
+    "name": "Waterloo",
+    "administrativeArea": "Ontario",
+    "country": "Canada",
+    "url": "http://data.waterloo.ca/datasets/street-tree-inventory",
+    "location": {
+      "latitude": 43.4823893,
+      "longitude": -80.5817387
+    },
+    "numberOfSites": 34622
+  },
+  {
+    "code": "cambridge",
+    "name": "Cambridge",
+    "administrativeArea": "Massachusetts",
+    "country": "United States",
+    "url": "https://data.cambridgema.gov/Public-Works/Street-Trees/ni4i-5bnn",
+    "location": {
+      "latitude": 42.3784815,
+      "longitude": -71.1304192
+    },
+    "numberOfSites": 29223
   }
 ]

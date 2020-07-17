@@ -94,6 +94,8 @@
 		AAFB55D523FBC18D007A9944 /* sanjose in Resources */ = {isa = PBXBuildFile; fileRef = AAFB55D423FBC18C007A9944 /* sanjose */; };
 		AAFDEB3D233814CD001BEB33 /* montreal in Resources */ = {isa = PBXBuildFile; fileRef = AAFDEB3C233814CD001BEB33 /* montreal */; };
 		B0A5F6C224C14636000B793F /* vancouver in Resources */ = {isa = PBXBuildFile; fileRef = B0A5F6C124C14636000B793F /* vancouver */; };
+		B0A5F6C424C15905000B793F /* waterloo in Resources */ = {isa = PBXBuildFile; fileRef = B0A5F6C324C15905000B793F /* waterloo */; };
+		B0A5F6C624C1610C000B793F /* cambridge in Resources */ = {isa = PBXBuildFile; fileRef = B0A5F6C524C1610C000B793F /* cambridge */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -189,6 +191,8 @@
 		AAFB55D423FBC18C007A9944 /* sanjose */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sanjose; path = ../../../data/sanjose; sourceTree = "<group>"; };
 		AAFDEB3C233814CD001BEB33 /* montreal */ = {isa = PBXFileReference; lastKnownFileType = folder; name = montreal; path = ../../../data/montreal; sourceTree = "<group>"; };
 		B0A5F6C124C14636000B793F /* vancouver */ = {isa = PBXFileReference; lastKnownFileType = folder; name = vancouver; path = ../../../data/vancouver; sourceTree = "<group>"; };
+		B0A5F6C324C15905000B793F /* waterloo */ = {isa = PBXFileReference; lastKnownFileType = folder; name = waterloo; path = ../../../data/waterloo; sourceTree = "<group>"; };
+		B0A5F6C524C1610C000B793F /* cambridge */ = {isa = PBXFileReference; lastKnownFileType = folder; name = cambridge; path = ../../../data/cambridge; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -331,11 +335,9 @@
 		AAA858A4221F3E8400673B49 /* data */ = {
 			isa = PBXGroup;
 			children = (
-				AA94FBA0241612CB00EBC97E /* toronto */,
-				AA94FB9E2415460D00EBC97E /* portland */,
-				AA5FBA4124002A7900586732 /* victoria */,
 				AAC1EA21221138DA00F46ECE /* austin */,
 				AAC1EA22221138DA00F46ECE /* berkeley */,
+				B0A5F6C524C1610C000B793F /* cambridge */,
 				AA5FBA3F23FF7AEB00586732 /* denver */,
 				AA06889922EE890300131773 /* london */,
 				AA04BCFA21EF6DA8008EDF53 /* losangeles */,
@@ -344,13 +346,17 @@
 				AAC1EA20221138DA00F46ECE /* oakland */,
 				AABAE1EE21F6A86D0014C618 /* pasadena */,
 				AAA0356D22A2CB0400D63A59 /* philadelphia */,
+				AA94FB9E2415460D00EBC97E /* portland */,
 				AAFB55D023FB5286007A9944 /* sacramento */,
 				AA156E2F21FEAC3600C58926 /* sanfrancisco */,
 				AAFB55D423FBC18C007A9944 /* sanjose */,
 				AA04BCF821EF6D9C008EDF53 /* santamonica */,
 				AAC1EA1E2210E59700F46ECE /* seattle */,
+				AA94FBA0241612CB00EBC97E /* toronto */,
 				B0A5F6C124C14636000B793F /* vancouver */,
+				AA5FBA4124002A7900586732 /* victoria */,
 				AAC1EA23221138DA00F46ECE /* washingtondc */,
+				B0A5F6C324C15905000B793F /* waterloo */,
 				AA04BD0021EF8AE4008EDF53 /* westhollywood */,
 			);
 			name = data;
@@ -475,10 +481,12 @@
 				AA94FB9F2415460E00EBC97E /* portland in Resources */,
 				AA7C0CCC2217646200A783EC /* arrow_right@2x.png in Resources */,
 				AA06889A22EE890300131773 /* london in Resources */,
+				B0A5F6C624C1610C000B793F /* cambridge in Resources */,
 				AAC1EA25221138DA00F46ECE /* austin in Resources */,
 				AA7FAC1421A891D000332463 /* Main.storyboard in Resources */,
 				AA7C0CD1221787C500A783EC /* TaxonView.xib in Resources */,
 				AAC833F922412C380021859B /* styles.css in Resources */,
+				B0A5F6C424C15905000B793F /* waterloo in Resources */,
 				AA04BCFD21EF725E008EDF53 /* datasets.json in Resources */,
 				AA6C401621D6B20800373FD2 /* compass@2x.png in Resources */,
 			);
@@ -756,6 +764,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 31;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = Y2U5Q3CRXG;
 				INFOPLIST_FILE = trees/Info.plist;
@@ -764,7 +773,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.10;
+				MARKETING_VERSION = 1.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.crickettechnology.trees;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -780,6 +789,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 31;
 				DEVELOPMENT_TEAM = Y2U5Q3CRXG;
 				INFOPLIST_FILE = trees/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -787,7 +797,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.10;
+				MARKETING_VERSION = 1.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.crickettechnology.trees;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";

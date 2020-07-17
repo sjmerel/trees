@@ -4205,5 +4205,93 @@
   "Fraxinus x 'Moraine'": null,
   "Gleditsia triacanthose": null,
   "Pinus jeffereyi": null,
-  "Quercus schuettei": null
+  "Quercus schuettei": null,
+  "Fagus crenata": null,
+  "Catalpa bungei": null,
+  "Magnolia x kewensis": null,
+  "Prunus simonii": null,
+  "Alnus incana ssp. rugosa": [
+    "Speckled Alder"
+  ],
+  "Betula albosinensis": null,
+  "Cornus officinalis": [
+    "Asiatic Dogwood",
+    "Japanese Cornel",
+    "Japanese Cornelian-cherry"
+  ],
+  "Corylus americana": [
+    "Hazel",
+    "Hazelnut",
+    "American Hazelnut"
+  ],
+  "Magnolia insignis": null,
+  "Liriodendron chinense": [
+    "Chinese Tuliptree"
+  ],
+  "Acer pseudosieboldianum": null,
+  "Magnolia sieboldii": null,
+  "Magnolia officinalis": null,
+  "Magnolia dawsoniana": null,
+  "Castanea crenata": [
+    "Japanese Chestnut"
+  ],
+  "Cercis chinensis": null,
+  "Viburnum lentago": [
+    "Nannyberry",
+    "Nanny-berry"
+  ],
+  "Juglans ailantifolia": [
+    "Japanese Walnut"
+  ],
+  "Euonymus europaea": [
+    "European Spindletree"
+  ],
+  "Malus spectabilis": [
+    "Asiatic Apple",
+    "Chinese Crab",
+    "Chinese Flowering Apple"
+  ],
+  "Pterostyrax hispidus": null,
+  "Magnolia zenii": null,
+  "Malus x micromalus": null,
+  "Picea likiangensis": null,
+  "Prunus avium 'Sweetheart'": null,
+  "Prunus cocomilia": null,
+  "Acer saccharum var. saccharum": [
+    "Sugar Maple"
+  ],
+  "Acer argutum": null,
+  "Abies nordmanniana": null,
+  "Malus pendula": null,
+  "Kalopanax septemlobus": [
+    "Castor Aralia"
+  ],
+  "Ginkgo bilioba": null,
+  "Quercus robar": null,
+  "Acer tatarium": null,
+  "Cornus rasmas": null,
+  "Fagus silvaticus": null,
+  "Crataegus mordenis": null,
+  "Fagus variety": null,
+  "Sophora japonicum": null,
+  "Maackia pomifera": null,
+  "Crataegus x mordenenis": null,
+  "Sophora japonica": [
+    "Japanese Pagoda Tree"
+  ],
+  "Prunus x incamp": null,
+  "Sassafras": [
+    "Sassafras"
+  ],
+  "Hamamelis": [
+    "Witchhazel"
+  ],
+  "Tsuga caroliniana": [
+    "Carolina Hemlock"
+  ],
+  "Enkianthus campanulatus": null,
+  "Halesia": [
+    "Silverbells"
+  ],
+  "Maackia": null
 }

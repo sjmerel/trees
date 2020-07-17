@@ -457,7 +457,6 @@
   "Stewartia pseudo-camellia": "Stewartia pseudocamellia",
   "Cupressus x leylandii": "x Cuprocyparis leylandii",
   "Populus balsamifera subsp. tricho": "Populus balsamifera subsp. trichocarpa",
-  "Crataegus mordensis": "Crataegus mordenensis",
   "Magnolia accuminata": "Magnolia acuminata",
   "Crataegus grignonensis": "Crataegus x grignonensis",
   "Davidia involucrate": "Davidia involucrata",
@@ -483,5 +482,16 @@
   "Abies grandis x concolor": "Abies grandis x concolor",
   "Gleditsia tricanthos var. inermis": "Gleditsia triacanthos var. inermis",
   "Fraxinus qudrangulata": "Fraxinus quadrangulata",
-  "Picea omorica": "Picea omorika"
+  "Picea omorica": "Picea omorika",
+  "Gleditisia": "Gleditsia",
+  "Ginkgo bilioba": "Ginkgo biloba",
+  "Quercus robar": "Quercus robur",
+  "Acer tatarium": "Acer tataricum",
+  "Cornus rasmas": "Cornus racemosa",
+  "Fagus silvaticus": "Fagus sylvatica",
+  "Crataegus mordenis": "Crataegus x mordenensis",
+  "Fagus": "Fagus",
+  "Sophora japonicum": "Sophora japonica",
+  "Maackia pomifera": "Maclura pomifera",
+  "Prunus x incamp": "Prunus x incam"
 }

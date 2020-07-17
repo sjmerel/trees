@@ -35,6 +35,7 @@ const datasets=[
 'washingtondc', 
 'vancouver',
 'victoria',
+'waterloo',
 'westhollywood'
 ];
 
